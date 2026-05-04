@@ -9,12 +9,12 @@
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "「although, in spite of, even though」(n4-061) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to (do something)」(n4-061) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "かどうか",
-        "ございます",
-        "ひつようがある",
-        "のに"
+        "から作る",
+        "じゃないか",
+        "いたします",
+        "のに (alt.)"
       ],
       "correctIndex": 3,
       "rationale": "",
@@ -23,12 +23,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to (do something)」(n4-062) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「[A] is [B]」(n4-062) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "のに (alt.)",
-        "いたします",
-        "かしら",
-        "はずがない"
+        "のは〜だ",
+        "から作る",
+        "かどうか",
+        "がする"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -37,12 +37,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「[A] is [B]」(n4-063) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「please do ~ (honorific)」(n4-063) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "ひつようがある",
-        "から作る",
-        "のは〜だ",
-        "かしら"
+        "いたします",
+        "がり",
+        "お〜ください",
+        "出す（だす）"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -51,12 +51,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「please do ~ (honorific)」(n4-064) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to do (honorific)」(n4-064) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "がり",
-        "はずだ",
-        "お〜ください",
-        "かい"
+        "始める（はじめる）",
+        "後で（あとで）",
+        "お〜になる",
+        "ば"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -65,12 +65,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to do (honorific)」(n4-065) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「repeated at intervals, every」(n4-065) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "あまり〜ない",
-        "いたします",
-        "お〜になる",
-        "ございます"
+        "ではないか",
+        "かどうか",
+        "おきに",
+        "じゃないか"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -79,12 +79,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「repeated at intervals, every」(n4-066) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to finish」(n4-066) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "あまり〜ない",
-        "おきに",
-        "いたします",
-        "だけで"
+        "ではないか",
+        "終わる（おわる）",
+        "かどうか",
+        "ばあいは"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -93,12 +93,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to finish」(n4-067) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「potential form」(n4-067) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "終わる（おわる）",
-        "ばあいは",
-        "ば",
-        "ひつようがある"
+        "られる",
+        "間に（あいだに）",
+        "かな",
+        "いたします"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -107,12 +107,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「potential form」(n4-068) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「it seems like」(n4-068) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "出す（だす）",
-        "られる",
         "あまり〜ない",
-        "いたします"
+        "らしい",
+        "ではないか",
+        "かどうか"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -121,12 +121,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「it seems like」(n4-069) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「-ness」(n4-069) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "がり",
-        "らしい",
-        "あまり〜ない",
-        "ばあいは"
+        "始める（はじめる）",
+        "さ",
+        "ではないか",
+        "間に（あいだに）"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -135,12 +135,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「-ness」(n4-070) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「some time ago」(n4-070) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "あまり〜ない",
-        "さ",
-        "ばあいは",
-        "間（あいだ）"
+        "ではないか",
+        "さっき",
+        "間に（あいだに）",
+        "かい"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -149,12 +149,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「some time ago」(n4-071) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「causative-passive」(n4-071) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "かどうか",
-        "ひつようがある",
-        "さっき",
-        "かい"
+        "から作る",
+        "いたします",
+        "させられる",
+        "ば"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -163,12 +163,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「causative-passive」(n4-072) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「causative form」(n4-072) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "させられる",
-        "いたします",
-        "から作る",
-        "始める（はじめる）"
+        "させる",
+        "かどうか",
+        "出す（だす）",
+        "きっと"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -177,12 +177,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「causative form」(n4-073) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「please let me do」(n4-073) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "だけで",
-        "ひつようがある",
-        "させる",
-        "いたします"
+        "ばあいは",
+        "いたします",
+        "させてください",
+        "かどうか"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -191,12 +191,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「please let me do」(n4-074) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「as one would expect」(n4-074) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "させてください",
-        "はずだ",
-        "ば",
-        "がる / がっている"
+        "さすが",
+        "後で（あとで）",
+        "かな",
+        "かどうか"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -205,12 +205,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「as one would expect」(n4-075) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「and」(n4-075) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "いたします",
-        "ございます",
-        "ばあいは",
-        "さすが"
+        "かどうか",
+        "じゃないか",
+        "間に（あいだに）",
+        "し"
       ],
       "correctIndex": 3,
       "rationale": "",

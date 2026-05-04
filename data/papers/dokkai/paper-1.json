@@ -58,10 +58,10 @@
       "type": "mcq",
       "stem_html": "問: 「いる」とは どのような いみですか。",
       "choices": [
-        "accessory",
+        "part-time job",
         "to need (Group 1 exception - looks like Group 2",
-        "Africa",
-        "to part-time job"
+        "to rise",
+        "accessory"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -74,10 +74,10 @@
       "type": "mcq",
       "stem_html": "問: 「あ」とは どのような いみですか。",
       "choices": [
-        "part-time job",
-        "building",
+        "to return home (Group 1 exception - looks like Group 2)",
+        "ah",
         "Ah",
-        "bell"
+        "Africa"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -90,10 +90,10 @@
       "type": "mcq",
       "stem_html": "問: 「ああ」とは どのような いみですか。",
       "choices": [
-        "to cut (Group 1 exception - looks like Group 2",
+        "to enter (Group 1 exception - looks like Group 2)",
         "ah",
-        "Asia",
-        "to be surprised"
+        "suffix for familiar female person",
+        "to part-time job"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -106,10 +106,10 @@
       "type": "mcq",
       "stem_html": "問: 「味」とは どのような いみですか。",
       "choices": [
-        "building",
+        "to rise",
         "flavor",
-        "America",
-        "to rise"
+        "to need (Group 1 exception - looks like Group 2",
+        "such"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -122,10 +122,10 @@
       "type": "mcq",
       "stem_html": "問: 「アジア」とは どのような いみですか。",
       "choices": [
-        "such",
-        "to be surprised",
+        "bell",
+        "to part-time job",
         "Asia",
-        "to run (Group 1 exception - looks like Group 2)"
+        "to return home (Group 1 exception - looks like Group 2)"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -138,10 +138,10 @@
       "type": "mcq",
       "stem_html": "問: 「赤ちゃん」とは どのような いみですか。",
       "choices": [
-        "America",
-        "suffix for familiar female person",
+        "to need (Group 1 exception - looks like Group 2",
+        "building",
         "baby",
-        "to be surprised"
+        "Asia"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -154,10 +154,10 @@
       "type": "mcq",
       "stem_html": "問: 「アナウンサー」とは どのような いみですか。",
       "choices": [
-        "to return home (Group 1 exception - looks like Group 2)",
+        "alcohol",
         "announcer",
-        "to check",
-        "America"
+        "to collect",
+        "grapes"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -170,10 +170,10 @@
       "type": "mcq",
       "stem_html": "問: 「あんな」とは どのような いみですか。",
       "choices": [
-        "to run (Group 1 exception - looks like Group 2)",
-        "such",
         "suffix for familiar female person",
-        "grapes"
+        "such",
+        "building",
+        "to be surprised"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -186,10 +186,10 @@
       "type": "mcq",
       "stem_html": "問: 「安心」とは どのような いみですか。",
       "choices": [
-        "to return home (Group 1 exception - looks like Group 2)",
-        "to need (Group 1 exception - looks like Group 2",
+        "announcer",
+        "to run (Group 1 exception - looks like Group 2)",
         "peace of mind",
-        "Ah"
+        "to be surprised"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -202,10 +202,10 @@
       "type": "mcq",
       "stem_html": "問: 「アルコール」とは どのような いみですか。",
       "choices": [
-        "to collect",
-        "to rise",
+        "baby",
+        "such",
         "alcohol",
-        "to know (Group 1 exception - looks like Group 2)"
+        "Asia"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -219,9 +219,9 @@
       "stem_html": "問: 「集まる」とは どのような いみですか。",
       "choices": [
         "flavor",
-        "ah",
+        "to enter (Group 1 exception - looks like Group 2)",
         "to gather",
-        "suffix for familiar female person"
+        "to check"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -234,10 +234,10 @@
       "type": "mcq",
       "stem_html": "問: 「集める」とは どのような いみですか。",
       "choices": [
-        "America",
+        "alcohol",
         "to collect",
-        "baby",
-        "to return home (Group 1 exception - looks like Group 2)"
+        "flavor",
+        "America"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -250,9 +250,9 @@
       "type": "mcq",
       "stem_html": "問: 「ビル」とは どのような いみですか。",
       "choices": [
-        "to part-time job",
-        "America",
-        "to collect",
+        "accessory",
+        "grapes",
+        "baby",
         "building"
       ],
       "correctIndex": 3,
@@ -266,9 +266,9 @@
       "type": "mcq",
       "stem_html": "問: 「ぶどう」とは どのような いみですか。",
       "choices": [
-        "to check",
-        "such",
+        "to collect",
         "bell",
+        "Africa",
         "grapes"
       ],
       "correctIndex": 3,
@@ -282,9 +282,9 @@
       "type": "mcq",
       "stem_html": "問: 「文学」とは どのような いみですか。",
       "choices": [
-        "announcer",
-        "Asia",
-        "part-time job",
+        "to gather",
+        "suffix for familiar female person",
+        "Africa",
         "literature"
       ],
       "correctIndex": 3,

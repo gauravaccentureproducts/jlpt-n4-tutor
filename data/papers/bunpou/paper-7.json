@@ -9,12 +9,12 @@
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "「I want you to」(n4-091) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to start」(n4-091) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "てほしい",
-        "じゃないか",
-        "ばあいは",
-        "いらっしゃる"
+        "ていく",
+        "かもしれない",
+        "間に（あいだに）",
+        "がり"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -23,12 +23,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to start」(n4-092) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「was doing something (past continuous)」(n4-092) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "ていく",
-        "Format: `PATTERN",
-        "だけで",
-        "ばあいは"
+        "ていた",
+        "いらっしゃる",
+        "ばあいは",
+        "間に（あいだに）"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -37,12 +37,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「was doing something (past continuous)」(n4-093) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「could you please ~」(n4-093) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "かどうか",
-        "ていた",
         "かしら",
-        "がる / がっている"
+        "ていただけませんか",
+        "がする",
+        "から作る"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -51,12 +51,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「could you please ~」(n4-094) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to do a favor」(n4-094) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "ていただけませんか",
-        "始める（はじめる）",
-        "ではないか",
-        "ひつようがある"
+        "てくれる",
+        "きっと",
+        "ございます",
+        "いたします"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -65,12 +65,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to do a favor」(n4-095) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to do and come back」(n4-095) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "始める（はじめる）",
-        "間に（あいだに）",
-        "てくれる",
-        "後で（あとで）"
+        "きっと",
+        "でございます",
+        "てくる",
+        "だけで"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -79,12 +79,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to do and come back」(n4-096) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「try doing」(n4-096) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "でございます",
-        "はずだ",
-        "てくる",
-        "いらっしゃる"
+        "はずがない",
+        "後で（あとで）",
+        "てみる",
+        "がり"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -93,12 +93,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「try doing」(n4-097) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to get somebody to do something」(n4-097) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "てみる",
-        "かしら",
-        "ではないか",
-        "でございます"
+        "てもらう",
+        "ございます",
+        "ひつようがある",
+        "はずがない"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -107,12 +107,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to get somebody to do something」(n4-098) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to do something in advance」(n4-098) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "かな",
-        "ございます",
-        "てもらう",
-        "後で（あとで）"
+        "がる / がっている",
+        "じゃないか",
+        "ておく",
+        "だけで"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -121,12 +121,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to do something in advance」(n4-099) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to do by accident, to finish completely」(n4-099) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "ば",
-        "あまり〜ない",
-        "だけで",
-        "ておく"
+        "かな",
+        "ではないか",
+        "ばあいは",
+        "てしまう / ちゃう"
       ],
       "correctIndex": 3,
       "rationale": "",
@@ -135,12 +135,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to do by accident, to finish completely」(n4-100) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「I'm sorry for」(n4-100) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "ひつようがある",
-        "がする",
-        "あまり〜ない",
-        "てしまう / ちゃう"
+        "いたします",
+        "間（あいだ）",
+        "ではないか",
+        "てすみません"
       ],
       "correctIndex": 3,
       "rationale": "",

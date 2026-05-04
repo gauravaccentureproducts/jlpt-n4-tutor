@@ -76,6 +76,11 @@ for m in pat_re.finditer(inv):
         continue
     if pattern in ('PATTERN', 'Format', 'Source', 'Cross-reference'):
         continue
+    # Skip lines whose pattern starts with markdown emphasis or 'Format:' --
+    # the inventory's `Format: \`PATTERN | MEANING-BRIEF\`` line would
+    # otherwise match the regex and become spurious entry n4-001.
+    if pattern.startswith('Format:') or pattern.startswith('`'):
+        continue
     if pattern in META_TOPICS:
         dropped_meta += 1
         continue

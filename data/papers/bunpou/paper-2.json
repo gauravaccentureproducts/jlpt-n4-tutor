@@ -9,12 +9,12 @@
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "「to show signs of」(n4-016) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to be」(n4-016) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "がる / がっている",
-        "ば",
-        "から作る",
-        "かい"
+        "ございます",
+        "かな",
+        "始める（はじめる）",
+        "ば"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -23,12 +23,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to be」(n4-017) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to start」(n4-017) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "かもしれない",
-        "でございます",
-        "ございます",
-        "あまり〜ない"
+        "ころ",
+        "はずがない",
+        "始める（はじめる）",
+        "かい"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -37,12 +37,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to start」(n4-018) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「it must be」(n4-018) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "始める（はじめる）",
-        "がする",
-        "かな",
-        "後で（あとで）"
+        "はずだ",
+        "間（あいだ）",
+        "がる / がっている",
+        "だけで"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -51,12 +51,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「it must be」(n4-019) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「cannot be (impossible)」(n4-019) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "はずだ",
-        "きっと",
-        "間に（あいだに）",
-        "Format: `PATTERN"
+        "はずがない",
+        "間（あいだ）",
+        "でございます",
+        "出す（だす）"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -65,12 +65,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「cannot be (impossible)」(n4-020) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「need to」(n4-020) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "Format: `PATTERN",
-        "はずがない",
-        "かい",
-        "はずだ"
+        "始める（はじめる）",
+        "ひつようがある",
+        "ば",
+        "ではないか"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -79,12 +79,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「need to」(n4-021) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to be」(n4-021) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "ひつようがある",
-        "から作る",
-        "はずがない",
-        "かしら"
+        "いらっしゃる",
+        "始める（はじめる）",
+        "ございます",
+        "いたします"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -93,12 +93,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to be」(n4-022) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to do (polite form)」(n4-022) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "かもしれない",
-        "Format: `PATTERN",
-        "いらっしゃる",
-        "でございます"
+        "あまり〜ない",
+        "始める（はじめる）",
+        "いたします",
+        "はずがない"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -107,12 +107,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to do (polite form)」(n4-023) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「right?」(n4-023) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "がる / がっている",
-        "きっと",
-        "いたします",
-        "かもしれない"
+        "から作る",
+        "かしら",
+        "じゃないか",
+        "いらっしゃる"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -121,12 +121,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「right?」(n4-024) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「whether or not」(n4-024) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "じゃないか",
-        "あまり〜ない",
-        "がする",
-        "かな"
+        "かどうか",
+        "いらっしゃる",
+        "いたします",
+        "後で（あとで）"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -135,12 +135,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「whether or not」(n4-025) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「I wonder (feminine)」(n4-025) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "がる / がっている",
-        "かどうか",
-        "ひつようがある",
-        "間に（あいだに）"
+        "いたします",
+        "かしら",
+        "はずだ",
+        "がり"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -149,12 +149,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「I wonder (feminine)」(n4-026) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「turns sentence into yes/no question」(n4-026) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "ば",
-        "がする",
-        "かもしれない",
-        "かしら"
+        "かな",
+        "ひつようがある",
+        "ころ",
+        "かい"
       ],
       "correctIndex": 3,
       "rationale": "",
@@ -163,12 +163,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「turns sentence into yes/no question」(n4-027) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「might」(n4-027) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "間（あいだ）",
-        "間に（あいだに）",
-        "かい",
-        "いらっしゃる"
+        "いらっしゃる",
+        "はずだ",
+        "かもしれない",
+        "後で（あとで）"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -177,12 +177,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「might」(n4-028) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「I wonder」(n4-028) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "きっと",
-        "かもしれない",
-        "あまり〜ない",
-        "がする"
+        "ひつようがある",
+        "かな",
+        "いらっしゃる",
+        "いたします"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -191,12 +191,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「I wonder」(n4-029) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「made from」(n4-029) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "がる / がっている",
-        "かな",
+        "あまり〜ない",
         "から作る",
-        "かい"
+        "がする",
+        "ば"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -205,12 +205,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「made from」(n4-030) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「surely」(n4-030) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "ございます",
-        "から作る",
-        "だけで",
-        "ひつようがある"
+        "じゃないか",
+        "きっと",
+        "ばあいは",
+        "かい"
       ],
       "correctIndex": 1,
       "rationale": "",

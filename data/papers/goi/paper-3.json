@@ -12,9 +12,9 @@
       "stem_html": "「力」と おなじ いみの ことばを えらんでください。",
       "choices": [
         "flavor",
-        "America",
+        "fax",
         "energy",
-        "suffix for familiar female person"
+        "Asia"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -25,9 +25,9 @@
       "type": "mcq",
       "stem_html": "「地理」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "gasoline",
-        "Africa",
-        "cherry blossom viewing",
+        "part-time job",
+        "caution",
+        "flavor",
         "geography"
       ],
       "correctIndex": 3,
@@ -39,10 +39,10 @@
       "type": "mcq",
       "stem_html": "「中学校」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "building",
+        "rubbish",
         "junior high school",
-        "part-time job",
-        "a glass"
+        "suffix for familiar female person",
+        "escalator"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -53,10 +53,10 @@
       "type": "mcq",
       "stem_html": "「注意」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "accessory",
+        "America",
         "cherry blossom viewing",
         "caution",
-        "petrol"
+        "fax"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -67,10 +67,10 @@
       "type": "mcq",
       "stem_html": "「注意する」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "to plan",
+        "to part-time job",
         "to caution",
-        "to pronunciation",
-        "to examination"
+        "to sightseeing",
+        "to conversation"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -81,10 +81,10 @@
       "type": "mcq",
       "stem_html": "「大分」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "usually",
+        "soon",
         "considerably",
-        "as I thought",
-        "especially"
+        "to be surprised",
+        "usually"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -95,9 +95,9 @@
       "type": "mcq",
       "stem_html": "「大学生」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "America",
-        "rubbish",
-        "petrol",
+        "fax",
+        "a feast",
+        "announcer",
         "university student"
       ],
       "correctIndex": 3,
@@ -110,9 +110,9 @@
       "stem_html": "「大事」と おなじ いみの ことばを えらんでください。",
       "choices": [
         "important",
-        "peace of mind",
         "enough",
-        "special"
+        "full",
+        "peace of mind"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -123,10 +123,10 @@
       "type": "mcq",
       "stem_html": "「大体」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "baby",
-        "gasoline",
+        "America",
+        "part-time job",
         "roughly",
-        "petrol station"
+        "baby"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -137,9 +137,9 @@
       "type": "mcq",
       "stem_html": "「as much as possible」を あらわす ことばは どれですか。",
       "choices": [
+        "そろそろ",
         "たまに",
-        "ああ",
-        "びっくり",
+        "このごろ",
         "できるだけ"
       ],
       "correctIndex": 3,
@@ -152,9 +152,9 @@
       "stem_html": "「rapidly」を あらわす ことばは どれですか。",
       "choices": [
         "どんどん",
-        "しっかり",
-        "ああ",
-        "すっかり"
+        "なるほど",
+        "たまに",
+        "ああ"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -165,9 +165,9 @@
       "type": "mcq",
       "stem_html": "「escalator」を あらわす ことばは どれですか。",
       "choices": [
-        "ごみ",
-        "力",
-        "アフリカ",
+        "文学",
+        "ご主人",
+        "ガラス",
         "エスカレーター"
       ],
       "correctIndex": 3,
@@ -180,9 +180,9 @@
       "stem_html": "「fax」を あらわす ことばは どれですか。",
       "choices": [
         "ファックス",
-        "ごちそう",
-        "アメリカ",
-        "地理"
+        "大体",
+        "ベル",
+        "ビル"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -193,10 +193,10 @@
       "type": "mcq",
       "stem_html": "「to fax」を あらわす ことばは どれですか。",
       "choices": [
-        "発音する",
-        "花見する",
+        "入院する",
+        "計画する",
         "ファックスする",
-        "注意する"
+        "チェックする"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -207,10 +207,10 @@
       "type": "mcq",
       "stem_html": "「a glass」を あらわす ことばは どれですか。",
       "choices": [
-        "ビル",
+        "ガソリン",
         "ガラス",
-        "アジア",
-        "ごみ"
+        "文学",
+        "ちゃん"
       ],
       "correctIndex": 1,
       "rationale": "",

@@ -58,10 +58,10 @@
       "type": "mcq",
       "stem_html": "問: 「まず」とは どのような いみですか。",
       "choices": [
-        "literature",
+        "building",
         "first of all",
-        "to collect",
-        "to enter (Group 1 exception - looks like Group 2)"
+        "baby",
+        "literature"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -74,10 +74,10 @@
       "type": "mcq",
       "stem_html": "問: 「見える」とは どのような いみですか。",
       "choices": [
-        "Ah",
+        "to be surprised",
         "to be seen",
-        "baby",
-        "grapes"
+        "peace of mind",
+        "to know (Group 1 exception - looks like Group 2)"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -90,9 +90,9 @@
       "type": "mcq",
       "stem_html": "問: 「見つかる」とは どのような いみですか。",
       "choices": [
-        "to enter (Group 1 exception - looks like Group 2)",
-        "bell",
+        "literature",
         "Ah",
+        "to be surprised",
         "to be found"
       ],
       "correctIndex": 3,
@@ -106,10 +106,10 @@
       "type": "mcq",
       "stem_html": "問: 「もうすぐ」とは どのような いみですか。",
       "choices": [
-        "to enter (Group 1 exception - looks like Group 2)",
-        "to gather",
+        "literature",
+        "to cut (Group 1 exception - looks like Group 2",
         "soon",
-        "suffix for familiar female person"
+        "to check"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -123,9 +123,9 @@
       "stem_html": "問: 「無理」とは どのような いみですか。",
       "choices": [
         "impossible",
-        "Africa",
-        "such",
-        "Asia"
+        "to collect",
+        "bell",
+        "suffix for familiar female person"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -138,9 +138,9 @@
       "type": "mcq",
       "stem_html": "問: 「無くなる」とは どのような いみですか。",
       "choices": [
-        "grapes",
-        "peace of mind",
-        "building",
+        "to know (Group 1 exception - looks like Group 2)",
+        "announcer",
+        "to rise",
         "to disappear"
       ],
       "correctIndex": 3,
@@ -154,10 +154,10 @@
       "type": "mcq",
       "stem_html": "問: 「入学」とは どのような いみですか。",
       "choices": [
-        "to know (Group 1 exception - looks like Group 2)",
-        "entry to school or university",
         "Asia",
-        "to cut (Group 1 exception - looks like Group 2"
+        "entry to school or university",
+        "suffix for familiar female person",
+        "America"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -170,10 +170,10 @@
       "type": "mcq",
       "stem_html": "問: 「入学する」とは どのような いみですか。",
       "choices": [
-        "peace of mind",
+        "announcer",
         "to entry to school or university",
-        "building",
-        "to be surprised"
+        "to rise",
+        "to run (Group 1 exception - looks like Group 2)"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -186,9 +186,9 @@
       "type": "mcq",
       "stem_html": "問: 「入院」とは どのような いみですか。",
       "choices": [
-        "part-time job",
-        "baby",
-        "building",
+        "Africa",
+        "peace of mind",
+        "to rise",
         "hospitalization"
       ],
       "correctIndex": 3,
@@ -202,10 +202,10 @@
       "type": "mcq",
       "stem_html": "問: 「行う」とは どのような いみですか。",
       "choices": [
-        "literature",
+        "building",
         "to perform",
-        "accessory",
-        "Ah"
+        "part-time job",
+        "to be surprised"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -218,10 +218,10 @@
       "type": "mcq",
       "stem_html": "問: 「起こす」とは どのような いみですか。",
       "choices": [
-        "to gather",
+        "to cut (Group 1 exception - looks like Group 2",
         "to wake",
-        "to know (Group 1 exception - looks like Group 2)",
-        "America"
+        "Asia",
+        "to need (Group 1 exception - looks like Group 2"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -234,10 +234,10 @@
       "type": "mcq",
       "stem_html": "問: 「屋上」とは どのような いみですか。",
       "choices": [
-        "to check",
+        "grapes",
         "rooftop",
-        "to need (Group 1 exception - looks like Group 2",
-        "accessory"
+        "to part-time job",
+        "part-time job"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -251,9 +251,9 @@
       "stem_html": "問: 「思い出す」とは どのような いみですか。",
       "choices": [
         "to remember",
+        "literature",
         "to enter (Group 1 exception - looks like Group 2)",
-        "ah",
-        "baby"
+        "peace of mind"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -267,9 +267,9 @@
       "stem_html": "問: 「オートバイ」とは どのような いみですか。",
       "choices": [
         "motorcycle",
-        "bell",
-        "Asia",
-        "accessory"
+        "Ah",
+        "suffix for familiar female person",
+        "part-time job"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -282,9 +282,9 @@
       "type": "mcq",
       "stem_html": "問: 「下りる」とは どのような いみですか。",
       "choices": [
-        "to check",
-        "ah",
+        "grapes",
         "to enter (Group 1 exception - looks like Group 2)",
+        "literature",
         "to get off"
       ],
       "correctIndex": 3,

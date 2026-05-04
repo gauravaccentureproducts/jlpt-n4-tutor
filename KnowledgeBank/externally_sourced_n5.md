@@ -16,10 +16,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>旅館</u> の よみかたを えらんでください。
 
-1. ひらく
+1. ぶんがく
 2. りょかん
-3. はいる
-4. けんぶつ
+3. うまれ
+4. いそぐ
 
 **Answer: 2**
 
@@ -28,9 +28,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 <u>注意する</u> の よみかたを えらんでください。
 
 1. ちゅういする
-2. おいでになる
-3. とっきゅう
-4. おくじょう
+2. よういする
+3. かいじょう
+4. しゃちょう
 
 **Answer: 1**
 
@@ -39,9 +39,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 <u>着物</u> の よみかたを えらんでください。
 
 1. きもの
-2. ことり
-3. たりる
-4. だいぶ
+2. いちど
+3. なくなる
+4. かわり
 
 **Answer: 1**
 
@@ -49,9 +49,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>心</u> の よみかたを えらんでください。
 
-1. はこぶ
-2. つき
-3. あつまる
+1. とめる
+2. たのしみ
+3. こたえ
 4. こころ
 
 **Answer: 4**
@@ -60,10 +60,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>生</u> の よみかたを えらんでください。
 
-1. ひ
-2. とめる
+1. じ
+2. やむ
 3. なま
-4. だいじ
+4. とめる
 
 **Answer: 3**
 
@@ -71,9 +71,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>足す</u> の よみかたを えらんでください。
 
-1. やむ
+1. いけん
 2. たす
-3. ちり
+3. たてる
 4. はなみ
 
 **Answer: 2**
@@ -82,10 +82,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>花見</u> の よみかたを えらんでください。
 
-1. きこえる
-2. ちり
+1. よう
+2. かいわ
 3. はなみ
-4. こにゃ
+4. ようじ
 
 **Answer: 3**
 
@@ -94,9 +94,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 <u>足りる</u> の よみかたを えらんでください。
 
 1. たりる
-2. けんぶつ
-3. しなもの
-4. とおる
+2. おこす
+3. せかい
+4. おこなう
 
 **Answer: 1**
 
@@ -104,9 +104,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>意見</u> の よみかたを えらんでください。
 
-1. なくなる
-2. おと
-3. おりる
+1. せいぶつ
+2. だいたい
+3. ようい
 4. いけん
 
 **Answer: 4**
@@ -116,9 +116,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 <u>会話</u> の よみかたを えらんでください。
 
 1. かいわ
-2. あんしん
-3. とめる
-4. わかれる
+2. はいる
+3. おりる
+4. きもち
 
 **Answer: 1**
 
@@ -126,9 +126,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>生まれ</u> の よみかたを えらんでください。
 
-1. しなもの
-2. きこえる
-3. たのしみ
+1. せかい
+2. よう
+3. つき
 4. うまれ
 
 **Answer: 4**
@@ -138,9 +138,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 <u>文学</u> の よみかたを えらんでください。
 
 1. ぶんがく
-2. こにゃ
-3. まんなか
-4. したぎ
+2. いきもの
+3. かんがえる
+4. おわり
 
 **Answer: 1**
 
@@ -149,9 +149,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 <u>赤ちゃん</u> の よみかたを えらんでください。
 
 1. あかちゃん
-2. せいよう
-3. しゃかい
-4. しらせる
+2. いけんする
+3. とくべつ
+4. にゅうがく
 
 **Answer: 1**
 
@@ -159,9 +159,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>代わり</u> の よみかたを えらんでください。
 
-1. とめる
-2. なくなる
-3. こたえ
+1. おりる
+2. せいぶつ
+3. かじ
 4. かわり
 
 **Answer: 4**
@@ -170,9 +170,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>空く</u> の よみかたを えらんでください。
 
-1. かえり
-2. ひるま
-3. うりば
+1. いきる
+2. あがる
+3. ひるま
 4. すく
 
 **Answer: 4**
@@ -181,10 +181,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>建てる</u> の よみかたを えらんでください。
 
-1. きぶん
+1. じんせい
 2. たてる
-3. しんせつ
-4. あじ
+3. なま
+4. たいふう
 
 **Answer: 2**
 
@@ -192,9 +192,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>入学</u> の よみかたを えらんでください。
 
-1. かいじょう
-2. とっきゅう
-3. ぶんがく
+1. あつめる
+2. ちゅうい
+3. じんせい
 4. にゅうがく
 
 **Answer: 4**
@@ -204,9 +204,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 <u>字</u> の よみかたを えらんでください。
 
 1. なま
-2. き
+2. こ
 3. じ
-4. すく
+4. つき
 
 **Answer: 3**
 
@@ -214,10 +214,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>新聞社</u> の よみかたを えらんでください。
 
-1. おくじょう
-2. けんぶつする
+1. きゅうこうする
+2. はつおんする
 3. しんぶんしゃ
-4. きゅうこうする
+4. あかちゃん
 
 **Answer: 3**
 
@@ -225,9 +225,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>社会</u> の よみかたを えらんでください。
 
-1. とくに
-2. ひらく
-3. とめる
+1. おもいだす
+2. ぶんがく
+3. せかい
 4. しゃかい
 
 **Answer: 4**
@@ -236,10 +236,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>下りる</u> の よみかたを えらんでください。
 
-1. むり
-2. たりる
+1. はなみ
+2. かいわ
 3. おりる
-4. おや
+4. たりる
 
 **Answer: 3**
 
@@ -247,9 +247,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>今度</u> の よみかたを えらんでください。
 
-1. いろんな
-2. てにん
-3. あつまる
+1. しんせつ
+2. くうき
+3. こたえ
 4. こんど
 
 **Answer: 4**
@@ -259,9 +259,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 <u>小鳥</u> の よみかたを えらんでください。
 
 1. ことり
-2. かいわ
-3. きゅう
-4. むり
+2. こうこう
+3. たりる
+4. まんなか
 
 **Answer: 1**
 
@@ -269,10 +269,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>昼休み</u> の よみかたを えらんでください。
 
-1. けいかく
-2. あつめる
+1. うんてんしゅ
+2. おくじょう
 3. ひるやすみ
-4. おこなう
+4. けんぶつ
 
 **Answer: 3**
 
@@ -280,10 +280,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>開く</u> の よみかたを えらんでください。
 
-1. あんしん
-2. ようい
+1. はいる
+2. みつかる
 3. ひらく
-4. たりる
+4. なま
 
 **Answer: 3**
 
@@ -291,10 +291,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>運転手</u> の よみかたを えらんでください。
 
-1. このあいだ
-2. だいがくせい
+1. こうこうせい
+2. にゅうがく
 3. うんてんしゅ
-4. こうちょう
+4. はなみする
 
 **Answer: 3**
 
@@ -302,9 +302,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>入る</u> の よみかたを えらんでください。
 
-1. おこす
-2. やむ
-3. ひらく
+1. すいどう
+2. けんぶつ
+3. りょかん
 4. はいる
 
 **Answer: 4**
@@ -313,9 +313,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>会話する</u> の よみかたを えらんでください。
 
-1. きこえる
-2. にゅうがく
-3. きゅうこう
+1. たいふう
+2. けんきゅう
+3. こうこう
 4. かいわする
 
 **Answer: 4**
@@ -324,9 +324,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>色んな</u> の よみかたを えらんでください。
 
-1. おくる
-2. たのしみ
-3. こにゃ
+1. きもち
+2. たてる
+3. こうこう
 4. いろんな
 
 **Answer: 4**
@@ -335,10 +335,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>通る</u> の よみかたを えらんでください。
 
-1. あつめる
-2. あつまる
+1. ちから
+2. こたえ
 3. とおる
-4. たりる
+4. なま
 
 **Answer: 3**
 
@@ -346,10 +346,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>計画する</u> の よみかたを えらんでください。
 
-1. おくじょう
+1. しゃちょう
 2. けいかくする
-3. しょうじる
-4. じゅうぶん
+3. にゅういんする
+4. きゅうこうする
 
 **Answer: 2**
 
@@ -357,10 +357,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>中学校</u> の よみかたを えらんでください。
 
-1. にゅういんする
+1. ちゅうがっこ
 2. ちゅうがっこう
-3. ちゅうがっこ
-4. おいでになる
+3. きゅうこうする
+4. こうこうせい
 
 **Answer: 2**
 
@@ -368,10 +368,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>試験する</u> の よみかたを えらんでください。
 
-1. こうじょう
-2. にゅうがく
+1. こうちょう
+2. けんきゅう
 3. しけんする
-4. ぶんがく
+4. じんせい
 
 **Answer: 3**
 
@@ -379,10 +379,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>止める</u> の よみかたを えらんでください。
 
-1. じんこう
+1. こにゃ
 2. とめる
-3. とくべつ
-4. おこなう
+3. きぶん
+4. さがる
 
 **Answer: 2**
 
@@ -390,10 +390,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>人生</u> の よみかたを えらんでください。
 
-1. なくなる
+1. あがる
 2. じんせい
-3. いがく
-4. しょうじる
+3. うりば
+4. いきもの
 
 **Answer: 2**
 
@@ -401,10 +401,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>売り場</u> の よみかたを えらんでください。
 
-1. ちり
-2. はつおん
+1. すいどう
+2. だいぶ
 3. うりば
-4. いきる
+4. こうこう
 
 **Answer: 3**
 
@@ -412,10 +412,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>火事</u> の よみかたを えらんでください。
 
-1. よう
-2. しかた
+1. きもの
+2. てにん
 3. かじ
-4. うつす
+4. ことり
 
 **Answer: 3**
 
@@ -424,9 +424,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 <u>安心</u> の よみかたを えらんでください。
 
 1. あんしん
-2. けんぶつ
-3. だいぶ
-4. あがる
+2. きこえる
+3. せいよう
+4. おこなう
 
 **Answer: 1**
 
@@ -434,10 +434,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>以外</u> の よみかたを えらんでください。
 
-1. こころ
-2. くうき
+1. まんなか
+2. じだい
 3. いがい
-4. きこえる
+4. さがる
 
 **Answer: 3**
 
@@ -445,9 +445,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>子</u> の よみかたを えらんでください。
 
-1. よう
-2. じ
-3. あじ
+1. つき
+2. あじ
+3. おと
 4. こ
 
 **Answer: 4**
@@ -457,9 +457,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 <u>終わり</u> の よみかたを えらんでください。
 
 1. おわり
-2. ひらく
-3. ちり
-4. だいぶ
+2. ぶんがく
+3. かいわ
+4. かわり
 
 **Answer: 1**
 
@@ -467,10 +467,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>台風</u> の よみかたを えらんでください。
 
-1. おくじょう
+1. いきる
 2. たいふう
-3. しゃちょう
-4. かいわ
+3. うまれ
+4. じだい
 
 **Answer: 2**
 
@@ -478,10 +478,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>起こす</u> の よみかたを えらんでください。
 
-1. とおる
+1. おこなう
 2. おこす
-3. すく
-4. ひるま
+3. ちり
+4. あがる
 
 **Answer: 2**
 
@@ -489,9 +489,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>生物</u> の よみかたを えらんでください。
 
-1. ぶんがく
-2. おもいだす
-3. にゅうがく
+1. いちど
+2. ひるやすみ
+3. いけんする
 4. せいぶつ
 
 **Answer: 4**
@@ -501,9 +501,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 <u>高校</u> の よみかたを えらんでください。
 
 1. こうこう
-2. じゅうぶん
-3. いじょう
-4. せいよう
+2. とっきゅう
+3. けいかく
+4. ごしゅじん
 
 **Answer: 1**
 
@@ -512,9 +512,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 <u>楽しみ</u> の よみかたを えらんでください。
 
 1. たのしみ
-2. おもいだす
-3. とっきゅう
-4. はいる
+2. ひるやすみ
+3. はなみ
+4. うまれ
 
 **Answer: 1**
 
@@ -522,10 +522,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>以下</u> の よみかたを えらんでください。
 
-1. たてる
-2. かじ
+1. ひ
+2. いがい
 3. いか
-4. さげる
+4. いちど
 
 **Answer: 3**
 
@@ -533,9 +533,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>知らせる</u> の よみかたを えらんでください。
 
-1. おくじょう
-2. とくに
-3. とくべつ
+1. こたえ
+2. おもいだす
+3. かわり
 4. しらせる
 
 **Answer: 4**
@@ -544,10 +544,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>入院</u> の よみかたを えらんでください。
 
-1. あつまる
-2. きょうかい
+1. せいよう
+2. かいじょう
 3. にゅういん
-4. だいがくせい
+4. みつかる
 
 **Answer: 3**
 
@@ -555,10 +555,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 <u>見つかる</u> の よみかたを えらんでください。
 
-1. てにん
-2. おもいだす
+1. わかれる
+2. はいる
 3. みつかる
-4. さげる
+4. おくる
 
 **Answer: 3**
 
@@ -566,10 +566,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 __つき__ の かんじを えらんでください。
 
-1. 大事
+1. 今度
 2. 月
-3. 足す
-4. 気
+3. 送る
+4. 用意
 
 **Answer: 2**
 
@@ -578,9 +578,9 @@ __つき__ の かんじを えらんでください。
 __きこえる__ の かんじを えらんでください。
 
 1. 聞こえる
-2. 意見する
-3. 思い出す
-4. 考える
+2. 色んな
+3. 下りる
+4. 中学校
 
 **Answer: 1**
 
@@ -589,9 +589,9 @@ __きこえる__ の かんじを えらんでください。
 __き__ の かんじを えらんでください。
 
 1. 気
-2. 意見
-3. 足す
-4. 空く
+2. 高校
+3. 送る
+4. 会話
 
 **Answer: 1**
 
@@ -599,10 +599,10 @@ __き__ の かんじを えらんでください。
 
 __おと__ の かんじを えらんでください。
 
-1. 今夜
-2. 地理
+1. 工場
+2. 字
 3. 音
-4. 答え
+4. 止む
 
 **Answer: 3**
 
@@ -610,9 +610,9 @@ __おと__ の かんじを えらんでください。
 
 __こうちょう__ の かんじを えらんでください。
 
-1. 火事
-2. 別れる
-3. 昼休み
+1. 入院
+2. 教会
+3. 力
 4. 校長
 
 **Answer: 4**
@@ -621,10 +621,10 @@ __こうちょう__ の かんじを えらんでください。
 
 __さがる__ の かんじを えらんでください。
 
-1. 意見
+1. 高校
 2. 下がる
-3. 時代
-4. 計画する
+3. 下さる
+4. 見物する
 
 **Answer: 2**
 
@@ -632,10 +632,10 @@ __さがる__ の かんじを えらんでください。
 
 __みえる__ の かんじを えらんでください。
 
-1. 下さる
-2. 高校
+1. 工業
+2. 特別
 3. 見える
-4. 運ぶ
+4. 終わり
 
 **Answer: 3**
 
@@ -643,10 +643,10 @@ __みえる__ の かんじを えらんでください。
 
 __ようじ__ の かんじを えらんでください。
 
-1. 計画
+1. 研究
 2. 用事
-3. 答え
-4. 見える
+3. 特急
+4. 西洋
 
 **Answer: 2**
 
@@ -654,10 +654,10 @@ __ようじ__ の かんじを えらんでください。
 
 __しょうじる__ の かんじを えらんでください。
 
-1. 旅館
-2. 開く
+1. 食料品
+2. 会話する
 3. 生じる
-4. 時代
+4. 下さる
 
 **Answer: 3**
 
@@ -665,9 +665,9 @@ __しょうじる__ の かんじを えらんでください。
 
 __あつまる__ の かんじを えらんでください。
 
-1. 急行
-2. 大学生
-3. 会話
+1. 止む
+2. 下がる
+3. 注意
 4. 集まる
 
 **Answer: 4**
@@ -677,9 +677,9 @@ __あつまる__ の かんじを えらんでください。
 __うごく__ の かんじを えらんでください。
 
 1. 動く
-2. 気分
-3. 人生
-4. 用意
+2. 生物
+3. 地理
+4. 下着
 
 **Answer: 1**
 
@@ -687,10 +687,10 @@ __うごく__ の かんじを えらんでください。
 
 __しょうがっこう__ の かんじを えらんでください。
 
-1. 気分
-2. 止む
+1. 用事
+2. 赤ちゃん
 3. 小学校
-4. 社長
+4. 食料品
 
 **Answer: 3**
 
@@ -698,10 +698,10 @@ __しょうがっこう__ の かんじを えらんでください。
 
 __だいじ__ の かんじを えらんでください。
 
-1. 人生
+1. 地理
 2. 大事
-3. 意見
-4. 売り場
+3. 無理
+4. 昼間
 
 **Answer: 2**
 
@@ -709,10 +709,10 @@ __だいじ__ の かんじを えらんでください。
 
 __ちり__ の かんじを えらんでください。
 
-1. 世界
-2. 小鳥
+1. 味
+2. 社長
 3. 地理
-4. 教会
+4. 運ぶ
 
 **Answer: 3**
 
@@ -720,10 +720,10 @@ __ちり__ の かんじを えらんでください。
 
 「入る」と おなじ いみの ことばを えらんでください。
 
-1. to know (Group 1 exception - looks like Group 2)
-2. (respectful) to be
+1. to run (Group 1 exception - looks like Group 2)
+2. to add (numbers)
 3. to enter (Group 1 exception - looks like Group 2)
-4. to open
+4. (respectful) to give
 
 **Answer: 3**
 
@@ -733,8 +733,8 @@ __ちり__ の かんじを えらんでください。
 
 1. to return home (Group 1 exception - looks like Group 2)
 2. to wake
-3. to copy or photograph
-4. to gather
+3. to send
+4. to need (Group 1 exception - looks like Group 2
 
 **Answer: 1**
 
@@ -743,9 +743,9 @@ __ちり__ の かんじを えらんでください。
 「はしる」と おなじ いみの ことばを えらんでください。
 
 1. to run (Group 1 exception - looks like Group 2)
-2. to need (Group 1 exception - looks like Group 2
-3. to get down
-4. to rise
+2. to cut (Group 1 exception - looks like Group 2
+3. (respectful) to give
+4. (respectful) to be
 
 **Answer: 1**
 
@@ -753,9 +753,9 @@ __ちり__ の かんじを えらんでください。
 
 「しる」と おなじ いみの ことばを えらんでください。
 
-1. to cut (Group 1 exception - looks like Group 2
-2. to send
-3. to copy or photograph
+1. to get down
+2. to gather
+3. to send
 4. to know (Group 1 exception - looks like Group 2)
 
 **Answer: 4**
@@ -765,9 +765,9 @@ __ちり__ の かんじを えらんでください。
 「きる」と おなじ いみの ことばを えらんでください。
 
 1. to cut (Group 1 exception - looks like Group 2
-2. to add (numbers)
-3. to be found
-4. to perform
+2. to move
+3. (respectful) to be
+4. to commute
 
 **Answer: 1**
 
@@ -777,8 +777,8 @@ __ちり__ の かんじを えらんでください。
 
 1. to wake
 2. to need (Group 1 exception - looks like Group 2
-3. to be hungry
-4. (respectful) to be
+3. to be found
+4. to add (numbers)
 
 **Answer: 2**
 
@@ -786,8 +786,8 @@ __ちり__ の かんじを えらんでください。
 
 「ああ」と おなじ いみの ことばを えらんでください。
 
-1. as much as possible
-2. these days
+1. now I understand
+2. this way
 3. clearly
 4. ah
 
@@ -798,8 +798,8 @@ __ちり__ の かんじを えらんでください。
 「アフリカ」と おなじ いみの ことばを えらんでください。
 
 1. gasoline
-2. suffix for familiar female person
-3. university student
+2. Asia
+3. petrol station
 4. Africa
 
 **Answer: 4**
@@ -808,9 +808,9 @@ __ちり__ の かんじを えらんでください。
 
 「上がる」と おなじ いみの ことばを えらんでください。
 
-1. to be found
-2. to need (Group 1 exception - looks like Group 2
-3. to add (numbers)
+1. to be hungry
+2. to cut (Group 1 exception - looks like Group 2
+3. (respectful) to be
 4. to rise
 
 **Answer: 4**
@@ -819,9 +819,9 @@ __ちり__ の かんじを えらんでください。
 
 「味」と おなじ いみの ことばを えらんでください。
 
-1. baby
-2. announcer
-3. to check
+1. roughly
+2. petrol
+3. energy
 4. flavor
 
 **Answer: 4**
@@ -831,8 +831,8 @@ __ちり__ の かんじを えらんでください。
 「アジア」と おなじ いみの ことばを えらんでください。
 
 1. Asia
-2. rubbish
-3. energy
+2. a feast
+3. a glass
 4. junior high school
 
 **Answer: 1**
@@ -842,9 +842,9 @@ __ちり__ の かんじを えらんでください。
 「赤ちゃん」と おなじ いみの ことばを えらんでください。
 
 1. baby
-2. Asia
-3. accessory
-4. energy
+2. university student
+3. America
+4. your husband
 
 **Answer: 1**
 
@@ -852,10 +852,10 @@ __ちり__ の かんじを えらんでください。
 
 「アクセサリー」と おなじ いみの ことばを えらんでください。
 
-1. Asia
+1. petrol station
 2. accessory
-3. building
-4. geography
+3. alcohol
+4. to check
 
 **Answer: 2**
 
@@ -863,10 +863,10 @@ __ちり__ の かんじを えらんでください。
 
 「アメリカ」と おなじ いみの ことばを えらんでください。
 
-1. your husband
-2. baby
+1. alcohol
+2. part-time job
 3. America
-4. part-time job
+4. suffix for familiar female person
 
 **Answer: 3**
 
@@ -874,10 +874,10 @@ __ちり__ の かんじを えらんでください。
 
 「アナウンサー」と おなじ いみの ことばを えらんでください。
 
-1. grapes
+1. your husband
 2. announcer
 3. gasoline
-4. Asia
+4. a glass
 
 **Answer: 2**
 
@@ -885,9 +885,9 @@ __ちり__ の かんじを えらんでください。
 
 「あんな」と おなじ いみの ことばを えらんでください。
 
-1. that sort of
+1. various
 2. (option-4)
-3. various
+3. that sort of
 4. such
 
 **Answer: 4**
@@ -896,10 +896,10 @@ __ちり__ の かんじを えらんでください。
 
 「安心」と おなじ いみの ことばを えらんでください。
 
-1. special
-2. important
+1. full
+2. kindness
 3. peace of mind
-4. kindness
+4. sudden
 
 **Answer: 3**
 
@@ -907,10 +907,10 @@ __ちり__ の かんじを えらんでください。
 
 「アルバイト」と おなじ いみの ことばを えらんでください。
 
-1. suffix for familiar female person
-2. America
+1. Asia
+2. announcer
 3. part-time job
-4. junior high school
+4. fax
 
 **Answer: 3**
 
@@ -918,10 +918,10 @@ __ちり__ の かんじを えらんでください。
 
 「アルバイトする」と おなじ いみの ことばを えらんでください。
 
-1. to examination
-2. to pronunciation
+1. to pronunciation
+2. to sightseeing
 3. to part-time job
-4. to plan
+4. to research
 
 **Answer: 3**
 
@@ -929,10 +929,10 @@ __ちり__ の かんじを えらんでください。
 
 「アルコール」と おなじ いみの ことばを えらんでください。
 
-1. a glass
+1. escalator
 2. alcohol
-3. petrol station
-4. suffix for familiar female person
+3. America
+4. Asia
 
 **Answer: 2**
 
@@ -940,9 +940,9 @@ __ちり__ の かんじを えらんでください。
 
 「集まる」と おなじ いみの ことばを えらんでください。
 
-1. to add (numbers)
+1. to move
 2. to gather
-3. to send
+3. to wake
 4. to go through
 
 **Answer: 2**
@@ -951,10 +951,10 @@ __ちり__ の かんじを えらんでください。
 
 「集める」と おなじ いみの ことばを えらんでください。
 
-1. to lower
+1. to think
 2. to collect
-3. to be seen
-4. to be sufficient
+3. to tease
+4. to lower
 
 **Answer: 2**
 
@@ -963,9 +963,9 @@ __ちり__ の かんじを えらんでください。
 「ベル」と おなじ いみの ことばを えらんでください。
 
 1. bell
-2. announcer
-3. geography
-4. junior high school
+2. petrol
+3. Asia
+4. baby
 
 **Answer: 1**
 
@@ -973,9 +973,9 @@ __ちり__ の かんじを えらんでください。
 
 「びっくり」と おなじ いみの ことばを えらんでください。
 
-1. as I thought
-2. this way
-3. rapidly
+1. if
+2. rapidly
+3. these days
 4. to be surprised
 
 **Answer: 4**
@@ -984,10 +984,10 @@ __ちり__ の かんじを えらんでください。
 
 「ビル」と おなじ いみの ことばを えらんでください。
 
-1. announcer
+1. petrol
 2. building
-3. America
-4. bell
+3. announcer
+4. geography
 
 **Answer: 2**
 
@@ -995,10 +995,10 @@ __ちり__ の かんじを えらんでください。
 
 「ぶどう」と おなじ いみの ことばを えらんでください。
 
-1. alcohol
+1. suffix for familiar female person
 2. grapes
-3. accessory
-4. rubbish
+3. baby
+4. a feast
 
 **Answer: 2**
 
@@ -1006,10 +1006,10 @@ __ちり__ の かんじを えらんでください。
 
 「文学」と おなじ いみの ことばを えらんでください。
 
-1. escalator
-2. accessory
+1. part-time job
+2. baby
 3. literature
-4. America
+4. fax
 
 **Answer: 3**
 
@@ -1017,10 +1017,10 @@ __ちり__ の かんじを えらんでください。
 
 「ちゃん」と おなじ いみの ことばを えらんでください。
 
-1. gasoline
+1. part-time job
 2. suffix for familiar female person
-3. literature
-4. alcohol
+3. to check
+4. grapes
 
 **Answer: 2**
 
@@ -1029,9 +1029,9 @@ __ちり__ の かんじを えらんでください。
 「チェック」と おなじ いみの ことばを えらんでください。
 
 1. to check
-2. a glass
-3. accessory
-4. a feast
+2. escalator
+3. junior high school
+4. grapes
 
 **Answer: 1**
 
@@ -1039,10 +1039,10 @@ __ちり__ の かんじを えらんでください。
 
 「チェックする」と おなじ いみの ことばを えらんでください。
 
-1. to research
-2. to sightseeing
+1. to hospitalization
+2. to opinion
 3. to check
-4. to entry to school or university
+4. to fax
 
 **Answer: 3**
 
@@ -1050,10 +1050,10 @@ __ちり__ の かんじを えらんでください。
 
 「力」と おなじ いみの ことばを えらんでください。
 
-1. Africa
+1. alcohol
 2. energy
 3. junior high school
-4. part-time job
+4. petrol station
 
 **Answer: 2**
 
@@ -1062,9 +1062,9 @@ __ちり__ の かんじを えらんでください。
 「地理」と おなじ いみの ことばを えらんでください。
 
 1. geography
-2. gasoline
-3. a feast
-4. grapes
+2. part-time job
+3. grapes
+4. a glass
 
 **Answer: 1**
 
@@ -1072,9 +1072,9 @@ __ちり__ の かんじを えらんでください。
 
 「中学校」と おなじ いみの ことばを えらんでください。
 
-1. bell
-2. Africa
-3. announcer
+1. geography
+2. caution
+3. petrol
 4. junior high school
 
 **Answer: 4**
@@ -1083,9 +1083,9 @@ __ちり__ の かんじを えらんでください。
 
 「注意」と おなじ いみの ことばを えらんでください。
 
-1. America
+1. junior high school
 2. flavor
-3. part-time job
+3. suffix for familiar female person
 4. caution
 
 **Answer: 4**
@@ -1094,10 +1094,10 @@ __ちり__ の かんじを えらんでください。
 
 「注意する」と おなじ いみの ことばを えらんでください。
 
-1. to pronunciation
+1. to sightseeing
 2. to caution
-3. to plan
-4. to research
+3. to part-time job
+4. to a feast
 
 **Answer: 2**
 
@@ -1105,10 +1105,10 @@ __ちり__ の かんじを えらんでください。
 
 「大分」と おなじ いみの ことばを えらんでください。
 
-1. these days
-2. especially
+1. this way
+2. usually
 3. considerably
-4. rapidly
+4. if
 
 **Answer: 3**
 
@@ -1117,9 +1117,9 @@ __ちり__ の かんじを えらんでください。
 「大学生」と おなじ いみの ことばを えらんでください。
 
 1. university student
-2. baby
-3. alcohol
-4. roughly
+2. roughly
+3. Africa
+4. bell
 
 **Answer: 1**
 
@@ -1127,10 +1127,10 @@ __ちり__ の かんじを えらんでください。
 
 「大事」と おなじ いみの ことばを えらんでください。
 
-1. enough
-2. impossible
+1. full
+2. kindness
 3. important
-4. full
+4. looking forward to
 
 **Answer: 3**
 
@@ -1139,9 +1139,9 @@ __ちり__ の かんじを えらんでください。
 「大体」と おなじ いみの ことばを えらんでください。
 
 1. roughly
-2. to check
-3. building
-4. junior high school
+2. caution
+3. grapes
+4. fax
 
 **Answer: 1**
 
@@ -1149,10 +1149,10 @@ __ちり__ の かんじを えらんでください。
 
 「as much as possible」を あらわす ことばは どれですか。
 
-1. しっかり
+1. それほど
 2. できるだけ
-3. すっかり
-4. やっぱり
+3. ああ
+4. この間
 
 **Answer: 2**
 
@@ -1161,9 +1161,9 @@ __ちり__ の かんじを えらんでください。
 「rapidly」を あらわす ことばは どれですか。
 
 1. どんどん
-2. 特に
-3. 大分
-4. それほど
+2. すっかり
+3. びっくり
+4. このごろ
 
 **Answer: 1**
 
@@ -1171,10 +1171,10 @@ __ちり__ の かんじを えらんでください。
 
 「escalator」を あらわす ことばは どれですか。
 
-1. アジア
+1. ガソリンスタンド
 2. エスカレーター
-3. ごちそう
-4. 文学
+3. 大体
+4. アクセサリー
 
 **Answer: 2**
 
@@ -1182,9 +1182,9 @@ __ちり__ の かんじを えらんでください。
 
 「fax」を あらわす ことばは どれですか。
 
-1. ガソリンスタンド
-2. ごちそう
-3. 花見
+1. ごみ
+2. 大体
+3. ガラス
 4. ファックス
 
 **Answer: 4**
@@ -1193,10 +1193,10 @@ __ちり__ の かんじを えらんでください。
 
 「to fax」を あらわす ことばは どれですか。
 
-1. 花見する
+1. 計画する
 2. ファックスする
-3. 研究する
-4. アルバイトする
+3. アルバイトする
+4. 花見する
 
 **Answer: 2**
 
@@ -1204,9 +1204,9 @@ __ちり__ の かんじを えらんでください。
 
 「a glass」を あらわす ことばは どれですか。
 
-1. アナウンサー
-2. アフリカ
-3. 赤ちゃん
+1. アクセサリー
+2. アルコール
+3. アメリカ
 4. ガラス
 
 **Answer: 4**
@@ -1215,9 +1215,9 @@ __ちり__ の かんじを えらんでください。
 
 「gasoline」を あらわす ことばは どれですか。
 
-1. ちゃん
-2. 大学生
-3. ビル
+1. アナウンサー
+2. 赤ちゃん
+3. 文学
 4. ガソリン
 
 **Answer: 4**
@@ -1227,9 +1227,9 @@ __ちり__ の かんじを えらんでください。
 「petrol station」を あらわす ことばは どれですか。
 
 1. ガソリンスタンド
-2. アフリカ
-3. アジア
-4. 地理
+2. ガラス
+3. アクセサリー
+4. ビル
 
 **Answer: 1**
 
@@ -1237,10 +1237,10 @@ __ちり__ の かんじを えらんでください。
 
 「petrol」を あらわす ことばは どれですか。
 
-1. アフリカ
+1. チェック
 2. ガス
-3. ファックス
-4. 注意
+3. アルバイト
+4. 花見
 
 **Answer: 2**
 
@@ -1249,9 +1249,9 @@ __ちり__ の かんじを えらんでください。
 「a feast」を あらわす ことばは どれですか。
 
 1. ごちそう
-2. ごみ
-3. ファックス
-4. 中学校
+2. 文学
+3. アルバイト
+4. アジア
 
 **Answer: 1**
 
@@ -1259,9 +1259,9 @@ __ちり__ の かんじを えらんでください。
 
 「to a feast」を あらわす ことばは どれですか。
 
-1. 試験する
-2. 会話する
-3. 見物する
+1. 会話する
+2. 注意する
+3. 急行する
 4. ごちそうする
 
 **Answer: 4**
@@ -1270,9 +1270,9 @@ __ちり__ の かんじを えらんでください。
 
 「rubbish」を あらわす ことばは どれですか。
 
-1. 注意
-2. アルコール
-3. 味
+1. 大学生
+2. アルバイト
+3. ぶどう
 4. ごみ
 
 **Answer: 4**
@@ -1282,9 +1282,9 @@ __ちり__ の かんじを えらんでください。
 「your husband」を あらわす ことばは どれですか。
 
 1. ご主人
-2. アルコール
-3. 花見
-4. アナウンサー
+2. アルバイト
+3. ごちそう
+4. アクセサリー
 
 **Answer: 1**
 
@@ -1292,10 +1292,10 @@ __ちり__ の かんじを えらんでください。
 
 「clearly」を あらわす ことばは どれですか。
 
-1. どんどん
+1. まず
 2. はっきり
-3. びっくり
-4. それほど
+3. このごろ
+4. やっぱり
 
 **Answer: 2**
 
@@ -1303,10 +1303,10 @@ __ちり__ の かんじを えらんでください。
 
 「to carry」を あらわす ことばは どれですか。
 
-1. 上がる
+1. 急ぐ
 2. 運ぶ
 3. 無くなる
-4. はしる
+4. かえる
 
 **Answer: 2**
 
@@ -1315,9 +1315,9 @@ __ちり__ の かんじを えらんでください。
 「cherry blossom viewing」を あらわす ことばは どれですか。
 
 1. 花見
-2. ガス
-3. ごちそう
-4. ガラス
+2. 注意
+3. 大体
+4. ガソリン
 
 **Answer: 1**
 
@@ -1325,9 +1325,9 @@ __ちり__ の かんじを えらんでください。
 
 「to cherry blossom viewing」を あらわす ことばは どれですか。
 
-1. 注意する
-2. 用意する
-3. 会話する
+1. 見物する
+2. ファックスする
+3. 注意する
 4. 花見する
 
 **Answer: 4**
@@ -1336,9 +1336,9 @@ __ちり__ の かんじを えらんでください。
 
 「handbag」を あらわす ことばは どれですか。
 
-1. ビル
-2. ご主人
-3. 大体
+1. ちゃん
+2. アフリカ
+3. ごみ
 4. ハンドバッグ
 
 **Answer: 4**
@@ -1347,10 +1347,10 @@ __ちり__ の かんじを えらんでください。
 
 「pronunciation」を あらわす ことばは どれですか。
 
-1. アクセサリー
+1. 地理
 2. 発音
-3. ご主人
-4. ビル
+3. アフリカ
+4. ちゃん
 
 **Answer: 2**
 
@@ -1358,10 +1358,10 @@ __ちり__ の かんじを えらんでください。
 
 「to pronunciation」を あらわす ことばは どれですか。
 
-1. 用意する
-2. 注意する
+1. ファックスする
+2. 見物する
 3. 発音する
-4. 会話する
+4. 注意する
 
 **Answer: 3**
 
@@ -1370,9 +1370,9 @@ __ちり__ の かんじを えらんでください。
 「to enter (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。
 
 1. 入る
-2. 行う
-3. 上がる
-4. 空く
+2. 開く
+3. しる
+4. 運ぶ
 
 **Answer: 1**
 
@@ -1380,10 +1380,10 @@ __ちり__ の かんじを えらんでください。
 
 「to return home (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。
 
-1. 行う
-2. しる
+1. 開く
+2. 集まる
 3. かえる
-4. 思い出す
+4. 急ぐ
 
 **Answer: 3**
 
@@ -1392,9 +1392,9 @@ __ちり__ の かんじを えらんでください。
 「to run (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。
 
 1. はしる
-2. 集まる
-3. 無くなる
-4. 下さる
+2. 運ぶ
+3. かえる
+4. 入る
 
 **Answer: 1**
 
@@ -1402,8 +1402,8 @@ __ちり__ の かんじを えらんでください。
 
 「to know (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。
 
-1. 動く
-2. 開く
+1. 送る
+2. 通う
 3. 通る
 4. しる
 
@@ -1413,21 +1413,21 @@ __ちり__ の かんじを えらんでください。
 
 「to cut (Group 1 exception - looks like Group 2」を あらわす ことばは どれですか。
 
-1. 行う
-2. かえる
+1. 見つかる
+2. 写す
 3. きる
-4. しる
+4. いる
 
 **Answer: 3**
 
 ### Q129
 
-「MEANING-BRIEF`」(n4-001) を あらわす ぶんぽうは どれですか。
+「while」(n4-001) を あらわす ぶんぽうは どれですか。
 
-1. いらっしゃる
-2. かもしれない
-3. Format: `PATTERN
-4. ではないか
+1. でございます
+2. あまり〜ない
+3. 間（あいだ）
+4. 後で（あとで）
 
 **Answer: 3**
 
@@ -1435,659 +1435,659 @@ __ちり__ の かんじを えらんでください。
 
 「while」(n4-002) を あらわす ぶんぽうは どれですか。
 
-1. かい
-2. 間（あいだ）
-3. かな
-4. 出す（だす）
+1. かもしれない
+2. 間に（あいだに）
+3. がる / がっている
+4. あまり〜ない
 
 **Answer: 2**
 
 ### Q131
 
-「while」(n4-003) を あらわす ぶんぽうは どれですか。
+「not very」(n4-003) を あらわす ぶんぽうは どれですか。
 
-1. ば
-2. 間に（あいだに）
-3. いたします
-4. がり
+1. かな
+2. あまり〜ない
+3. かどうか
+4. がする
 
 **Answer: 2**
 
 ### Q132
 
-「not very」(n4-004) を あらわす ぶんぽうは どれですか。
+「after」(n4-004) を あらわす ぶんぽうは どれですか。
 
-1. 後で（あとで）
-2. あまり〜ない
-3. かしら
-4. かい
+1. はずだ
+2. 後で（あとで）
+3. ば
+4. だけで
 
 **Answer: 2**
 
 ### Q133
 
-「after」(n4-005) を あらわす ぶんぽうは どれですか。
+「conditional form (if-then)」(n4-005) を あらわす ぶんぽうは どれですか。
 
-1. かどうか
-2. がする
-3. 後で（あとで）
-4. かもしれない
+1. きっと
+2. 間（あいだ）
+3. ば
+4. かしら
 
 **Answer: 3**
 
 ### Q134
 
-「conditional form (if-then)」(n4-006) を あらわす ぶんぽうは どれですか。
+「in the event of」(n4-006) を あらわす ぶんぽうは どれですか。
 
-1. 間（あいだ）
-2. ば
-3. いたします
-4. はずがない
+1. いらっしゃる
+2. ばあいは
+3. だけで
+4. ございます
 
 **Answer: 2**
 
 ### Q135
 
-「in the event of」(n4-007) を あらわす ぶんぽうは どれですか。
+「only」(n4-007) を あらわす ぶんぽうは どれですか。
 
-1. ひつようがある
-2. 後で（あとで）
-3. かい
-4. ばあいは
+1. ばかり
+2. でも
+3. は
+4. へ
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q136
 
-「only」(n4-008) を あらわす ぶんぽうは どれですか。
+「just by」(n4-008) を あらわす ぶんぽうは どれですか。
 
-1. でも
-2. まで
-3. ばかり
-4. ごろ
+1. ころ
+2. あまり〜ない
+3. だけで
+4. いたします
 
 **Answer: 3**
 
 ### Q137
 
-「just by」(n4-009) を あらわす ぶんぽうは どれですか。
+「to begin to」(n4-009) を あらわす ぶんぽうは どれですか。
 
-1. だけで
-2. がる / がっている
-3. かい
-4. ば
+1. 出す（だす）
+2. だけで
+3. ば
+4. ひつようがある
 
 **Answer: 1**
 
 ### Q138
 
-「to begin to」(n4-010) を あらわす ぶんぽうは どれですか。
+「to be (honorific)」(n4-010) を あらわす ぶんぽうは どれですか。
 
-1. がる / がっている
-2. きっと
-3. 出す（だす）
-4. かしら
+1. ころ
+2. 間（あいだ）
+3. でございます
+4. かどうか
 
 **Answer: 3**
 
 ### Q139
 
-「to be (honorific)」(n4-011) を あらわす ぶんぽうは どれですか。
+「or something」(n4-011) を あらわす ぶんぽうは どれですか。
 
-1. でございます
-2. 後で（あとで）
-3. かどうか
-4. 間（あいだ）
+1. でも
+2. や
+3. ばかり
+4. も
 
 **Answer: 1**
 
 ### Q140
 
-「or something」(n4-012) を あらわす ぶんぽうは どれですか。
+「right?」(n4-012) を あらわす ぶんぽうは どれですか。
 
-1. や
-2. まで
-3. ばかり
-4. でも
+1. ではないか
+2. はずがない
+3. 後で（あとで）
+4. かな
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q141
 
-「right?」(n4-013) を あらわす ぶんぽうは どれですか。
+「to smell」(n4-013) を あらわす ぶんぽうは どれですか。
 
-1. じゃないか
-2. だけで
-3. かどうか
-4. ではないか
+1. きっと
+2. ばあいは
+3. がする
+4. あまり〜ない
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q142
 
-「to smell」(n4-014) を あらわす ぶんぽうは どれですか。
+「personality/tendency」(n4-014) を あらわす ぶんぽうは どれですか。
 
-1. がする
-2. 出す（だす）
-3. Format: `PATTERN
-4. 後で（あとで）
+1. がり
+2. でございます
+3. あまり〜ない
+4. だけで
 
 **Answer: 1**
 
 ### Q143
 
-「personality/tendency」(n4-015) を あらわす ぶんぽうは どれですか。
+「to show signs of」(n4-015) を あらわす ぶんぽうは どれですか。
 
-1. から作る
-2. かい
-3. かな
-4. がり
+1. 始める（はじめる）
+2. ば
+3. がり
+4. がる / がっている
 
 **Answer: 4**
 
 ### Q144
 
-「to show signs of」(n4-016) を あらわす ぶんぽうは どれですか。
+「to be」(n4-016) を あらわす ぶんぽうは どれですか。
 
-1. がる / がっている
-2. ば
-3. がり
-4. ばあいは
+1. ございます
+2. かな
+3. がする
+4. 間に（あいだに）
 
 **Answer: 1**
 
 ### Q145
 
-「to be」(n4-017) を あらわす ぶんぽうは どれですか。
+「to start」(n4-017) を あらわす ぶんぽうは どれですか。
 
-1. ではないか
-2. かな
-3. ございます
-4. 出す（だす）
+1. はずだ
+2. でございます
+3. 始める（はじめる）
+4. がり
 
 **Answer: 3**
 
 ### Q146
 
-「to start」(n4-018) を あらわす ぶんぽうは どれですか。
+「it must be」(n4-018) を あらわす ぶんぽうは どれですか。
 
-1. がる / がっている
-2. かもしれない
-3. 始める（はじめる）
-4. はずだ
+1. 間（あいだ）
+2. かしら
+3. はずだ
+4. 後で（あとで）
 
 **Answer: 3**
 
 ### Q147
 
-「it must be」(n4-019) を あらわす ぶんぽうは どれですか。
+「cannot be (impossible)」(n4-019) を あらわす ぶんぽうは どれですか。
 
-1. がる / がっている
-2. かな
-3. ではないか
-4. はずだ
+1. じゃないか
+2. がり
+3. がる / がっている
+4. はずがない
 
 **Answer: 4**
 
 ### Q148
 
-「cannot be (impossible)」(n4-020) を あらわす ぶんぽうは どれですか。
+「need to」(n4-020) を あらわす ぶんぽうは どれですか。
 
-1. はずがない
-2. ひつようがある
-3. かもしれない
-4. 出す（だす）
+1. ひつようがある
+2. かい
+3. あまり〜ない
+4. ころ
 
 **Answer: 1**
 
 ### Q149
 
-「need to」(n4-021) を あらわす ぶんぽうは どれですか。
+「to be」(n4-021) を あらわす ぶんぽうは どれですか。
 
-1. だけで
-2. 間に（あいだに）
-3. ひつようがある
-4. かどうか
+1. いたします
+2. ばあいは
+3. いらっしゃる
+4. はずだ
 
 **Answer: 3**
 
 ### Q150
 
-「to be」(n4-022) を あらわす ぶんぽうは どれですか。
+「to do (polite form)」(n4-022) を あらわす ぶんぽうは どれですか。
 
-1. かどうか
-2. だけで
-3. 間に（あいだに）
-4. いらっしゃる
+1. から作る
+2. ばあいは
+3. はずだ
+4. いたします
 
 **Answer: 4**
 
 ### Q151
 
-「to do (polite form)」(n4-023) を あらわす ぶんぽうは どれですか。
+「right?」(n4-023) を あらわす ぶんぽうは どれですか。
 
-1. がり
-2. いたします
-3. Format: `PATTERN
-4. いらっしゃる
+1. 始める（はじめる）
+2. じゃないか
+3. いらっしゃる
+4. がり
 
 **Answer: 2**
 
 ### Q152
 
-「right?」(n4-024) を あらわす ぶんぽうは どれですか。
+「whether or not」(n4-024) を あらわす ぶんぽうは どれですか。
 
-1. じゃないか
-2. 間（あいだ）
-3. かもしれない
-4. がする
+1. かどうか
+2. 出す（だす）
+3. ころ
+4. いたします
 
 **Answer: 1**
 
 ### Q153
 
-「whether or not」(n4-025) を あらわす ぶんぽうは どれですか。
+「I wonder (feminine)」(n4-025) を あらわす ぶんぽうは どれですか。
 
-1. かどうか
-2. いたします
-3. ばあいは
-4. ございます
+1. かしら
+2. かどうか
+3. 間に（あいだに）
+4. じゃないか
 
 **Answer: 1**
 
 ### Q154
 
-「I wonder (feminine)」(n4-026) を あらわす ぶんぽうは どれですか。
+「turns sentence into yes/no question」(n4-026) を あらわす ぶんぽうは どれですか。
 
-1. ひつようがある
-2. かしら
-3. から作る
-4. 出す（だす）
+1. がする
+2. かい
+3. いたします
+4. ではないか
 
 **Answer: 2**
 
 ### Q155
 
-「turns sentence into yes/no question」(n4-027) を あらわす ぶんぽうは どれですか。
+「might」(n4-027) を あらわす ぶんぽうは どれですか。
 
-1. かい
-2. ではないか
-3. いらっしゃる
-4. Format: `PATTERN
+1. かもしれない
+2. がる / がっている
+3. 後で（あとで）
+4. 出す（だす）
 
 **Answer: 1**
 
 ### Q156
 
-「might」(n4-028) を あらわす ぶんぽうは どれですか。
+「I wonder」(n4-028) を あらわす ぶんぽうは どれですか。
 
-1. かもしれない
-2. 後で（あとで）
-3. じゃないか
-4. がる / がっている
+1. かな
+2. だけで
+3. ころ
+4. かもしれない
 
 **Answer: 1**
 
 ### Q157
 
-「I wonder」(n4-029) を あらわす ぶんぽうは どれですか。
+「made from」(n4-029) を あらわす ぶんぽうは どれですか。
 
-1. かい
-2. ば
-3. じゃないか
-4. かな
+1. ではないか
+2. かな
+3. かもしれない
+4. から作る
 
 **Answer: 4**
 
 ### Q158
 
-「made from」(n4-030) を あらわす ぶんぽうは どれですか。
+「surely」(n4-030) を あらわす ぶんぽうは どれですか。
 
-1. ではないか
-2. はずだ
-3. がり
-4. から作る
+1. がる / がっている
+2. かしら
+3. がする
+4. きっと
 
 **Answer: 4**
 
 ### Q159
 
-「surely」(n4-031) を あらわす ぶんぽうは どれですか。
+「around」(n4-031) を あらわす ぶんぽうは どれですか。
 
-1. でございます
-2. いらっしゃる
-3. だけで
-4. きっと
+1. はずがない
+2. がり
+3. ばあいは
+4. ころ
 
 **Answer: 4**
 
 ### Q160
 
-「around」(n4-032) を あらわす ぶんぽうは どれですか。
+「verb nominalizer」(n4-032) を あらわす ぶんぽうは どれですか。
 
-1. ころ
-2. がり
-3. あまり〜ない
-4. はずだ
+1. こと
+2. 始める（はじめる）
+3. ではないか
+4. 後で（あとで）
 
 **Answer: 1**
 
 ### Q161
 
-「verb nominalizer」(n4-033) を あらわす ぶんぽうは どれですか。
+「there are times when」(n4-033) を あらわす ぶんぽうは どれですか。
 
-1. 間に（あいだに）
-2. ひつようがある
-3. でございます
-4. こと
+1. でございます
+2. いたします
+3. はずがない
+4. ことがある
 
 **Answer: 4**
 
 ### Q162
 
-「there are times when」(n4-034) を あらわす ぶんぽうは どれですか。
+「can」(n4-034) を あらわす ぶんぽうは どれですか。
 
-1. がり
-2. ことがある
-3. Format: `PATTERN
-4. 後で（あとで）
+1. 始める（はじめる）
+2. ことができる
+3. いらっしゃる
+4. だけで
 
 **Answer: 2**
 
 ### Q163
 
-「can」(n4-035) を あらわす ぶんぽうは どれですか。
+「it has been decided」(n4-035) を あらわす ぶんぽうは どれですか。
 
-1. ことができる
-2. でございます
-3. Format: `PATTERN
-4. あまり〜ない
+1. ことになる
+2. はずがない
+3. いらっしゃる
+4. ではないか
 
 **Answer: 1**
 
 ### Q164
 
-「it has been decided」(n4-036) を あらわす ぶんぽうは どれですか。
+「to decide on」(n4-036) を あらわす ぶんぽうは どれですか。
 
-1. ことになる
-2. Format: `PATTERN
-3. がる / がっている
-4. ばあいは
+1. ことにする
+2. はずだ
+3. いらっしゃる
+4. 間に（あいだに）
 
 **Answer: 1**
 
 ### Q165
 
-「to decide on」(n4-037) を あらわす ぶんぽうは どれですか。
+「to make something」(n4-037) を あらわす ぶんぽうは どれですか。
 
-1. 始める（はじめる）
-2. ことにする
-3. あまり〜ない
-4. でございます
+1. きっと
+2. くする
+3. ではないか
+4. はずがない
 
 **Answer: 2**
 
 ### Q166
 
-「to make something」(n4-038) を あらわす ぶんぽうは どれですか。
+「quickly」(n4-038) を あらわす ぶんぽうは どれですか。
 
-1. から作る
-2. いらっしゃる
-3. ばあいは
-4. くする
+1. 出す（だす）
+2. がり
+3. 間に（あいだに）
+4. 急に（きゅうに）
 
 **Answer: 4**
 
 ### Q167
 
-「quickly」(n4-039) を あらわす ぶんぽうは どれですか。
+「by」(n4-039) を あらわす ぶんぽうは どれですか。
 
-1. かもしれない
-2. 急に（きゅうに）
-3. いらっしゃる
-4. いたします
+1. かしら
+2. までに
+3. がり
+4. かどうか
 
 **Answer: 2**
 
 ### Q168
 
-「by」(n4-040) を あらわす ぶんぽうは どれですか。
+「as it is」(n4-040) を あらわす ぶんぽうは どれですか。
 
-1. いたします
-2. かどうか
-3. までに
-4. から作る
+1. かどうか
+2. から作る
+3. まま
+4. 出す（だす）
 
 **Answer: 3**
 
 ### Q169
 
-「as it is」(n4-041) を あらわす ぶんぽうは どれですか。
+「both」(n4-041) を あらわす ぶんぽうは どれですか。
 
-1. まま
-2. じゃないか
-3. だけで
-4. かもしれない
+1. または
+2. かもしれない
+3. ひつようがある
+4. ばあいは
 
 **Answer: 1**
 
 ### Q170
 
-「both」(n4-042) を あらわす ぶんぽうは どれですか。
+「like」(n4-042) を あらわす ぶんぽうは どれですか。
 
-1. いらっしゃる
-2. ば
-3. 間に（あいだに）
-4. または
+1. がり
+2. かな
+3. でございます
+4. みたいだ
 
 **Answer: 4**
 
 ### Q171
 
-「like」(n4-043) を あらわす ぶんぽうは どれですか。
+「like, similar to」(n4-043) を あらわす ぶんぽうは どれですか。
 
-1. あまり〜ない
-2. みたいだ
-3. いらっしゃる
-4. ひつようがある
+1. ではないか
+2. みたいな
+3. がり
+4. いたします
 
 **Answer: 2**
 
 ### Q172
 
-「like, similar to」(n4-044) を あらわす ぶんぽうは どれですか。
+「like」(n4-044) を あらわす ぶんぽうは どれですか。
 
-1. がする
-2. みたいな
-3. いらっしゃる
-4. でございます
+1. 間（あいだ）
+2. みたいに
+3. がり
+4. はずがない
 
 **Answer: 2**
 
 ### Q173
 
-「like」(n4-045) を あらわす ぶんぽうは どれですか。
+「as many as」(n4-045) を あらわす ぶんぽうは どれですか。
 
-1. でございます
-2. から作る
-3. みたいに
-4. ひつようがある
+1. でも
+2. も
+3. ばかり
+4. ね
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q174
 
-「as many as」(n4-046) を あらわす ぶんぽうは どれですか。
+「don't ~ (order somebody to not do something)」(n4-046) を あらわす ぶんぽうは どれですか。
 
-1. も
-2. でも
-3. が
-4. ばかり
-
-**Answer: 1**
-
-### Q175
-
-「don't ~ (order somebody to not do something)」(n4-047) を あらわす ぶんぽうは どれですか。
-
-1. ではないか
-2. ば
+1. がる / がっている
+2. いらっしゃる
 3. な
-4. がり
+4. 間に（あいだに）
 
 **Answer: 3**
 
-### Q176
+### Q175
 
-「such as」(n4-048) を あらわす ぶんぽうは どれですか。
+「such as」(n4-047) を あらわす ぶんぽうは どれですか。
 
 1. でも
-2. まで
-3. ばかり
+2. ばかり
+3. が
 4. など
+
+**Answer: 4**
+
+### Q176
+
+「while」(n4-048) を あらわす ぶんぽうは どれですか。
+
+1. 始める（はじめる）
+2. かもしれない
+3. ございます
+4. ながら
 
 **Answer: 4**
 
 ### Q177
 
-「while」(n4-049) を あらわす ぶんぽうは どれですか。
+「not easy to」(n4-049) を あらわす ぶんぽうは どれですか。
 
-1. 出す（だす）
-2. Format: `PATTERN
+1. だけで
+2. あまり〜ない
 3. はずだ
-4. ながら
+4. なかなか〜ない
 
 **Answer: 4**
 
 ### Q178
 
-「not easy to」(n4-050) を あらわす ぶんぽうは どれですか。
+「must do something」(n4-050) を あらわす ぶんぽうは どれですか。
 
-1. かい
-2. Format: `PATTERN
-3. かな
-4. なかなか〜ない
+1. なければいけない
+2. かい
+3. いらっしゃる
+4. ございます
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q179
 
 「must do something」(n4-051) を あらわす ぶんぽうは どれですか。
 
-1. なければいけない
-2. いたします
+1. きっと
+2. かもしれない
 3. かどうか
-4. かもしれない
+4. なければならない
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q180
 
-「must do something」(n4-052) を あらわす ぶんぽうは どれですか。
+「if」(n4-052) を あらわす ぶんぽうは どれですか。
 
-1. から作る
-2. なければならない
-3. ば
-4. かもしれない
+1. いらっしゃる
+2. かしら
+3. かな
+4. なら
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q181
 
-「if」(n4-053) を あらわす ぶんぽうは どれですか。
+「do this (soft/firm command)」(n4-053) を あらわす ぶんぽうは どれですか。
 
-1. かもしれない
-2. でございます
-3. なら
-4. いらっしゃる
-
-**Answer: 3**
-
-### Q182
-
-「do this (soft/firm command)」(n4-054) を あらわす ぶんぽうは どれですか。
-
-1. ございます
-2. かしら
-3. ではないか
+1. じゃないか
+2. ございます
+3. がする
 4. なさい
 
 **Answer: 4**
 
-### Q183
+### Q182
 
-「to do (honorific)」(n4-055) を あらわす ぶんぽうは どれですか。
+「to do (honorific)」(n4-054) を あらわす ぶんぽうは どれですか。
 
-1. 間（あいだ）
-2. 後で（あとで）
-3. だけで
-4. なさる
-
-**Answer: 4**
-
-### Q184
-
-「to notice」(n4-056) を あらわす ぶんぽうは どれですか。
-
-1. から作る
-2. いらっしゃる
-3. ばあいは
-4. に気がつく（にきがつく）
-
-**Answer: 4**
-
-### Q185
-
-「to look」(n4-057) を あらわす ぶんぽうは どれですか。
-
-1. に見える（にみえる）
-2. いたします
-3. かどうか
-4. ではないか
+1. なさる
+2. 始める（はじめる）
+3. いたします
+4. じゃないか
 
 **Answer: 1**
 
-### Q186
+### Q183
 
-「to make something」(n4-058) を あらわす ぶんぽうは どれですか。
+「to notice」(n4-055) を あらわす ぶんぽうは どれですか。
 
-1. ひつようがある
-2. にする
-3. かどうか
-4. いたします
+1. 間に（あいだに）
+2. に気がつく（にきがつく）
+3. 後で（あとで）
+4. 始める（はじめる）
 
 **Answer: 2**
 
-### Q187
+### Q184
 
-「difficult to do」(n4-059) を あらわす ぶんぽうは どれですか。
+「to look」(n4-056) を あらわす ぶんぽうは どれですか。
 
-1. いたします
-2. 間に（あいだに）
-3. にくい
+1. かな
+2. ばあいは
+3. に見える（にみえる）
+4. 間（あいだ）
+
+**Answer: 3**
+
+### Q185
+
+「to make something」(n4-057) を あらわす ぶんぽうは どれですか。
+
+1. でございます
+2. かしら
+3. にする
 4. 後で（あとで）
 
 **Answer: 3**
 
+### Q186
+
+「difficult to do」(n4-058) を あらわす ぶんぽうは どれですか。
+
+1. ばあいは
+2. ひつようがある
+3. 間に（あいだに）
+4. にくい
+
+**Answer: 4**
+
+### Q187
+
+「in」(n4-059) を あらわす ぶんぽうは どれですか。
+
+1. 後で（あとで）
+2. の中で（のなかで）
+3. がり
+4. ございます
+
+**Answer: 2**
+
 ### Q188
 
-「in」(n4-060) を あらわす ぶんぽうは どれですか。
+「although, in spite of, even though」(n4-060) を あらわす ぶんぽうは どれですか。
 
-1. の中で（のなかで）
+1. がり
 2. あまり〜ない
-3. いたします
-4. はずがない
+3. きっと
+4. のに
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q189
 
-「although, in spite of, even though」(n4-061) を あらわす ぶんぽうは どれですか。
+「to (do something)」(n4-061) を あらわす ぶんぽうは どれですか。
 
-1. のに
-2. かしら
-3. いたします
-4. ば
+1. のに (alt.)
+2. 間（あいだ）
+3. ひつようがある
+4. いたします
 
 **Answer: 1**
 

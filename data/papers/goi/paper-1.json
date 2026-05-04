@@ -12,9 +12,9 @@
       "stem_html": "「入る」と おなじ いみの ことばを えらんでください。",
       "choices": [
         "to enter (Group 1 exception - looks like Group 2)",
-        "to send",
-        "(respectful) to be",
-        "to run (Group 1 exception - looks like Group 2)"
+        "to gather",
+        "to add (numbers)",
+        "to need (Group 1 exception - looks like Group 2"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -25,9 +25,9 @@
       "type": "mcq",
       "stem_html": "「かえる」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "to enter (Group 1 exception - looks like Group 2)",
-        "to send",
-        "to remember",
+        "to run (Group 1 exception - looks like Group 2)",
+        "to gather",
+        "to know (Group 1 exception - looks like Group 2)",
         "to return home (Group 1 exception - looks like Group 2)"
       ],
       "correctIndex": 3,
@@ -39,10 +39,10 @@
       "type": "mcq",
       "stem_html": "「はしる」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "to be hungry",
-        "to go through",
+        "to be found",
+        "to enter (Group 1 exception - looks like Group 2)",
         "to run (Group 1 exception - looks like Group 2)",
-        "(respectful) to give"
+        "to copy or photograph"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -53,9 +53,9 @@
       "type": "mcq",
       "stem_html": "「しる」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "to go through",
-        "to be found",
-        "to disappear",
+        "to perform",
+        "to be hungry",
+        "to rise",
         "to know (Group 1 exception - looks like Group 2)"
       ],
       "correctIndex": 3,
@@ -68,9 +68,9 @@
       "stem_html": "「きる」と おなじ いみの ことばを えらんでください。",
       "choices": [
         "to cut (Group 1 exception - looks like Group 2",
-        "to copy or photograph",
-        "to remember",
-        "to enter (Group 1 exception - looks like Group 2)"
+        "to send",
+        "to know (Group 1 exception - looks like Group 2)",
+        "to run (Group 1 exception - looks like Group 2)"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -81,10 +81,10 @@
       "type": "mcq",
       "stem_html": "「いる」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "to remember",
+        "to know (Group 1 exception - looks like Group 2)",
         "to need (Group 1 exception - looks like Group 2",
-        "to perform",
-        "to copy or photograph"
+        "to commute",
+        "to send"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -97,8 +97,8 @@
       "choices": [
         "clearly",
         "ah",
-        "especially",
-        "soon"
+        "completely",
+        "rapidly"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -110,8 +110,8 @@
       "stem_html": "「アフリカ」と おなじ いみの ことばを えらんでください。",
       "choices": [
         "flavor",
-        "petrol station",
-        "accessory",
+        "America",
+        "baby",
         "Africa"
       ],
       "correctIndex": 3,
@@ -123,10 +123,10 @@
       "type": "mcq",
       "stem_html": "「上がる」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "to go through",
-        "to stop",
+        "to perform",
+        "to enter (Group 1 exception - looks like Group 2)",
         "to rise",
-        "to carry"
+        "to go through"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -138,9 +138,9 @@
       "stem_html": "「味」と おなじ いみの ことばを えらんでください。",
       "choices": [
         "flavor",
-        "a feast",
-        "your husband",
-        "grapes"
+        "grapes",
+        "alcohol",
+        "a glass"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -151,10 +151,10 @@
       "type": "mcq",
       "stem_html": "「アジア」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "caution",
-        "announcer",
+        "accessory",
+        "petrol",
         "Asia",
-        "Africa"
+        "caution"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -165,10 +165,10 @@
       "type": "mcq",
       "stem_html": "「赤ちゃん」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "announcer",
-        "suffix for familiar female person",
+        "petrol",
+        "Asia",
         "baby",
-        "fax"
+        "literature"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -179,9 +179,9 @@
       "type": "mcq",
       "stem_html": "「アクセサリー」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "junior high school",
-        "literature",
-        "petrol station",
+        "baby",
+        "building",
+        "America",
         "accessory"
       ],
       "correctIndex": 3,
@@ -193,10 +193,10 @@
       "type": "mcq",
       "stem_html": "「アメリカ」と おなじ いみの ことばを えらんでください。",
       "choices": [
+        "to check",
         "geography",
-        "bell",
         "America",
-        "Africa"
+        "caution"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -207,7 +207,7 @@
       "type": "mcq",
       "stem_html": "「アナウンサー」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "America",
+        "fax",
         "gasoline",
         "university student",
         "announcer"

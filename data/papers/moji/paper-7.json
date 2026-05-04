@@ -11,9 +11,9 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "止める",
-        "昼休み",
-        "下さる",
+        "真ん中",
+        "大学生",
+        "下りる",
         "会話する"
       ],
       "correctIndex": 3,
@@ -25,9 +25,9 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "真ん中",
-        "味",
-        "代わり",
+        "昼間",
+        "通る",
+        "社会",
         "急行"
       ],
       "correctIndex": 3,
@@ -39,10 +39,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "下がる",
+        "上がる",
         "急行する",
-        "生き物",
-        "意見する"
+        "色んな",
+        "食料品"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -54,9 +54,9 @@
       "stem_html": "",
       "choices": [
         "急ぐ",
-        "通う",
-        "親切",
-        "昼間"
+        "建てる",
+        "大体",
+        "帰り"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -67,9 +67,9 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "人口",
+        "入る",
+        "真ん中",
         "大事",
-        "店員",
         "用意"
       ],
       "correctIndex": 3,
@@ -81,10 +81,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "見物",
+        "医学",
         "中学校",
-        "以外",
-        "教会"
+        "生まれ",
+        "無くなる"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -95,9 +95,9 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "特に",
-        "社会",
-        "屋上",
+        "この間",
+        "人口",
+        "生き物",
         "建てる"
       ],
       "correctIndex": 3,
@@ -109,9 +109,9 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "子",
-        "入院",
-        "送る",
+        "心",
+        "屋上",
+        "運転手",
         "大事"
       ],
       "correctIndex": 3,
@@ -123,10 +123,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "仕方",
-        "大学生",
+        "生じる",
+        "下がる",
         "答え",
-        "十分"
+        "花見"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -137,10 +137,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "火事",
-        "開く",
+        "動く",
+        "意見",
         "気",
-        "店員"
+        "親切"
       ],
       "correctIndex": 2,
       "rationale": "",

@@ -27,10 +27,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「いる」とは どのような いみですか。
 
-1. accessory
+1. part-time job
 2. to need (Group 1 exception - looks like Group 2
-3. Africa
-4. to part-time job
+3. to rise
+4. accessory
 
 **Answer: 2**
 
@@ -38,10 +38,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「あ」とは どのような いみですか。
 
-1. part-time job
-2. building
+1. to return home (Group 1 exception - looks like Group 2)
+2. ah
 3. Ah
-4. bell
+4. Africa
 
 **Answer: 3**
 
@@ -49,10 +49,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「ああ」とは どのような いみですか。
 
-1. to cut (Group 1 exception - looks like Group 2
+1. to enter (Group 1 exception - looks like Group 2)
 2. ah
-3. Asia
-4. to be surprised
+3. suffix for familiar female person
+4. to part-time job
 
 **Answer: 2**
 
@@ -64,10 +64,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「味」とは どのような いみですか。
 
-1. building
+1. to rise
 2. flavor
-3. America
-4. to rise
+3. to need (Group 1 exception - looks like Group 2
+4. such
 
 **Answer: 2**
 
@@ -75,10 +75,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「アジア」とは どのような いみですか。
 
-1. such
-2. to be surprised
+1. bell
+2. to part-time job
 3. Asia
-4. to run (Group 1 exception - looks like Group 2)
+4. to return home (Group 1 exception - looks like Group 2)
 
 **Answer: 3**
 
@@ -86,10 +86,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「赤ちゃん」とは どのような いみですか。
 
-1. America
-2. suffix for familiar female person
+1. to need (Group 1 exception - looks like Group 2
+2. building
 3. baby
-4. to be surprised
+4. Asia
 
 **Answer: 3**
 
@@ -101,10 +101,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「アナウンサー」とは どのような いみですか。
 
-1. to return home (Group 1 exception - looks like Group 2)
+1. alcohol
 2. announcer
-3. to check
-4. America
+3. to collect
+4. grapes
 
 **Answer: 2**
 
@@ -112,10 +112,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「あんな」とは どのような いみですか。
 
-1. to run (Group 1 exception - looks like Group 2)
+1. suffix for familiar female person
 2. such
-3. suffix for familiar female person
-4. grapes
+3. building
+4. to be surprised
 
 **Answer: 2**
 
@@ -123,10 +123,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「安心」とは どのような いみですか。
 
-1. to return home (Group 1 exception - looks like Group 2)
-2. to need (Group 1 exception - looks like Group 2
+1. announcer
+2. to run (Group 1 exception - looks like Group 2)
 3. peace of mind
-4. Ah
+4. to be surprised
 
 **Answer: 3**
 
@@ -138,10 +138,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「アルコール」とは どのような いみですか。
 
-1. to collect
-2. to rise
+1. baby
+2. such
 3. alcohol
-4. to know (Group 1 exception - looks like Group 2)
+4. Asia
 
 **Answer: 3**
 
@@ -150,9 +150,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「集まる」とは どのような いみですか。
 
 1. flavor
-2. ah
+2. to enter (Group 1 exception - looks like Group 2)
 3. to gather
-4. suffix for familiar female person
+4. to check
 
 **Answer: 3**
 
@@ -160,10 +160,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「集める」とは どのような いみですか。
 
-1. America
+1. alcohol
 2. to collect
-3. baby
-4. to return home (Group 1 exception - looks like Group 2)
+3. flavor
+4. America
 
 **Answer: 2**
 
@@ -175,9 +175,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「ビル」とは どのような いみですか。
 
-1. to part-time job
-2. America
-3. to collect
+1. accessory
+2. grapes
+3. baby
 4. building
 
 **Answer: 4**
@@ -186,9 +186,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「ぶどう」とは どのような いみですか。
 
-1. to check
-2. such
-3. bell
+1. to collect
+2. bell
+3. Africa
 4. grapes
 
 **Answer: 4**
@@ -197,9 +197,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「文学」とは どのような いみですか。
 
-1. announcer
-2. Asia
-3. part-time job
+1. to gather
+2. suffix for familiar female person
+3. Africa
 4. literature
 
 **Answer: 4**
@@ -212,10 +212,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「チェックする」とは どのような いみですか。
 
-1. suffix for familiar female person
-2. to collect
+1. building
+2. baby
 3. to check
-4. to enter (Group 1 exception - looks like Group 2)
+4. literature
 
 **Answer: 3**
 
@@ -223,10 +223,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「力」とは どのような いみですか。
 
-1. grapes
-2. to collect
+1. to know (Group 1 exception - looks like Group 2)
+2. baby
 3. energy
-4. to need (Group 1 exception - looks like Group 2
+4. to part-time job
 
 **Answer: 3**
 
@@ -234,9 +234,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「地理」とは どのような いみですか。
 
-1. to know (Group 1 exception - looks like Group 2)
-2. literature
-3. suffix for familiar female person
+1. Asia
+2. building
+3. to check
 4. geography
 
 **Answer: 4**
@@ -250,9 +250,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「注意する」とは どのような いみですか。
 
 1. to caution
-2. to need (Group 1 exception - looks like Group 2
-3. suffix for familiar female person
-4. to run (Group 1 exception - looks like Group 2)
+2. to part-time job
+3. to check
+4. to return home (Group 1 exception - looks like Group 2)
 
 **Answer: 1**
 
@@ -260,10 +260,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「大分」とは どのような いみですか。
 
-1. to enter (Group 1 exception - looks like Group 2)
+1. literature
 2. considerably
-3. building
-4. to gather
+3. to rise
+4. to cut (Group 1 exception - looks like Group 2
 
 **Answer: 2**
 
@@ -271,9 +271,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「大学生」とは どのような いみですか。
 
-1. to be surprised
-2. to cut (Group 1 exception - looks like Group 2
-3. part-time job
+1. to run (Group 1 exception - looks like Group 2)
+2. America
+3. Africa
 4. university student
 
 **Answer: 4**
@@ -286,10 +286,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「できるだけ」とは どのような いみですか。
 
-1. baby
+1. peace of mind
 2. as much as possible
-3. suffix for familiar female person
-4. to rise
+3. to check
+4. such
 
 **Answer: 2**
 
@@ -297,9 +297,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「どんどん」とは どのような いみですか。
 
-1. to run (Group 1 exception - looks like Group 2)
-2. baby
-3. Africa
+1. to return home (Group 1 exception - looks like Group 2)
+2. peace of mind
+3. to collect
 4. rapidly
 
 **Answer: 4**
@@ -308,10 +308,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「エスカレーター」とは どのような いみですか。
 
-1. bell
-2. accessory
+1. Ah
+2. part-time job
 3. escalator
-4. to be surprised
+4. to run (Group 1 exception - looks like Group 2)
 
 **Answer: 3**
 
@@ -323,10 +323,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「ガラス」とは どのような いみですか。
 
-1. baby
-2. Ah
+1. peace of mind
+2. to be surprised
 3. a glass
-4. to part-time job
+4. accessory
 
 **Answer: 3**
 
@@ -334,9 +334,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「ガソリン」とは どのような いみですか。
 
-1. Asia
-2. such
-3. to gather
+1. suffix for familiar female person
+2. bell
+3. to cut (Group 1 exception - looks like Group 2
 4. gasoline
 
 **Answer: 4**
@@ -345,10 +345,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「ガソリンスタンド」とは どのような いみですか。
 
-1. such
+1. bell
 2. petrol station
-3. to run (Group 1 exception - looks like Group 2)
-4. grapes
+3. to return home (Group 1 exception - looks like Group 2)
+4. to know (Group 1 exception - looks like Group 2)
 
 **Answer: 2**
 
@@ -360,9 +360,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「ごちそうする」とは どのような いみですか。
 
-1. to rise
-2. to know (Group 1 exception - looks like Group 2)
-3. to part-time job
+1. such
+2. Asia
+3. accessory
 4. to a feast
 
 **Answer: 4**
@@ -371,10 +371,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「ごみ」とは どのような いみですか。
 
-1. to cut (Group 1 exception - looks like Group 2
-2. to run (Group 1 exception - looks like Group 2)
+1. America
+2. to return home (Group 1 exception - looks like Group 2)
 3. rubbish
-4. to gather
+4. to cut (Group 1 exception - looks like Group 2
 
 **Answer: 3**
 
@@ -383,9 +383,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「ご主人」とは どのような いみですか。
 
 1. your husband
-2. ah
-3. to part-time job
-4. literature
+2. to enter (Group 1 exception - looks like Group 2)
+3. accessory
+4. building
 
 **Answer: 1**
 
@@ -398,9 +398,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「花見」とは どのような いみですか。
 
 1. cherry blossom viewing
-2. accessory
-3. to cut (Group 1 exception - looks like Group 2
-4. Africa
+2. part-time job
+3. America
+4. to collect
 
 **Answer: 1**
 
@@ -408,9 +408,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「花見する」とは どのような いみですか。
 
-1. to check
-2. baby
-3. alcohol
+1. grapes
+2. peace of mind
+3. ah
 4. to cherry blossom viewing
 
 **Answer: 4**
@@ -420,9 +420,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「ハンドバッグ」とは どのような いみですか。
 
 1. handbag
-2. literature
-3. such
-4. alcohol
+2. building
+3. bell
+4. ah
 
 **Answer: 1**
 
@@ -436,8 +436,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 1. fire
 2. flavor
-3. Asia
-4. to gather
+3. suffix for familiar female person
+4. to cut (Group 1 exception - looks like Group 2
 
 **Answer: 1**
 
@@ -446,9 +446,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「開く」とは どのような いみですか。
 
 1. to open
-2. to cut (Group 1 exception - looks like Group 2
-3. suffix for familiar female person
-4. ah
+2. America
+3. to check
+4. to enter (Group 1 exception - looks like Group 2)
 
 **Answer: 1**
 
@@ -456,10 +456,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「昼間」とは どのような いみですか。
 
-1. to gather
-2. to return home (Group 1 exception - looks like Group 2)
+1. to cut (Group 1 exception - looks like Group 2
+2. alcohol
 3. daytime
-4. grapes
+4. to know (Group 1 exception - looks like Group 2)
 
 **Answer: 3**
 
@@ -471,9 +471,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「一度」とは どのような いみですか。
 
-1. Asia
-2. bell
-3. such
+1. suffix for familiar female person
+2. Ah
+3. bell
 4. once
 
 **Answer: 4**
@@ -482,9 +482,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「以外」とは どのような いみですか。
 
-1. accessory
-2. to enter (Group 1 exception - looks like Group 2)
-3. to run (Group 1 exception - looks like Group 2)
+1. part-time job
+2. literature
+3. to return home (Group 1 exception - looks like Group 2)
 4. with the exception of
 
 **Answer: 4**
@@ -493,10 +493,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「医学」とは どのような いみですか。
 
-1. to gather
+1. to cut (Group 1 exception - looks like Group 2
 2. medical science
-3. to run (Group 1 exception - looks like Group 2)
-4. accessory
+3. to return home (Group 1 exception - looks like Group 2)
+4. part-time job
 
 **Answer: 2**
 
@@ -509,9 +509,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「以下」とは どのような いみですか。
 
 1. not exceeding
-2. peace of mind
-3. to return home (Group 1 exception - looks like Group 2)
-4. suffix for familiar female person
+2. announcer
+3. alcohol
+4. to check
 
 **Answer: 1**
 
@@ -519,10 +519,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「意見」とは どのような いみですか。
 
-1. alcohol
+1. ah
 2. opinion
-3. to rise
-4. Asia
+3. such
+4. suffix for familiar female person
 
 **Answer: 2**
 
@@ -530,10 +530,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「意見する」とは どのような いみですか。
 
-1. Ah
+1. to be surprised
 2. to opinion
-3. ah
-4. to enter (Group 1 exception - looks like Group 2)
+3. to enter (Group 1 exception - looks like Group 2)
+4. literature
 
 **Answer: 2**
 
@@ -547,10 +547,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「いっぱい」とは どのような いみですか。
 
-1. to need (Group 1 exception - looks like Group 2
+1. to part-time job
 2. full
-3. to cut (Group 1 exception - looks like Group 2
-4. building
+3. America
+4. to rise
 
 **Answer: 2**
 
@@ -558,9 +558,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「色んな」とは どのような いみですか。
 
-1. part-time job
-2. to collect
-3. ah
+1. Africa
+2. baby
+3. to enter (Group 1 exception - looks like Group 2)
 4. various
 
 **Answer: 4**
@@ -570,9 +570,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「急ぐ」とは どのような いみですか。
 
 1. to hurry
-2. to cut (Group 1 exception - looks like Group 2
-3. alcohol
-4. to collect
+2. America
+3. ah
+4. baby
 
 **Answer: 1**
 
@@ -584,9 +584,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「時代」とは どのような いみですか。
 
-1. to rise
-2. grapes
-3. such
+1. such
+2. to know (Group 1 exception - looks like Group 2)
+3. bell
 4. period
 
 **Answer: 4**
@@ -595,10 +595,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「人口」とは どのような いみですか。
 
-1. peace of mind
-2. Ah
+1. announcer
+2. to be surprised
 3. population
-4. to enter (Group 1 exception - looks like Group 2)
+4. literature
 
 **Answer: 3**
 
@@ -606,10 +606,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「人生」とは どのような いみですか。
 
-1. such
+1. bell
 2. human life
-3. to return home (Group 1 exception - looks like Group 2)
-4. America
+3. alcohol
+4. to need (Group 1 exception - looks like Group 2
 
 **Answer: 2**
 
@@ -622,9 +622,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「帰り」とは どのような いみですか。
 
 1. return
-2. alcohol
-3. to know (Group 1 exception - looks like Group 2)
-4. to be surprised
+2. ah
+3. Asia
+4. to run (Group 1 exception - looks like Group 2)
 
 **Answer: 1**
 
@@ -633,9 +633,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「会場」とは どのような いみですか。
 
 1. assembly hall
-2. Asia
-3. to collect
-4. literature
+2. suffix for familiar female person
+3. baby
+4. building
 
 **Answer: 1**
 
@@ -643,10 +643,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「会話」とは どのような いみですか。
 
-1. ah
-2. Ah
+1. to enter (Group 1 exception - looks like Group 2)
+2. to be surprised
 3. conversation
-4. Africa
+4. to collect
 
 **Answer: 3**
 
@@ -658,9 +658,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「考える」とは どのような いみですか。
 
-1. to need (Group 1 exception - looks like Group 2
+1. to part-time job
 2. to think
-3. to be surprised
+3. to run (Group 1 exception - looks like Group 2)
 4. flavor
 
 **Answer: 2**
@@ -669,10 +669,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「代わり」とは どのような いみですか。
 
-1. to cut (Group 1 exception - looks like Group 2
+1. America
 2. instead
-3. part-time job
-4. America
+3. Africa
+4. to need (Group 1 exception - looks like Group 2
 
 **Answer: 2**
 
@@ -680,9 +680,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「通う」とは どのような いみですか。
 
-1. to cut (Group 1 exception - looks like Group 2
-2. accessory
-3. to enter (Group 1 exception - looks like Group 2)
+1. America
+2. part-time job
+3. literature
 4. to commute
 
 **Answer: 4**
@@ -695,9 +695,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「計画する」とは どのような いみですか。
 
-1. alcohol
-2. announcer
-3. such
+1. ah
+2. to gather
+3. bell
 4. to plan
 
 **Answer: 4**
@@ -706,9 +706,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「見物」とは どのような いみですか。
 
-1. to cut (Group 1 exception - looks like Group 2
-2. peace of mind
-3. announcer
+1. America
+2. announcer
+3. to gather
 4. sightseeing
 
 **Answer: 4**
@@ -717,9 +717,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「見物する」とは どのような いみですか。
 
-1. baby
-2. America
-3. grapes
+1. peace of mind
+2. to need (Group 1 exception - looks like Group 2
+3. to know (Group 1 exception - looks like Group 2)
 4. to sightseeing
 
 **Answer: 4**
@@ -732,10 +732,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「研究室」とは どのような いみですか。
 
-1. part-time job
-2. suffix for familiar female person
+1. Africa
+2. to check
 3. laboratory
-4. Asia
+4. suffix for familiar female person
 
 **Answer: 3**
 
@@ -743,10 +743,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「気」とは どのような いみですか。
 
-1. such
-2. literature
+1. bell
+2. building
 3. spirit
-4. America
+4. to need (Group 1 exception - looks like Group 2
 
 **Answer: 3**
 
@@ -756,8 +756,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 1. flavor
 2. feeling
-3. accessory
-4. alcohol
+3. part-time job
+4. ah
 
 **Answer: 2**
 
@@ -770,9 +770,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「着物」とは どのような いみですか。
 
 1. kimono
-2. suffix for familiar female person
+2. to check
 3. flavor
-4. to run (Group 1 exception - looks like Group 2)
+4. to return home (Group 1 exception - looks like Group 2)
 
 **Answer: 1**
 
@@ -780,8 +780,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「子」とは どのような いみですか。
 
-1. to need (Group 1 exception - looks like Group 2
-2. Ah
+1. to part-time job
+2. to be surprised
 3. flavor
 4. child
 
@@ -793,8 +793,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 1. flavor
 2. heart
-3. bell
-4. to return home (Group 1 exception - looks like Group 2)
+3. Ah
+4. alcohol
 
 **Answer: 2**
 
@@ -806,9 +806,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「このごろ」とは どのような いみですか。
 
-1. bell
-2. literature
-3. Ah
+1. Ah
+2. building
+3. to be surprised
 4. these days
 
 **Answer: 4**
@@ -817,8 +817,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「コンピュータ」とは どのような いみですか。
 
-1. alcohol
-2. America
+1. ah
+2. to need (Group 1 exception - looks like Group 2
 3. flavor
 4. computer
 
@@ -828,10 +828,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「コンサート」とは どのような いみですか。
 
-1. to rise
+1. such
 2. concert
-3. literature
-4. to cut (Group 1 exception - looks like Group 2
+3. building
+4. America
 
 **Answer: 2**
 
@@ -844,9 +844,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「答え」とは どのような いみですか。
 
 1. response
-2. accessory
-3. to run (Group 1 exception - looks like Group 2)
-4. bell
+2. part-time job
+3. to return home (Group 1 exception - looks like Group 2)
+4. Ah
 
 **Answer: 1**
 
@@ -854,10 +854,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「小鳥」とは どのような いみですか。
 
-1. baby
-2. to rise
+1. peace of mind
+2. such
 3. small bird
-4. ah
+4. to enter (Group 1 exception - looks like Group 2)
 
 **Answer: 3**
 
@@ -866,9 +866,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「こう」とは どのような いみですか。
 
 1. this way
-2. Asia
-3. accessory
-4. to collect
+2. suffix for familiar female person
+3. part-time job
+4. baby
 
 **Answer: 1**
 
@@ -881,9 +881,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「工場」とは どのような いみですか。
 
 1. factory
-2. alcohol
-3. to run (Group 1 exception - looks like Group 2)
-4. part-time job
+2. ah
+3. to return home (Group 1 exception - looks like Group 2)
+4. Africa
 
 **Answer: 1**
 
@@ -891,10 +891,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「高校」とは どのような いみですか。
 
-1. accessory
-2. peace of mind
+1. part-time job
+2. announcer
 3. senior high school
-4. alcohol
+4. ah
 
 **Answer: 3**
 
@@ -902,10 +902,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「高校生」とは どのような いみですか。
 
-1. such
+1. bell
 2. high school student
-3. baby
-4. to part-time job
+3. peace of mind
+4. accessory
 
 **Answer: 2**
 
@@ -919,10 +919,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「教会」とは どのような いみですか。
 
-1. ah
-2. to run (Group 1 exception - looks like Group 2)
+1. to enter (Group 1 exception - looks like Group 2)
+2. to return home (Group 1 exception - looks like Group 2)
 3. church
-4. America
+4. to need (Group 1 exception - looks like Group 2
 
 **Answer: 3**
 
@@ -930,10 +930,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「急」とは どのような いみですか。
 
-1. such
+1. bell
 2. sudden
-3. to check
-4. to return home (Group 1 exception - looks like Group 2)
+3. grapes
+4. alcohol
 
 **Answer: 2**
 
@@ -941,10 +941,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「急行」とは どのような いみですか。
 
-1. peace of mind
+1. announcer
 2. hurrying
-3. to need (Group 1 exception - looks like Group 2
-4. to gather
+3. to part-time job
+4. to cut (Group 1 exception - looks like Group 2
 
 **Answer: 2**
 
@@ -956,10 +956,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「まず」とは どのような いみですか。
 
-1. literature
+1. building
 2. first of all
-3. to collect
-4. to enter (Group 1 exception - looks like Group 2)
+3. baby
+4. literature
 
 **Answer: 2**
 
@@ -967,10 +967,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「見える」とは どのような いみですか。
 
-1. Ah
+1. to be surprised
 2. to be seen
-3. baby
-4. grapes
+3. peace of mind
+4. to know (Group 1 exception - looks like Group 2)
 
 **Answer: 2**
 
@@ -978,9 +978,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「見つかる」とは どのような いみですか。
 
-1. to enter (Group 1 exception - looks like Group 2)
-2. bell
-3. Ah
+1. literature
+2. Ah
+3. to be surprised
 4. to be found
 
 **Answer: 4**
@@ -993,10 +993,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「もうすぐ」とは どのような いみですか。
 
-1. to enter (Group 1 exception - looks like Group 2)
-2. to gather
+1. literature
+2. to cut (Group 1 exception - looks like Group 2
 3. soon
-4. suffix for familiar female person
+4. to check
 
 **Answer: 3**
 
@@ -1005,9 +1005,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「無理」とは どのような いみですか。
 
 1. impossible
-2. Africa
-3. such
-4. Asia
+2. to collect
+3. bell
+4. suffix for familiar female person
 
 **Answer: 1**
 
@@ -1015,9 +1015,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「無くなる」とは どのような いみですか。
 
-1. grapes
-2. peace of mind
-3. building
+1. to know (Group 1 exception - looks like Group 2)
+2. announcer
+3. to rise
 4. to disappear
 
 **Answer: 4**
@@ -1030,10 +1030,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「入学」とは どのような いみですか。
 
-1. to know (Group 1 exception - looks like Group 2)
+1. Asia
 2. entry to school or university
-3. Asia
-4. to cut (Group 1 exception - looks like Group 2
+3. suffix for familiar female person
+4. America
 
 **Answer: 2**
 
@@ -1041,10 +1041,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「入学する」とは どのような いみですか。
 
-1. peace of mind
+1. announcer
 2. to entry to school or university
-3. building
-4. to be surprised
+3. to rise
+4. to run (Group 1 exception - looks like Group 2)
 
 **Answer: 2**
 
@@ -1052,9 +1052,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「入院」とは どのような いみですか。
 
-1. part-time job
-2. baby
-3. building
+1. Africa
+2. peace of mind
+3. to rise
 4. hospitalization
 
 **Answer: 4**
@@ -1067,10 +1067,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「行う」とは どのような いみですか。
 
-1. literature
+1. building
 2. to perform
-3. accessory
-4. Ah
+3. part-time job
+4. to be surprised
 
 **Answer: 2**
 
@@ -1078,10 +1078,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「起こす」とは どのような いみですか。
 
-1. to gather
+1. to cut (Group 1 exception - looks like Group 2
 2. to wake
-3. to know (Group 1 exception - looks like Group 2)
-4. America
+3. Asia
+4. to need (Group 1 exception - looks like Group 2
 
 **Answer: 2**
 
@@ -1089,10 +1089,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「屋上」とは どのような いみですか。
 
-1. to check
+1. grapes
 2. rooftop
-3. to need (Group 1 exception - looks like Group 2
-4. accessory
+3. to part-time job
+4. part-time job
 
 **Answer: 2**
 
@@ -1105,9 +1105,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「思い出す」とは どのような いみですか。
 
 1. to remember
-2. to enter (Group 1 exception - looks like Group 2)
-3. ah
-4. baby
+2. literature
+3. to enter (Group 1 exception - looks like Group 2)
+4. peace of mind
 
 **Answer: 1**
 
@@ -1116,9 +1116,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「オートバイ」とは どのような いみですか。
 
 1. motorcycle
-2. bell
-3. Asia
-4. accessory
+2. Ah
+3. suffix for familiar female person
+4. part-time job
 
 **Answer: 1**
 
@@ -1126,9 +1126,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「下りる」とは どのような いみですか。
 
-1. to check
-2. ah
-3. to enter (Group 1 exception - looks like Group 2)
+1. grapes
+2. to enter (Group 1 exception - looks like Group 2)
+3. literature
 4. to get off
 
 **Answer: 4**
@@ -1142,9 +1142,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「代わり」の いみは どれですか。
 
 1. instead
-2. accessory
-3. Ah
-4. part-time job
+2. peace of mind
+3. to return home (Group 1 exception - looks like Group 2)
+4. ah
 
 **Answer: 1**
 
@@ -1156,10 +1156,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「通う」の いみは どれですか。
 
-1. part-time job
+1. ah
 2. to commute
-3. accessory
-4. to part-time job
+3. peace of mind
+4. to know (Group 1 exception - looks like Group 2)
 
 **Answer: 2**
 
@@ -1174,9 +1174,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「ケーキ」の いみは どれですか。
 
 1. cake
-2. announcer
-3. such
-4. Ah
+2. accessory
+3. to part-time job
+4. to return home (Group 1 exception - looks like Group 2)
 
 **Answer: 1**
 
@@ -1189,9 +1189,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「計画」の いみは どれですか。
 
 1. to plan
-2. Africa
-3. to cut (Group 1 exception - looks like Group 2
-4. part-time job
+2. to rise
+3. to enter (Group 1 exception - looks like Group 2)
+4. ah
 
 **Answer: 1**
 
@@ -1204,9 +1204,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「計画する」の いみは どれですか。
 
 1. to plan
-2. America
-3. to rise
-4. to know (Group 1 exception - looks like Group 2)
+2. to need (Group 1 exception - looks like Group 2
+3. Asia
+4. baby
 
 **Answer: 1**
 
@@ -1218,10 +1218,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「見物」の いみは どれですか。
 
-1. to know (Group 1 exception - looks like Group 2)
-2. ah
+1. baby
+2. part-time job
 3. sightseeing
-4. to cut (Group 1 exception - looks like Group 2
+4. to enter (Group 1 exception - looks like Group 2)
 
 **Answer: 3**
 
@@ -1233,9 +1233,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「見物する」の いみは どれですか。
 
-1. Asia
-2. America
-3. baby
+1. Africa
+2. to need (Group 1 exception - looks like Group 2
+3. flavor
 4. to sightseeing
 
 **Answer: 4**
@@ -1248,10 +1248,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「研究」の いみは どれですか。
 
-1. to part-time job
-2. to rise
+1. to know (Group 1 exception - looks like Group 2)
+2. Asia
 3. research
-4. baby
+4. flavor
 
 **Answer: 3**
 
@@ -1264,9 +1264,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「研究する」の いみは どれですか。
 
 1. to research
-2. Ah
-3. such
-4. to cut (Group 1 exception - looks like Group 2
+2. to return home (Group 1 exception - looks like Group 2)
+3. to part-time job
+4. to enter (Group 1 exception - looks like Group 2)
 
 **Answer: 1**
 
@@ -1278,9 +1278,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「研究室」の いみは どれですか。
 
-1. to know (Group 1 exception - looks like Group 2)
-2. to rise
-3. to return home (Group 1 exception - looks like Group 2)
+1. baby
+2. Asia
+3. America
 4. laboratory
 
 **Answer: 4**
@@ -1294,9 +1294,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「気」の いみは どれですか。
 
 1. spirit
-2. to enter (Group 1 exception - looks like Group 2)
-3. to rise
-4. to know (Group 1 exception - looks like Group 2)
+2. to run (Group 1 exception - looks like Group 2)
+3. Asia
+4. baby
 
 **Answer: 1**
 
@@ -1308,10 +1308,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「気分」の いみは どれですか。
 
-1. to know (Group 1 exception - looks like Group 2)
-2. America
+1. baby
+2. to need (Group 1 exception - looks like Group 2
 3. feeling
-4. Africa
+4. to rise
 
 **Answer: 3**
 

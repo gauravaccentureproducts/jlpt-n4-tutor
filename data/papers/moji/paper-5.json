@@ -11,10 +11,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "注意する",
+        "着物",
         "下げる",
-        "屋上",
-        "今度"
+        "生き物",
+        "入学"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -25,10 +25,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "店員",
-        "生き物",
+        "考える",
+        "中学校",
         "人口",
-        "通る"
+        "空気"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -39,10 +39,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "通う",
+        "水道",
         "今度",
-        "生じる",
-        "工業"
+        "一度",
+        "文学"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -54,9 +54,9 @@
       "stem_html": "",
       "choices": [
         "工業",
-        "世界",
-        "人口",
-        "小学校"
+        "味",
+        "月",
+        "生き物"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -67,10 +67,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "知らせる",
+        "集まる",
         "入院する",
-        "生きる",
-        "下げる"
+        "ご主人",
+        "生じる"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -81,10 +81,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "無理",
+        "考える",
         "特に",
-        "ご主人",
-        "集める"
+        "旅館",
+        "大事"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -95,9 +95,9 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "品物",
-        "小鳥",
-        "意見",
+        "高校生",
+        "工場",
+        "無理",
         "楽しみ"
       ],
       "correctIndex": 3,
@@ -110,9 +110,9 @@
       "stem_html": "",
       "choices": [
         "以下",
-        "屋上",
-        "高校生",
-        "運転手"
+        "下さる",
+        "急ぐ",
+        "用意"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -123,10 +123,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "見物",
-        "意見する",
+        "医学",
+        "店員",
         "下りる",
-        "急行"
+        "以上"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -137,10 +137,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "新聞社",
+        "十分",
         "発音",
-        "字",
-        "地理"
+        "集まる",
+        "ご主人"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -151,10 +151,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "気",
-        "大分",
+        "人生",
+        "集まる",
         "地理",
-        "入院"
+        "見物"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -165,10 +165,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "下げる",
-        "知らせる",
+        "楽しみ",
+        "この間",
         "生き物",
-        "注意する"
+        "着物"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -179,9 +179,9 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "以下",
-        "考える",
-        "工業",
+        "医学",
+        "見物",
+        "色んな",
         "写す"
       ],
       "correctIndex": 3,
@@ -194,9 +194,9 @@
       "stem_html": "",
       "choices": [
         "生物",
-        "会場",
-        "大事",
-        "試験"
+        "特別",
+        "真ん中",
+        "止める"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -207,10 +207,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
+        "急ぐ",
         "高校生",
-        "西洋",
         "火事",
-        "用事"
+        "火"
       ],
       "correctIndex": 2,
       "rationale": "",

@@ -59,9 +59,9 @@
       "stem_html": "問: 「着物」とは どのような いみですか。",
       "choices": [
         "kimono",
-        "suffix for familiar female person",
+        "to check",
         "flavor",
-        "to run (Group 1 exception - looks like Group 2)"
+        "to return home (Group 1 exception - looks like Group 2)"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -74,8 +74,8 @@
       "type": "mcq",
       "stem_html": "問: 「子」とは どのような いみですか。",
       "choices": [
-        "to need (Group 1 exception - looks like Group 2",
-        "Ah",
+        "to part-time job",
+        "to be surprised",
         "flavor",
         "child"
       ],
@@ -92,8 +92,8 @@
       "choices": [
         "flavor",
         "heart",
-        "bell",
-        "to return home (Group 1 exception - looks like Group 2)"
+        "Ah",
+        "alcohol"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -106,9 +106,9 @@
       "type": "mcq",
       "stem_html": "問: 「このごろ」とは どのような いみですか。",
       "choices": [
-        "bell",
-        "literature",
         "Ah",
+        "building",
+        "to be surprised",
         "these days"
       ],
       "correctIndex": 3,
@@ -122,8 +122,8 @@
       "type": "mcq",
       "stem_html": "問: 「コンピュータ」とは どのような いみですか。",
       "choices": [
-        "alcohol",
-        "America",
+        "ah",
+        "to need (Group 1 exception - looks like Group 2",
         "flavor",
         "computer"
       ],
@@ -138,10 +138,10 @@
       "type": "mcq",
       "stem_html": "問: 「コンサート」とは どのような いみですか。",
       "choices": [
-        "to rise",
+        "such",
         "concert",
-        "literature",
-        "to cut (Group 1 exception - looks like Group 2"
+        "building",
+        "America"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -155,9 +155,9 @@
       "stem_html": "問: 「答え」とは どのような いみですか。",
       "choices": [
         "response",
-        "accessory",
-        "to run (Group 1 exception - looks like Group 2)",
-        "bell"
+        "part-time job",
+        "to return home (Group 1 exception - looks like Group 2)",
+        "Ah"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -170,10 +170,10 @@
       "type": "mcq",
       "stem_html": "問: 「小鳥」とは どのような いみですか。",
       "choices": [
-        "baby",
-        "to rise",
+        "peace of mind",
+        "such",
         "small bird",
-        "ah"
+        "to enter (Group 1 exception - looks like Group 2)"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -187,9 +187,9 @@
       "stem_html": "問: 「こう」とは どのような いみですか。",
       "choices": [
         "this way",
-        "Asia",
-        "accessory",
-        "to collect"
+        "suffix for familiar female person",
+        "part-time job",
+        "baby"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -203,9 +203,9 @@
       "stem_html": "問: 「工場」とは どのような いみですか。",
       "choices": [
         "factory",
-        "alcohol",
-        "to run (Group 1 exception - looks like Group 2)",
-        "part-time job"
+        "ah",
+        "to return home (Group 1 exception - looks like Group 2)",
+        "Africa"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -218,10 +218,10 @@
       "type": "mcq",
       "stem_html": "問: 「高校」とは どのような いみですか。",
       "choices": [
-        "accessory",
-        "peace of mind",
+        "part-time job",
+        "announcer",
         "senior high school",
-        "alcohol"
+        "ah"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -234,10 +234,10 @@
       "type": "mcq",
       "stem_html": "問: 「高校生」とは どのような いみですか。",
       "choices": [
-        "such",
+        "bell",
         "high school student",
-        "baby",
-        "to part-time job"
+        "peace of mind",
+        "accessory"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -250,10 +250,10 @@
       "type": "mcq",
       "stem_html": "問: 「教会」とは どのような いみですか。",
       "choices": [
-        "ah",
-        "to run (Group 1 exception - looks like Group 2)",
+        "to enter (Group 1 exception - looks like Group 2)",
+        "to return home (Group 1 exception - looks like Group 2)",
         "church",
-        "America"
+        "to need (Group 1 exception - looks like Group 2"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -266,10 +266,10 @@
       "type": "mcq",
       "stem_html": "問: 「急」とは どのような いみですか。",
       "choices": [
-        "such",
+        "bell",
         "sudden",
-        "to check",
-        "to return home (Group 1 exception - looks like Group 2)"
+        "grapes",
+        "alcohol"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -282,10 +282,10 @@
       "type": "mcq",
       "stem_html": "問: 「急行」とは どのような いみですか。",
       "choices": [
-        "peace of mind",
+        "announcer",
         "hurrying",
-        "to need (Group 1 exception - looks like Group 2",
-        "to gather"
+        "to part-time job",
+        "to cut (Group 1 exception - looks like Group 2"
       ],
       "correctIndex": 1,
       "rationale": "",

@@ -98,9 +98,9 @@
       "stem_html": "問: 「代わり」の いみは どれですか。",
       "choices": [
         "instead",
-        "accessory",
-        "Ah",
-        "part-time job"
+        "peace of mind",
+        "to return home (Group 1 exception - looks like Group 2)",
+        "ah"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -113,10 +113,10 @@
       "type": "mcq",
       "stem_html": "問: 「通う」の いみは どれですか。",
       "choices": [
-        "part-time job",
+        "ah",
         "to commute",
-        "accessory",
-        "to part-time job"
+        "peace of mind",
+        "to know (Group 1 exception - looks like Group 2)"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -130,9 +130,9 @@
       "stem_html": "問: 「ケーキ」の いみは どれですか。",
       "choices": [
         "cake",
-        "announcer",
-        "such",
-        "Ah"
+        "accessory",
+        "to part-time job",
+        "to return home (Group 1 exception - looks like Group 2)"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -146,9 +146,9 @@
       "stem_html": "問: 「計画」の いみは どれですか。",
       "choices": [
         "to plan",
-        "Africa",
-        "to cut (Group 1 exception - looks like Group 2",
-        "part-time job"
+        "to rise",
+        "to enter (Group 1 exception - looks like Group 2)",
+        "ah"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -162,9 +162,9 @@
       "stem_html": "問: 「計画する」の いみは どれですか。",
       "choices": [
         "to plan",
-        "America",
-        "to rise",
-        "to know (Group 1 exception - looks like Group 2)"
+        "to need (Group 1 exception - looks like Group 2",
+        "Asia",
+        "baby"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -177,10 +177,10 @@
       "type": "mcq",
       "stem_html": "問: 「見物」の いみは どれですか。",
       "choices": [
-        "to know (Group 1 exception - looks like Group 2)",
-        "ah",
+        "baby",
+        "part-time job",
         "sightseeing",
-        "to cut (Group 1 exception - looks like Group 2"
+        "to enter (Group 1 exception - looks like Group 2)"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -193,9 +193,9 @@
       "type": "mcq",
       "stem_html": "問: 「見物する」の いみは どれですか。",
       "choices": [
-        "Asia",
-        "America",
-        "baby",
+        "Africa",
+        "to need (Group 1 exception - looks like Group 2",
+        "flavor",
         "to sightseeing"
       ],
       "correctIndex": 3,
@@ -209,10 +209,10 @@
       "type": "mcq",
       "stem_html": "問: 「研究」の いみは どれですか。",
       "choices": [
-        "to part-time job",
-        "to rise",
+        "to know (Group 1 exception - looks like Group 2)",
+        "Asia",
         "research",
-        "baby"
+        "flavor"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -226,9 +226,9 @@
       "stem_html": "問: 「研究する」の いみは どれですか。",
       "choices": [
         "to research",
-        "Ah",
-        "such",
-        "to cut (Group 1 exception - looks like Group 2"
+        "to return home (Group 1 exception - looks like Group 2)",
+        "to part-time job",
+        "to enter (Group 1 exception - looks like Group 2)"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -241,9 +241,9 @@
       "type": "mcq",
       "stem_html": "問: 「研究室」の いみは どれですか。",
       "choices": [
-        "to know (Group 1 exception - looks like Group 2)",
-        "to rise",
-        "to return home (Group 1 exception - looks like Group 2)",
+        "baby",
+        "Asia",
+        "America",
         "laboratory"
       ],
       "correctIndex": 3,
@@ -258,9 +258,9 @@
       "stem_html": "問: 「気」の いみは どれですか。",
       "choices": [
         "spirit",
-        "to enter (Group 1 exception - looks like Group 2)",
-        "to rise",
-        "to know (Group 1 exception - looks like Group 2)"
+        "to run (Group 1 exception - looks like Group 2)",
+        "Asia",
+        "baby"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -273,10 +273,10 @@
       "type": "mcq",
       "stem_html": "問: 「気分」の いみは どれですか。",
       "choices": [
-        "to know (Group 1 exception - looks like Group 2)",
-        "America",
+        "baby",
+        "to need (Group 1 exception - looks like Group 2",
         "feeling",
-        "Africa"
+        "to rise"
       ],
       "correctIndex": 2,
       "rationale": "",

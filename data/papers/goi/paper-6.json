@@ -11,10 +11,10 @@
       "type": "mcq",
       "stem_html": "「peace of mind」を あらわす ことばは どれですか。",
       "choices": [
-        "特別",
+        "十分",
         "安心",
-        "急",
-        "親切"
+        "いっぱい",
+        "急"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -26,9 +26,9 @@
       "stem_html": "「part-time job」を あらわす ことばは どれですか。",
       "choices": [
         "アルバイト",
-        "ガス",
-        "ご主人",
-        "アナウンサー"
+        "注意",
+        "アフリカ",
+        "ぶどう"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -39,9 +39,9 @@
       "type": "mcq",
       "stem_html": "「to part-time job」を あらわす ことばは どれですか。",
       "choices": [
-        "入学する",
-        "用意する",
         "発音する",
+        "ファックスする",
+        "入院する",
         "アルバイトする"
       ],
       "correctIndex": 3,
@@ -53,9 +53,9 @@
       "type": "mcq",
       "stem_html": "「ジャム」と もっとも ちかい いみは どれですか。",
       "choices": [
-        "baby",
-        "bell",
-        "petrol",
+        "roughly",
+        "geography",
+        "announcer",
         "jam"
       ],
       "correctIndex": 3,
@@ -67,10 +67,10 @@
       "type": "mcq",
       "stem_html": "「字」と もっとも ちかい いみは どれですか。",
       "choices": [
-        "literature",
-        "your husband",
+        "building",
+        "alcohol",
         "character",
-        "to check"
+        "energy"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -81,10 +81,10 @@
       "type": "mcq",
       "stem_html": "「時代」と もっとも ちかい いみは どれですか。",
       "choices": [
-        "bell",
+        "geography",
         "period",
-        "suffix for familiar female person",
-        "accessory"
+        "Asia",
+        "baby"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -95,9 +95,9 @@
       "type": "mcq",
       "stem_html": "「人口」と もっとも ちかい いみは どれですか。",
       "choices": [
+        "university student",
+        "geography",
         "Asia",
-        "bell",
-        "suffix for familiar female person",
         "population"
       ],
       "correctIndex": 3,
@@ -109,9 +109,9 @@
       "type": "mcq",
       "stem_html": "「人生」と もっとも ちかい いみは どれですか。",
       "choices": [
-        "accessory",
-        "your husband",
-        "suffix for familiar female person",
+        "baby",
+        "alcohol",
+        "Asia",
         "human life"
       ],
       "correctIndex": 3,
@@ -123,10 +123,10 @@
       "type": "mcq",
       "stem_html": "「十分」と もっとも ちかい いみは どれですか。",
       "choices": [
+        "sudden",
         "impossible",
-        "looking forward to",
         "enough",
-        "full"
+        "kindness"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -138,9 +138,9 @@
       "stem_html": "「カーテン」と もっとも ちかい いみは どれですか。",
       "choices": [
         "curtain",
-        "petrol station",
-        "accessory",
-        "America"
+        "America",
+        "baby",
+        "fax"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -152,9 +152,9 @@
       "stem_html": "「帰り」と もっとも ちかい いみは どれですか。",
       "choices": [
         "junior high school",
-        "petrol station",
+        "America",
         "return",
-        "bell"
+        "geography"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -165,10 +165,10 @@
       "type": "mcq",
       "stem_html": "「会場」と もっとも ちかい いみは どれですか。",
       "choices": [
-        "petrol station",
+        "America",
         "assembly hall",
-        "fax",
-        "accessory"
+        "literature",
+        "baby"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -180,9 +180,9 @@
       "stem_html": "「会話」と もっとも ちかい いみは どれですか。",
       "choices": [
         "conversation",
-        "bell",
         "geography",
-        "petrol"
+        "to check",
+        "announcer"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -193,10 +193,10 @@
       "type": "mcq",
       "stem_html": "「会話する」と もっとも ちかい いみは どれですか。",
       "choices": [
-        "to fax",
-        "to preparation",
+        "to cherry blossom viewing",
+        "to examination",
         "to conversation",
-        "to plan"
+        "to part-time job"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -209,8 +209,8 @@
       "choices": [
         "fire",
         "junior high school",
-        "a feast",
-        "building"
+        "grapes",
+        "rubbish"
       ],
       "correctIndex": 0,
       "rationale": "",

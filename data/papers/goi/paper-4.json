@@ -11,10 +11,10 @@
       "type": "mcq",
       "stem_html": "「gasoline」を あらわす ことばは どれですか。",
       "choices": [
-        "赤ちゃん",
+        "アメリカ",
         "ガソリン",
-        "大体",
-        "文学"
+        "ごちそう",
+        "ぶどう"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -25,10 +25,10 @@
       "type": "mcq",
       "stem_html": "「petrol station」を あらわす ことばは どれですか。",
       "choices": [
-        "アルコール",
+        "アルバイト",
         "ガソリンスタンド",
-        "注意",
-        "中学校"
+        "大学生",
+        "チェック"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -39,10 +39,10 @@
       "type": "mcq",
       "stem_html": "「petrol」を あらわす ことばは どれですか。",
       "choices": [
-        "アナウンサー",
+        "ファックス",
         "ガス",
-        "ガラス",
-        "文学"
+        "ちゃん",
+        "ぶどう"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -53,9 +53,9 @@
       "type": "mcq",
       "stem_html": "「a feast」を あらわす ことばは どれですか。",
       "choices": [
-        "アルコール",
-        "ごみ",
-        "ガソリンスタンド",
+        "大体",
+        "文学",
+        "中学校",
         "ごちそう"
       ],
       "correctIndex": 3,
@@ -67,10 +67,10 @@
       "type": "mcq",
       "stem_html": "「to a feast」を あらわす ことばは どれですか。",
       "choices": [
+        "発音する",
         "アルバイトする",
-        "研究する",
         "ごちそうする",
-        "入院する"
+        "計画する"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -81,10 +81,10 @@
       "type": "mcq",
       "stem_html": "「rubbish」を あらわす ことばは どれですか。",
       "choices": [
-        "味",
+        "ぶどう",
         "ごみ",
-        "文学",
-        "チェック"
+        "ガソリンスタンド",
+        "ファックス"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -95,9 +95,9 @@
       "type": "mcq",
       "stem_html": "「your husband」を あらわす ことばは どれですか。",
       "choices": [
-        "赤ちゃん",
-        "ちゃん",
-        "力",
+        "アメリカ",
+        "アナウンサー",
+        "アジア",
         "ご主人"
       ],
       "correctIndex": 3,
@@ -109,10 +109,10 @@
       "type": "mcq",
       "stem_html": "「clearly」を あらわす ことばは どれですか。",
       "choices": [
-        "たいてい",
+        "なるほど",
         "はっきり",
-        "やっぱり",
-        "どんどん"
+        "できるだけ",
+        "まず"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -123,10 +123,10 @@
       "type": "mcq",
       "stem_html": "「to carry」を あらわす ことばは どれですか。",
       "choices": [
-        "下がる",
+        "空く",
         "運ぶ",
-        "いる",
-        "思い出す"
+        "お出でになる",
+        "入る"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -137,9 +137,9 @@
       "type": "mcq",
       "stem_html": "「cherry blossom viewing」を あらわす ことばは どれですか。",
       "choices": [
-        "アフリカ",
-        "文学",
-        "アメリカ",
+        "アルコール",
+        "アクセサリー",
+        "ベル",
         "花見"
       ],
       "correctIndex": 3,
@@ -151,10 +151,10 @@
       "type": "mcq",
       "stem_html": "「to cherry blossom viewing」を あらわす ことばは どれですか。",
       "choices": [
-        "入院する",
+        "計画する",
         "花見する",
-        "ファックスする",
-        "アルバイトする"
+        "急行する",
+        "発音する"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -165,9 +165,9 @@
       "type": "mcq",
       "stem_html": "「handbag」を あらわす ことばは どれですか。",
       "choices": [
-        "アメリカ",
-        "大学生",
-        "文学",
+        "ベル",
+        "赤ちゃん",
+        "アクセサリー",
         "ハンドバッグ"
       ],
       "correctIndex": 3,
@@ -179,9 +179,9 @@
       "type": "mcq",
       "stem_html": "「pronunciation」を あらわす ことばは どれですか。",
       "choices": [
-        "アルバイト",
+        "ごちそう",
         "エスカレーター",
-        "ガソリンスタンド",
+        "中学校",
         "発音"
       ],
       "correctIndex": 3,
@@ -193,9 +193,9 @@
       "type": "mcq",
       "stem_html": "「to pronunciation」を あらわす ことばは どれですか。",
       "choices": [
-        "試験する",
-        "急行する",
-        "花見する",
+        "チェックする",
+        "意見する",
+        "計画する",
         "発音する"
       ],
       "correctIndex": 3,
@@ -207,10 +207,10 @@
       "type": "mcq",
       "stem_html": "「to enter (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。",
       "choices": [
-        "運ぶ",
+        "下さる",
         "入る",
         "無くなる",
-        "写す"
+        "きる"
       ],
       "correctIndex": 1,
       "rationale": "",

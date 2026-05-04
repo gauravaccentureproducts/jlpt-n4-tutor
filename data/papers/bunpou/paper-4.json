@@ -9,12 +9,12 @@
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "「as many as」(n4-046) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「don't ~ (order somebody to not do something)」(n4-046) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "でも",
-        "から",
-        "も",
-        "ばかり"
+        "かもしれない",
+        "かな",
+        "な",
+        "きっと"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -23,53 +23,53 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「don't ~ (order somebody to not do something)」(n4-047) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「such as」(n4-047) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "な",
-        "ひつようがある",
-        "ではないか",
-        "かもしれない"
+        "でも",
+        "を",
+        "ばかり",
+        "など"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q47",
       "id": "bunpou-4.2"
     },
     {
       "type": "mcq",
-      "stem_html": "「such as」(n4-048) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「while」(n4-048) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "でも",
-        "ばかり",
-        "と",
-        "など"
+        "後で（あとで）",
+        "ながら",
+        "始める（はじめる）",
+        "ばあいは"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q48",
       "id": "bunpou-4.3"
     },
     {
       "type": "mcq",
-      "stem_html": "「while」(n4-049) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「not easy to」(n4-049) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "がする",
-        "あまり〜ない",
-        "じゃないか",
-        "ながら"
+        "がり",
+        "なかなか〜ない",
+        "出す（だす）",
+        "きっと"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q49",
       "id": "bunpou-4.4"
     },
     {
       "type": "mcq",
-      "stem_html": "「not easy to」(n4-050) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「must do something」(n4-050) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "ばあいは",
-        "なかなか〜ない",
-        "かどうか",
+        "間（あいだ）",
+        "なければいけない",
+        "かしら",
         "間に（あいだに）"
       ],
       "correctIndex": 1,
@@ -81,24 +81,24 @@
       "type": "mcq",
       "stem_html": "「must do something」(n4-051) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "かい",
-        "なければいけない",
-        "ではないか",
-        "かもしれない"
+        "かもしれない",
+        "ば",
+        "なければならない",
+        "がり"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q51",
       "id": "bunpou-4.6"
     },
     {
       "type": "mcq",
-      "stem_html": "「must do something」(n4-052) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「if」(n4-052) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "なければならない",
-        "いたします",
-        "はずだ",
-        "間（あいだ）"
+        "なら",
+        "いらっしゃる",
+        "間（あいだ）",
+        "間に（あいだに）"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -107,26 +107,26 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「if」(n4-053) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「do this (soft/firm command)」(n4-053) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "なら",
-        "あまり〜ない",
-        "ひつようがある",
-        "はずがない"
+        "がり",
+        "かしら",
+        "いたします",
+        "なさい"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q53",
       "id": "bunpou-4.8"
     },
     {
       "type": "mcq",
-      "stem_html": "「do this (soft/firm command)」(n4-054) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to do (honorific)」(n4-054) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "ではないか",
-        "いらっしゃる",
-        "いたします",
-        "なさい"
+        "ひつようがある",
+        "かどうか",
+        "だけで",
+        "なさる"
       ],
       "correctIndex": 3,
       "rationale": "",
@@ -135,40 +135,40 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to do (honorific)」(n4-055) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to notice」(n4-055) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "かもしれない",
-        "いたします",
-        "かしら",
-        "なさる"
+        "に気がつく（にきがつく）",
+        "はずだ",
+        "かどうか",
+        "かしら"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q55",
       "id": "bunpou-4.10"
     },
     {
       "type": "mcq",
-      "stem_html": "「to notice」(n4-056) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to look」(n4-056) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "後で（あとで）",
-        "に気がつく（にきがつく）",
-        "はずがない",
-        "はずだ"
+        "だけで",
+        "ひつようがある",
+        "に見える（にみえる）",
+        "間（あいだ）"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q56",
       "id": "bunpou-4.11"
     },
     {
       "type": "mcq",
-      "stem_html": "「to look」(n4-057) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to make something」(n4-057) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "かしら",
-        "に見える（にみえる）",
-        "かい",
-        "から作る"
+        "きっと",
+        "にする",
+        "かな",
+        "はずだ"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -177,12 +177,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to make something」(n4-058) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「difficult to do」(n4-058) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "にする",
-        "間（あいだ）",
-        "ではないか",
-        "Format: `PATTERN"
+        "にくい",
+        "ございます",
+        "はずだ",
+        "かい"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -191,12 +191,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「difficult to do」(n4-059) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「in」(n4-059) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "間に（あいだに）",
-        "にくい",
-        "ではないか",
-        "かしら"
+        "でございます",
+        "の中で（のなかで）",
+        "ございます",
+        "出す（だす）"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -205,12 +205,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「in」(n4-060) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「although, in spite of, even though」(n4-060) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "じゃないか",
-        "ばあいは",
-        "の中で（のなかで）",
-        "だけで"
+        "かもしれない",
+        "間に（あいだに）",
+        "のに",
+        "ばあいは"
       ],
       "correctIndex": 2,
       "rationale": "",

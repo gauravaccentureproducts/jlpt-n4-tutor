@@ -12,9 +12,9 @@
       "stem_html": "「to return home (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。",
       "choices": [
         "かえる",
-        "集まる",
-        "お出でになる",
-        "しる"
+        "運ぶ",
+        "はしる",
+        "集まる"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -25,10 +25,10 @@
       "type": "mcq",
       "stem_html": "「to run (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。",
       "choices": [
-        "運ぶ",
+        "見つかる",
         "お出でになる",
         "はしる",
-        "無くなる"
+        "かえる"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -39,10 +39,10 @@
       "type": "mcq",
       "stem_html": "「to know (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。",
       "choices": [
-        "写す",
+        "きる",
         "しる",
-        "止む",
-        "見つかる"
+        "動く",
+        "お出でになる"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -53,9 +53,9 @@
       "type": "mcq",
       "stem_html": "「to cut (Group 1 exception - looks like Group 2」を あらわす ことばは どれですか。",
       "choices": [
-        "上がる",
-        "送る",
-        "見つかる",
+        "止む",
+        "しる",
+        "空く",
         "きる"
       ],
       "correctIndex": 3,
@@ -68,8 +68,8 @@
       "stem_html": "「to need (Group 1 exception - looks like Group 2」を あらわす ことばは どれですか。",
       "choices": [
         "いる",
-        "空く",
-        "思い出す",
+        "下がる",
+        "急ぐ",
         "無くなる"
       ],
       "correctIndex": 0,
@@ -81,10 +81,10 @@
       "type": "mcq",
       "stem_html": "「ah」を あらわす ことばは どれですか。",
       "choices": [
-        "しっかり",
+        "どんどん",
         "ああ",
-        "たまに",
-        "そろそろ"
+        "そろそろ",
+        "この間"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -95,10 +95,10 @@
       "type": "mcq",
       "stem_html": "「Africa」を あらわす ことばは どれですか。",
       "choices": [
-        "アルコール",
+        "アルバイト",
         "アフリカ",
-        "ガラス",
-        "力"
+        "ちゃん",
+        "ご主人"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -109,10 +109,10 @@
       "type": "mcq",
       "stem_html": "「to rise」を あらわす ことばは どれですか。",
       "choices": [
-        "空く",
+        "下がる",
         "上がる",
-        "送る",
-        "足す"
+        "しる",
+        "見つかる"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -123,10 +123,10 @@
       "type": "mcq",
       "stem_html": "「flavor」を あらわす ことばは どれですか。",
       "choices": [
-        "ぶどう",
+        "ガス",
         "味",
-        "アルコール",
-        "文学"
+        "アルバイト",
+        "アクセサリー"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -137,10 +137,10 @@
       "type": "mcq",
       "stem_html": "「Asia」を あらわす ことばは どれですか。",
       "choices": [
-        "力",
-        "アナウンサー",
+        "ご主人",
+        "アクセサリー",
         "アジア",
-        "味"
+        "ぶどう"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -151,9 +151,9 @@
       "type": "mcq",
       "stem_html": "「baby」を あらわす ことばは どれですか。",
       "choices": [
-        "アジア",
+        "ガソリンスタンド",
         "赤ちゃん",
-        "ビル",
+        "ちゃん",
         "エスカレーター"
       ],
       "correctIndex": 1,
@@ -165,10 +165,10 @@
       "type": "mcq",
       "stem_html": "「accessory」を あらわす ことばは どれですか。",
       "choices": [
-        "ガソリン",
-        "ちゃん",
+        "ご主人",
+        "アナウンサー",
         "アクセサリー",
-        "ご主人"
+        "アフリカ"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -179,9 +179,9 @@
       "type": "mcq",
       "stem_html": "「America」を あらわす ことばは どれですか。",
       "choices": [
-        "地理",
-        "アナウンサー",
-        "中学校",
+        "ビル",
+        "ぶどう",
+        "チェック",
         "アメリカ"
       ],
       "correctIndex": 3,
@@ -193,9 +193,9 @@
       "type": "mcq",
       "stem_html": "「announcer」を あらわす ことばは どれですか。",
       "choices": [
-        "文学",
-        "中学校",
-        "ベル",
+        "アクセサリー",
+        "ガラス",
+        "大学生",
         "アナウンサー"
       ],
       "correctIndex": 3,
@@ -207,9 +207,9 @@
       "type": "mcq",
       "stem_html": "「such」を あらわす ことばは どれですか。",
       "choices": [
-        "色んな",
-        "(option-4)",
         "そんな",
+        "(option-4)",
+        "色んな",
         "あんな"
       ],
       "correctIndex": 3,

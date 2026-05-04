@@ -1,13 +1,13 @@
 {
   "_meta": {
     "schema_version": 1,
-    "entity_count": 129,
+    "entity_count": 128,
     "id_range": "n4-prereq-001..n4-prereq-NNN (N5 inherited) + n4-001..n4-NNN (N4 new)",
     "id_gap_policy": "Reserve numeric ranges per category. Retired IDs are NEVER re-used.",
     "history": [
       {
         "date": "2026-05-04",
-        "delta": "+0 N5 prerequisite + 129 N4 new (seed; examples + form_rules to be authored)"
+        "delta": "+0 N5 prerequisite + 128 N4 new (seed; examples + form_rules to be authored)"
       }
     ]
   },
@@ -15,56 +15,10 @@
     {
       "id": "n4-001",
       "tier": "core_n4",
-      "pattern": "Format: `PATTERN",
-      "category": "Verb forms (overview)",
-      "categoryOrder": 1,
-      "patternOrder": 1,
-      "meaning_en": "MEANING-BRIEF`",
-      "meaning_ja": "",
-      "form_rules": {
-        "attaches_to": [
-          "verb",
-          "na_adjective",
-          "noun"
-        ],
-        "conjugations": []
-      },
-      "explanation_en": "Used to express: MEANING-BRIEF`. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは Format: `PATTERNです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for Format: `PATTERN: MEANING-BRIEF`.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると Format: `PATTERN言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: MEANING-BRIEF`.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving Format: `PATTERN — to be authored by native reviewer)",
-          "right": "Format: `PATTERN (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
-      "contrasts": [],
-      "notes": ""
-    },
-    {
-      "id": "n4-002",
-      "tier": "core_n4",
       "pattern": "間（あいだ）",
       "category": "Time expressions",
       "categoryOrder": 17,
-      "patternOrder": 2,
+      "patternOrder": 1,
       "meaning_en": "while; during; between",
       "meaning_ja": "",
       "form_rules": {
@@ -105,12 +59,12 @@
       "notes": ""
     },
     {
-      "id": "n4-003",
+      "id": "n4-002",
       "tier": "core_n4",
       "pattern": "間に（あいだに）",
       "category": "Time expressions",
       "categoryOrder": 17,
-      "patternOrder": 3,
+      "patternOrder": 2,
       "meaning_en": "while; during (something happened)",
       "meaning_ja": "",
       "form_rules": {
@@ -151,12 +105,12 @@
       "notes": ""
     },
     {
-      "id": "n4-004",
+      "id": "n4-003",
       "tier": "core_n4",
       "pattern": "あまり〜ない",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 4,
+      "patternOrder": 3,
       "meaning_en": "not very; not much",
       "meaning_ja": "",
       "form_rules": {
@@ -197,12 +151,12 @@
       "notes": ""
     },
     {
-      "id": "n4-005",
+      "id": "n4-004",
       "tier": "core_n4",
       "pattern": "後で（あとで）",
       "category": "Time expressions",
       "categoryOrder": 17,
-      "patternOrder": 5,
+      "patternOrder": 4,
       "meaning_en": "after; later",
       "meaning_ja": "",
       "form_rules": {
@@ -243,12 +197,12 @@
       "notes": ""
     },
     {
-      "id": "n4-006",
+      "id": "n4-005",
       "tier": "core_n4",
       "pattern": "ば",
       "category": "Conditionals (たら / ば / なら / と)",
       "categoryOrder": 8,
-      "patternOrder": 6,
+      "patternOrder": 5,
       "meaning_en": "conditional form (if-then)",
       "meaning_ja": "",
       "form_rules": {
@@ -287,12 +241,12 @@
       "notes": ""
     },
     {
-      "id": "n4-007",
+      "id": "n4-006",
       "tier": "core_n4",
       "pattern": "ばあいは",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 7,
+      "patternOrder": 6,
       "meaning_en": "in the event of; in case that",
       "meaning_ja": "",
       "form_rules": {
@@ -331,12 +285,12 @@
       "notes": ""
     },
     {
-      "id": "n4-008",
+      "id": "n4-007",
       "tier": "core_n4",
       "pattern": "ばかり",
       "category": "Time expressions",
       "categoryOrder": 17,
-      "patternOrder": 8,
+      "patternOrder": 7,
       "meaning_en": "only; nothing but",
       "meaning_ja": "",
       "form_rules": {
@@ -375,12 +329,12 @@
       "notes": ""
     },
     {
-      "id": "n4-009",
+      "id": "n4-008",
       "tier": "core_n4",
       "pattern": "だけで",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 9,
+      "patternOrder": 8,
       "meaning_en": "just by; by doing alone",
       "meaning_ja": "",
       "form_rules": {
@@ -421,12 +375,12 @@
       "notes": ""
     },
     {
-      "id": "n4-010",
+      "id": "n4-009",
       "tier": "core_n4",
       "pattern": "出す（だす）",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 10,
+      "patternOrder": 9,
       "meaning_en": "to begin to; start to; burst into",
       "meaning_ja": "",
       "form_rules": {
@@ -467,12 +421,12 @@
       "notes": ""
     },
     {
-      "id": "n4-011",
+      "id": "n4-010",
       "tier": "core_n4",
       "pattern": "でございます",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 11,
+      "patternOrder": 10,
       "meaning_en": "to be (honorific)",
       "meaning_ja": "",
       "form_rules": {
@@ -512,12 +466,12 @@
       "notes": ""
     },
     {
-      "id": "n4-012",
+      "id": "n4-011",
       "tier": "core_n4",
       "pattern": "でも",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 12,
+      "patternOrder": 11,
       "meaning_en": "or something; how about",
       "meaning_ja": "",
       "form_rules": {
@@ -558,12 +512,12 @@
       "notes": ""
     },
     {
-      "id": "n4-013",
+      "id": "n4-012",
       "tier": "core_n4",
       "pattern": "ではないか",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 13,
+      "patternOrder": 12,
       "meaning_en": "right?; isn't it?",
       "meaning_ja": "",
       "form_rules": {
@@ -604,12 +558,12 @@
       "notes": ""
     },
     {
-      "id": "n4-014",
+      "id": "n4-013",
       "tier": "core_n4",
       "pattern": "がする",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 14,
+      "patternOrder": 13,
       "meaning_en": "to smell; hear; taste",
       "meaning_ja": "",
       "form_rules": {
@@ -649,12 +603,12 @@
       "notes": ""
     },
     {
-      "id": "n4-015",
+      "id": "n4-014",
       "tier": "core_n4",
       "pattern": "がり",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 15,
+      "patternOrder": 14,
       "meaning_en": "personality/tendency",
       "meaning_ja": "",
       "form_rules": {
@@ -695,12 +649,12 @@
       "notes": ""
     },
     {
-      "id": "n4-016",
+      "id": "n4-015",
       "tier": "core_n4",
       "pattern": "がる / がっている",
       "category": "Quotation and thought",
       "categoryOrder": 15,
-      "patternOrder": 16,
+      "patternOrder": 15,
       "meaning_en": "to show signs of; appear; feel",
       "meaning_ja": "",
       "form_rules": {
@@ -740,12 +694,12 @@
       "notes": ""
     },
     {
-      "id": "n4-017",
+      "id": "n4-016",
       "tier": "core_n4",
       "pattern": "ございます",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 17,
+      "patternOrder": 16,
       "meaning_en": "to be; to exist (polite)",
       "meaning_ja": "",
       "form_rules": {
@@ -785,12 +739,12 @@
       "notes": ""
     },
     {
-      "id": "n4-018",
+      "id": "n4-017",
       "tier": "core_n4",
       "pattern": "始める（はじめる）",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 18,
+      "patternOrder": 17,
       "meaning_en": "to start; to begin to",
       "meaning_ja": "",
       "form_rules": {
@@ -831,12 +785,12 @@
       "notes": ""
     },
     {
-      "id": "n4-019",
+      "id": "n4-018",
       "tier": "core_n4",
       "pattern": "はずだ",
       "category": "Obligation and prohibition",
       "categoryOrder": 11,
-      "patternOrder": 19,
+      "patternOrder": 18,
       "meaning_en": "it must be; should be",
       "meaning_ja": "",
       "form_rules": {
@@ -877,12 +831,12 @@
       "notes": ""
     },
     {
-      "id": "n4-020",
+      "id": "n4-019",
       "tier": "core_n4",
       "pattern": "はずがない",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 20,
+      "patternOrder": 19,
       "meaning_en": "cannot be (impossible)",
       "meaning_ja": "",
       "form_rules": {
@@ -923,12 +877,12 @@
       "notes": ""
     },
     {
-      "id": "n4-021",
+      "id": "n4-020",
       "tier": "core_n4",
       "pattern": "ひつようがある",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 21,
+      "patternOrder": 20,
       "meaning_en": "need to; it is necessary",
       "meaning_ja": "",
       "form_rules": {
@@ -968,12 +922,12 @@
       "notes": ""
     },
     {
-      "id": "n4-022",
+      "id": "n4-021",
       "tier": "core_n4",
       "pattern": "いらっしゃる",
       "category": "Conjunctions and sentence connectors",
       "categoryOrder": 14,
-      "patternOrder": 22,
+      "patternOrder": 21,
       "meaning_en": "to be; come; go (polite)",
       "meaning_ja": "",
       "form_rules": {
@@ -1013,12 +967,12 @@
       "notes": ""
     },
     {
-      "id": "n4-023",
+      "id": "n4-022",
       "tier": "core_n4",
       "pattern": "いたします",
       "category": "Conjunctions and sentence connectors",
       "categoryOrder": 14,
-      "patternOrder": 23,
+      "patternOrder": 22,
       "meaning_en": "to do (polite form)",
       "meaning_ja": "",
       "form_rules": {
@@ -1058,12 +1012,12 @@
       "notes": ""
     },
     {
-      "id": "n4-024",
+      "id": "n4-023",
       "tier": "core_n4",
       "pattern": "じゃないか",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 24,
+      "patternOrder": 23,
       "meaning_en": "right?; isn't it?; let's",
       "meaning_ja": "",
       "form_rules": {
@@ -1104,12 +1058,12 @@
       "notes": ""
     },
     {
-      "id": "n4-025",
+      "id": "n4-024",
       "tier": "core_n4",
       "pattern": "かどうか",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 25,
+      "patternOrder": 24,
       "meaning_en": "whether or not",
       "meaning_ja": "",
       "form_rules": {
@@ -1150,12 +1104,12 @@
       "notes": ""
     },
     {
-      "id": "n4-026",
+      "id": "n4-025",
       "tier": "core_n4",
       "pattern": "かしら",
       "category": "Conjunctions and sentence connectors",
       "categoryOrder": 14,
-      "patternOrder": 26,
+      "patternOrder": 25,
       "meaning_en": "I wonder (feminine)",
       "meaning_ja": "",
       "form_rules": {
@@ -1196,12 +1150,12 @@
       "notes": ""
     },
     {
-      "id": "n4-027",
+      "id": "n4-026",
       "tier": "core_n4",
       "pattern": "かい",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 27,
+      "patternOrder": 26,
       "meaning_en": "turns sentence into yes/no question",
       "meaning_ja": "",
       "form_rules": {
@@ -1242,12 +1196,12 @@
       "notes": ""
     },
     {
-      "id": "n4-028",
+      "id": "n4-027",
       "tier": "core_n4",
       "pattern": "かもしれない",
       "category": "Conjunctions and sentence connectors",
       "categoryOrder": 14,
-      "patternOrder": 28,
+      "patternOrder": 27,
       "meaning_en": "might; perhaps; possibly",
       "meaning_ja": "",
       "form_rules": {
@@ -1288,12 +1242,12 @@
       "notes": ""
     },
     {
-      "id": "n4-029",
+      "id": "n4-028",
       "tier": "core_n4",
       "pattern": "かな",
       "category": "Obligation and prohibition",
       "categoryOrder": 11,
-      "patternOrder": 29,
+      "patternOrder": 28,
       "meaning_en": "I wonder; should I?",
       "meaning_ja": "",
       "form_rules": {
@@ -1334,12 +1288,12 @@
       "notes": ""
     },
     {
-      "id": "n4-030",
+      "id": "n4-029",
       "tier": "core_n4",
       "pattern": "から作る",
       "category": "Conjunctions and sentence connectors",
       "categoryOrder": 14,
-      "patternOrder": 30,
+      "patternOrder": 29,
       "meaning_en": "made from; made with",
       "meaning_ja": "",
       "form_rules": {
@@ -1379,12 +1333,12 @@
       "notes": ""
     },
     {
-      "id": "n4-031",
+      "id": "n4-030",
       "tier": "core_n4",
       "pattern": "きっと",
       "category": "Frequency and adverbs",
       "categoryOrder": 18,
-      "patternOrder": 31,
+      "patternOrder": 30,
       "meaning_en": "surely; undoubtedly; most likely",
       "meaning_ja": "",
       "form_rules": {
@@ -1425,12 +1379,12 @@
       "notes": ""
     },
     {
-      "id": "n4-032",
+      "id": "n4-031",
       "tier": "core_n4",
       "pattern": "ころ",
       "category": "Time expressions",
       "categoryOrder": 17,
-      "patternOrder": 32,
+      "patternOrder": 31,
       "meaning_en": "around; about; when",
       "meaning_ja": "",
       "form_rules": {
@@ -1471,12 +1425,12 @@
       "notes": ""
     },
     {
-      "id": "n4-033",
+      "id": "n4-032",
       "tier": "core_n4",
       "pattern": "こと",
       "category": "Dictionary-form patterns",
       "categoryOrder": 5,
-      "patternOrder": 33,
+      "patternOrder": 32,
       "meaning_en": "verb nominalizer",
       "meaning_ja": "",
       "form_rules": {
@@ -1517,12 +1471,12 @@
       "notes": ""
     },
     {
-      "id": "n4-034",
+      "id": "n4-033",
       "tier": "core_n4",
       "pattern": "ことがある",
       "category": "Experience and plans",
       "categoryOrder": 12,
-      "patternOrder": 34,
+      "patternOrder": 33,
       "meaning_en": "there are times when",
       "meaning_ja": "",
       "form_rules": {
@@ -1562,12 +1516,12 @@
       "notes": ""
     },
     {
-      "id": "n4-035",
+      "id": "n4-034",
       "tier": "core_n4",
       "pattern": "ことができる",
       "category": "Potential form",
       "categoryOrder": 6,
-      "patternOrder": 35,
+      "patternOrder": 34,
       "meaning_en": "can; able to",
       "meaning_ja": "",
       "form_rules": {
@@ -1607,12 +1561,12 @@
       "notes": ""
     },
     {
-      "id": "n4-036",
+      "id": "n4-035",
       "tier": "core_n4",
       "pattern": "ことになる",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 36,
+      "patternOrder": 35,
       "meaning_en": "it has been decided; turns out",
       "meaning_ja": "",
       "form_rules": {
@@ -1652,12 +1606,12 @@
       "notes": ""
     },
     {
-      "id": "n4-037",
+      "id": "n4-036",
       "tier": "core_n4",
       "pattern": "ことにする",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 37,
+      "patternOrder": 36,
       "meaning_en": "to decide on",
       "meaning_ja": "",
       "form_rules": {
@@ -1697,12 +1651,12 @@
       "notes": ""
     },
     {
-      "id": "n4-038",
+      "id": "n4-037",
       "tier": "core_n4",
       "pattern": "くする",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 38,
+      "patternOrder": 37,
       "meaning_en": "to make something",
       "meaning_ja": "",
       "form_rules": {
@@ -1742,12 +1696,12 @@
       "notes": ""
     },
     {
-      "id": "n4-039",
+      "id": "n4-038",
       "tier": "core_n4",
       "pattern": "急に（きゅうに）",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 39,
+      "patternOrder": 38,
       "meaning_en": "quickly; suddenly; abruptly",
       "meaning_ja": "",
       "form_rules": {
@@ -1788,12 +1742,12 @@
       "notes": ""
     },
     {
-      "id": "n4-040",
+      "id": "n4-039",
       "tier": "core_n4",
       "pattern": "までに",
       "category": "Time expressions",
       "categoryOrder": 17,
-      "patternOrder": 40,
+      "patternOrder": 39,
       "meaning_en": "by; by the time; indicates time limit",
       "meaning_ja": "",
       "form_rules": {
@@ -1834,12 +1788,12 @@
       "notes": ""
     },
     {
-      "id": "n4-041",
+      "id": "n4-040",
       "tier": "core_n4",
       "pattern": "まま",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 41,
+      "patternOrder": 40,
       "meaning_en": "as it is; current state; without changing",
       "meaning_ja": "",
       "form_rules": {
@@ -1880,12 +1834,12 @@
       "notes": ""
     },
     {
-      "id": "n4-042",
+      "id": "n4-041",
       "tier": "core_n4",
       "pattern": "または",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 42,
+      "patternOrder": 41,
       "meaning_en": "both; or; otherwise; choice between [A] or [B]",
       "meaning_ja": "",
       "form_rules": {
@@ -1926,12 +1880,12 @@
       "notes": ""
     },
     {
-      "id": "n4-043",
+      "id": "n4-042",
       "tier": "core_n4",
       "pattern": "みたいだ",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 43,
+      "patternOrder": 42,
       "meaning_en": "like; similar to; resembling",
       "meaning_ja": "",
       "form_rules": {
@@ -1972,12 +1926,12 @@
       "notes": ""
     },
     {
-      "id": "n4-044",
+      "id": "n4-043",
       "tier": "core_n4",
       "pattern": "みたいな",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 44,
+      "patternOrder": 43,
       "meaning_en": "like, similar to",
       "meaning_ja": "",
       "form_rules": {
@@ -2018,12 +1972,12 @@
       "notes": ""
     },
     {
-      "id": "n4-045",
+      "id": "n4-044",
       "tier": "core_n4",
       "pattern": "みたいに",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 45,
+      "patternOrder": 44,
       "meaning_en": "like; similar to",
       "meaning_ja": "",
       "form_rules": {
@@ -2064,12 +2018,12 @@
       "notes": ""
     },
     {
-      "id": "n4-046",
+      "id": "n4-045",
       "tier": "core_n4",
       "pattern": "も",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 46,
+      "patternOrder": 45,
       "meaning_en": "as many as; as much as; up to; nearly",
       "meaning_ja": "",
       "form_rules": {
@@ -2110,12 +2064,12 @@
       "notes": ""
     },
     {
-      "id": "n4-047",
+      "id": "n4-046",
       "tier": "core_n4",
       "pattern": "な",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 47,
+      "patternOrder": 46,
       "meaning_en": "don't ~ (order somebody to not do something)",
       "meaning_ja": "",
       "form_rules": {
@@ -2156,12 +2110,12 @@
       "notes": ""
     },
     {
-      "id": "n4-048",
+      "id": "n4-047",
       "tier": "core_n4",
       "pattern": "など",
       "category": "Conjunctions and sentence connectors",
       "categoryOrder": 14,
-      "patternOrder": 48,
+      "patternOrder": 47,
       "meaning_en": "such as; things like",
       "meaning_ja": "",
       "form_rules": {
@@ -2202,12 +2156,12 @@
       "notes": ""
     },
     {
-      "id": "n4-049",
+      "id": "n4-048",
       "tier": "core_n4",
       "pattern": "ながら",
       "category": "Conjunctions and sentence connectors",
       "categoryOrder": 14,
-      "patternOrder": 49,
+      "patternOrder": 48,
       "meaning_en": "while; during; as; simultaneously",
       "meaning_ja": "",
       "form_rules": {
@@ -2248,12 +2202,12 @@
       "notes": ""
     },
     {
-      "id": "n4-050",
+      "id": "n4-049",
       "tier": "core_n4",
       "pattern": "なかなか〜ない",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 50,
+      "patternOrder": 49,
       "meaning_en": "not easy to; struggling to; not able to",
       "meaning_ja": "",
       "form_rules": {
@@ -2294,12 +2248,12 @@
       "notes": ""
     },
     {
-      "id": "n4-051",
+      "id": "n4-050",
       "tier": "core_n4",
       "pattern": "なければいけない",
       "category": "Obligation and prohibition",
       "categoryOrder": 11,
-      "patternOrder": 51,
+      "patternOrder": 50,
       "meaning_en": "must do something; have to do something",
       "meaning_ja": "",
       "form_rules": {
@@ -2340,12 +2294,12 @@
       "notes": ""
     },
     {
-      "id": "n4-052",
+      "id": "n4-051",
       "tier": "core_n4",
       "pattern": "なければならない",
       "category": "Obligation and prohibition",
       "categoryOrder": 11,
-      "patternOrder": 52,
+      "patternOrder": 51,
       "meaning_en": "must do something; have to do something",
       "meaning_ja": "",
       "form_rules": {
@@ -2386,12 +2340,12 @@
       "notes": ""
     },
     {
-      "id": "n4-053",
+      "id": "n4-052",
       "tier": "core_n4",
       "pattern": "なら",
       "category": "Conditionals (たら / ば / なら / と)",
       "categoryOrder": 8,
-      "patternOrder": 53,
+      "patternOrder": 52,
       "meaning_en": "if; in the case that",
       "meaning_ja": "",
       "form_rules": {
@@ -2432,12 +2386,12 @@
       "notes": ""
     },
     {
-      "id": "n4-054",
+      "id": "n4-053",
       "tier": "core_n4",
       "pattern": "なさい",
       "category": "Requests and permission",
       "categoryOrder": 10,
-      "patternOrder": 54,
+      "patternOrder": 53,
       "meaning_en": "do this (soft/firm command)",
       "meaning_ja": "",
       "form_rules": {
@@ -2478,12 +2432,12 @@
       "notes": ""
     },
     {
-      "id": "n4-055",
+      "id": "n4-054",
       "tier": "core_n4",
       "pattern": "なさる",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 55,
+      "patternOrder": 54,
       "meaning_en": "to do (honorific)",
       "meaning_ja": "",
       "form_rules": {
@@ -2523,12 +2477,12 @@
       "notes": ""
     },
     {
-      "id": "n4-056",
+      "id": "n4-055",
       "tier": "core_n4",
       "pattern": "に気がつく（にきがつく）",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 56,
+      "patternOrder": 55,
       "meaning_en": "to notice; to realize",
       "meaning_ja": "",
       "form_rules": {
@@ -2569,12 +2523,12 @@
       "notes": ""
     },
     {
-      "id": "n4-057",
+      "id": "n4-056",
       "tier": "core_n4",
       "pattern": "に見える（にみえる）",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 57,
+      "patternOrder": 56,
       "meaning_en": "to look; to seem; to appear",
       "meaning_ja": "",
       "form_rules": {
@@ -2615,12 +2569,12 @@
       "notes": ""
     },
     {
-      "id": "n4-058",
+      "id": "n4-057",
       "tier": "core_n4",
       "pattern": "にする",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 58,
+      "patternOrder": 57,
       "meaning_en": "to make something",
       "meaning_ja": "",
       "form_rules": {
@@ -2660,12 +2614,12 @@
       "notes": ""
     },
     {
-      "id": "n4-059",
+      "id": "n4-058",
       "tier": "core_n4",
       "pattern": "にくい",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 59,
+      "patternOrder": 58,
       "meaning_en": "difficult to do",
       "meaning_ja": "",
       "form_rules": {
@@ -2706,12 +2660,12 @@
       "notes": ""
     },
     {
-      "id": "n4-060",
+      "id": "n4-059",
       "tier": "core_n4",
       "pattern": "の中で（のなかで）",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 60,
+      "patternOrder": 59,
       "meaning_en": "in; among",
       "meaning_ja": "",
       "form_rules": {
@@ -2752,12 +2706,12 @@
       "notes": ""
     },
     {
-      "id": "n4-061",
+      "id": "n4-060",
       "tier": "core_n4",
       "pattern": "のに",
       "category": "Conjunctions and sentence connectors",
       "categoryOrder": 14,
-      "patternOrder": 61,
+      "patternOrder": 60,
       "meaning_en": "although, in spite of, even though",
       "meaning_ja": "",
       "form_rules": {
@@ -2798,12 +2752,12 @@
       "notes": ""
     },
     {
-      "id": "n4-062",
+      "id": "n4-061",
       "tier": "core_n4",
       "pattern": "のに (alt.)",
       "category": "Conjunctions and sentence connectors",
       "categoryOrder": 14,
-      "patternOrder": 62,
+      "patternOrder": 61,
       "meaning_en": "to (do something); in order to",
       "meaning_ja": "",
       "form_rules": {
@@ -2844,12 +2798,12 @@
       "notes": ""
     },
     {
-      "id": "n4-063",
+      "id": "n4-062",
       "tier": "core_n4",
       "pattern": "のは〜だ",
       "category": "Explanation and reason",
       "categoryOrder": 16,
-      "patternOrder": 63,
+      "patternOrder": 62,
       "meaning_en": "[A] is [B]; the reason for [A] is [B]",
       "meaning_ja": "",
       "form_rules": {
@@ -2890,12 +2844,12 @@
       "notes": ""
     },
     {
-      "id": "n4-064",
+      "id": "n4-063",
       "tier": "core_n4",
       "pattern": "お〜ください",
       "category": "Requests and permission",
       "categoryOrder": 10,
-      "patternOrder": 64,
+      "patternOrder": 63,
       "meaning_en": "please do ~ (honorific)",
       "meaning_ja": "",
       "form_rules": {
@@ -2936,12 +2890,12 @@
       "notes": ""
     },
     {
-      "id": "n4-065",
+      "id": "n4-064",
       "tier": "core_n4",
       "pattern": "お〜になる",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 65,
+      "patternOrder": 64,
       "meaning_en": "to do (honorific)",
       "meaning_ja": "",
       "form_rules": {
@@ -2981,12 +2935,12 @@
       "notes": ""
     },
     {
-      "id": "n4-066",
+      "id": "n4-065",
       "tier": "core_n4",
       "pattern": "おきに",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 66,
+      "patternOrder": 65,
       "meaning_en": "repeated at intervals, every",
       "meaning_ja": "",
       "form_rules": {
@@ -3027,12 +2981,12 @@
       "notes": ""
     },
     {
-      "id": "n4-067",
+      "id": "n4-066",
       "tier": "core_n4",
       "pattern": "終わる（おわる）",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 67,
+      "patternOrder": 66,
       "meaning_en": "to finish; to end",
       "meaning_ja": "",
       "form_rules": {
@@ -3073,12 +3027,12 @@
       "notes": ""
     },
     {
-      "id": "n4-068",
+      "id": "n4-067",
       "tier": "core_n4",
       "pattern": "られる",
       "category": "Potential form",
       "categoryOrder": 6,
-      "patternOrder": 68,
+      "patternOrder": 67,
       "meaning_en": "potential form; ability or inability to do something",
       "meaning_ja": "",
       "form_rules": {
@@ -3118,12 +3072,12 @@
       "notes": ""
     },
     {
-      "id": "n4-069",
+      "id": "n4-068",
       "tier": "core_n4",
       "pattern": "らしい",
       "category": "Conjunctions and sentence connectors",
       "categoryOrder": 14,
-      "patternOrder": 69,
+      "patternOrder": 68,
       "meaning_en": "it seems like; I heard; apparently",
       "meaning_ja": "",
       "form_rules": {
@@ -3164,12 +3118,12 @@
       "notes": ""
     },
     {
-      "id": "n4-070",
+      "id": "n4-069",
       "tier": "core_n4",
       "pattern": "さ",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 70,
+      "patternOrder": 69,
       "meaning_en": "-ness; nominalizer for adjective",
       "meaning_ja": "",
       "form_rules": {
@@ -3210,12 +3164,12 @@
       "notes": ""
     },
     {
-      "id": "n4-071",
+      "id": "n4-070",
       "tier": "core_n4",
       "pattern": "さっき",
       "category": "Time expressions",
       "categoryOrder": 17,
-      "patternOrder": 71,
+      "patternOrder": 70,
       "meaning_en": "some time ago; just now",
       "meaning_ja": "",
       "form_rules": {
@@ -3256,12 +3210,12 @@
       "notes": ""
     },
     {
-      "id": "n4-072",
+      "id": "n4-071",
       "tier": "core_n4",
       "pattern": "させられる",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 72,
+      "patternOrder": 71,
       "meaning_en": "causative-passive; to be made to do something",
       "meaning_ja": "",
       "form_rules": {
@@ -3301,12 +3255,12 @@
       "notes": ""
     },
     {
-      "id": "n4-073",
+      "id": "n4-072",
       "tier": "core_n4",
       "pattern": "させる",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 73,
+      "patternOrder": 72,
       "meaning_en": "causative form; to make/let somebody do something",
       "meaning_ja": "",
       "form_rules": {
@@ -3346,12 +3300,12 @@
       "notes": ""
     },
     {
-      "id": "n4-074",
+      "id": "n4-073",
       "tier": "core_n4",
       "pattern": "させてください",
       "category": "Requests and permission",
       "categoryOrder": 10,
-      "patternOrder": 74,
+      "patternOrder": 73,
       "meaning_en": "please let me do",
       "meaning_ja": "",
       "form_rules": {
@@ -3392,12 +3346,12 @@
       "notes": ""
     },
     {
-      "id": "n4-075",
+      "id": "n4-074",
       "tier": "core_n4",
       "pattern": "さすが",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 75,
+      "patternOrder": 74,
       "meaning_en": "as one would expect; even",
       "meaning_ja": "",
       "form_rules": {
@@ -3438,12 +3392,12 @@
       "notes": ""
     },
     {
-      "id": "n4-076",
+      "id": "n4-075",
       "tier": "core_n4",
       "pattern": "し",
       "category": "Conjunctions and sentence connectors",
       "categoryOrder": 14,
-      "patternOrder": 76,
+      "patternOrder": 75,
       "meaning_en": "and; and what's more (emphasis)",
       "meaning_ja": "",
       "form_rules": {
@@ -3484,12 +3438,12 @@
       "notes": ""
     },
     {
-      "id": "n4-077",
+      "id": "n4-076",
       "tier": "core_n4",
       "pattern": "そんなに",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 77,
+      "patternOrder": 76,
       "meaning_en": "so much; so; like that",
       "meaning_ja": "",
       "form_rules": {
@@ -3530,12 +3484,12 @@
       "notes": ""
     },
     {
-      "id": "n4-078",
+      "id": "n4-077",
       "tier": "core_n4",
       "pattern": "それでも",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 78,
+      "patternOrder": 77,
       "meaning_en": "but still; and yet; even so",
       "meaning_ja": "",
       "form_rules": {
@@ -3576,12 +3530,12 @@
       "notes": ""
     },
     {
-      "id": "n4-079",
+      "id": "n4-078",
       "tier": "core_n4",
       "pattern": "それに",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 79,
+      "patternOrder": 78,
       "meaning_en": "besides; in addition; also; moreover",
       "meaning_ja": "",
       "form_rules": {
@@ -3622,12 +3576,12 @@
       "notes": ""
     },
     {
-      "id": "n4-080",
+      "id": "n4-079",
       "tier": "core_n4",
       "pattern": "そうだ [1]",
       "category": "Quotation and thought",
       "categoryOrder": 15,
-      "patternOrder": 80,
+      "patternOrder": 79,
       "meaning_en": "I heard that; it is said that ~",
       "meaning_ja": "",
       "form_rules": {
@@ -3668,12 +3622,12 @@
       "notes": ""
     },
     {
-      "id": "n4-081",
+      "id": "n4-080",
       "tier": "core_n4",
       "pattern": "そうだ [2]",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 81,
+      "patternOrder": 80,
       "meaning_en": "looks like; appears like; seeming ~",
       "meaning_ja": "",
       "form_rules": {
@@ -3714,12 +3668,12 @@
       "notes": ""
     },
     {
-      "id": "n4-082",
+      "id": "n4-081",
       "tier": "core_n4",
       "pattern": "そうに / そうな",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 82,
+      "patternOrder": 81,
       "meaning_en": "seems like; looks like ~",
       "meaning_ja": "",
       "form_rules": {
@@ -3760,12 +3714,12 @@
       "notes": ""
     },
     {
-      "id": "n4-083",
+      "id": "n4-082",
       "tier": "core_n4",
       "pattern": "たばかり",
       "category": "Time expressions",
       "categoryOrder": 17,
-      "patternOrder": 83,
+      "patternOrder": 82,
       "meaning_en": "just finished; something just occurred",
       "meaning_ja": "",
       "form_rules": {
@@ -3804,12 +3758,12 @@
       "notes": ""
     },
     {
-      "id": "n4-084",
+      "id": "n4-083",
       "tier": "core_n4",
       "pattern": "たところ",
       "category": "Time expressions",
       "categoryOrder": 17,
-      "patternOrder": 84,
+      "patternOrder": 83,
       "meaning_en": "just finished doing, was just doing",
       "meaning_ja": "",
       "form_rules": {
@@ -3848,12 +3802,12 @@
       "notes": ""
     },
     {
-      "id": "n4-085",
+      "id": "n4-084",
       "tier": "core_n4",
       "pattern": "たがる",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 85,
+      "patternOrder": 84,
       "meaning_en": "wants to do ~ (third person)",
       "meaning_ja": "",
       "form_rules": {
@@ -3893,12 +3847,12 @@
       "notes": ""
     },
     {
-      "id": "n4-086",
+      "id": "n4-085",
       "tier": "core_n4",
       "pattern": "たら",
       "category": "Conditionals (たら / ば / なら / と)",
       "categoryOrder": 8,
-      "patternOrder": 86,
+      "patternOrder": 85,
       "meaning_en": "if; after; when ~",
       "meaning_ja": "",
       "form_rules": {
@@ -3937,12 +3891,12 @@
       "notes": ""
     },
     {
-      "id": "n4-087",
+      "id": "n4-086",
       "tier": "core_n4",
       "pattern": "たらどう",
       "category": "Giving and receiving (あげる / くれる / もらう)",
       "categoryOrder": 9,
-      "patternOrder": 87,
+      "patternOrder": 86,
       "meaning_en": "why don't you; how about ~ (used to give advice)",
       "meaning_ja": "",
       "form_rules": {
@@ -3982,12 +3936,12 @@
       "notes": ""
     },
     {
-      "id": "n4-088",
+      "id": "n4-087",
       "tier": "core_n4",
       "pattern": "たらいいですか",
       "category": "Obligation and prohibition",
       "categoryOrder": 11,
-      "patternOrder": 88,
+      "patternOrder": 87,
       "meaning_en": "what should I do?; speaker seeking instructions",
       "meaning_ja": "",
       "form_rules": {
@@ -4026,12 +3980,12 @@
       "notes": ""
     },
     {
-      "id": "n4-089",
+      "id": "n4-088",
       "tier": "core_n4",
       "pattern": "て / で",
       "category": "Explanation and reason",
       "categoryOrder": 16,
-      "patternOrder": 89,
+      "patternOrder": 88,
       "meaning_en": "conjunctive particle; so; because of",
       "meaning_ja": "",
       "form_rules": {
@@ -4070,12 +4024,12 @@
       "notes": ""
     },
     {
-      "id": "n4-090",
+      "id": "n4-089",
       "tier": "core_n4",
       "pattern": "てあげる",
       "category": "Giving and receiving (あげる / くれる / もらう)",
       "categoryOrder": 9,
-      "patternOrder": 90,
+      "patternOrder": 89,
       "meaning_en": "to do for; to do a favor",
       "meaning_ja": "",
       "form_rules": {
@@ -4115,12 +4069,12 @@
       "notes": ""
     },
     {
-      "id": "n4-091",
+      "id": "n4-090",
       "tier": "core_n4",
       "pattern": "てほしい",
       "category": "Conjunctions and sentence connectors",
       "categoryOrder": 14,
-      "patternOrder": 91,
+      "patternOrder": 90,
       "meaning_en": "I want you to; need you to ~",
       "meaning_ja": "",
       "form_rules": {
@@ -4159,12 +4113,12 @@
       "notes": ""
     },
     {
-      "id": "n4-092",
+      "id": "n4-091",
       "tier": "core_n4",
       "pattern": "ていく",
       "category": "Te-form patterns",
       "categoryOrder": 2,
-      "patternOrder": 92,
+      "patternOrder": 91,
       "meaning_en": "to start; to continue; to go on",
       "meaning_ja": "",
       "form_rules": {
@@ -4204,12 +4158,12 @@
       "notes": ""
     },
     {
-      "id": "n4-093",
+      "id": "n4-092",
       "tier": "core_n4",
       "pattern": "ていた",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 93,
+      "patternOrder": 92,
       "meaning_en": "was doing something (past continuous)",
       "meaning_ja": "",
       "form_rules": {
@@ -4248,12 +4202,12 @@
       "notes": ""
     },
     {
-      "id": "n4-094",
+      "id": "n4-093",
       "tier": "core_n4",
       "pattern": "ていただけませんか",
       "category": "Giving and receiving (あげる / くれる / もらう)",
       "categoryOrder": 9,
-      "patternOrder": 94,
+      "patternOrder": 93,
       "meaning_en": "could you please ~",
       "meaning_ja": "",
       "form_rules": {
@@ -4292,12 +4246,12 @@
       "notes": ""
     },
     {
-      "id": "n4-095",
+      "id": "n4-094",
       "tier": "core_n4",
       "pattern": "てくれる",
       "category": "Giving and receiving (あげる / くれる / もらう)",
       "categoryOrder": 9,
-      "patternOrder": 95,
+      "patternOrder": 94,
       "meaning_en": "to do a favor; do something for someone",
       "meaning_ja": "",
       "form_rules": {
@@ -4337,12 +4291,12 @@
       "notes": ""
     },
     {
-      "id": "n4-096",
+      "id": "n4-095",
       "tier": "core_n4",
       "pattern": "てくる",
       "category": "Te-form patterns",
       "categoryOrder": 2,
-      "patternOrder": 96,
+      "patternOrder": 95,
       "meaning_en": "to do and come back; to become; to continue; to start",
       "meaning_ja": "",
       "form_rules": {
@@ -4382,12 +4336,12 @@
       "notes": ""
     },
     {
-      "id": "n4-097",
+      "id": "n4-096",
       "tier": "core_n4",
       "pattern": "てみる",
       "category": "Te-form patterns",
       "categoryOrder": 2,
-      "patternOrder": 97,
+      "patternOrder": 96,
       "meaning_en": "try doing",
       "meaning_ja": "",
       "form_rules": {
@@ -4427,12 +4381,12 @@
       "notes": ""
     },
     {
-      "id": "n4-098",
+      "id": "n4-097",
       "tier": "core_n4",
       "pattern": "てもらう",
       "category": "Giving and receiving (あげる / くれる / もらう)",
       "categoryOrder": 9,
-      "patternOrder": 98,
+      "patternOrder": 97,
       "meaning_en": "to get somebody to do something",
       "meaning_ja": "",
       "form_rules": {
@@ -4472,12 +4426,12 @@
       "notes": ""
     },
     {
-      "id": "n4-099",
+      "id": "n4-098",
       "tier": "core_n4",
       "pattern": "ておく",
       "category": "Te-form patterns",
       "categoryOrder": 2,
-      "patternOrder": 99,
+      "patternOrder": 98,
       "meaning_en": "to do something in advance",
       "meaning_ja": "",
       "form_rules": {
@@ -4517,12 +4471,12 @@
       "notes": ""
     },
     {
-      "id": "n4-100",
+      "id": "n4-099",
       "tier": "core_n4",
       "pattern": "てしまう / ちゃう",
       "category": "Conjunctions and sentence connectors",
       "categoryOrder": 14,
-      "patternOrder": 100,
+      "patternOrder": 99,
       "meaning_en": "to do by accident, to finish completely",
       "meaning_ja": "",
       "form_rules": {
@@ -4562,12 +4516,12 @@
       "notes": ""
     },
     {
-      "id": "n4-101",
+      "id": "n4-100",
       "tier": "core_n4",
       "pattern": "てすみません",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 101,
+      "patternOrder": 100,
       "meaning_en": "I'm sorry for",
       "meaning_ja": "",
       "form_rules": {
@@ -4606,12 +4560,12 @@
       "notes": ""
     },
     {
-      "id": "n4-102",
+      "id": "n4-101",
       "tier": "core_n4",
       "pattern": "てやる",
       "category": "Giving and receiving (あげる / くれる / もらう)",
       "categoryOrder": 9,
-      "patternOrder": 102,
+      "patternOrder": 101,
       "meaning_en": "to do for; to do a favor (casual)",
       "meaning_ja": "",
       "form_rules": {
@@ -4651,12 +4605,12 @@
       "notes": ""
     },
     {
-      "id": "n4-103",
+      "id": "n4-102",
       "tier": "core_n4",
       "pattern": "てよかった",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 103,
+      "patternOrder": 102,
       "meaning_en": "I'm glad that ~",
       "meaning_ja": "",
       "form_rules": {
@@ -4695,12 +4649,12 @@
       "notes": ""
     },
     {
-      "id": "n4-104",
+      "id": "n4-103",
       "tier": "core_n4",
       "pattern": "ているところ",
       "category": "Time expressions",
       "categoryOrder": 17,
-      "patternOrder": 104,
+      "patternOrder": 103,
       "meaning_en": "in the process of doing",
       "meaning_ja": "",
       "form_rules": {
@@ -4739,12 +4693,12 @@
       "notes": ""
     },
     {
-      "id": "n4-105",
+      "id": "n4-104",
       "tier": "core_n4",
       "pattern": "ても",
       "category": "Conjunctions and sentence connectors",
       "categoryOrder": 14,
-      "patternOrder": 105,
+      "patternOrder": 104,
       "meaning_en": "even; even if; even though ~",
       "meaning_ja": "",
       "form_rules": {
@@ -4783,12 +4737,12 @@
       "notes": ""
     },
     {
-      "id": "n4-106",
+      "id": "n4-105",
       "tier": "core_n4",
       "pattern": "と",
       "category": "Conditionals (たら / ば / なら / と)",
       "categoryOrder": 8,
-      "patternOrder": 106,
+      "patternOrder": 105,
       "meaning_en": "whenever [A] happens, [B] also happens",
       "meaning_ja": "",
       "form_rules": {
@@ -4829,12 +4783,12 @@
       "notes": ""
     },
     {
-      "id": "n4-107",
+      "id": "n4-106",
       "tier": "core_n4",
       "pattern": "と言ってもいい（といってもいい）",
       "category": "Requests and permission",
       "categoryOrder": 10,
-      "patternOrder": 107,
+      "patternOrder": 106,
       "meaning_en": "you could say; one might say; I'd say ~",
       "meaning_ja": "",
       "form_rules": {
@@ -4875,12 +4829,12 @@
       "notes": ""
     },
     {
-      "id": "n4-108",
+      "id": "n4-107",
       "tier": "core_n4",
       "pattern": "という",
       "category": "Quotation and thought",
       "categoryOrder": 15,
-      "patternOrder": 108,
+      "patternOrder": 107,
       "meaning_en": "called; named; that ~",
       "meaning_ja": "",
       "form_rules": {
@@ -4920,12 +4874,12 @@
       "notes": ""
     },
     {
-      "id": "n4-109",
+      "id": "n4-108",
       "tier": "core_n4",
       "pattern": "ということ",
       "category": "Quotation and thought",
       "categoryOrder": 15,
-      "patternOrder": 109,
+      "patternOrder": 108,
       "meaning_en": "convert phrase into noun",
       "meaning_ja": "",
       "form_rules": {
@@ -4966,12 +4920,12 @@
       "notes": ""
     },
     {
-      "id": "n4-110",
+      "id": "n4-109",
       "tier": "core_n4",
       "pattern": "と言われている（といわれている）",
       "category": "Quotation and thought",
       "categoryOrder": 15,
-      "patternOrder": 110,
+      "patternOrder": 109,
       "meaning_en": "it is said that ~",
       "meaning_ja": "",
       "form_rules": {
@@ -5012,12 +4966,12 @@
       "notes": ""
     },
     {
-      "id": "n4-111",
+      "id": "n4-110",
       "tier": "core_n4",
       "pattern": "と聞いた（ときいた）",
       "category": "Quotation and thought",
       "categoryOrder": 15,
-      "patternOrder": 111,
+      "patternOrder": 110,
       "meaning_en": "I heard...",
       "meaning_ja": "",
       "form_rules": {
@@ -5058,12 +5012,12 @@
       "notes": ""
     },
     {
-      "id": "n4-112",
+      "id": "n4-111",
       "tier": "core_n4",
       "pattern": "と思う（とおもう）",
       "category": "Quotation and thought",
       "categoryOrder": 15,
-      "patternOrder": 112,
+      "patternOrder": 111,
       "meaning_en": "to think…; I think…; you think…",
       "meaning_ja": "",
       "form_rules": {
@@ -5102,12 +5056,12 @@
       "notes": ""
     },
     {
-      "id": "n4-113",
+      "id": "n4-112",
       "tier": "core_n4",
       "pattern": "とか〜とか",
       "category": "Conjunctions and sentence connectors",
       "categoryOrder": 14,
-      "patternOrder": 113,
+      "patternOrder": 112,
       "meaning_en": "among other things; such as; like ~",
       "meaning_ja": "",
       "form_rules": {
@@ -5148,12 +5102,12 @@
       "notes": ""
     },
     {
-      "id": "n4-114",
+      "id": "n4-113",
       "tier": "core_n4",
       "pattern": "ところ",
       "category": "Time expressions",
       "categoryOrder": 17,
-      "patternOrder": 114,
+      "patternOrder": 113,
       "meaning_en": "just about to; on the verge of doing something",
       "meaning_ja": "",
       "form_rules": {
@@ -5194,12 +5148,12 @@
       "notes": ""
     },
     {
-      "id": "n4-115",
+      "id": "n4-114",
       "tier": "core_n4",
       "pattern": "つづける",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 115,
+      "patternOrder": 114,
       "meaning_en": "continue to; keen on ~",
       "meaning_ja": "",
       "form_rules": {
@@ -5239,12 +5193,12 @@
       "notes": ""
     },
     {
-      "id": "n4-116",
+      "id": "n4-115",
       "tier": "core_n4",
       "pattern": "って",
       "category": "Quotation and thought",
       "categoryOrder": 15,
-      "patternOrder": 116,
+      "patternOrder": 115,
       "meaning_en": "named; called ~",
       "meaning_ja": "",
       "form_rules": {
@@ -5285,12 +5239,12 @@
       "notes": ""
     },
     {
-      "id": "n4-117",
+      "id": "n4-116",
       "tier": "core_n4",
       "pattern": "は〜が...は",
       "category": "Comparison and degree",
       "categoryOrder": 13,
-      "patternOrder": 117,
+      "patternOrder": 116,
       "meaning_en": "[A] but [B]; however; comparison",
       "meaning_ja": "",
       "form_rules": {
@@ -5331,12 +5285,12 @@
       "notes": ""
     },
     {
-      "id": "n4-118",
+      "id": "n4-117",
       "tier": "core_n4",
       "pattern": "やすい",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 118,
+      "patternOrder": 117,
       "meaning_en": "easy to; likely to; prone to; have a tendency to ~",
       "meaning_ja": "",
       "form_rules": {
@@ -5377,12 +5331,12 @@
       "notes": ""
     },
     {
-      "id": "n4-119",
+      "id": "n4-118",
       "tier": "core_n4",
       "pattern": "やっと",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 119,
+      "patternOrder": 118,
       "meaning_en": "at last; finally; barely; narrowly ~",
       "meaning_ja": "",
       "form_rules": {
@@ -5423,12 +5377,12 @@
       "notes": ""
     },
     {
-      "id": "n4-120",
+      "id": "n4-119",
       "tier": "core_n4",
       "pattern": "より",
       "category": "Comparison and degree",
       "categoryOrder": 13,
-      "patternOrder": 120,
+      "patternOrder": 119,
       "meaning_en": "than; rather than; more than ~",
       "meaning_ja": "",
       "form_rules": {
@@ -5469,12 +5423,12 @@
       "notes": ""
     },
     {
-      "id": "n4-121",
+      "id": "n4-120",
       "tier": "core_n4",
       "pattern": "よていだ",
       "category": "Experience and plans",
       "categoryOrder": 12,
-      "patternOrder": 121,
+      "patternOrder": 120,
       "meaning_en": "plan to, intend to",
       "meaning_ja": "",
       "form_rules": {
@@ -5515,12 +5469,12 @@
       "notes": ""
     },
     {
-      "id": "n4-122",
+      "id": "n4-121",
       "tier": "core_n4",
       "pattern": "ようだ",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 122,
+      "patternOrder": 121,
       "meaning_en": "appears; seems; looks as if ~",
       "meaning_ja": "",
       "form_rules": {
@@ -5559,12 +5513,12 @@
       "notes": ""
     },
     {
-      "id": "n4-123",
+      "id": "n4-122",
       "tier": "core_n4",
       "pattern": "ように / ような",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 123,
+      "patternOrder": 122,
       "meaning_en": "like; as; similar to ~",
       "meaning_ja": "",
       "form_rules": {
@@ -5603,12 +5557,12 @@
       "notes": ""
     },
     {
-      "id": "n4-124",
+      "id": "n4-123",
       "tier": "core_n4",
       "pattern": "ようになる",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 124,
+      "patternOrder": 123,
       "meaning_en": "to reach the point that; to come to be that; to turn into ~",
       "meaning_ja": "",
       "form_rules": {
@@ -5648,12 +5602,12 @@
       "notes": ""
     },
     {
-      "id": "n4-125",
+      "id": "n4-124",
       "tier": "core_n4",
       "pattern": "ようにする",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 125,
+      "patternOrder": 124,
       "meaning_en": "to try to; to make sure that ~",
       "meaning_ja": "",
       "form_rules": {
@@ -5693,12 +5647,12 @@
       "notes": ""
     },
     {
-      "id": "n4-126",
+      "id": "n4-125",
       "tier": "core_n4",
       "pattern": "ようと思う（ようとおもう）",
       "category": "Experience and plans",
       "categoryOrder": 12,
-      "patternOrder": 126,
+      "patternOrder": 125,
       "meaning_en": "thinking of doing; planning to ~",
       "meaning_ja": "",
       "form_rules": {
@@ -5737,12 +5691,12 @@
       "notes": ""
     },
     {
-      "id": "n4-127",
+      "id": "n4-126",
       "tier": "core_n4",
       "pattern": "ぜひ",
       "category": "Frequency and adverbs",
       "categoryOrder": 18,
-      "patternOrder": 127,
+      "patternOrder": 126,
       "meaning_en": "by all means; certainly; definitely ~",
       "meaning_ja": "",
       "form_rules": {
@@ -5783,12 +5737,12 @@
       "notes": ""
     },
     {
-      "id": "n4-128",
+      "id": "n4-127",
       "tier": "core_n4",
       "pattern": "ぜんぜん〜ない",
       "category": "Frequency and adverbs",
       "categoryOrder": 18,
-      "patternOrder": 128,
+      "patternOrder": 127,
       "meaning_en": "(not) at all",
       "meaning_ja": "",
       "form_rules": {
@@ -5829,12 +5783,12 @@
       "notes": ""
     },
     {
-      "id": "n4-129",
+      "id": "n4-128",
       "tier": "core_n4",
       "pattern": "づらい",
       "category": "Verb forms (overview)",
       "categoryOrder": 1,
-      "patternOrder": 129,
+      "patternOrder": 128,
       "meaning_en": "difficult to do ~",
       "meaning_ja": "",
       "form_rules": {

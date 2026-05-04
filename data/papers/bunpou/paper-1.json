@@ -9,12 +9,12 @@
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "「MEANING-BRIEF`」(n4-001) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「while」(n4-001) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "いたします",
+        "かどうか",
+        "出す（だす）",
         "間（あいだ）",
-        "Format: `PATTERN",
-        "はずだ"
+        "かしら"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -25,10 +25,10 @@
       "type": "mcq",
       "stem_html": "「while」(n4-002) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "だけで",
-        "Format: `PATTERN",
-        "ございます",
-        "間（あいだ）"
+        "ばあいは",
+        "いらっしゃる",
+        "はずだ",
+        "間に（あいだに）"
       ],
       "correctIndex": 3,
       "rationale": "",
@@ -37,12 +37,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「while」(n4-003) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「not very」(n4-003) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "出す（だす）",
-        "間に（あいだに）",
-        "じゃないか",
-        "いたします"
+        "でございます",
+        "あまり〜ない",
+        "かもしれない",
+        "かどうか"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -51,12 +51,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「not very」(n4-004) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「after」(n4-004) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "から作る",
-        "いらっしゃる",
-        "あまり〜ない",
-        "始める（はじめる）"
+        "出す（だす）",
+        "がり",
+        "後で（あとで）",
+        "きっと"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -65,12 +65,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「after」(n4-005) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「conditional form (if-then)」(n4-005) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "間（あいだ）",
-        "ばあいは",
-        "後で（あとで）",
-        "Format: `PATTERN"
+        "かい",
+        "間に（あいだに）",
+        "ば",
+        "いらっしゃる"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -79,12 +79,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「conditional form (if-then)」(n4-006) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「in the event of」(n4-006) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "だけで",
-        "Format: `PATTERN",
-        "後で（あとで）",
-        "ば"
+        "かどうか",
+        "出す（だす）",
+        "かな",
+        "ばあいは"
       ],
       "correctIndex": 3,
       "rationale": "",
@@ -93,26 +93,26 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「in the event of」(n4-007) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「only」(n4-007) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "がり",
-        "間（あいだ）",
-        "かしら",
-        "ばあいは"
+        "だけ",
+        "しか",
+        "ばかり",
+        "でも"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q7",
       "id": "bunpou-1.7"
     },
     {
       "type": "mcq",
-      "stem_html": "「only」(n4-008) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「just by」(n4-008) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "を",
-        "でも",
-        "ばかり",
-        "より"
+        "後で（あとで）",
+        "かな",
+        "だけで",
+        "ではないか"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -121,12 +121,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「just by」(n4-009) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to begin to」(n4-009) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "かい",
-        "だけで",
-        "がり",
-        "間（あいだ）"
+        "ば",
+        "出す（だす）",
+        "がする",
+        "かい"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -135,12 +135,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to begin to」(n4-010) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to be (honorific)」(n4-010) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "だけで",
-        "出す（だす）",
-        "かどうか",
-        "ば"
+        "かな",
+        "でございます",
+        "から作る",
+        "いたします"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -149,12 +149,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to be (honorific)」(n4-011) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「or something」(n4-011) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "あまり〜ない",
-        "間に（あいだに）",
-        "でございます",
-        "ば"
+        "ごろ",
+        "ばかり",
+        "でも",
+        "も"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -163,26 +163,26 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「or something」(n4-012) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「right?」(n4-012) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "と",
-        "ばかり",
-        "や",
-        "でも"
+        "きっと",
+        "ではないか",
+        "始める（はじめる）",
+        "だけで"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q12",
       "id": "bunpou-1.12"
     },
     {
       "type": "mcq",
-      "stem_html": "「right?」(n4-013) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to smell」(n4-013) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "かどうか",
-        "じゃないか",
-        "ではないか",
-        "後で（あとで）"
+        "がり",
+        "かしら",
+        "がする",
+        "でございます"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -191,12 +191,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to smell」(n4-014) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「personality/tendency」(n4-014) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "間に（あいだに）",
-        "だけで",
-        "がする",
-        "かしら"
+        "はずがない",
+        "ばあいは",
+        "がり",
+        "かどうか"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -205,12 +205,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「personality/tendency」(n4-015) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to show signs of」(n4-015) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "でございます",
-        "出す（だす）",
-        "かしら",
-        "がり"
+        "がする",
+        "ころ",
+        "はずがない",
+        "がる / がっている"
       ],
       "correctIndex": 3,
       "rationale": "",
