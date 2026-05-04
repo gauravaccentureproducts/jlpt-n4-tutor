@@ -13540,12 +13540,39 @@
       "meaning_en": "MEANING-BRIEF`",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: MEANING-BRIEF`. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは Format: `PATTERNです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for Format: `PATTERN: MEANING-BRIEF`.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと Format: `PATTERN言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: MEANING-BRIEF`.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving Format: `PATTERN — to be authored by native reviewer)",
+          "right": "Format: `PATTERN (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13559,12 +13586,39 @@
       "meaning_en": "while; during; between",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: while; during; between. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは 間（あいだ）です。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for 間（あいだ）: while.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと 間（あいだ）言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: while.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving 間（あいだ） — to be authored by native reviewer)",
+          "right": "間（あいだ） (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13578,12 +13632,39 @@
       "meaning_en": "while; during (something happened)",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: while; during (something happened). See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは 間に（あいだに）です。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for 間に（あいだに）: while.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと 間に（あいだに）言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: while.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving 間に（あいだに） — to be authored by native reviewer)",
+          "right": "間に（あいだに） (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13597,12 +13678,39 @@
       "meaning_en": "not very; not much",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: not very; not much. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを あまり〜ない。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for あまり〜ない: not very.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと あまり〜ない言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: not very.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving あまり〜ない — to be authored by native reviewer)",
+          "right": "あまり〜ない (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13616,12 +13724,39 @@
       "meaning_en": "after; later",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: after; later. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは 後で（あとで）です。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for 後で（あとで）: after.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと 後で（あとで）言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: after.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving 後で（あとで） — to be authored by native reviewer)",
+          "right": "後で（あとで） (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13635,12 +13770,37 @@
       "meaning_en": "conditional form (if-then)",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_ba_form"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: conditional form (if-then). See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ばです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ば: conditional form (if-then).)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うば。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: conditional form (if-then).)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ば — to be authored by native reviewer)",
+          "right": "ば (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13654,12 +13814,37 @@
       "meaning_en": "in the event of; in case that",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_ba_form"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: in the event of; in case that. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ばあいはです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ばあいは: in the event of.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うばあいは。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: in the event of.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ばあいは — to be authored by native reviewer)",
+          "right": "ばあいは (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13673,12 +13858,37 @@
       "meaning_en": "only; nothing but",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_ba_form"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: only; nothing but. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ばかりです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ばかり: only.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うばかり。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: only.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ばかり — to be authored by native reviewer)",
+          "right": "ばかり (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13692,12 +13902,39 @@
       "meaning_en": "just by; by doing alone",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: just by; by doing alone. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは だけでです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for だけで: just by.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと だけで言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: just by.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving だけで — to be authored by native reviewer)",
+          "right": "だけで (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13711,12 +13948,39 @@
       "meaning_en": "to begin to; start to; burst into",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to begin to; start to; burst into. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは 出す（だす）です。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for 出す（だす）: to begin to.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと 出す（だす）言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to begin to.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving 出す（だす） — to be authored by native reviewer)",
+          "right": "出す（だす） (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13730,12 +13994,38 @@
       "meaning_en": "to be (honorific)",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to be (honorific). See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは でございますです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for でございます: to be (honorific).)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと でございます言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to be (honorific).)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving でございます — to be authored by native reviewer)",
+          "right": "でございます (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13749,12 +14039,39 @@
       "meaning_en": "or something; how about",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: or something; how about. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは でもです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for でも: or something.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと でも言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: or something.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving でも — to be authored by native reviewer)",
+          "right": "でも (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13768,12 +14085,39 @@
       "meaning_en": "right?; isn't it?",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: right?; isn't it?. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ではないかです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ではないか: right?.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ではないか言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: right?.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ではないか — to be authored by native reviewer)",
+          "right": "ではないか (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13787,12 +14131,38 @@
       "meaning_en": "to smell; hear; taste",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to smell; hear; taste. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを がする。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for がする: to smell.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと がする言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to smell.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving がする — to be authored by native reviewer)",
+          "right": "がする (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13806,12 +14176,39 @@
       "meaning_en": "personality/tendency",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: personality/tendency. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは がりです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for がり: personality/tendency.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと がり言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: personality/tendency.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving がり — to be authored by native reviewer)",
+          "right": "がり (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13825,12 +14222,38 @@
       "meaning_en": "to show signs of; appear; feel",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to show signs of; appear; feel. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを がる / がっている。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for がる / がっている: to show signs of.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと がる / がっている言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to show signs of.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving がる / がっている — to be authored by native reviewer)",
+          "right": "がる / がっている (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13844,12 +14267,38 @@
       "meaning_en": "to be; to exist (polite)",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to be; to exist (polite). See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ございますです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ございます: to be.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ございます言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to be.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ございます — to be authored by native reviewer)",
+          "right": "ございます (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13863,12 +14312,39 @@
       "meaning_en": "to start; to begin to",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to start; to begin to. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは 始める（はじめる）です。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for 始める（はじめる）: to start.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと 始める（はじめる）言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to start.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving 始める（はじめる） — to be authored by native reviewer)",
+          "right": "始める（はじめる） (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13882,12 +14358,39 @@
       "meaning_en": "it must be; should be",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: it must be; should be. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは はずだです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for はずだ: it must be.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと はずだ言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: it must be.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving はずだ — to be authored by native reviewer)",
+          "right": "はずだ (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13901,12 +14404,39 @@
       "meaning_en": "cannot be (impossible)",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: cannot be (impossible). See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを はずがない。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for はずがない: cannot be (impossible).)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと はずがない言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: cannot be (impossible).)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving はずがない — to be authored by native reviewer)",
+          "right": "はずがない (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13920,12 +14450,38 @@
       "meaning_en": "need to; it is necessary",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: need to; it is necessary. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを ひつようがある。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ひつようがある: need to.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ひつようがある言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: need to.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ひつようがある — to be authored by native reviewer)",
+          "right": "ひつようがある (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13939,12 +14495,38 @@
       "meaning_en": "to be; come; go (polite)",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to be; come; go (polite). See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを いらっしゃる。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for いらっしゃる: to be.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと いらっしゃる言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to be.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving いらっしゃる — to be authored by native reviewer)",
+          "right": "いらっしゃる (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13958,12 +14540,38 @@
       "meaning_en": "to do (polite form)",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to do (polite form). See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは いたしますです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for いたします: to do (polite form).)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと いたします言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to do (polite form).)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving いたします — to be authored by native reviewer)",
+          "right": "いたします (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13977,12 +14585,39 @@
       "meaning_en": "right?; isn't it?; let's",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: right?; isn't it?; let's. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは じゃないかです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for じゃないか: right?.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと じゃないか言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: right?.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving じゃないか — to be authored by native reviewer)",
+          "right": "じゃないか (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -13996,12 +14631,39 @@
       "meaning_en": "whether or not",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: whether or not. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは かどうかです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for かどうか: whether or not.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと かどうか言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: whether or not.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving かどうか — to be authored by native reviewer)",
+          "right": "かどうか (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14015,12 +14677,39 @@
       "meaning_en": "I wonder (feminine)",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: I wonder (feminine). See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは かしらです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for かしら: I wonder (feminine).)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと かしら言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: I wonder (feminine).)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving かしら — to be authored by native reviewer)",
+          "right": "かしら (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14034,12 +14723,39 @@
       "meaning_en": "turns sentence into yes/no question",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: turns sentence into yes/no question. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを かい。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for かい: turns sentence into yes/no question.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと かい言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: turns sentence into yes/no question.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving かい — to be authored by native reviewer)",
+          "right": "かい (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14053,12 +14769,39 @@
       "meaning_en": "might; perhaps; possibly",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: might; perhaps; possibly. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを かもしれない。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for かもしれない: might.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと かもしれない言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: might.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving かもしれない — to be authored by native reviewer)",
+          "right": "かもしれない (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14072,12 +14815,39 @@
       "meaning_en": "I wonder; should I?",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: I wonder; should I?. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは かなです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for かな: I wonder.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと かな言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: I wonder.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving かな — to be authored by native reviewer)",
+          "right": "かな (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14091,12 +14861,38 @@
       "meaning_en": "made from; made with",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: made from; made with. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを から作る。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for から作る: made from.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと から作る言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: made from.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving から作る — to be authored by native reviewer)",
+          "right": "から作る (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14110,12 +14906,39 @@
       "meaning_en": "surely; undoubtedly; most likely",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: surely; undoubtedly; most likely. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは きっとです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for きっと: surely.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと きっと言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: surely.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving きっと — to be authored by native reviewer)",
+          "right": "きっと (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14129,12 +14952,39 @@
       "meaning_en": "around; about; when",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: around; about; when. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ころです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ころ: around.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ころ言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: around.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ころ — to be authored by native reviewer)",
+          "right": "ころ (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14148,12 +14998,39 @@
       "meaning_en": "verb nominalizer",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: verb nominalizer. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ことです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for こと: verb nominalizer.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと こと言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: verb nominalizer.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving こと — to be authored by native reviewer)",
+          "right": "こと (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14167,12 +15044,38 @@
       "meaning_en": "there are times when",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: there are times when. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを ことがある。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ことがある: there are times when.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ことがある言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: there are times when.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ことがある — to be authored by native reviewer)",
+          "right": "ことがある (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14186,12 +15089,38 @@
       "meaning_en": "can; able to",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: can; able to. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを ことができる。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ことができる: can.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ことができる言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: can.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ことができる — to be authored by native reviewer)",
+          "right": "ことができる (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14205,12 +15134,38 @@
       "meaning_en": "it has been decided; turns out",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: it has been decided; turns out. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを ことになる。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ことになる: it has been decided.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ことになる言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: it has been decided.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ことになる — to be authored by native reviewer)",
+          "right": "ことになる (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14224,12 +15179,38 @@
       "meaning_en": "to decide on",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to decide on. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを ことにする。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ことにする: to decide on.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ことにする言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to decide on.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ことにする — to be authored by native reviewer)",
+          "right": "ことにする (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14243,12 +15224,38 @@
       "meaning_en": "to make something",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to make something. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを くする。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for くする: to make something.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと くする言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to make something.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving くする — to be authored by native reviewer)",
+          "right": "くする (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14262,12 +15269,39 @@
       "meaning_en": "quickly; suddenly; abruptly",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: quickly; suddenly; abruptly. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは 急に（きゅうに）です。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for 急に（きゅうに）: quickly.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと 急に（きゅうに）言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: quickly.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving 急に（きゅうに） — to be authored by native reviewer)",
+          "right": "急に（きゅうに） (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14281,12 +15315,39 @@
       "meaning_en": "by; by the time; indicates time limit",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: by; by the time; indicates time limit. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは までにです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for までに: by.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと までに言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: by.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving までに — to be authored by native reviewer)",
+          "right": "までに (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14300,12 +15361,39 @@
       "meaning_en": "as it is; current state; without changing",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: as it is; current state; without changing. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ままです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for まま: as it is.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと まま言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: as it is.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving まま — to be authored by native reviewer)",
+          "right": "まま (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14319,12 +15407,39 @@
       "meaning_en": "both; or; otherwise; choice between [A] or [B]",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: both; or; otherwise; choice between [A] or [B]. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは またはです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for または: both.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと または言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: both.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving または — to be authored by native reviewer)",
+          "right": "または (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14338,12 +15453,39 @@
       "meaning_en": "like; similar to; resembling",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: like; similar to; resembling. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは みたいだです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for みたいだ: like.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと みたいだ言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: like.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving みたいだ — to be authored by native reviewer)",
+          "right": "みたいだ (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14357,12 +15499,39 @@
       "meaning_en": "like, similar to",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: like, similar to. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは みたいなです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for みたいな: like, similar to.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと みたいな言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: like, similar to.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving みたいな — to be authored by native reviewer)",
+          "right": "みたいな (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14376,12 +15545,39 @@
       "meaning_en": "like; similar to",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: like; similar to. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは みたいにです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for みたいに: like.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと みたいに言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: like.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving みたいに — to be authored by native reviewer)",
+          "right": "みたいに (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14395,12 +15591,39 @@
       "meaning_en": "as many as; as much as; up to; nearly",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: as many as; as much as; up to; nearly. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは もです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for も: as many as.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと も言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: as many as.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving も — to be authored by native reviewer)",
+          "right": "も (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14414,12 +15637,39 @@
       "meaning_en": "don't ~ (order somebody to not do something)",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: don't ~ (order somebody to not do something). See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは なです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for な: don't ~ (order somebody to not do something).)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと な言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: don't ~ (order somebody to not do something).)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving な — to be authored by native reviewer)",
+          "right": "な (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14433,12 +15683,39 @@
       "meaning_en": "such as; things like",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: such as; things like. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは などです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for など: such as.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと など言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: such as.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving など — to be authored by native reviewer)",
+          "right": "など (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14452,12 +15729,39 @@
       "meaning_en": "while; during; as; simultaneously",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: while; during; as; simultaneously. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ながらです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ながら: while.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ながら言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: while.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ながら — to be authored by native reviewer)",
+          "right": "ながら (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14471,12 +15775,39 @@
       "meaning_en": "not easy to; struggling to; not able to",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: not easy to; struggling to; not able to. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを なかなか〜ない。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for なかなか〜ない: not easy to.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと なかなか〜ない言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: not easy to.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving なかなか〜ない — to be authored by native reviewer)",
+          "right": "なかなか〜ない (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14490,12 +15821,39 @@
       "meaning_en": "must do something; have to do something",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: must do something; have to do something. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを なければいけない。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for なければいけない: must do something.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと なければいけない言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: must do something.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving なければいけない — to be authored by native reviewer)",
+          "right": "なければいけない (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14509,12 +15867,39 @@
       "meaning_en": "must do something; have to do something",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: must do something; have to do something. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを なければならない。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for なければならない: must do something.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと なければならない言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: must do something.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving なければならない — to be authored by native reviewer)",
+          "right": "なければならない (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14528,12 +15913,39 @@
       "meaning_en": "if; in the case that",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: if; in the case that. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ならです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for なら: if.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと なら言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: if.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving なら — to be authored by native reviewer)",
+          "right": "なら (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14547,12 +15959,39 @@
       "meaning_en": "do this (soft/firm command)",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: do this (soft/firm command). See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを なさい。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for なさい: do this (soft/firm command).)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと なさい言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: do this (soft/firm command).)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving なさい — to be authored by native reviewer)",
+          "right": "なさい (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14566,12 +16005,38 @@
       "meaning_en": "to do (honorific)",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to do (honorific). See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを なさる。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for なさる: to do (honorific).)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと なさる言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to do (honorific).)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving なさる — to be authored by native reviewer)",
+          "right": "なさる (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14585,12 +16050,39 @@
       "meaning_en": "to notice; to realize",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to notice; to realize. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは に気がつく（にきがつく）です。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for に気がつく（にきがつく）: to notice.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと に気がつく（にきがつく）言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to notice.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving に気がつく（にきがつく） — to be authored by native reviewer)",
+          "right": "に気がつく（にきがつく） (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14604,12 +16096,39 @@
       "meaning_en": "to look; to seem; to appear",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to look; to seem; to appear. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは に見える（にみえる）です。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for に見える（にみえる）: to look.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと に見える（にみえる）言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to look.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving に見える（にみえる） — to be authored by native reviewer)",
+          "right": "に見える（にみえる） (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14623,12 +16142,38 @@
       "meaning_en": "to make something",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to make something. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを にする。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for にする: to make something.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと にする言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to make something.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving にする — to be authored by native reviewer)",
+          "right": "にする (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14642,12 +16187,39 @@
       "meaning_en": "difficult to do",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: difficult to do. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを にくい。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for にくい: difficult to do.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと にくい言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: difficult to do.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving にくい — to be authored by native reviewer)",
+          "right": "にくい (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14661,12 +16233,39 @@
       "meaning_en": "in; among",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: in; among. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは の中で（のなかで）です。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for の中で（のなかで）: in.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと の中で（のなかで）言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: in.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving の中で（のなかで） — to be authored by native reviewer)",
+          "right": "の中で（のなかで） (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14680,12 +16279,39 @@
       "meaning_en": "although, in spite of, even though",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: although, in spite of, even though. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは のにです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for のに: although, in spite of, even though.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと のに言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: although, in spite of, even though.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving のに — to be authored by native reviewer)",
+          "right": "のに (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14699,12 +16325,39 @@
       "meaning_en": "to (do something); in order to",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to (do something); in order to. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは のに (alt.)です。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for のに (alt.): to (do something).)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと のに (alt.)言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to (do something).)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving のに (alt.) — to be authored by native reviewer)",
+          "right": "のに (alt.) (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14718,12 +16371,39 @@
       "meaning_en": "[A] is [B]; the reason for [A] is [B]",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: [A] is [B]; the reason for [A] is [B]. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは のは〜だです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for のは〜だ: [A] is [B].)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと のは〜だ言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: [A] is [B].)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving のは〜だ — to be authored by native reviewer)",
+          "right": "のは〜だ (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14737,12 +16417,39 @@
       "meaning_en": "please do ~ (honorific)",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: please do ~ (honorific). See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを お〜ください。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for お〜ください: please do ~ (honorific).)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと お〜ください言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: please do ~ (honorific).)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving お〜ください — to be authored by native reviewer)",
+          "right": "お〜ください (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14756,12 +16463,38 @@
       "meaning_en": "to do (honorific)",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to do (honorific). See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを お〜になる。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for お〜になる: to do (honorific).)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと お〜になる言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to do (honorific).)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving お〜になる — to be authored by native reviewer)",
+          "right": "お〜になる (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14775,12 +16508,39 @@
       "meaning_en": "repeated at intervals, every",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: repeated at intervals, every. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは おきにです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for おきに: repeated at intervals, every.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと おきに言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: repeated at intervals, every.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving おきに — to be authored by native reviewer)",
+          "right": "おきに (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14794,12 +16554,39 @@
       "meaning_en": "to finish; to end",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to finish; to end. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは 終わる（おわる）です。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for 終わる（おわる）: to finish.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと 終わる（おわる）言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to finish.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving 終わる（おわる） — to be authored by native reviewer)",
+          "right": "終わる（おわる） (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14813,12 +16600,38 @@
       "meaning_en": "potential form; ability or inability to do something",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: potential form; ability or inability to do something. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを られる。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for られる: potential form.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと られる言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: potential form.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving られる — to be authored by native reviewer)",
+          "right": "られる (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14832,12 +16645,39 @@
       "meaning_en": "it seems like; I heard; apparently",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: it seems like; I heard; apparently. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを らしい。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for らしい: it seems like.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと らしい言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: it seems like.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving らしい — to be authored by native reviewer)",
+          "right": "らしい (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14851,12 +16691,39 @@
       "meaning_en": "-ness; nominalizer for adjective",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: -ness; nominalizer for adjective. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは さです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for さ: -ness.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと さ言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: -ness.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving さ — to be authored by native reviewer)",
+          "right": "さ (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14870,12 +16737,39 @@
       "meaning_en": "some time ago; just now",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: some time ago; just now. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは さっきです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for さっき: some time ago.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと さっき言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: some time ago.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving さっき — to be authored by native reviewer)",
+          "right": "さっき (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14889,12 +16783,38 @@
       "meaning_en": "causative-passive; to be made to do something",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: causative-passive; to be made to do something. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを させられる。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for させられる: causative-passive.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと させられる言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: causative-passive.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving させられる — to be authored by native reviewer)",
+          "right": "させられる (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14908,12 +16828,38 @@
       "meaning_en": "causative form; to make/let somebody do something",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: causative form; to make/let somebody do something. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを させる。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for させる: causative form.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと させる言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: causative form.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving させる — to be authored by native reviewer)",
+          "right": "させる (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14927,12 +16873,39 @@
       "meaning_en": "please let me do",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: please let me do. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを させてください。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for させてください: please let me do.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと させてください言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: please let me do.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving させてください — to be authored by native reviewer)",
+          "right": "させてください (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14946,12 +16919,39 @@
       "meaning_en": "as one would expect; even",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: as one would expect; even. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは さすがです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for さすが: as one would expect.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと さすが言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: as one would expect.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving さすが — to be authored by native reviewer)",
+          "right": "さすが (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14965,12 +16965,39 @@
       "meaning_en": "and; and what's more (emphasis)",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: and; and what's more (emphasis). See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは しです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for し: and.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと し言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: and.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving し — to be authored by native reviewer)",
+          "right": "し (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -14984,12 +17011,39 @@
       "meaning_en": "so much; so; like that",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: so much; so; like that. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは そんなにです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for そんなに: so much.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと そんなに言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: so much.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving そんなに — to be authored by native reviewer)",
+          "right": "そんなに (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15003,12 +17057,39 @@
       "meaning_en": "but still; and yet; even so",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: but still; and yet; even so. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは それでもです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for それでも: but still.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと それでも言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: but still.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving それでも — to be authored by native reviewer)",
+          "right": "それでも (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15022,12 +17103,39 @@
       "meaning_en": "besides; in addition; also; moreover",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: besides; in addition; also; moreover. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは それにです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for それに: besides.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと それに言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: besides.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving それに — to be authored by native reviewer)",
+          "right": "それに (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15041,12 +17149,39 @@
       "meaning_en": "I heard that; it is said that ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: I heard that; it is said that ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは そうだ [1]です。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for そうだ [1]: I heard that.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと そうだ [1]言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: I heard that.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving そうだ [1] — to be authored by native reviewer)",
+          "right": "そうだ [1] (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15060,12 +17195,39 @@
       "meaning_en": "looks like; appears like; seeming ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: looks like; appears like; seeming ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは そうだ [2]です。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for そうだ [2]: looks like.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと そうだ [2]言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: looks like.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving そうだ [2] — to be authored by native reviewer)",
+          "right": "そうだ [2] (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15079,12 +17241,39 @@
       "meaning_en": "seems like; looks like ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: seems like; looks like ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは そうに / そうなです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for そうに / そうな: seems like.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと そうに / そうな言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: seems like.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving そうに / そうな — to be authored by native reviewer)",
+          "right": "そうに / そうな (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15098,12 +17287,37 @@
       "meaning_en": "just finished; something just occurred",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_ta_form"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: just finished; something just occurred. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは たばかりです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for たばかり: just finished.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと たばかり言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: just finished.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving たばかり — to be authored by native reviewer)",
+          "right": "たばかり (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15117,12 +17331,37 @@
       "meaning_en": "just finished doing, was just doing",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_ta_form"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: just finished doing, was just doing. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは たところです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for たところ: just finished doing, was just doing.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと たところ言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: just finished doing, was just doing.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving たところ — to be authored by native reviewer)",
+          "right": "たところ (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15136,12 +17375,38 @@
       "meaning_en": "wants to do ~ (third person)",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: wants to do ~ (third person). See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを たがる。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for たがる: wants to do ~ (third person).)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと たがる言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: wants to do ~ (third person).)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving たがる — to be authored by native reviewer)",
+          "right": "たがる (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15155,12 +17420,37 @@
       "meaning_en": "if; after; when ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_ta_form"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: if; after; when ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは たらです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for たら: if.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと たら言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: if.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving たら — to be authored by native reviewer)",
+          "right": "たら (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15174,12 +17464,38 @@
       "meaning_en": "why don't you; how about ~ (used to give advice)",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: why don't you; how about ~ (used to give advice). See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを たらどう。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for たらどう: why don't you.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと たらどう言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: why don't you.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving たらどう — to be authored by native reviewer)",
+          "right": "たらどう (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15193,12 +17509,37 @@
       "meaning_en": "what should I do?; speaker seeking instructions",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_ta_form"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: what should I do?; speaker seeking instructions. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは たらいいですかです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for たらいいですか: what should I do?.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと たらいいですか言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: what should I do?.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving たらいいですか — to be authored by native reviewer)",
+          "right": "たらいいですか (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15212,12 +17553,37 @@
       "meaning_en": "conjunctive particle; so; because of",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_te_form"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: conjunctive particle; so; because of. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは て / でです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for て / で: conjunctive particle.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと て / で言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: conjunctive particle.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving て / で — to be authored by native reviewer)",
+          "right": "て / で (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15231,12 +17597,38 @@
       "meaning_en": "to do for; to do a favor",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to do for; to do a favor. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを てあげる。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for てあげる: to do for.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと てあげる言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to do for.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving てあげる — to be authored by native reviewer)",
+          "right": "てあげる (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15250,12 +17642,37 @@
       "meaning_en": "I want you to; need you to ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_te_form"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: I want you to; need you to ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを てほしい。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for てほしい: I want you to.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと てほしい言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: I want you to.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving てほしい — to be authored by native reviewer)",
+          "right": "てほしい (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15269,12 +17686,38 @@
       "meaning_en": "to start; to continue; to go on",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to start; to continue; to go on. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ていくです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ていく: to start.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ていく言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to start.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ていく — to be authored by native reviewer)",
+          "right": "ていく (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15288,12 +17731,37 @@
       "meaning_en": "was doing something (past continuous)",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_te_form"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: was doing something (past continuous). See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ていたです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ていた: was doing something (past continuous).)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ていた言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: was doing something (past continuous).)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ていた — to be authored by native reviewer)",
+          "right": "ていた (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15307,12 +17775,37 @@
       "meaning_en": "could you please ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_te_form"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: could you please ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ていただけませんかです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ていただけませんか: could you please ~.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ていただけませんか言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: could you please ~.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ていただけませんか — to be authored by native reviewer)",
+          "right": "ていただけませんか (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15326,12 +17819,38 @@
       "meaning_en": "to do a favor; do something for someone",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to do a favor; do something for someone. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを てくれる。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for てくれる: to do a favor.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと てくれる言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to do a favor.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving てくれる — to be authored by native reviewer)",
+          "right": "てくれる (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15345,12 +17864,38 @@
       "meaning_en": "to do and come back; to become; to continue; to start",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to do and come back; to become; to continue; to start. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを てくる。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for てくる: to do and come back.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと てくる言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to do and come back.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving てくる — to be authored by native reviewer)",
+          "right": "てくる (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15364,12 +17909,38 @@
       "meaning_en": "try doing",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: try doing. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを てみる。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for てみる: try doing.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと てみる言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: try doing.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving てみる — to be authored by native reviewer)",
+          "right": "てみる (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15383,12 +17954,38 @@
       "meaning_en": "to get somebody to do something",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to get somebody to do something. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを てもらう。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for てもらう: to get somebody to do something.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと てもらう言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to get somebody to do something.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving てもらう — to be authored by native reviewer)",
+          "right": "てもらう (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15402,12 +17999,38 @@
       "meaning_en": "to do something in advance",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to do something in advance. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ておくです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ておく: to do something in advance.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ておく言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to do something in advance.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ておく — to be authored by native reviewer)",
+          "right": "ておく (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15421,12 +18044,38 @@
       "meaning_en": "to do by accident, to finish completely",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to do by accident, to finish completely. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを てしまう / ちゃう。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for てしまう / ちゃう: to do by accident, to finish completely.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと てしまう / ちゃう言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to do by accident, to finish completely.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving てしまう / ちゃう — to be authored by native reviewer)",
+          "right": "てしまう / ちゃう (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15440,12 +18089,37 @@
       "meaning_en": "I'm sorry for",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_te_form"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: I'm sorry for. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは てすみませんです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for てすみません: I'm sorry for.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと てすみません言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: I'm sorry for.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving てすみません — to be authored by native reviewer)",
+          "right": "てすみません (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15459,12 +18133,38 @@
       "meaning_en": "to do for; to do a favor (casual)",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to do for; to do a favor (casual). See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを てやる。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for てやる: to do for.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと てやる言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to do for.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving てやる — to be authored by native reviewer)",
+          "right": "てやる (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15478,12 +18178,37 @@
       "meaning_en": "I'm glad that ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_te_form"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: I'm glad that ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは てよかったです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for てよかった: I'm glad that ~.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと てよかった言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: I'm glad that ~.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving てよかった — to be authored by native reviewer)",
+          "right": "てよかった (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15497,12 +18222,37 @@
       "meaning_en": "in the process of doing",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_te_form"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: in the process of doing. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ているところです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ているところ: in the process of doing.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ているところ言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: in the process of doing.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ているところ — to be authored by native reviewer)",
+          "right": "ているところ (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15516,12 +18266,37 @@
       "meaning_en": "even; even if; even though ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_te_form"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: even; even if; even though ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは てもです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ても: even.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ても言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: even.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ても — to be authored by native reviewer)",
+          "right": "ても (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15535,12 +18310,39 @@
       "meaning_en": "whenever [A] happens, [B] also happens",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: whenever [A] happens, [B] also happens. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは とです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for と: whenever [A] happens, [B] also happens.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: whenever [A] happens, [B] also happens.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving と — to be authored by native reviewer)",
+          "right": "と (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15554,12 +18356,39 @@
       "meaning_en": "you could say; one might say; I'd say ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: you could say; one might say; I'd say ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは と言ってもいい（といってもいい）です。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for と言ってもいい（といってもいい）: you could say.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと言ってもいい（といってもいい）。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: you could say.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving と言ってもいい（といってもいい） — to be authored by native reviewer)",
+          "right": "と言ってもいい（といってもいい） (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15573,12 +18402,38 @@
       "meaning_en": "called; named; that ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: called; named; that ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを という。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for という: called.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うという。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: called.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving という — to be authored by native reviewer)",
+          "right": "という (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15592,12 +18447,39 @@
       "meaning_en": "convert phrase into noun",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: convert phrase into noun. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ということです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ということ: convert phrase into noun.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うということ。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: convert phrase into noun.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ということ — to be authored by native reviewer)",
+          "right": "ということ (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15611,12 +18493,39 @@
       "meaning_en": "it is said that ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: it is said that ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは と言われている（といわれている）です。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for と言われている（といわれている）: it is said that ~.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと言われている（といわれている）。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: it is said that ~.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving と言われている（といわれている） — to be authored by native reviewer)",
+          "right": "と言われている（といわれている） (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15630,12 +18539,39 @@
       "meaning_en": "I heard...",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: I heard. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは と聞いた（ときいた）です。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for と聞いた（ときいた）: I heard....)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと聞いた（ときいた）。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: I heard....)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving と聞いた（ときいた） — to be authored by native reviewer)",
+          "right": "と聞いた（ときいた） (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15649,12 +18585,37 @@
       "meaning_en": "to think…; I think…; you think…",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "plain_clause"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to think…; I think…; you think…. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは と思う（とおもう）です。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for と思う（とおもう）: to think….)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと思う（とおもう）。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to think….)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving と思う（とおもう） — to be authored by native reviewer)",
+          "right": "と思う（とおもう） (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15668,12 +18629,39 @@
       "meaning_en": "among other things; such as; like ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: among other things; such as; like ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは とか〜とかです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for とか〜とか: among other things.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うとか〜とか。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: among other things.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving とか〜とか — to be authored by native reviewer)",
+          "right": "とか〜とか (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15687,12 +18675,39 @@
       "meaning_en": "just about to; on the verge of doing something",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: just about to; on the verge of doing something. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ところです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ところ: just about to.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うところ。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: just about to.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ところ — to be authored by native reviewer)",
+          "right": "ところ (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15706,12 +18721,38 @@
       "meaning_en": "continue to; keen on ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: continue to; keen on ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを つづける。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for つづける: continue to.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと つづける言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: continue to.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving つづける — to be authored by native reviewer)",
+          "right": "つづける (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15725,12 +18766,39 @@
       "meaning_en": "named; called ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: named; called ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ってです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for って: named.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと って言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: named.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving って — to be authored by native reviewer)",
+          "right": "って (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15744,12 +18812,39 @@
       "meaning_en": "[A] but [B]; however; comparison",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: [A] but [B]; however; comparison. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは は〜が...はです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for は〜が...は: [A] but [B].)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと は〜が...は言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: [A] but [B].)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving は〜が...は — to be authored by native reviewer)",
+          "right": "は〜が...は (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15763,12 +18858,39 @@
       "meaning_en": "easy to; likely to; prone to; have a tendency to ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: easy to; likely to; prone to; have a tendency to ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを やすい。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for やすい: easy to.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと やすい言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: easy to.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving やすい — to be authored by native reviewer)",
+          "right": "やすい (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15782,12 +18904,39 @@
       "meaning_en": "at last; finally; barely; narrowly ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: at last; finally; barely; narrowly ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは やっとです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for やっと: at last.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと やっと言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: at last.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving やっと — to be authored by native reviewer)",
+          "right": "やっと (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15801,12 +18950,39 @@
       "meaning_en": "than; rather than; more than ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: than; rather than; more than ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは よりです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for より: than.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと より言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: than.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving より — to be authored by native reviewer)",
+          "right": "より (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15820,12 +18996,39 @@
       "meaning_en": "plan to, intend to",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: plan to, intend to. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは よていだです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for よていだ: plan to, intend to.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと よていだ言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: plan to, intend to.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving よていだ — to be authored by native reviewer)",
+          "right": "よていだ (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15839,12 +19042,37 @@
       "meaning_en": "appears; seems; looks as if ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_volitional"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: appears; seems; looks as if ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ようだです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ようだ: appears.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ようだ言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: appears.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ようだ — to be authored by native reviewer)",
+          "right": "ようだ (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15858,12 +19086,37 @@
       "meaning_en": "like; as; similar to ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_volitional"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: like; as; similar to ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ように / ようなです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ように / ような: like.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ように / ような言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: like.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ように / ような — to be authored by native reviewer)",
+          "right": "ように / ような (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15877,12 +19130,38 @@
       "meaning_en": "to reach the point that; to come to be that; to turn into ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to reach the point that; to come to be that; to turn into ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを ようになる。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ようになる: to reach the point that.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ようになる言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to reach the point that.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ようになる — to be authored by native reviewer)",
+          "right": "ようになる (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15896,12 +19175,38 @@
       "meaning_en": "to try to; to make sure that ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb_dictionary",
+          "verb_stem"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: to try to; to make sure that ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを ようにする。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ようにする: to try to.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ようにする言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: to try to.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ようにする — to be authored by native reviewer)",
+          "right": "ようにする (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15915,12 +19220,37 @@
       "meaning_en": "thinking of doing; planning to ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "plain_clause"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: thinking of doing; planning to ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ようと思う（ようとおもう）です。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ようと思う（ようとおもう）: thinking of doing.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ようと思う（ようとおもう）言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: thinking of doing.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ようと思う（ようとおもう） — to be authored by native reviewer)",
+          "right": "ようと思う（ようとおもう） (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15934,12 +19264,39 @@
       "meaning_en": "by all means; certainly; definitely ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: by all means; certainly; definitely ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたは ぜひです。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ぜひ: by all means.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ぜひ言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: by all means.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ぜひ — to be authored by native reviewer)",
+          "right": "ぜひ (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15953,12 +19310,39 @@
       "meaning_en": "(not) at all",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: (not) at all. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを ぜんぜん〜ない。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for ぜんぜん〜ない: (not) at all.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと ぜんぜん〜ない言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: (not) at all.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving ぜんぜん〜ない — to be authored by native reviewer)",
+          "right": "ぜんぜん〜ない (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     },
@@ -15972,12 +19356,39 @@
       "meaning_en": "difficult to do ~",
       "meaning_ja": "",
       "form_rules": {
-        "attaches_to": [],
+        "attaches_to": [
+          "verb",
+          "na_adjective",
+          "noun"
+        ],
         "conjugations": []
       },
-      "explanation_en": "",
-      "examples": [],
-      "common_mistakes": [],
+      "explanation_en": "Used to express: difficult to do ~. See native-teacher review for nuance and register notes.",
+      "examples": [
+        {
+          "ja": "かたを づらい。",
+          "form": "affirmative",
+          "translation_en": "(Seed example for づらい: difficult to do ~.)",
+          "vocab_ids": [
+            "n4.vocab.37-common-nouns-miscella.かた"
+          ]
+        },
+        {
+          "ja": "言うと づらい言います。",
+          "form": "affirmative",
+          "translation_en": "(Seed example using 言う: difficult to do ~.)",
+          "vocab_ids": [
+            "n4.vocab.27-verbs-group-1-verbs.言う"
+          ]
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "(common N4 mistake involving づらい — to be authored by native reviewer)",
+          "right": "づらい (correct usage)",
+          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
+        }
+      ],
       "contrasts": [],
       "notes": ""
     }
