@@ -58,8 +58,76 @@ print(f'[0] N5 prerequisite vocab loaded: {len(n5_entries)} entries')
 # Load N5 KB markdown (for Group-1-exception lines we'll inline into N4)
 n5_kb_text = (N5 / 'KnowledgeBank' / 'vocabulary_n5.md').read_text(encoding='utf-8')
 
-# 1. Parse N4 inventory sample
-inv = (ROOT / 'n4-vocab-inventory-sample.md').read_text(encoding='utf-8')
+# Romaji-to-hiragana converter for the pages-3-6 portion of the inventory.
+# Order matters: longer matches first so 'kyou' is consumed before 'ky'.
+ROMAJI_MAP = [
+    # 3-char digraphs first
+    ('kyou', 'きょう'), ('kyuu', 'きゅう'), ('kya', 'きゃ'), ('kyu', 'きゅ'), ('kyo', 'きょ'),
+    ('shou', 'しょう'), ('shuu', 'しゅう'), ('sha', 'しゃ'), ('shi', 'し'), ('shu', 'しゅ'), ('she', 'しぇ'), ('sho', 'しょ'),
+    ('chou', 'ちょう'), ('chuu', 'ちゅう'), ('cha', 'ちゃ'), ('chi', 'ち'), ('chu', 'ちゅ'), ('che', 'ちぇ'), ('cho', 'ちょ'),
+    ('tsu', 'つ'),
+    ('nyou', 'にょう'), ('nyuu', 'にゅう'), ('nya', 'にゃ'), ('nyu', 'にゅ'), ('nyo', 'にょ'),
+    ('hyou', 'ひょう'), ('hyuu', 'ひゅう'), ('hya', 'ひゃ'), ('hyu', 'ひゅ'), ('hyo', 'ひょ'),
+    ('myou', 'みょう'), ('myuu', 'みゅう'), ('mya', 'みゃ'), ('myu', 'みゅ'), ('myo', 'みょ'),
+    ('ryou', 'りょう'), ('ryuu', 'りゅう'), ('rya', 'りゃ'), ('ryu', 'りゅ'), ('ryo', 'りょ'),
+    ('gyou', 'ぎょう'), ('gyuu', 'ぎゅう'), ('gya', 'ぎゃ'), ('gyu', 'ぎゅ'), ('gyo', 'ぎょ'),
+    ('jou', 'じょう'), ('juu', 'じゅう'), ('ja', 'じゃ'), ('ji', 'じ'), ('ju', 'じゅ'), ('jo', 'じょ'),
+    ('byou', 'びょう'), ('byuu', 'びゅう'), ('bya', 'びゃ'), ('byu', 'びゅ'), ('byo', 'びょ'),
+    ('pyou', 'ぴょう'), ('pyuu', 'ぴゅう'), ('pya', 'ぴゃ'), ('pyu', 'ぴゅ'), ('pyo', 'ぴょ'),
+    # 2-char vowel combos and basic kana
+    ('aa', 'ああ'), ('ii', 'いい'), ('uu', 'うう'), ('ee', 'ええ'), ('oo', 'おお'),
+    ('ka', 'か'), ('ki', 'き'), ('ku', 'く'), ('ke', 'け'), ('ko', 'こ'),
+    ('sa', 'さ'), ('su', 'す'), ('se', 'せ'), ('so', 'そ'),
+    ('ta', 'た'), ('te', 'て'), ('to', 'と'),
+    ('na', 'な'), ('ni', 'に'), ('nu', 'ぬ'), ('ne', 'ね'), ('no', 'の'),
+    ('ha', 'は'), ('hi', 'ひ'), ('fu', 'ふ'), ('he', 'へ'), ('ho', 'ほ'),
+    ('ma', 'ま'), ('mi', 'み'), ('mu', 'む'), ('me', 'め'), ('mo', 'も'),
+    ('ya', 'や'), ('yu', 'ゆ'), ('yo', 'よ'),
+    ('ra', 'ら'), ('ri', 'り'), ('ru', 'る'), ('re', 'れ'), ('ro', 'ろ'),
+    ('wa', 'わ'), ('wo', 'を'),
+    ('ga', 'が'), ('gi', 'ぎ'), ('gu', 'ぐ'), ('ge', 'げ'), ('go', 'ご'),
+    ('za', 'ざ'), ('zu', 'ず'), ('ze', 'ぜ'), ('zo', 'ぞ'),
+    ('da', 'だ'), ('de', 'で'), ('do', 'ど'),
+    ('ba', 'ば'), ('bi', 'び'), ('bu', 'ぶ'), ('be', 'べ'), ('bo', 'ぼ'),
+    ('pa', 'ぱ'), ('pi', 'ぴ'), ('pu', 'ぷ'), ('pe', 'ぺ'), ('po', 'ぽ'),
+    ("n'", 'ん'),
+    # Final-position consonants
+    ('a', 'あ'), ('i', 'い'), ('u', 'う'), ('e', 'え'), ('o', 'お'),
+    ('n', 'ん'),
+]
+
+def romaji_to_hiragana(s):
+    """Convert romaji to hiragana. Handles double consonants (kk -> っk) and
+    long-vowel ou/uu/aa/ee/oo. Skips strings already in kana."""
+    if not s:
+        return s
+    # If string contains hiragana/katakana already, return as-is
+    if any('぀' <= c <= 'ヿ' for c in s):
+        return s
+    s = s.lower()
+    # Handle double consonants: kk, tt, pp, ss, etc.  → っ + single
+    s = re.sub(r'([kstpghczbdmrjf])\1', r'っ\1', s)
+    out = ''
+    i = 0
+    while i < len(s):
+        matched = False
+        for romaji, kana in ROMAJI_MAP:
+            if s[i:i+len(romaji)] == romaji:
+                out += kana
+                i += len(romaji)
+                matched = True
+                break
+        if not matched:
+            out += s[i]
+            i += 1
+    return out
+
+# 1. Parse N4 inventory (prefer full > sample)
+full_inv_path = ROOT / 'n4-vocab-inventory-full.md'
+sample_inv_path = ROOT / 'n4-vocab-inventory-sample.md'
+inv_path = full_inv_path if full_inv_path.exists() else sample_inv_path
+inv = inv_path.read_text(encoding='utf-8')
+print(f'[1a] Reading inventory from: {inv_path.name}')
 # Format: `FORM | READING (romaji) | ENGLISH | POS`
 # CRITICAL: use [^|\n] not [^|] so the lazy quantifier doesn't span lines
 # (a previous bug captured multi-line preamble blocks as spurious entries).
@@ -71,9 +139,14 @@ for m in entry_pat.finditer(inv):
     gloss = m.group(3).strip()
     pos_raw = m.group(4).strip()
     # Skip header rows + non-entry markdown (bold-prefixed metadata, table headers)
-    if (form in ('KANJI/KANA', 'Section') or 'Section' in pos_raw
-            or form.startswith('**') or form.startswith('|')):
+    if (form in ('KANJI/KANA', 'Section', 'FORM', 'Form') or 'Section' in pos_raw
+            or form.startswith('**') or form.startswith('|') or form.startswith('---')):
         continue
+    # Skip rows where reading is the romaji 'reading' label header
+    if reading.lower() in ('reading', 'romaji'):
+        continue
+    # Convert romaji readings to hiragana (pages 3-6 of full inventory use romaji)
+    reading = romaji_to_hiragana(reading)
     inv_entries.append({
         'form': form, 'reading': reading, 'gloss': gloss, 'pos_raw': pos_raw
     })

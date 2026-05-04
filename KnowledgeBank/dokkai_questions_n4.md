@@ -27,12 +27,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「私」とは どのような いみですか。
 
-1. who (polite)
-2. younger brother
-3. parents
-4. I, me
+1. I, me
+2. older brother (own)
+3. grandfather, elderly man
+4. uncle, middle-aged man
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q2
 
@@ -42,12 +42,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「私たち」とは どのような いみですか。
 
-1. grandmother (own)
-2. we
-3. older brother (polite)
-4. younger sister
+1. aunt, middle-aged woman
+2. father (own)
+3. we
+4. younger brother
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q3
 
@@ -57,12 +57,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「あなた」とは どのような いみですか。
 
-1. you
+1. person (polite)
 2. older brother (polite)
-3. everyone (polite)
-4. uncle, middle-aged man
+3. you
+4. family
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q4
 
@@ -73,9 +73,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「かれ」とは どのような いみですか。
 
 1. he, him (boyfriend - more advanced sense)
-2. siblings
-3. oneself
-4. family
+2. older sister (own)
+3. who (polite)
+4. older brother (polite)
 
 **Answer: 1**
 
@@ -87,12 +87,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「かのじょ」とは どのような いみですか。
 
-1. grandfather (own)
-2. she, her (girlfriend - more advanced sense)
-3. person
-4. younger sister
+1. who (polite)
+2. older brother (own)
+3. father (someone else's / address form)
+4. she, her (girlfriend - more advanced sense)
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q6
 
@@ -102,12 +102,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「かた」とは どのような いみですか。
 
-1. person (polite)
-2. person
-3. mother (someone else's / address form)
-4. siblings
+1. everyone (polite)
+2. younger sister
+3. father (someone else's / address form)
+4. person (polite)
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q7
 
@@ -117,12 +117,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「人」とは どのような いみですか。
 
-1. older brother (own)
-2. uncle, middle-aged man
-3. person
-4. older brother (polite)
+1. person
+2. younger brother
+3. who (polite)
+4. who
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q8
 
@@ -132,10 +132,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「みなさん」とは どのような いみですか。
 
-1. parents
+1. mother (own)
 2. everyone (polite)
-3. siblings
-4. uncle, middle-aged man
+3. grandmother (own)
+4. family
 
 **Answer: 2**
 
@@ -148,9 +148,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「だれ」とは どのような いみですか。
 
 1. who
-2. grandfather (own)
-3. grandfather, elderly man
-4. aunt, middle-aged woman
+2. older sister (polite)
+3. younger brother
+4. older sister (own)
 
 **Answer: 1**
 
@@ -162,12 +162,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「どなた」とは どのような いみですか。
 
-1. grandfather, elderly man
-2. who (polite)
-3. younger sister
-4. I, me
+1. person (polite)
+2. parents
+3. family
+4. who (polite)
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q11
 
@@ -177,12 +177,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「じぶん」とは どのような いみですか。
 
-1. who
-2. oneself
-3. father (own)
-4. person
+1. older brother (polite)
+2. he, him (boyfriend - more advanced sense)
+3. oneself
+4. who (polite)
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q12
 
@@ -192,12 +192,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「かぞく」とは どのような いみですか。
 
-1. person (polite)
-2. grandfather, elderly man
-3. grandfather (own)
-4. family
+1. siblings
+2. mother (own)
+3. family
+4. I, me
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q13
 
@@ -207,12 +207,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「父」とは どのような いみですか。
 
-1. older brother (polite)
-2. father (own)
-3. grandfather, elderly man
-4. mother (own)
+1. father (own)
+2. mother (own)
+3. older brother (own)
+4. I, me
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q14
 
@@ -223,9 +223,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「母」とは どのような いみですか。
 
 1. mother (own)
-2. she, her (girlfriend - more advanced sense)
-3. oneself
-4. mother (someone else's / address form)
+2. older sister (own)
+3. you
+4. oneself
 
 **Answer: 1**
 
@@ -237,12 +237,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「お父さん」とは どのような いみですか。
 
-1. siblings
-2. father (someone else's / address form)
-3. uncle, middle-aged man
-4. oneself
+1. who
+2. younger sister
+3. father (someone else's / address form)
+4. grandfather (own)
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q16
 
@@ -252,12 +252,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「お母さん」とは どのような いみですか。
 
-1. father (someone else's / address form)
-2. mother (someone else's / address form)
-3. family
-4. mother (own)
+1. parents
+2. younger sister
+3. mother (someone else's / address form)
+4. younger brother
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q17
 
@@ -268,11 +268,11 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「あに」とは どのような いみですか。
 
 1. I, me
-2. younger brother
-3. oneself
-4. older brother (own)
+2. older brother (own)
+3. grandfather (own)
+4. father (own)
 
-**Answer: 4**
+**Answer: 2**
 
 ### Q18
 
@@ -282,12 +282,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「あね」とは どのような いみですか。
 
-1. grandfather, elderly man
+1. older sister (own)
 2. I, me
-3. older sister (own)
-4. aunt, middle-aged woman
+3. younger sister
+4. everyone (polite)
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q19
 
@@ -297,12 +297,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「おとうと」とは どのような いみですか。
 
-1. grandmother (own)
-2. younger brother
-3. younger sister
-4. grandmother, elderly woman
+1. he, him (boyfriend - more advanced sense)
+2. everyone (polite)
+3. older sister (own)
+4. younger brother
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q20
 
@@ -312,12 +312,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「いもうと」とは どのような いみですか。
 
-1. younger sister
-2. everyone (polite)
-3. you
-4. older brother (polite)
+1. I, me
+2. person
+3. everyone (polite)
+4. younger sister
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q21
 
@@ -327,12 +327,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「おにいさん」とは どのような いみですか。
 
-1. younger brother
-2. he, him (boyfriend - more advanced sense)
-3. older brother (polite)
-4. older sister (own)
+1. older brother (polite)
+2. I, me
+3. mother (someone else's / address form)
+4. grandmother, elderly woman
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q22
 
@@ -342,10 +342,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「おねえさん」とは どのような いみですか。
 
-1. who
-2. person
+1. grandmother (own)
+2. mother (own)
 3. older sister (polite)
-4. she, her (girlfriend - more advanced sense)
+4. family
 
 **Answer: 3**
 
@@ -357,9 +357,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「きょうだい」とは どのような いみですか。
 
-1. everyone (polite)
-2. family
-3. person
+1. you
+2. grandfather, elderly man
+3. father (own)
 4. siblings
 
 **Answer: 4**
@@ -372,9 +372,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「りょうしん」とは どのような いみですか。
 
-1. aunt, middle-aged woman
-2. older sister (own)
-3. I, me
+1. uncle, middle-aged man
+2. I, me
+3. he, him (boyfriend - more advanced sense)
 4. parents
 
 **Answer: 4**
@@ -388,9 +388,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「そふ」とは どのような いみですか。
 
 1. grandfather (own)
-2. younger sister
-3. who (polite)
-4. older sister (polite)
+2. grandfather, elderly man
+3. father (someone else's / address form)
+4. he, him (boyfriend - more advanced sense)
 
 **Answer: 1**
 
@@ -402,12 +402,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「そぼ」とは どのような いみですか。
 
-1. mother (someone else's / address form)
-2. aunt, middle-aged woman
-3. family
-4. grandmother (own)
+1. father (someone else's / address form)
+2. grandmother (own)
+3. younger brother
+4. oneself
 
-**Answer: 4**
+**Answer: 2**
 
 ### Q27
 
@@ -417,12 +417,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「おじいさん」とは どのような いみですか。
 
-1. person (polite)
+1. older brother (polite)
 2. siblings
-3. grandfather, elderly man
-4. you
+3. younger brother
+4. grandfather, elderly man
 
-**Answer: 3**
+**Answer: 4**
 
 ### Q28
 
@@ -432,10 +432,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「おばあさん」とは どのような いみですか。
 
-1. older sister (own)
+1. older sister (polite)
 2. grandmother, elderly woman
-3. who (polite)
-4. grandfather, elderly man
+3. person (polite)
+4. father (own)
 
 **Answer: 2**
 
@@ -447,12 +447,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「おじさん」とは どのような いみですか。
 
-1. uncle, middle-aged man
-2. older brother (polite)
-3. oneself
-4. person
+1. younger sister
+2. siblings
+3. family
+4. uncle, middle-aged man
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q30
 
@@ -462,12 +462,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「おばさん」とは どのような いみですか。
 
-1. mother (someone else's / address form)
-2. aunt, middle-aged woman
-3. who
-4. he, him (boyfriend - more advanced sense)
+1. aunt, middle-aged woman
+2. you
+3. we
+4. who
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q31
 
@@ -477,10 +477,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「子ども」とは どのような いみですか。
 
-1. oneself
-2. I, me
+1. uncle, middle-aged man
+2. father (someone else's / address form)
 3. child (often written こども in everyday text)
-4. uncle, middle-aged man
+4. she, her (girlfriend - more advanced sense)
 
 **Answer: 3**
 
@@ -492,12 +492,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「男の子」とは どのような いみですか。
 
-1. who
-2. grandmother, elderly woman
-3. boy
-4. younger sister
+1. you
+2. boy
+3. person
+4. mother (someone else's / address form)
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q33
 
@@ -507,12 +507,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「女の子」とは どのような いみですか。
 
-1. oneself
-2. girl
-3. everyone (polite)
-4. we
+1. she, her (girlfriend - more advanced sense)
+2. grandfather, elderly man
+3. girl
+4. mother (own)
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q34
 
@@ -522,12 +522,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「男」とは どのような いみですか。
 
-1. man
-2. father (own)
-3. older brother (polite)
-4. siblings
+1. he, him (boyfriend - more advanced sense)
+2. person (polite)
+3. father (own)
+4. man
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q35
 
@@ -537,8 +537,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「女」とは どのような いみですか。
 
-1. parents
-2. grandfather (own)
+1. older brother (own)
+2. we
 3. woman
 4. grandmother, elderly woman
 
@@ -552,12 +552,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「大人」とは どのような いみですか。
 
-1. adult
-2. mother (own)
-3. older sister (polite)
-4. aunt, middle-aged woman
+1. who (polite)
+2. who
+3. older brother (polite)
+4. adult
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q37
 
@@ -567,12 +567,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「ともだち」とは どのような いみですか。
 
-1. grandmother, elderly woman
-2. friend
-3. you
-4. he, him (boyfriend - more advanced sense)
+1. friend
+2. older sister (polite)
+3. grandfather (own)
+4. younger brother
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q38
 
@@ -582,12 +582,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「学生」とは どのような いみですか。
 
-1. family
-2. he, him (boyfriend - more advanced sense)
+1. student
+2. father (own)
 3. parents
-4. student
+4. grandmother (own)
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q39
 
@@ -597,12 +597,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「せいと」とは どのような いみですか。
 
-1. younger sister
-2. person
-3. parents
-4. pupil, schoolchild
+1. uncle, middle-aged man
+2. pupil, schoolchild
+3. everyone (polite)
+4. mother (own)
 
-**Answer: 4**
+**Answer: 2**
 
 ### Q40
 
@@ -612,12 +612,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「先生」とは どのような いみですか。
 
-1. father (own)
-2. everyone (polite)
-3. person (polite)
-4. teacher, doctor
+1. teacher, doctor
+2. family
+3. mother (someone else's / address form)
+4. mother (own)
 
-**Answer: 4**
+**Answer: 1**
 
 ## Mondai 5 - 中文 (Medium Passage)
 
@@ -629,12 +629,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「いしゃ」とは どのような いみですか。
 
-1. mother (own)
-2. siblings
-3. older brother (polite)
-4. doctor
+1. older sister (own)
+2. grandmother, elderly woman
+3. doctor
+4. older brother (own)
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q42
 
@@ -644,12 +644,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「会社員」とは どのような いみですか。
 
-1. family
-2. I, me
-3. mother (own)
-4. company employee
+1. company employee
+2. mother (someone else's / address form)
+3. older sister (own)
+4. grandmother (own)
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q43
 
@@ -659,12 +659,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「駅員」とは どのような いみですか。
 
-1. older brother (polite)
-2. station staff
-3. she, her (girlfriend - more advanced sense)
+1. grandmother, elderly woman
+2. she, her (girlfriend - more advanced sense)
+3. station staff
 4. grandmother (own)
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q44
 
@@ -674,10 +674,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「店員」とは どのような いみですか。
 
-1. parents
+1. aunt, middle-aged woman
 2. shop clerk
-3. who
-4. person (polite)
+3. grandfather, elderly man
+4. he, him (boyfriend - more advanced sense)
 
 **Answer: 2**
 
@@ -689,12 +689,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「けいかん」とは どのような いみですか。
 
-1. parents
-2. police officer
-3. grandfather, elderly man
-4. uncle, middle-aged man
+1. mother (own)
+2. who
+3. parents
+4. police officer
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q46
 
@@ -704,12 +704,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「おまわりさん」とは どのような いみですか。
 
-1. older brother (polite)
-2. police officer (friendly)
-3. aunt, middle-aged woman
-4. grandmother (own)
+1. uncle, middle-aged man
+2. mother (someone else's / address form)
+3. police officer (friendly)
+4. who (polite)
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q47
 
@@ -719,10 +719,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「りゅうがくせい」とは どのような いみですか。
 
-1. I, me
+1. older brother (own)
 2. international student
-3. aunt, middle-aged woman
-4. older sister (polite)
+3. oneself
+4. mother (own)
 
 **Answer: 2**
 
@@ -734,10 +734,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「外国人」とは どのような いみですか。
 
-1. she, her (girlfriend - more advanced sense)
+1. siblings
 2. foreigner
-3. younger sister
-4. I, me
+3. I, me
+4. grandfather (own)
 
 **Answer: 2**
 
@@ -749,12 +749,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「からだ」とは どのような いみですか。
 
-1. older sister (own)
-2. body
-3. grandmother (own)
-4. older brother (polite)
+1. father (own)
+2. older brother (own)
+3. mother (someone else's / address form)
+4. body
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q50
 
@@ -764,12 +764,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「あたま」とは どのような いみですか。
 
-1. head
-2. person (polite)
-3. grandmother, elderly woman
-4. we
+1. who (polite)
+2. older sister (own)
+3. head
+4. grandfather, elderly man
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q51
 
@@ -779,12 +779,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「かお」とは どのような いみですか。
 
-1. who
-2. face
-3. aunt, middle-aged woman
-4. older sister (own)
+1. she, her (girlfriend - more advanced sense)
+2. he, him (boyfriend - more advanced sense)
+3. father (someone else's / address form)
+4. face
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q52
 
@@ -794,12 +794,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「め」とは どのような いみですか。
 
-1. eye
-2. he, him (boyfriend - more advanced sense)
-3. grandfather (own)
-4. older sister (polite)
+1. who (polite)
+2. grandfather, elderly man
+3. father (someone else's / address form)
+4. eye
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q53
 
@@ -809,12 +809,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「みみ」とは どのような いみですか。
 
-1. older brother (own)
-2. person
-3. everyone (polite)
-4. ear
+1. older sister (polite)
+2. ear
+3. siblings
+4. aunt, middle-aged woman
 
-**Answer: 4**
+**Answer: 2**
 
 ### Q54
 
@@ -824,12 +824,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「はな」とは どのような いみですか。
 
-1. nose
-2. mother (someone else's / address form)
-3. I, me
-4. parents
+1. who
+2. family
+3. nose
+4. older sister (polite)
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q55
 
@@ -839,12 +839,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「くち」とは どのような いみですか。
 
-1. mother (own)
-2. mouth
-3. grandfather, elderly man
-4. older brother (own)
+1. siblings
+2. family
+3. mouth
+4. grandfather (own)
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q56
 
@@ -856,10 +856,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 1. he, him (boyfriend - more advanced sense)
 2. who
-3. tooth
-4. mother (own)
+3. grandmother (own)
+4. tooth
 
-**Answer: 3**
+**Answer: 4**
 
 ### Q57
 
@@ -869,10 +869,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「て」とは どのような いみですか。
 
-1. uncle, middle-aged man
-2. older brother (polite)
+1. mother (own)
+2. parents
 3. hand
-4. siblings
+4. younger sister
 
 **Answer: 3**
 
@@ -884,12 +884,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「あし」とは どのような いみですか。
 
-1. you
-2. who (polite)
-3. leg, foot
-4. everyone (polite)
+1. family
+2. leg, foot
+3. he, him (boyfriend - more advanced sense)
+4. older brother (own)
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q59
 
@@ -899,12 +899,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「おなか」とは どのような いみですか。
 
-1. stomach, belly
-2. father (own)
-3. grandfather, elderly man
-4. siblings
+1. uncle, middle-aged man
+2. aunt, middle-aged woman
+3. stomach, belly
+4. mother (own)
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q60
 
@@ -914,12 +914,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「せ」とは どのような いみですか。
 
-1. grandfather, elderly man
-2. grandmother, elderly woman
-3. back, height
-4. older brother (polite)
+1. grandmother, elderly woman
+2. back, height
+3. older sister (polite)
+4. oneself
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q61
 
@@ -929,12 +929,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「これ」とは どのような いみですか。
 
-1. I, me
-2. this (thing near speaker)
-3. we
-4. who
+1. mother (own)
+2. parents
+3. younger sister
+4. this (thing near speaker)
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q62
 
@@ -944,12 +944,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「それ」とは どのような いみですか。
 
-1. mother (someone else's / address form)
-2. older sister (polite)
-3. siblings
-4. that (thing near listener)
+1. person (polite)
+2. who (polite)
+3. that (thing near listener)
+4. parents
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q63
 
@@ -959,12 +959,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「あれ」とは どのような いみですか。
 
-1. mother (someone else's / address form)
-2. mother (own)
-3. older sister (own)
-4. that (over there)
+1. parents
+2. younger sister
+3. that (over there)
+4. who (polite)
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q64
 
@@ -974,10 +974,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「どれ」とは どのような いみですか。
 
-1. grandfather (own)
-2. mother (own)
+1. mother (someone else's / address form)
+2. younger sister
 3. which (one)
-4. we
+4. who (polite)
 
 **Answer: 3**
 
@@ -990,9 +990,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「この」とは どのような いみですか。
 
 1. this (modifier)
-2. father (own)
-3. he, him (boyfriend - more advanced sense)
-4. oneself
+2. family
+3. younger sister
+4. grandfather, elderly man
 
 **Answer: 1**
 
@@ -1004,12 +1004,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「その」とは どのような いみですか。
 
-1. that (modifier)
-2. you
-3. younger sister
-4. aunt, middle-aged woman
+1. grandmother (own)
+2. that (modifier)
+3. uncle, middle-aged man
+4. person (polite)
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q67
 
@@ -1019,12 +1019,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「あの」とは どのような いみですか。
 
-1. that over there (modifier)
-2. grandfather (own)
-3. family
-4. siblings
+1. younger sister
+2. mother (own)
+3. person
+4. that over there (modifier)
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q68
 
@@ -1034,9 +1034,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「どの」とは どのような いみですか。
 
-1. I, me
-2. father (own)
-3. everyone (polite)
+1. grandfather (own)
+2. family
+3. grandfather, elderly man
 4. which (modifier)
 
 **Answer: 4**
@@ -1049,12 +1049,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「ここ」とは どのような いみですか。
 
-1. here
-2. I, me
-3. mother (someone else's / address form)
-4. he, him (boyfriend - more advanced sense)
+1. we
+2. father (someone else's / address form)
+3. I, me
+4. here
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q70
 
@@ -1064,12 +1064,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「そこ」とは どのような いみですか。
 
-1. there
-2. we
-3. younger sister
-4. grandmother, elderly woman
+1. grandfather (own)
+2. person (polite)
+3. there
+4. who
 
-**Answer: 1**
+**Answer: 3**
 
 ## Mondai 6 - 長文 (Long Passage)
 
@@ -1081,10 +1081,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「あそこ」とは どのような いみですか。
 
-1. who (polite)
-2. grandmother, elderly woman
+1. he, him (boyfriend - more advanced sense)
+2. grandmother (own)
 3. over there
-4. he, him (boyfriend - more advanced sense)
+4. person (polite)
 
 **Answer: 3**
 
@@ -1096,12 +1096,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「どこ」とは どのような いみですか。
 
-1. grandmother (own)
-2. I, me
-3. younger brother
-4. where
+1. person
+2. where
+3. siblings
+4. younger brother
 
-**Answer: 4**
+**Answer: 2**
 
 ### Q73
 
@@ -1111,12 +1111,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「こちら」とは どのような いみですか。
 
-1. grandfather, elderly man
-2. grandmother, elderly woman
-3. this way / this person (polite)
-4. mother (own)
+1. grandmother, elderly woman
+2. this way / this person (polite)
+3. father (someone else's / address form)
+4. she, her (girlfriend - more advanced sense)
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q74
 
@@ -1126,12 +1126,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「そちら」とは どのような いみですか。
 
-1. parents
-2. father (own)
-3. younger brother
-4. that way
+1. that way
+2. uncle, middle-aged man
+3. he, him (boyfriend - more advanced sense)
+4. oneself
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q75
 
@@ -1141,12 +1141,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「あちら」とは どのような いみですか。
 
-1. person
-2. parents
-3. that way (over there)
-4. we
+1. younger sister
+2. that way (over there)
+3. parents
+4. who (polite)
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q76
 
@@ -1156,12 +1156,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「どちら」とは どのような いみですか。
 
-1. which way
-2. who (polite)
-3. older brother (polite)
-4. person (polite)
+1. everyone (polite)
+2. mother (own)
+3. which way
+4. younger sister
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q77
 
@@ -1171,12 +1171,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「こっち」とは どのような いみですか。
 
-1. uncle, middle-aged man
-2. older brother (polite)
-3. this way (casual)
-4. father (own)
+1. this way (casual)
+2. he, him (boyfriend - more advanced sense)
+3. grandmother, elderly woman
+4. mother (someone else's / address form)
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q78
 
@@ -1186,12 +1186,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「そっち」とは どのような いみですか。
 
-1. older brother (polite)
-2. mother (someone else's / address form)
-3. who
-4. that way (casual)
+1. that way (casual)
+2. who
+3. aunt, middle-aged woman
+4. I, me
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q79
 
@@ -1201,12 +1201,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「あっち」とは どのような いみですか。
 
-1. family
-2. siblings
-3. that way over there (casual)
-4. person (polite)
+1. uncle, middle-aged man
+2. that way over there (casual)
+3. grandfather, elderly man
+4. older sister (polite)
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q80
 
@@ -1216,12 +1216,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「どっち」とは どのような いみですか。
 
-1. oneself
-2. which way (casual)
-3. who
-4. mother (own)
+1. uncle, middle-aged man
+2. father (own)
+3. which way (casual)
+4. person
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q81
 
@@ -1231,12 +1231,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「こんな」とは どのような いみですか。
 
-1. grandmother (own)
-2. this kind of
-3. who
-4. older brother (own)
+1. this kind of
+2. I, me
+3. older sister (own)
+4. person
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q82
 
@@ -1246,12 +1246,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「そんな」とは どのような いみですか。
 
-1. oneself
-2. older brother (polite)
-3. he, him (boyfriend - more advanced sense)
-4. that kind of
+1. that kind of
+2. everyone (polite)
+3. family
+4. person (polite)
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q83
 
@@ -1261,12 +1261,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「あんな」とは どのような いみですか。
 
-1. father (own)
-2. that kind of (over there)
-3. younger brother
-4. father (someone else's / address form)
+1. siblings
+2. uncle, middle-aged man
+3. that kind of (over there)
+4. father (own)
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q84
 
@@ -1277,9 +1277,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「どんな」とは どのような いみですか。
 
 1. what kind of
-2. he, him (boyfriend - more advanced sense)
-3. you
-4. aunt, middle-aged woman
+2. person (polite)
+3. mother (someone else's / address form)
+4. mother (own)
 
 **Answer: 1**
 
@@ -1291,10 +1291,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「こう」とは どのような いみですか。
 
-1. older brother (polite)
+1. mother (own)
 2. like this
-3. siblings
-4. father (someone else's / address form)
+3. older brother (polite)
+4. father (own)
 
 **Answer: 2**
 
@@ -1306,9 +1306,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「そう」とは どのような いみですか。
 
-1. family
-2. person
-3. older brother (polite)
+1. mother (own)
+2. father (own)
+3. parents
 4. like that
 
 **Answer: 4**
@@ -1321,12 +1321,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「ああ」とは どのような いみですか。
 
-1. like that (over there)
-2. we
-3. older sister (own)
-4. older brother (polite)
+1. person
+2. older sister (own)
+3. older brother (own)
+4. like that (over there)
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q88
 
@@ -1336,12 +1336,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「どう」とは どのような いみですか。
 
-1. oneself
-2. everyone (polite)
-3. he, him (boyfriend - more advanced sense)
-4. how
+1. older sister (polite)
+2. oneself
+3. how
+4. I, me
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q89
 
@@ -1351,12 +1351,12 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 問: 「何」とは どのような いみですか。
 
-1. what
-2. who
-3. grandmother, elderly woman
-4. oneself
+1. older brother (own)
+2. you
+3. what
+4. siblings
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q90
 
@@ -1367,9 +1367,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 問: 「いつ」とは どのような いみですか。
 
 1. when
-2. I, me
-3. who
-4. older sister (polite)
+2. mother (someone else's / address form)
+3. you
+4. father (someone else's / address form)
 
 **Answer: 1**
 
@@ -1379,9 +1379,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 文章を よんで, 「いくら」の いみを えらんでください。
 
-1. we
-2. mother (someone else's / address form)
-3. you
+1. you
+2. who
+3. family
 4. how much (price)
 
 **Answer: 4**
@@ -1390,32 +1390,32 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 文章を よんで, 「いくつ」の いみを えらんでください。
 
-1. everyone (polite)
-2. who (polite)
-3. how many, how old
-4. family
+1. how many, how old
+2. she, her (girlfriend - more advanced sense)
+3. oneself
+4. person (polite)
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q93
 
 文章を よんで, 「何時」の いみを えらんでください。
 
-1. younger brother
-2. father (someone else's / address form)
-3. we
-4. what time
+1. older sister (own)
+2. person (polite)
+3. what time
+4. family
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q94
 
 文章を よんで, 「何曜日」の いみを えらんでください。
 
-1. mother (own)
+1. oneself
 2. what day of the week
-3. he, him (boyfriend - more advanced sense)
-4. I, me
+3. family
+4. younger brother
 
 **Answer: 2**
 
@@ -1423,75 +1423,75 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 文章を よんで, 「何月」の いみを えらんでください。
 
-1. who (polite)
-2. what month
+1. you
+2. older sister (own)
 3. person (polite)
-4. mother (own)
+4. what month
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q96
 
 文章を よんで, 「何日」の いみを えらんでください。
 
-1. I, me
-2. family
-3. person
-4. what day
+1. what day
+2. oneself
+3. younger brother
+4. younger sister
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q97
 
 文章を よんで, 「なぜ」の いみを えらんでください。
 
-1. why
-2. I, me
-3. older sister (own)
-4. who
+1. everyone (polite)
+2. family
+3. why
+4. we
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q98
 
 文章を よんで, 「どうして」の いみを えらんでください。
 
-1. I, me
-2. you
-3. why
-4. younger sister
+1. we
+2. who
+3. who (polite)
+4. why
 
-**Answer: 3**
+**Answer: 4**
 
 ### Q99
 
 文章を よんで, 「何で」の いみを えらんでください。
 
-1. older brother (own)
-2. I, me
-3. why, by what means
-4. we
+1. why, by what means
+2. he, him (boyfriend - more advanced sense)
+3. person (polite)
+4. who (polite)
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q100
 
 文章を よんで, 「一」の いみを えらんでください。
 
-1. one
-2. he, him (boyfriend - more advanced sense)
-3. younger sister
-4. family
+1. he, him (boyfriend - more advanced sense)
+2. one
+3. mother (own)
+4. father (own)
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q101
 
 文章を よんで, 「二」の いみを えらんでください。
 
-1. person (polite)
-2. she, her (girlfriend - more advanced sense)
-3. mother (own)
+1. younger sister
+2. older sister (own)
+3. I, me
 4. two
 
 **Answer: 4**
@@ -1500,10 +1500,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 文章を よんで, 「三」の いみを えらんでください。
 
-1. he, him (boyfriend - more advanced sense)
-2. three
-3. father (own)
-4. father (someone else's / address form)
+1. mother (own)
+2. who (polite)
+3. three
+4. mother (someone else's / address form)
 
-**Answer: 2**
+**Answer: 3**
 

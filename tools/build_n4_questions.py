@@ -126,10 +126,21 @@ def gen_moji_questions(n=100):
     qid = 0
 
     # Mondai 1: 50 kanji-reading questions
-    # Pick vocab entries whose form has kanji and reading is hiragana
-    kanji_vocab = [v for v in all_vocab
-                   if has_kanji(v.get('form', '')) and v.get('reading')
-                   and not has_kanji(v.get('reading', ''))]
+    # Pick vocab entries whose form has kanji and reading is hiragana.
+    # Deduplicate by form to prevent JA-7 (duplicate stems): if two vocab
+    # entries share the same kanji form (e.g., homographs), only the first
+    # produces a question.
+    seen_forms = set()
+    kanji_vocab = []
+    for v in all_vocab:
+        if not has_kanji(v.get('form', '')):
+            continue
+        if not v.get('reading') or has_kanji(v.get('reading', '')):
+            continue
+        if v['form'] in seen_forms:
+            continue
+        seen_forms.add(v['form'])
+        kanji_vocab.append(v)
     random.shuffle(kanji_vocab)
     readings_pool = [v['reading'] for v in kanji_vocab]
 

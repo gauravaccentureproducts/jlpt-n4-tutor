@@ -22,23 +22,23 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「私」と おなじ いみの ことばを えらんでください。
 
-1. he, him (boyfriend - more advanced sense)
+1. we
 2. oneself
-3. I, me
-4. you
+3. she, her (girlfriend - more advanced sense)
+4. I, me
 
-**Answer: 3**
+**Answer: 4**
 
 ### Q2
 
 「私たち」と おなじ いみの ことばを えらんでください。
 
 1. you
-2. we
-3. oneself
+2. I, me
+3. we
 4. she, her (girlfriend - more advanced sense)
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q3
 
@@ -47,7 +47,7 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 1. you
 2. oneself
 3. she, her (girlfriend - more advanced sense)
-4. he, him (boyfriend - more advanced sense)
+4. we
 
 **Answer: 1**
 
@@ -55,9 +55,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「かれ」と おなじ いみの ことばを えらんでください。
 
-1. oneself
-2. you
-3. she, her (girlfriend - more advanced sense)
+1. I, me
+2. we
+3. oneself
 4. he, him (boyfriend - more advanced sense)
 
 **Answer: 4**
@@ -66,34 +66,34 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「かのじょ」と おなじ いみの ことばを えらんでください。
 
-1. he, him (boyfriend - more advanced sense)
-2. she, her (girlfriend - more advanced sense)
-3. we
-4. oneself
+1. oneself
+2. we
+3. you
+4. she, her (girlfriend - more advanced sense)
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q6
 
 「かた」と おなじ いみの ことばを えらんでください。
 
-1. person (polite)
-2. grandmother, elderly woman
-3. student
-4. pupil, schoolchild
+1. older sister (own)
+2. child (often written こども in everyday text)
+3. older sister (polite)
+4. person (polite)
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q7
 
 「人」と おなじ いみの ことばを えらんでください。
 
-1. grandmother (own)
-2. person
-3. woman
-4. parents
+1. older sister (own)
+2. person (polite)
+3. girl
+4. person
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q8
 
@@ -101,8 +101,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 1. family
 2. everyone (polite)
-3. woman
-4. grandmother, elderly woman
+3. man
+4. younger brother
 
 **Answer: 2**
 
@@ -110,43 +110,43 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「だれ」と おなじ いみの ことばを えらんでください。
 
-1. what
-2. who
-3. when
-4. what day of the week
+1. who
+2. what day
+3. who (polite)
+4. what month
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q10
 
 「どなた」と おなじ いみの ことばを えらんでください。
 
-1. why
-2. who
-3. what
-4. who (polite)
+1. what day of the week
+2. what
+3. who (polite)
+4. what month
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q11
 
 「じぶん」と おなじ いみの ことばを えらんでください。
 
-1. she, her (girlfriend - more advanced sense)
-2. oneself
-3. I, me
-4. you
+1. I, me
+2. she, her (girlfriend - more advanced sense)
+3. we
+4. oneself
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q12
 
 「かぞく」と おなじ いみの ことばを えらんでください。
 
-1. friend
-2. pupil, schoolchild
+1. person
+2. mother (own)
 3. family
-4. parents
+4. father (own)
 
 **Answer: 3**
 
@@ -154,65 +154,65 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「父」と おなじ いみの ことばを えらんでください。
 
-1. father (own)
-2. parents
-3. mother (own)
-4. grandfather, elderly man
+1. older brother (polite)
+2. father (own)
+3. boy
+4. younger brother
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q14
 
 「母」と おなじ いみの ことばを えらんでください。
 
-1. younger brother
-2. pupil, schoolchild
-3. mother (own)
-4. parents
+1. person (polite)
+2. mother (own)
+3. aunt, middle-aged woman
+4. grandfather (own)
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q15
 
 「お父さん」と おなじ いみの ことばを えらんでください。
 
-1. father (someone else's / address form)
-2. mother (someone else's / address form)
-3. student
-4. man
+1. woman
+2. father (someone else's / address form)
+3. uncle, middle-aged man
+4. mother (someone else's / address form)
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q16
 
 「お母さん」と おなじ いみの ことばを えらんでください。
 
-1. parents
-2. grandfather (own)
-3. grandmother, elderly woman
-4. mother (someone else's / address form)
+1. everyone (polite)
+2. mother (someone else's / address form)
+3. student
+4. older sister (polite)
 
-**Answer: 4**
+**Answer: 2**
 
 ### Q17
 
 「あに」と おなじ いみの ことばを えらんでください。
 
-1. friend
-2. older sister (own)
-3. older brother (own)
-4. younger brother
+1. older brother (own)
+2. pupil, schoolchild
+3. parents
+4. siblings
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q18
 
 「あね」と おなじ いみの ことばを えらんでください。
 
-1. child (often written こども in everyday text)
+1. grandmother, elderly woman
 2. older sister (own)
-3. parents
-4. older brother (polite)
+3. aunt, middle-aged woman
+4. everyone (polite)
 
 **Answer: 2**
 
@@ -220,65 +220,65 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「おとうと」と おなじ いみの ことばを えらんでください。
 
-1. father (own)
-2. younger brother
-3. older sister (own)
-4. uncle, middle-aged man
+1. younger brother
+2. woman
+3. father (someone else's / address form)
+4. grandfather (own)
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q20
 
 「いもうと」と おなじ いみの ことばを えらんでください。
 
-1. older brother (polite)
+1. friend
 2. older sister (polite)
-3. younger sister
-4. family
+3. father (own)
+4. younger sister
 
-**Answer: 3**
+**Answer: 4**
 
 ### Q21
 
 「おにいさん」と おなじ いみの ことばを えらんでください。
 
-1. family
-2. uncle, middle-aged man
-3. older brother (polite)
-4. father (own)
+1. older brother (polite)
+2. younger sister
+3. person (polite)
+4. boy
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q22
 
 「おねえさん」と おなじ いみの ことばを えらんでください。
 
-1. older sister (polite)
-2. uncle, middle-aged man
-3. adult
-4. person (polite)
+1. older sister (own)
+2. older sister (polite)
+3. person
+4. friend
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q23
 
 「きょうだい」と おなじ いみの ことばを えらんでください。
 
-1. person
-2. grandmother, elderly woman
-3. older sister (polite)
-4. siblings
+1. man
+2. younger brother
+3. siblings
+4. older sister (own)
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q24
 
 「りょうしん」と おなじ いみの ことばを えらんでください。
 
-1. father (own)
-2. family
+1. father (someone else's / address form)
+2. older sister (polite)
 3. parents
-4. student
+4. child (often written こども in everyday text)
 
 **Answer: 3**
 
@@ -286,21 +286,21 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「そふ」と おなじ いみの ことばを えらんでください。
 
-1. older brother (polite)
-2. grandfather (own)
-3. uncle, middle-aged man
-4. student
+1. adult
+2. student
+3. grandfather (own)
+4. grandmother (own)
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q26
 
 「そぼ」と おなじ いみの ことばを えらんでください。
 
 1. grandmother (own)
-2. child (often written こども in everyday text)
-3. aunt, middle-aged woman
-4. family
+2. girl
+3. person
+4. mother (own)
 
 **Answer: 1**
 
@@ -308,31 +308,31 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「おじいさん」と おなじ いみの ことばを えらんでください。
 
-1. younger brother
-2. child (often written こども in everyday text)
-3. father (own)
-4. grandfather, elderly man
+1. everyone (polite)
+2. parents
+3. grandfather, elderly man
+4. family
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q28
 
 「おばあさん」と おなじ いみの ことばを えらんでください。
 
-1. grandmother, elderly woman
-2. aunt, middle-aged woman
-3. father (someone else's / address form)
-4. person
+1. person (polite)
+2. grandmother, elderly woman
+3. siblings
+4. younger brother
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q29
 
 「おじさん」と おなじ いみの ことばを えらんでください。
 
-1. woman
-2. older sister (own)
-3. friend
+1. adult
+2. grandfather (own)
+3. child (often written こども in everyday text)
 4. uncle, middle-aged man
 
 **Answer: 4**
@@ -341,9 +341,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「おばさん」と おなじ いみの ことばを えらんでください。
 
-1. woman
-2. older brother (polite)
-3. girl
+1. adult
+2. older sister (own)
+3. everyone (polite)
 4. aunt, middle-aged woman
 
 **Answer: 4**
@@ -352,21 +352,21 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「子ども」と おなじ いみの ことばを えらんでください。
 
-1. friend
-2. older sister (polite)
-3. man
-4. child (often written こども in everyday text)
+1. father (someone else's / address form)
+2. older sister (own)
+3. child (often written こども in everyday text)
+4. siblings
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q32
 
 「男の子」と おなじ いみの ことばを えらんでください。
 
 1. boy
-2. man
-3. grandmother, elderly woman
-4. siblings
+2. father (own)
+3. woman
+4. grandfather (own)
 
 **Answer: 1**
 
@@ -375,9 +375,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「女の子」と おなじ いみの ことばを えらんでください。
 
 1. girl
-2. family
-3. younger brother
-4. grandmother, elderly woman
+2. adult
+3. uncle, middle-aged man
+4. aunt, middle-aged woman
 
 **Answer: 1**
 
@@ -385,78 +385,78 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「男」と おなじ いみの ことばを えらんでください。
 
-1. friend
-2. man
-3. younger sister
-4. grandfather (own)
+1. man
+2. siblings
+3. pupil, schoolchild
+4. child (often written こども in everyday text)
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q35
 
 「女」と おなじ いみの ことばを えらんでください。
 
-1. woman
-2. grandfather, elderly man
-3. father (someone else's / address form)
-4. pupil, schoolchild
+1. mother (someone else's / address form)
+2. girl
+3. father (own)
+4. woman
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q36
 
 「大人」と おなじ いみの ことばを えらんでください。
 
-1. friend
-2. aunt, middle-aged woman
-3. adult
-4. student
+1. adult
+2. person (polite)
+3. younger sister
+4. woman
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q37
 
 「ともだち」と おなじ いみの ことばを えらんでください。
 
-1. older brother (own)
-2. mother (someone else's / address form)
-3. friend
-4. child (often written こども in everyday text)
+1. friend
+2. aunt, middle-aged woman
+3. person (polite)
+4. man
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q38
 
 「学生」と おなじ いみの ことばを えらんでください。
 
-1. student
-2. father (someone else's / address form)
-3. pupil, schoolchild
-4. younger sister
+1. younger sister
+2. parents
+3. student
+4. woman
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q39
 
 「せいと」と おなじ いみの ことばを えらんでください。
 
-1. siblings
-2. grandfather (own)
-3. pupil, schoolchild
-4. adult
+1. younger brother
+2. person (polite)
+3. grandfather, elderly man
+4. pupil, schoolchild
 
-**Answer: 3**
+**Answer: 4**
 
 ### Q40
 
 「先生」と おなじ いみの ことばを えらんでください。
 
-1. student
-2. girl
-3. younger brother
-4. teacher, doctor
+1. person
+2. parents
+3. teacher, doctor
+4. girl
 
-**Answer: 4**
+**Answer: 3**
 
 ## Mondai 5 - 用法 (Usage)
 
@@ -464,9 +464,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「doctor」を あらわす ことばは どれですか。
 
-1. おじさん
-2. おとうと
-3. 子ども
+1. お父さん
+2. おじいさん
+3. そぼ
 4. いしゃ
 
 **Answer: 4**
@@ -475,54 +475,54 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「company employee」を あらわす ことばは どれですか。
 
-1. お母さん
-2. 会社員
-3. おばさん
-4. おにいさん
+1. 女の子
+2. お父さん
+3. 会社員
+4. 子ども
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q43
 
 「station staff」を あらわす ことばは どれですか。
 
-1. おじさん
-2. 女
-3. 駅員
-4. 子ども
+1. 駅員
+2. 男の子
+3. 女
+4. 学生
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q44
 
 「shop clerk」を あらわす ことばは どれですか。
 
-1. 店員
-2. おねえさん
-3. お母さん
-4. りょうしん
+1. 母
+2. 女
+3. 店員
+4. おじいさん
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q45
 
 「police officer」を あらわす ことばは どれですか。
 
-1. けいかん
-2. お母さん
-3. ともだち
-4. おばあさん
+1. 女
+2. かた
+3. あね
+4. けいかん
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q46
 
 「police officer (friendly)」を あらわす ことばは どれですか。
 
-1. そふ
-2. あね
+1. 男
+2. 父
 3. おまわりさん
-4. 父
+4. 学生
 
 **Answer: 3**
 
@@ -530,10 +530,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「international student」を あらわす ことばは どれですか。
 
-1. そぼ
+1. ともだち
 2. りゅうがくせい
-3. 女
-4. 父
+3. あね
+4. あに
 
 **Answer: 2**
 
@@ -541,10 +541,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「foreigner」を あらわす ことばは どれですか。
 
-1. 女
+1. かぞく
 2. 外国人
-3. 男の子
-4. おばさん
+3. あね
+4. みなさん
 
 **Answer: 2**
 
@@ -552,53 +552,53 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「body」を あらわす ことばは どれですか。
 
-1. おねえさん
-2. からだ
-3. おばあさん
-4. かた
+1. ともだち
+2. 女
+3. おばさん
+4. からだ
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q50
 
 「head」を あらわす ことばは どれですか。
 
 1. おじいさん
-2. おばさん
-3. あたま
-4. かた
+2. あたま
+3. そぼ
+4. お母さん
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q51
 
 「face」を あらわす ことばは どれですか。
 
-1. 学生
-2. 男の子
-3. かお
-4. 父
+1. かお
+2. おばさん
+3. 大人
+4. いもうと
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q52
 
 「eye」を あらわす ことばは どれですか。
 
-1. め
-2. 学生
-3. おじいさん
-4. お父さん
+1. 女
+2. め
+3. 父
+4. お母さん
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q53
 
 「ear」を あらわす ことばは どれですか。
 
-1. 学生
-2. そふ
-3. あに
+1. 男
+2. 女の子
+3. 女
 4. みみ
 
 **Answer: 4**
@@ -607,54 +607,54 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「nose」を あらわす ことばは どれですか。
 
-1. お母さん
-2. おとうと
-3. りょうしん
-4. はな
+1. はな
+2. 子ども
+3. きょうだい
+4. 女
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q55
 
 「mouth」を あらわす ことばは どれですか。
 
-1. 人
-2. ともだち
-3. くち
-4. おにいさん
+1. ともだち
+2. おじさん
+3. おばさん
+4. くち
 
-**Answer: 3**
+**Answer: 4**
 
 ### Q56
 
 「tooth」を あらわす ことばは どれですか。
 
-1. 母
-2. おねえさん
-3. いもうと
-4. は
+1. は
+2. あね
+3. そふ
+4. ともだち
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q57
 
 「hand」を あらわす ことばは どれですか。
 
-1. 人
-2. 父
-3. て
-4. 大人
+1. て
+2. おねえさん
+3. あね
+4. おとうと
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q58
 
 「leg, foot」を あらわす ことばは どれですか。
 
-1. 女の子
-2. 父
+1. おとうと
+2. 人
 3. あし
-4. おばさん
+4. 男の子
 
 **Answer: 3**
 
@@ -662,21 +662,21 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「stomach, belly」を あらわす ことばは どれですか。
 
-1. おにいさん
-2. そぼ
-3. 人
-4. おなか
+1. みなさん
+2. あね
+3. おなか
+4. おばさん
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q60
 
 「back, height」を あらわす ことばは どれですか。
 
 1. せ
-2. おばさん
-3. 人
-4. おじさん
+2. おばあさん
+3. そぼ
+4. 女
 
 **Answer: 1**
 
@@ -684,32 +684,32 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「I, me」を あらわす ことばは どれですか。
 
-1. じぶん
+1. 私
 2. かのじょ
-3. 私
-4. かれ
+3. 私たち
+4. じぶん
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q62
 
 「we」を あらわす ことばは どれですか。
 
-1. 私たち
-2. じぶん
-3. かれ
-4. あなた
+1. かのじょ
+2. 私たち
+3. じぶん
+4. かれ
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q63
 
 「you」を あらわす ことばは どれですか。
 
 1. あなた
-2. じぶん
-3. かれ
-4. 私たち
+2. かのじょ
+3. 私
+4. じぶん
 
 **Answer: 1**
 
@@ -717,21 +717,21 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「he, him (boyfriend - more advanced sense)」を あらわす ことばは どれですか。
 
-1. かれ
-2. 私
-3. かのじょ
-4. じぶん
+1. かのじょ
+2. かれ
+3. 私たち
+4. あなた
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q65
 
 「she, her (girlfriend - more advanced sense)」を あらわす ことばは どれですか。
 
 1. かのじょ
-2. かれ
-3. 私たち
-4. あなた
+2. あなた
+3. 私
+4. かれ
 
 **Answer: 1**
 
@@ -739,10 +739,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「person (polite)」を あらわす ことばは どれですか。
 
-1. 男の子
-2. おにいさん
+1. そふ
+2. あに
 3. かた
-4. りょうしん
+4. おねえさん
 
 **Answer: 3**
 
@@ -750,32 +750,32 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「person」を あらわす ことばは どれですか。
 
-1. 女
-2. 女の子
-3. 人
-4. おねえさん
+1. おばさん
+2. 人
+3. あに
+4. おにいさん
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q68
 
 「everyone (polite)」を あらわす ことばは どれですか。
 
-1. ともだち
-2. あね
-3. みなさん
-4. いもうと
+1. あね
+2. みなさん
+3. 男の子
+4. あに
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q69
 
 「who」を あらわす ことばは どれですか。
 
-1. どなた
+1. 何日
 2. だれ
-3. いくら
-4. なぜ
+3. 何時
+4. 何月
 
 **Answer: 2**
 
@@ -783,76 +783,76 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「who (polite)」を あらわす ことばは どれですか。
 
-1. どなた
-2. いくつ
-3. 何で
-4. 何曜日
+1. だれ
+2. なぜ
+3. いくら
+4. どなた
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q71
 
 「oneself」を あらわす ことばは どれですか。
 
-1. じぶん
-2. かのじょ
-3. あなた
-4. 私
+1. 私たち
+2. 私
+3. じぶん
+4. あなた
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q72
 
 「family」を あらわす ことばは どれですか。
 
-1. かぞく
+1. そぼ
 2. せいと
-3. りょうしん
-4. みなさん
+3. かぞく
+4. いもうと
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q73
 
 「father (own)」を あらわす ことばは どれですか。
 
-1. 父
-2. 男
-3. おじさん
-4. おとうと
+1. ともだち
+2. 父
+3. おじいさん
+4. 男の子
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q74
 
 「mother (own)」を あらわす ことばは どれですか。
 
-1. かぞく
-2. お母さん
-3. せいと
-4. 母
+1. 母
+2. おばさん
+3. りょうしん
+4. おねえさん
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q75
 
 「father (someone else's / address form)」を あらわす ことばは どれですか。
 
-1. 女
-2. そふ
-3. おばあさん
-4. お父さん
+1. 大人
+2. お父さん
+3. あに
+4. 学生
 
-**Answer: 4**
+**Answer: 2**
 
 ### Q76
 
 「mother (someone else's / address form)」を あらわす ことばは どれですか。
 
 1. お母さん
-2. そふ
-3. 女の子
-4. 学生
+2. 大人
+3. 学生
+4. 子ども
 
 **Answer: 1**
 
@@ -860,20 +860,20 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「older brother (own)」を あらわす ことばは どれですか。
 
-1. あに
-2. いもうと
-3. お父さん
-4. きょうだい
+1. 学生
+2. あに
+3. おじさん
+4. 男の子
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q78
 
 「older sister (own)」を あらわす ことばは どれですか。
 
-1. ともだち
-2. 大人
-3. 男
+1. お母さん
+2. おじさん
+3. 女
 4. あね
 
 **Answer: 4**
@@ -883,9 +883,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「younger brother」を あらわす ことばは どれですか。
 
 1. おとうと
-2. そぼ
-3. そふ
-4. 女
+2. お母さん
+3. 父
+4. きょうだい
 
 **Answer: 1**
 
@@ -894,9 +894,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「younger sister」を あらわす ことばは どれですか。
 
 1. いもうと
-2. あに
-3. おとうと
-4. 女の子
+2. そぼ
+3. おばさん
+4. おねえさん
 
 **Answer: 1**
 
@@ -906,21 +906,21 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「こんな」と もっとも ちかい いみは どれですか。
 
-1. this kind of
-2. that way over there (casual)
-3. that (modifier)
+1. here
+2. which way
+3. this kind of
 4. like that (over there)
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q82
 
 「そんな」と もっとも ちかい いみは どれですか。
 
-1. this way (casual)
+1. over there
 2. that kind of
-3. this (thing near speaker)
-4. that (over there)
+3. which (one)
+4. such
 
 **Answer: 2**
 
@@ -928,31 +928,31 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「あんな」と もっとも ちかい いみは どれですか。
 
-1. that way
-2. this way / this person (polite)
-3. how
-4. that kind of (over there)
+1. that kind of (over there)
+2. this (modifier)
+3. over there
+4. like that (over there)
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q84
 
 「どんな」と もっとも ちかい いみは どれですか。
 
-1. this (modifier)
-2. what kind of
-3. this (thing near speaker)
-4. which (one)
+1. what kind of
+2. that (over there)
+3. which (modifier)
+4. that (thing near listener)
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q85
 
 「こう」と もっとも ちかい いみは どれですか。
 
-1. that way (over there)
-2. that over there (modifier)
-3. which way (casual)
+1. that (thing near listener)
+2. here
+3. which (modifier)
 4. like this
 
 **Answer: 4**
@@ -961,10 +961,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「そう」と もっとも ちかい いみは どれですか。
 
-1. like this
-2. this (modifier)
+1. that (over there)
+2. how
 3. like that
-4. which way (casual)
+4. that (thing near listener)
 
 **Answer: 3**
 
@@ -972,10 +972,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「ああ」と もっとも ちかい いみは どれですか。
 
-1. that (thing near listener)
-2. here
+1. that way over there (casual)
+2. various
 3. like that (over there)
-4. that way over there (casual)
+4. that kind of (over there)
 
 **Answer: 3**
 
@@ -983,32 +983,32 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「どう」と もっとも ちかい いみは どれですか。
 
-1. which (modifier)
-2. like this
-3. how
-4. like that (over there)
+1. there
+2. this kind of
+3. this way (casual)
+4. how
 
-**Answer: 3**
+**Answer: 4**
 
 ### Q89
 
 「何」と もっとも ちかい いみは どれですか。
 
-1. why
-2. what
-3. how many, how old
-4. who (polite)
+1. what
+2. why
+3. who
+4. when
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q90
 
 「いつ」と もっとも ちかい いみは どれですか。
 
 1. what day of the week
-2. how many, how old
+2. what day
 3. when
-4. what time
+4. why, by what means
 
 **Answer: 3**
 
@@ -1016,109 +1016,109 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「いくら」と もっとも ちかい いみは どれですか。
 
-1. what month
-2. how much (price)
-3. why, by what means
-4. what time
+1. how much (price)
+2. why
+3. what day
+4. who (polite)
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q92
 
 「いくつ」と もっとも ちかい いみは どれですか。
 
-1. what month
-2. how many, how old
+1. what time
+2. why
 3. when
-4. why
+4. how many, how old
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q93
 
 「何時」と もっとも ちかい いみは どれですか。
 
-1. when
-2. what day
-3. who (polite)
-4. what time
+1. what time
+2. who (polite)
+3. what month
+4. why
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q94
 
 「何曜日」と もっとも ちかい いみは どれですか。
 
-1. what day of the week
-2. who
-3. how many, how old
-4. when
+1. what time
+2. who (polite)
+3. what day of the week
+4. what
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q95
 
 「何月」と もっとも ちかい いみは どれですか。
 
-1. who
-2. what month
-3. what day
-4. how much (price)
+1. what month
+2. how much (price)
+3. how many, how old
+4. what time
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q96
 
 「何日」と もっとも ちかい いみは どれですか。
 
-1. what day
-2. what
-3. how much (price)
-4. why, by what means
+1. how many, how old
+2. when
+3. why, by what means
+4. what day
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q97
 
 「なぜ」と もっとも ちかい いみは どれですか。
 
-1. who
-2. who (polite)
-3. how many, how old
-4. why
+1. what day of the week
+2. who
+3. why
+4. what
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q98
 
 「どうして」と もっとも ちかい いみは どれですか。
 
-1. how many, how old
-2. what day
-3. how much (price)
-4. why
+1. why
+2. what month
+3. what day
+4. what day of the week
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q99
 
 「何で」と もっとも ちかい いみは どれですか。
 
-1. when
-2. what month
-3. what
-4. why, by what means
+1. why, by what means
+2. what day of the week
+3. why
+4. how many, how old
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q100
 
 「一」と もっとも ちかい いみは どれですか。
 
-1. one
-2. ten thousand
-3. nine
-4. five
+1. thousand
+2. ten
+3. one
+4. hundred
 
-**Answer: 1**
+**Answer: 3**
 
