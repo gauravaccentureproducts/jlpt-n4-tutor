@@ -1,9 +1,12 @@
 {
-  "step": 1,
-  "completed": [1],
+  "step": 3,
+  "completed": [1, 2, 3],
   "in_progress": null,
-  "next": 2,
+  "next": 4,
   "buildVersion": "v0.1.0",
-  "lastCommit": null,
-  "startedAt": "2026-05-04T10:30:00Z"
+  "lastCommit": "pending",
+  "startedAt": "2026-05-04T10:30:00Z",
+  "stepNotes": {
+    "3": "kanji whitelist (249 glyphs = 106 N5 prerequisite + 143 N4 new). Builder at tools/build_n4_kanji.py. Inventory had 167 N4 entries; 24 overlapped with N5 (borderline kanji per source notes). All kanji invariants PASS (X-6.9, JA-12, JA-13, JA-22, JA-24)."
+  }
 }
