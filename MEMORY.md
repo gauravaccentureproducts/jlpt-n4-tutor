@@ -1,6 +1,6 @@
 # JLPT N4 Tutor — Memory
 
-Last refreshed: 2026-05-04 (Pass-2 complete; v0.1.0 — ALL 41 invariants PASS). Keep under 200 lines.
+Last refreshed: 2026-05-04 (Pass-3 priorities complete; v0.2.0 — ALL 41 invariants PASS). Keep under 200 lines.
 
 ## Project location
 

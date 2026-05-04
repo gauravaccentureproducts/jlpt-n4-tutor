@@ -4,7 +4,28 @@ All notable changes to JLPT N4 Tutor will be documented here. Format: [Keep a Ch
 
 ## [Unreleased]
 
-(Pass-3 — full Tanos vocab fetch; native review; native audio re-record; FSRS-4; listening corpus authoring; coverage compare; browser smoke tests.)
+(Pass-4 — native review; native audio re-record; FSRS-4; coverage compare; browser smoke tests; first GitHub Pages deploy.)
+
+## [0.2.0] — 2026-05-04 (Pass-3 priority items complete)
+
+### Added (build steps)
+
+- **Full N4 vocab corpus**: 1672 entries (1041 N5 prereq + 631 N4 from JLPT Sensei pages 1-6 fetched at build time). `n4-vocab-inventory-full.md`. Romaji-to-hiragana converter in `tools/build_n4_vocab.py`.
+- **KanjiVG stroke-order SVGs**: 249/249 (106 N5 copied from N5 repo + 143 N4 fetched from KanjiVG via `tools/fetch_kanji_svgs.py`).
+- **Mock test papers**: 28 papers, 402 questions across 4 categories (moji/goi/bunpou/dokkai). Built via `tools/build_papers.py`. Required dokkai-question generator update to emit passage-grouped format (`### Passage N` + `#### Q<N>`).
+- **Per-glyph kanji examples**: 77 N4 kanji enriched with examples from in-scope vocab via `tools/enrich_kanji_examples.py`. 183 KB entries got an `examples:` line.
+- **Grammar pattern enrichment**: 129 N4 patterns enriched with seed `explanation_en`, `form_rules`, `examples` (with vocab_ids; JA-17 satisfied), and `common_mistakes` placeholder via `tools/enrich_grammar.py`.
+- **Listening corpus seed**: 30 chokai items via `tools/build_n4_listening.py` (10 meeting + 10 shopping + 10 short-statement). `data/listening.json` + `KnowledgeBank/chokai_questions_n4.md`.
+- **Audio pipeline**: 80 synthetic-gtts MP3s rendered (50 grammar examples + 30 listening items). `tools/build_audio_listening_only.py` for priority listening rendering. JA-15 PASS.
+
+### Quality posture
+
+- All seed content is programmatic. Native-teacher review (Pass-4 Layer 8) is the next quality gate before exam-grade use.
+- Remaining grammar audio (~550 example MP3s) can render incrementally via `tools/build_audio.py` — non-blocking for v0.2.0.
+
+### Integrity state
+
+ALL 41 INVARIANTS PASS.
 
 ## [0.1.0] — 2026-05-04 (Pass-2 complete; ALL 41 invariants PASS)
 
