@@ -36,7 +36,7 @@ Format per paper:
   }
 
 Skipped files:
-  externally_sourced_n5.md — provenance disclosed in its header (third-
+  externally_sourced_n4.md — provenance disclosed in its header (third-
     party scraped, NOT JEES official). Excluded from v1 to avoid sourcing
     issues; can be added later under its own category if desired.
     (Renamed from authentic_extracted_n4.md on 2026-05-04 to match its
@@ -67,7 +67,7 @@ SOURCES = {
     "goi":    "goi_questions_n4.md",
     "bunpou": "bunpou_questions_n4.md",
     "dokkai": "dokkai_questions_n4.md",
-    # externally_sourced_n5.md skipped per docstring rationale.
+    # externally_sourced_n4.md skipped per docstring rationale.
 }
 
 CATEGORY_META = {

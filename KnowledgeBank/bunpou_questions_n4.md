@@ -22,10 +22,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「while」(n4-001) を あらわす ぶんぽうは どれですか。
 
-1. ばあいは
-2. はずがない
+1. がり
+2. から作る
 3. 間（あいだ）
-4. から作る
+4. がする
 
 **Answer: 3**
 
@@ -33,9 +33,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「while」(n4-002) の いみで つかう ことばは どれですか。
 
-1. あまり〜ない
-2. かい
-3. がする
+1. はずだ
+2. から作る
+3. かい
 4. 間に（あいだに）
 
 **Answer: 4**
@@ -44,10 +44,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「not very」(n4-003) と いう いみの ぶんぽうを えらんでください。
 
-1. 間（あいだ）
+1. かしら
 2. あまり〜ない
-3. はずだ
-4. 間に（あいだに）
+3. はずがない
+4. 間（あいだ）
 
 **Answer: 2**
 
@@ -55,10 +55,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 つぎの いみに あう ぶんぽうは どれですか:「after」(n4-004)
 
-1. かい
-2. から作る
+1. いたします
+2. ではないか
 3. 後で（あとで）
-4. ば
+4. あまり〜ない
 
 **Answer: 3**
 
@@ -66,10 +66,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「conditional form (if-then)」(n4-005) を あらわす ぶんぽうは どれですか。
 
-1. はずがない
-2. いらっしゃる
+1. 間に（あいだに）
+2. ばあいは
 3. ば
-4. かい
+4. ひつようがある
 
 **Answer: 3**
 
@@ -77,9 +77,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「in the event of」(n4-006) の いみで つかう ことばは どれですか。
 
-1. あまり〜ない
-2. かい
-3. かな
+1. はずだ
+2. ひつようがある
+3. がり
 4. ばあいは
 
 **Answer: 4**
@@ -88,8 +88,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「only」(n4-007) と いう いみの ぶんぽうを えらんでください。
 
-1. より
-2. と
+1. が
+2. しか
 3. ばかり
 4. でも
 
@@ -99,10 +99,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 つぎの いみに あう ぶんぽうは どれですか:「just by」(n4-008)
 
-1. 始める（はじめる）
-2. 間に（あいだに）
+1. ではないか
+2. がり
 3. だけで
-4. じゃないか
+4. がる / がっている
 
 **Answer: 3**
 
@@ -110,10 +110,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to begin to」(n4-009) を あらわす ぶんぽうは どれですか。
 
-1. でございます
+1. いらっしゃる
 2. 出す（だす）
-3. ころ
-4. きっと
+3. いたします
+4. 間に（あいだに）
 
 **Answer: 2**
 
@@ -121,10 +121,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to be (honorific)」(n4-010) の いみで つかう ことばは どれですか。
 
-1. あまり〜ない
+1. 後で（あとで）
 2. でございます
-3. じゃないか
-4. かな
+3. あまり〜ない
+4. がる / がっている
 
 **Answer: 2**
 
@@ -132,10 +132,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「or something」(n4-011) と いう いみの ぶんぽうを えらんでください。
 
-1. ね
+1. など
 2. ばかり
 3. でも
-4. を
+4. か
 
 **Answer: 3**
 
@@ -143,10 +143,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 つぎの いみに あう ぶんぽうは どれですか:「right?」(n4-012)
 
-1. ば
+1. じゃないか
 2. ではないか
-3. ころ
-4. 間に（あいだに）
+3. から作る
+4. がり
 
 **Answer: 2**
 
@@ -155,9 +155,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「to smell」(n4-013) を あらわす ぶんぽうは どれですか。
 
 1. 出す（だす）
-2. から作る
+2. ではないか
 3. がする
-4. かどうか
+4. かしら
 
 **Answer: 3**
 
@@ -165,10 +165,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「personality/tendency」(n4-014) の いみで つかう ことばは どれですか。
 
-1. ございます
-2. あまり〜ない
+1. かどうか
+2. はずだ
 3. がり
-4. がする
+4. 間（あいだ）
 
 **Answer: 3**
 
@@ -176,9 +176,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to show signs of」(n4-015) と いう いみの ぶんぽうを えらんでください。
 
-1. ございます
-2. かもしれない
-3. 間（あいだ）
+1. かどうか
+2. がする
+3. かな
 4. がる / がっている
 
 **Answer: 4**
@@ -188,9 +188,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 つぎの いみに あう ぶんぽうは どれですか:「to be」(n4-016)
 
 1. ございます
-2. から作る
-3. かな
-4. ころ
+2. 後で（あとで）
+3. かもしれない
+4. いらっしゃる
 
 **Answer: 1**
 
@@ -198,10 +198,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to start」(n4-017) を あらわす ぶんぽうは どれですか。
 
-1. かどうか
-2. ございます
+1. がする
+2. かどうか
 3. 始める（はじめる）
-4. きっと
+4. 間に（あいだに）
 
 **Answer: 3**
 
@@ -210,9 +210,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「it must be」(n4-018) の いみで つかう ことばは どれですか。
 
 1. はずだ
-2. ではないか
-3. 出す（だす）
-4. 間に（あいだに）
+2. でございます
+3. ころ
+4. 後で（あとで）
 
 **Answer: 1**
 
@@ -221,9 +221,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「cannot be (impossible)」(n4-019) と いう いみの ぶんぽうを えらんでください。
 
 1. はずがない
-2. ではないか
-3. がる / がっている
-4. ころ
+2. だけで
+3. かしら
+4. から作る
 
 **Answer: 1**
 
@@ -231,10 +231,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 つぎの いみに あう ぶんぽうは どれですか:「need to」(n4-020)
 
-1. かい
+1. いたします
 2. ひつようがある
-3. でございます
-4. じゃないか
+3. いらっしゃる
+4. ございます
 
 **Answer: 2**
 
@@ -243,9 +243,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「to be」(n4-021) を あらわす ぶんぽうは どれですか。
 
 1. いらっしゃる
-2. じゃないか
-3. かい
-4. でございます
+2. ございます
+3. から作る
+4. かな
 
 **Answer: 1**
 
@@ -253,10 +253,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to do (polite form)」(n4-022) の いみで つかう ことばは どれですか。
 
-1. かもしれない
-2. ころ
+1. ば
+2. から作る
 3. いたします
-4. ございます
+4. かどうか
 
 **Answer: 3**
 
@@ -264,10 +264,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「right?」(n4-023) と いう いみの ぶんぽうを えらんでください。
 
-1. がり
-2. かもしれない
+1. だけで
+2. ば
 3. じゃないか
-4. かい
+4. から作る
 
 **Answer: 3**
 
@@ -276,9 +276,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 つぎの いみに あう ぶんぽうは どれですか:「whether or not」(n4-024)
 
 1. かどうか
-2. きっと
-3. いたします
-4. 始める（はじめる）
+2. 間に（あいだに）
+3. でございます
+4. ころ
 
 **Answer: 1**
 
@@ -286,10 +286,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「I wonder (feminine)」(n4-025) を あらわす ぶんぽうは どれですか。
 
-1. がり
+1. ございます
 2. かしら
-3. じゃないか
-4. がる / がっている
+3. きっと
+4. ころ
 
 **Answer: 2**
 
@@ -297,9 +297,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「turns sentence into yes/no question」(n4-026) の いみで つかう ことばは どれですか。
 
-1. かな
-2. いたします
-3. かどうか
+1. 後で（あとで）
+2. でございます
+3. ば
 4. かい
 
 **Answer: 4**
@@ -308,10 +308,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「might」(n4-027) と いう いみの ぶんぽうを えらんでください。
 
-1. はずがない
-2. がする
+1. ひつようがある
+2. 間に（あいだに）
 3. かもしれない
-4. から作る
+4. かい
 
 **Answer: 3**
 
@@ -319,10 +319,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 つぎの いみに あう ぶんぽうは どれですか:「I wonder」(n4-028)
 
-1. いたします
+1. だけで
 2. かな
-3. はずがない
-4. じゃないか
+3. 間に（あいだに）
+4. でございます
 
 **Answer: 2**
 
@@ -330,10 +330,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「made from」(n4-029) を あらわす ぶんぽうは どれですか。
 
-1. がり
+1. ば
 2. から作る
-3. ころ
-4. でございます
+3. かもしれない
+4. いらっしゃる
 
 **Answer: 2**
 
@@ -341,10 +341,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「surely」(n4-030) の いみで つかう ことばは どれですか。
 
-1. がする
+1. かい
 2. きっと
-3. あまり〜ない
-4. かしら
+3. はずだ
+4. がる / がっている
 
 **Answer: 2**
 
@@ -352,9 +352,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「around」(n4-031) と いう いみの ぶんぽうを えらんでください。
 
-1. じゃないか
-2. ば
-3. 出す（だす）
+1. ございます
+2. じゃないか
+3. 始める（はじめる）
 4. ころ
 
 **Answer: 4**
@@ -363,10 +363,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 つぎの いみに あう ぶんぽうは どれですか:「verb nominalizer」(n4-032)
 
-1. がり
+1. はずだ
 2. こと
-3. がする
-4. だけで
+3. 出す（だす）
+4. かい
 
 **Answer: 2**
 
@@ -374,10 +374,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「there are times when」(n4-033) を あらわす ぶんぽうは どれですか。
 
-1. かい
+1. から作る
 2. ことがある
-3. あまり〜ない
-4. いたします
+3. はずだ
+4. でございます
 
 **Answer: 2**
 
@@ -386,9 +386,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「can」(n4-034) の いみで つかう ことばは どれですか。
 
 1. ことができる
-2. でございます
-3. ひつようがある
-4. かもしれない
+2. いらっしゃる
+3. いたします
+4. ば
 
 **Answer: 1**
 
@@ -396,9 +396,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「it has been decided」(n4-035) と いう いみの ぶんぽうを えらんでください。
 
-1. がする
-2. 出す（だす）
-3. はずだ
+1. 始める（はじめる）
+2. かしら
+3. あまり〜ない
 4. ことになる
 
 **Answer: 4**
@@ -407,10 +407,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 つぎの いみに あう ぶんぽうは どれですか:「to decide on」(n4-036)
 
-1. ございます
-2. ではないか
+1. かどうか
+2. だけで
 3. ことにする
-4. じゃないか
+4. ございます
 
 **Answer: 3**
 
@@ -418,10 +418,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to make something」(n4-037) を あらわす ぶんぽうは どれですか。
 
-1. 間に（あいだに）
+1. がり
 2. くする
-3. ございます
-4. はずだ
+3. かどうか
+4. かしら
 
 **Answer: 2**
 
@@ -429,9 +429,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「quickly」(n4-038) の いみで つかう ことばは どれですか。
 
-1. じゃないか
-2. かしら
-3. きっと
+1. ございます
+2. がる / がっている
+3. 間に（あいだに）
 4. 急に（きゅうに）
 
 **Answer: 4**
@@ -441,9 +441,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「by」(n4-039) と いう いみの ぶんぽうを えらんでください。
 
 1. までに
-2. あまり〜ない
-3. 出す（だす）
-4. がる / がっている
+2. はずだ
+3. 始める（はじめる）
+4. きっと
 
 **Answer: 1**
 
@@ -451,9 +451,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 つぎの いみに あう ぶんぽうは どれですか:「as it is」(n4-040)
 
-1. いらっしゃる
-2. はずだ
-3. ひつようがある
+1. ばあいは
+2. かしら
+3. いたします
 4. まま
 
 **Answer: 4**
@@ -463,9 +463,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「both」(n4-041) を あらわす ぶんぽうは どれですか。
 
 1. または
-2. 始める（はじめる）
-3. あまり〜ない
-4. きっと
+2. 出す（だす）
+3. はずだ
+4. 間に（あいだに）
 
 **Answer: 1**
 
@@ -473,9 +473,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「like」(n4-042) の いみで つかう ことばは どれですか。
 
-1. 後で（あとで）
-2. はずがない
-3. から作る
+1. かもしれない
+2. ひつようがある
+3. ではないか
 4. みたいだ
 
 **Answer: 4**
@@ -484,9 +484,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「like, similar to」(n4-043) と いう いみの ぶんぽうを えらんでください。
 
-1. かしら
-2. だけで
-3. いたします
+1. がる / がっている
+2. 後で（あとで）
+3. でございます
 4. みたいな
 
 **Answer: 4**
@@ -495,10 +495,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 つぎの いみに あう ぶんぽうは どれですか:「like」(n4-044)
 
-1. ばあいは
-2. かどうか
+1. 間（あいだ）
+2. がする
 3. みたいに
-4. いたします
+4. でございます
 
 **Answer: 3**
 
@@ -507,7 +507,7 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「as many as」(n4-045) を あらわす ぶんぽうは どれですか。
 
 1. ばかり
-2. だけ
+2. で
 3. も
 4. でも
 
@@ -517,10 +517,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「don't ~ (order somebody to not do something)」(n4-046) の いみで つかう ことばは どれですか。
 
-1. 間（あいだ）
-2. かな
+1. かな
+2. 後で（あとで）
 3. な
-4. ば
+4. じゃないか
 
 **Answer: 3**
 
@@ -529,7 +529,7 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「such as」(n4-047) と いう いみの ぶんぽうを えらんでください。
 
 1. ばかり
-2. で
+2. よ
 3. でも
 4. など
 
@@ -539,10 +539,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 つぎの いみに あう ぶんぽうは どれですか:「while」(n4-048)
 
-1. だけで
+1. あまり〜ない
 2. ながら
-3. ひつようがある
-4. あまり〜ない
+3. いたします
+4. はずだ
 
 **Answer: 2**
 
@@ -550,10 +550,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「not easy to」(n4-049) を あらわす ぶんぽうは どれですか。
 
-1. から作る
+1. ではないか
 2. なかなか〜ない
-3. かい
-4. ば
+3. から作る
+4. じゃないか
 
 **Answer: 2**
 
@@ -561,10 +561,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「must do something」(n4-050) の いみで つかう ことばは どれですか。
 
-1. ではないか
+1. だけで
 2. なければいけない
-3. かもしれない
-4. いらっしゃる
+3. ば
+4. ばあいは
 
 **Answer: 2**
 
@@ -574,10 +574,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「must do something」(n4-051) と いう いみの ぶんぽうを えらんでください。
 
-1. から作る
-2. 始める（はじめる）
+1. はずがない
+2. いらっしゃる
 3. なければならない
-4. でございます
+4. ではないか
 
 **Answer: 3**
 
@@ -586,9 +586,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 つぎの いみに あう ぶんぽうは どれですか:「if」(n4-052)
 
 1. なら
-2. はずがない
-3. ではないか
-4. いらっしゃる
+2. ひつようがある
+3. だけで
+4. ばあいは
 
 **Answer: 1**
 
@@ -596,9 +596,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「do this (soft/firm command)」(n4-053) を あらわす ぶんぽうは どれですか。
 
-1. かもしれない
-2. じゃないか
-3. 間（あいだ）
+1. ば
+2. ございます
+3. かな
 4. なさい
 
 **Answer: 4**
@@ -607,9 +607,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to do (honorific)」(n4-054) の いみで つかう ことばは どれですか。
 
-1. いたします
-2. ばあいは
-3. 間に（あいだに）
+1. でございます
+2. 間（あいだ）
+3. がり
 4. なさる
 
 **Answer: 4**
@@ -619,9 +619,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「to notice」(n4-055) と いう いみの ぶんぽうを えらんでください。
 
 1. に気がつく（にきがつく）
-2. はずだ
-3. ばあいは
-4. かもしれない
+2. かしら
+3. 間（あいだ）
+4. ば
 
 **Answer: 1**
 
@@ -629,10 +629,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 つぎの いみに あう ぶんぽうは どれですか:「to look」(n4-056)
 
-1. 間に（あいだに）
-2. いたします
+1. がり
+2. でございます
 3. に見える（にみえる）
-4. ではないか
+4. だけで
 
 **Answer: 3**
 
@@ -640,10 +640,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to make something」(n4-057) を あらわす ぶんぽうは どれですか。
 
-1. ば
+1. じゃないか
 2. にする
-3. はずだ
-4. 間（あいだ）
+3. かしら
+4. かな
 
 **Answer: 2**
 
@@ -652,9 +652,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「difficult to do」(n4-058) の いみで つかう ことばは どれですか。
 
 1. にくい
-2. 出す（だす）
-3. はずだ
-4. きっと
+2. 始める（はじめる）
+3. かしら
+4. 間に（あいだに）
 
 **Answer: 1**
 
@@ -662,10 +662,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「in」(n4-059) と いう いみの ぶんぽうを えらんでください。
 
-1. がる / がっている
+1. きっと
 2. の中で（のなかで）
-3. 出す（だす）
-4. 間（あいだ）
+3. 始める（はじめる）
+4. かな
 
 **Answer: 2**
 
@@ -673,10 +673,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 つぎの いみに あう ぶんぽうは どれですか:「although, in spite of, even though」(n4-060)
 
-1. いらっしゃる
-2. かしら
+1. はずがない
+2. ばあいは
 3. のに
-4. あまり〜ない
+4. はずだ
 
 **Answer: 3**
 
@@ -684,9 +684,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to (do something)」(n4-061) を あらわす ぶんぽうは どれですか。
 
-1. きっと
-2. がする
-3. じゃないか
+1. あまり〜ない
+2. かい
+3. ございます
 4. のに (alt.)
 
 **Answer: 4**
@@ -696,9 +696,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「[A] is [B]」(n4-062) の いみで つかう ことばは どれですか。
 
 1. のは〜だ
-2. ばあいは
-3. 間（あいだ）
-4. 後で（あとで）
+2. 間（あいだ）
+3. かな
+4. かもしれない
 
 **Answer: 1**
 
@@ -706,10 +706,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「please do ~ (honorific)」(n4-063) と いう いみの ぶんぽうを えらんでください。
 
-1. じゃないか
-2. かい
+1. ございます
+2. から作る
 3. お〜ください
-4. 間（あいだ）
+4. かな
 
 **Answer: 3**
 
@@ -717,10 +717,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 つぎの いみに あう ぶんぽうは どれですか:「to do (honorific)」(n4-064)
 
-1. ひつようがある
-2. だけで
+1. いたします
+2. ございます
 3. お〜になる
-4. でございます
+4. いらっしゃる
 
 **Answer: 3**
 
@@ -728,10 +728,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「repeated at intervals, every」(n4-065) を あらわす ぶんぽうは どれですか。
 
-1. かしら
-2. ばあいは
+1. がる / がっている
+2. 間（あいだ）
 3. おきに
-4. がする
+4. かい
 
 **Answer: 3**
 
@@ -739,10 +739,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to finish」(n4-066) の いみで つかう ことばは どれですか。
 
-1. かしら
+1. がる / がっている
 2. 終わる（おわる）
-3. ばあいは
-4. あまり〜ない
+3. 間（あいだ）
+4. はずだ
 
 **Answer: 2**
 
@@ -751,9 +751,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「potential form」(n4-067) と いう いみの ぶんぽうを えらんでください。
 
 1. られる
-2. いらっしゃる
-3. かな
-4. じゃないか
+2. ばあいは
+3. 後で（あとで）
+4. ございます
 
 **Answer: 1**
 
@@ -761,10 +761,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 つぎの いみに あう ぶんぽうは どれですか:「it seems like」(n4-068)
 
-1. かどうか
+1. がする
 2. らしい
-3. かしら
-4. ばあいは
+3. がる / がっている
+4. 間（あいだ）
 
 **Answer: 2**
 
@@ -772,10 +772,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「-ness」(n4-069) を あらわす ぶんぽうは どれですか。
 
-1. ひつようがある
+1. いたします
 2. さ
-3. かしら
-4. いらっしゃる
+3. がる / がっている
+4. ばあいは
 
 **Answer: 2**
 
@@ -783,10 +783,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「some time ago」(n4-070) の いみで つかう ことばは どれですか。
 
-1. かしら
+1. がる / がっている
 2. さっき
-3. いらっしゃる
-4. きっと
+3. ばあいは
+4. 間に（あいだに）
 
 **Answer: 2**
 
@@ -794,10 +794,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「causative-passive」(n4-071) と いう いみの ぶんぽうを えらんでください。
 
-1. じゃないか
-2. でございます
+1. あまり〜ない
+2. ございます
 3. させられる
-4. かもしれない
+4. いらっしゃる
 
 **Answer: 3**
 
@@ -806,9 +806,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 つぎの いみに あう ぶんぽうは どれですか:「causative form」(n4-072)
 
 1. させる
-2. ばあいは
-3. かい
-4. ば
+2. 間（あいだ）
+3. から作る
+4. じゃないか
 
 **Answer: 1**
 
@@ -816,10 +816,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「please let me do」(n4-073) を あらわす ぶんぽうは どれですか。
 
-1. あまり〜ない
-2. じゃないか
+1. はずだ
+2. ございます
 3. させてください
-4. ばあいは
+4. 間（あいだ）
 
 **Answer: 3**
 
@@ -828,9 +828,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「as one would expect」(n4-074) の いみで つかう ことばは どれですか。
 
 1. さすが
-2. だけで
-3. かな
-4. がり
+2. 後で（あとで）
+3. 間（あいだ）
+4. かしら
 
 **Answer: 1**
 
@@ -838,9 +838,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「and」(n4-075) と いう いみの ぶんぽうを えらんでください。
 
-1. ばあいは
-2. がする
-3. いらっしゃる
+1. 間（あいだ）
+2. かい
+3. ばあいは
 4. し
 
 **Answer: 4**
@@ -849,10 +849,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 つぎの いみに あう ぶんぽうは どれですか:「so much」(n4-076)
 
-1. ではないか
-2. がり
+1. あまり〜ない
+2. だけで
 3. そんなに
-4. あまり〜ない
+4. はずだ
 
 **Answer: 3**
 
@@ -860,10 +860,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「but still」(n4-077) を あらわす ぶんぽうは どれですか。
 
-1. から作る
+1. ではないか
 2. それでも
-3. ばあいは
-4. はずだ
+3. 間（あいだ）
+4. かしら
 
 **Answer: 2**
 
@@ -871,10 +871,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「besides」(n4-078) の いみで つかう ことばは どれですか。
 
-1. 後で（あとで）
+1. かもしれない
 2. それに
-3. でございます
-4. いたします
+3. あまり〜ない
+4. いらっしゃる
 
 **Answer: 2**
 
@@ -882,10 +882,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「I heard that」(n4-079) と いう いみの ぶんぽうを えらんでください。
 
-1. がる / がっている
-2. いたします
+1. きっと
+2. でございます
 3. そうだ [1]
-4. かい
+4. から作る
 
 **Answer: 3**
 
@@ -893,10 +893,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 つぎの いみに あう ぶんぽうは どれですか:「looks like」(n4-080)
 
-1. かい
-2. でございます
+1. から作る
+2. いらっしゃる
 3. そうだ [2]
-4. 出す（だす）
+4. 始める（はじめる）
 
 **Answer: 3**
 
@@ -907,9 +907,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「seems like」(n4-081) を あらわす ぶんぽうは どれですか。
 
 1. そうに / そうな
-2. でございます
-3. 間に（あいだに）
-4. きっと
+2. いらっしゃる
+3. がり
+4. 間に（あいだに）
 
 **Answer: 1**
 
@@ -917,9 +917,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「just finished」(n4-082) の いみで つかう ことばは どれですか。
 
-1. かどうか
-2. いらっしゃる
-3. いたします
+1. がする
+2. ばあいは
+3. でございます
 4. たばかり
 
 **Answer: 4**
@@ -928,10 +928,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「just finished doing, was just doing」(n4-083) と いう いみの ぶんぽうを えらんでください。
 
-1. 後で（あとで）
-2. はずがない
+1. かもしれない
+2. ひつようがある
 3. たところ
-4. 間に（あいだに）
+4. がり
 
 **Answer: 3**
 
@@ -939,10 +939,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 つぎの いみに あう ぶんぽうは どれですか:「wants to do ~ (third person)」(n4-084)
 
-1. がる / がっている
+1. きっと
 2. たがる
-3. でございます
-4. かな
+3. いらっしゃる
+4. 後で（あとで）
 
 **Answer: 2**
 
@@ -951,9 +951,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「if」(n4-085) を あらわす ぶんぽうは どれですか。
 
 1. たら
-2. だけで
-3. がる / がっている
-4. かい
+2. でございます
+3. きっと
+4. から作る
 
 **Answer: 1**
 
@@ -961,9 +961,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「why don't you」(n4-086) の いみで つかう ことばは どれですか。
 
-1. あまり〜ない
-2. から作る
-3. 後で（あとで）
+1. はずだ
+2. ではないか
+3. かもしれない
 4. たらどう
 
 **Answer: 4**
@@ -973,9 +973,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「what should I do?」(n4-087) と いう いみの ぶんぽうを えらんでください。
 
 1. たらいいですか
-2. がする
-3. 始める（はじめる）
-4. はずだ
+2. かい
+3. 出す（だす）
+4. かしら
 
 **Answer: 1**
 
@@ -983,9 +983,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 つぎの いみに あう ぶんぽうは どれですか:「conjunctive particle」(n4-088)
 
-1. かい
-2. ではないか
-3. かしら
+1. がる / がっている
+2. だけで
+3. あまり〜ない
 4. て / で
 
 **Answer: 4**
@@ -994,9 +994,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to do for」(n4-089) を あらわす ぶんぽうは どれですか。
 
-1. かしら
-2. がる / がっている
-3. きっと
+1. がる / がっている
+2. きっと
+3. 間に（あいだに）
 4. てあげる
 
 **Answer: 4**
@@ -1005,9 +1005,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「I want you to」(n4-090) の いみで つかう ことばは どれですか。
 
-1. かどうか
-2. いたします
-3. がり
+1. がする
+2. でございます
+3. あまり〜ない
 4. てほしい
 
 **Answer: 4**
@@ -1017,9 +1017,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「to start」(n4-091) と いう いみの ぶんぽうを えらんでください。
 
 1. ていく
-2. から作る
-3. いらっしゃる
-4. はずだ
+2. はずがない
+3. ばあいは
+4. ではないか
 
 **Answer: 1**
 
@@ -1028,9 +1028,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 つぎの いみに あう ぶんぽうは どれですか:「was doing something (past continuous)」(n4-092)
 
 1. ていた
-2. はずがない
-3. あまり〜ない
-4. いらっしゃる
+2. ひつようがある
+3. はずだ
+4. ばあいは
 
 **Answer: 1**
 
@@ -1038,10 +1038,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「could you please ~」(n4-093) を あらわす ぶんぽうは どれですか。
 
-1. 間（あいだ）
+1. かな
 2. ていただけませんか
-3. かもしれない
-4. がり
+3. ば
+4. あまり〜ない
 
 **Answer: 2**
 
@@ -1050,9 +1050,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「to do a favor」(n4-094) の いみで つかう ことばは どれですか。
 
 1. てくれる
-2. ば
-3. 出す（だす）
-4. じゃないか
+2. じゃないか
+3. 始める（はじめる）
+4. ございます
 
 **Answer: 1**
 
@@ -1060,10 +1060,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to do and come back」(n4-095) と いう いみの ぶんぽうを えらんでください。
 
-1. ば
-2. がる / がっている
+1. じゃないか
+2. きっと
 3. てくる
-4. 間に（あいだに）
+4. がり
 
 **Answer: 3**
 
@@ -1071,10 +1071,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 つぎの いみに あう ぶんぽうは どれですか:「try doing」(n4-096)
 
-1. ございます
-2. だけで
+1. がる / がっている
+2. ではないか
 3. てみる
-4. から作る
+4. かどうか
 
 **Answer: 3**
 
@@ -1083,9 +1083,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「to get somebody to do something」(n4-097) を あらわす ぶんぽうは どれですか。
 
 1. てもらう
-2. 出す（だす）
-3. いたします
-4. 間（あいだ）
+2. 始める（はじめる）
+3. でございます
+4. かな
 
 **Answer: 1**
 
@@ -1093,10 +1093,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to do something in advance」(n4-098) の いみで つかう ことばは どれですか。
 
-1. 始める（はじめる）
-2. がする
+1. 出す（だす）
+2. かい
 3. ておく
-4. 間に（あいだに）
+4. がり
 
 **Answer: 3**
 
@@ -1104,9 +1104,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to do by accident, to finish completely」(n4-099) と いう いみの ぶんぽうを えらんでください。
 
-1. かな
-2. かしら
-3. あまり〜ない
+1. 後で（あとで）
+2. がる / がっている
+3. はずだ
 4. てしまう / ちゃう
 
 **Answer: 4**
@@ -1115,9 +1115,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 つぎの いみに あう ぶんぽうは どれですか:「I'm sorry for」(n4-100)
 
-1. じゃないか
-2. ではないか
-3. かしら
+1. ございます
+2. だけで
+3. がる / がっている
 4. てすみません
 
 **Answer: 4**

@@ -5,7 +5,7 @@ Generates ~591 questions across 5 banks to satisfy JA-8 (Q-count integrity):
   - goi_questions_n4.md       (100 questions: synonym / usage / paraphrase)
   - bunpou_questions_n4.md    (100 questions: fill-blank / arrange / cloze)
   - dokkai_questions_n4.md    (102 questions: 30 passages with ~3 Qs each)
-  - externally_sourced_n5.md  (189 questions: mixed)
+  - externally_sourced_n4.md  (189 questions: mixed)
 
 Distractors are drawn from sibling vocab entries (same PoS or same gloss family).
 This is a SEED corpus - quality is acceptable for the build pipeline but each
@@ -538,7 +538,7 @@ for mlbl, mcount in zip(labels, target_counts):
 dokkai_path.write_text('\n'.join(dokkai_out) + '\n', encoding='utf-8')
 
 write_question_file(
-    ROOT / 'KnowledgeBank' / 'externally_sourced_n5.md',
+    ROOT / 'KnowledgeBank' / 'externally_sourced_n4.md',
     'Externally-Sourced', [
         '## Provenance disclosure',
         '',

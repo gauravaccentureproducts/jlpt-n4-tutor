@@ -266,8 +266,50 @@ def assign_section(entry, pos_tag):
                              'rapidly', 'considerably']):
         return 10
     if any(k in g for k in ['safety', 'peace of mind', 'opinion', 'feel', 'thought',
-                             'opposition', 'caution', 'reserve', 'apolog', 'surprise']):
+                             'opposition', 'caution', 'reserve', 'apolog', 'surprise',
+                             'happy', 'sad', 'angry', 'lonely', 'embarrassed',
+                             'mind', 'heart', 'spirit', 'mood', 'feeling',
+                             'sleepy', 'tired', 'glad', 'sorry']):
         return 11
+    # Expanded section keywords (iter-2 rebalance):
+    if any(k in g for k in ['conjunction', 'and', 'but', 'because', 'so',
+                             'because of', 'in addition', 'moreover', 'however',
+                             'still', 'then']):
+        return 16
+    if any(k in g for k in ['count', 'tens of', 'hundred', 'thousand',
+                             'amount', 'number', 'quantity', 'time(s)',
+                             'piece', 'sheet', 'volume']):
+        return 17
+    if any(k in g for k in ['greeting', 'farewell', 'thank', 'sorry',
+                             'please', 'expression', 'phrase', 'set', 'idiom',
+                             'saying', 'congratulation']):
+        return 18
+    # Sub-bucket nouns by topic to reduce section-4 dominance
+    if any(k in g for k in ['english', 'japan', 'china', 'korea',
+                             'language', 'culture', 'history', 'science',
+                             'mathematics', 'arithmetic', 'biology']):
+        return 3
+    if any(k in g for k in ['airport', 'driver', 'commute', 'transport',
+                             'taxi', 'subway', 'train', 'ship', 'bicycle']):
+        return 5
+    if any(k in g for k in ['ring', 'glove', 'handbag', 'cloth', 'fabric',
+                             'silk', 'cotton', 'jewelry', 'sandal']):
+        return 6
+    if any(k in g for k in ['sweet', 'spicy', 'sour', 'bitter', 'cake',
+                             'salad', 'sandwich', 'soup', 'sushi']):
+        return 7
+    if any(k in g for k in ['hospital', 'medicine', 'fever', 'illness',
+                             'cold (sickness)', 'arm', 'leg', 'finger',
+                             'tooth', 'ear', 'beard']):
+        return 8
+    if any(k in g for k in ['island', 'lake', 'mountain', 'ocean',
+                             'river', 'forest', 'flower', 'tree',
+                             'plant', 'star', 'moon']):
+        return 9
+    if any(k in g for k in ['century', 'era', 'period', 'season',
+                             'recently', 'lately', 'soon', 'always',
+                             'sometimes', 'never']):
+        return 10
     # Fall back: noun → section 4 (work and society — generic)
     return 4
 

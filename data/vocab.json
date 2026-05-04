@@ -120,7 +120,12 @@
       "section": "12. Verbs (general)",
       "pos": "verb-1",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "雨が 上がりました。",
+          "translation_en": "The rain has stopped (lit. risen)."
+        }
+      ],
       "kb_pos_tag": "v1"
     },
     {
@@ -263,7 +268,12 @@
       "section": "14. Na-adjectives",
       "pos": "na-adj",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "あなたが 来て、安心しました。",
+          "translation_en": "I'm relieved you came."
+        }
+      ],
       "kb_pos_tag": "na-adj"
     },
     {
@@ -351,7 +361,12 @@
       "section": "12. Verbs (general)",
       "pos": "verb-2",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "切手を 集めるのが しゅみです。",
+          "translation_en": "Collecting stamps is my hobby."
+        }
+      ],
       "kb_pos_tag": "v2"
     },
     {
@@ -615,7 +630,12 @@
       "section": "8. Health and body",
       "pos": "noun",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "車に 注意してください。",
+          "translation_en": "Please be careful of cars."
+        }
+      ],
       "kb_pos_tag": "n."
     },
     {
@@ -692,7 +712,12 @@
       "section": "14. Na-adjectives",
       "pos": "na-adj",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "家族は 大事です。",
+          "translation_en": "Family is important."
+        }
+      ],
       "kb_pos_tag": "na-adj"
     },
     {
@@ -751,11 +776,11 @@
       "kb_pos_tag": "adv."
     },
     {
-      "id": "n4.vocab.4-work-and-society.電報",
+      "id": "n4.vocab.8-health-and-body.電報",
       "form": "電報",
       "reading": "でんぽう",
       "gloss": "telegram",
-      "section": "4. Work and society",
+      "section": "8. Health and body",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -971,11 +996,11 @@
       "kb_pos_tag": "v1"
     },
     {
-      "id": "n4.vocab.4-work-and-society.船",
+      "id": "n4.vocab.5-travel-and-transportation.船",
       "form": "船",
       "reading": "ふね",
       "gloss": "ship",
-      "section": "4. Work and society",
+      "section": "5. Travel and transportation",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -1264,7 +1289,12 @@
       "section": "12. Verbs (general)",
       "pos": "verb-1",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "この 本を となりの へやに 運んでください。",
+          "translation_en": "Please carry this book to the next room."
+        }
+      ],
       "kb_pos_tag": "v1"
     },
     {
@@ -1433,11 +1463,11 @@
       "kb_pos_tag": "v2"
     },
     {
-      "id": "n4.vocab.4-work-and-society.髭",
+      "id": "n4.vocab.8-health-and-body.髭",
       "form": "髭",
       "reading": "ひげ",
       "gloss": "beard",
-      "section": "4. Work and society",
+      "section": "8. Health and body",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -1609,11 +1639,11 @@
       "kb_pos_tag": "v3"
     },
     {
-      "id": "n4.vocab.4-work-and-society.星",
+      "id": "n4.vocab.9-weather-and-nature.星",
       "form": "星",
       "reading": "ほし",
       "gloss": "star",
-      "section": "4. Work and society",
+      "section": "9. Weather and nature",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -1627,7 +1657,12 @@
       "section": "15. Adverbs",
       "pos": "adverb",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "ほとんど 終わりました。",
+          "translation_en": "I'm almost done."
+        }
+      ],
       "kb_pos_tag": "adv."
     },
     {
@@ -1708,11 +1743,11 @@
       "kb_pos_tag": "v2"
     },
     {
-      "id": "n4.vocab.4-work-and-society.以上",
+      "id": "n4.vocab.16-conjunctions.以上",
       "form": "以上",
       "reading": "いじょう",
       "gloss": "... and more; ... and upwards",
-      "section": "4. Work and society",
+      "section": "16. Conjunctions",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -1737,7 +1772,12 @@
       "section": "11. Feelings and opinions",
       "pos": "noun",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "わたしの 意見を 言います。",
+          "translation_en": "I'll state my opinion."
+        }
+      ],
       "kb_pos_tag": "n."
     },
     {
@@ -1785,11 +1825,11 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.田舎",
+      "id": "n4.vocab.17-counters-and-quantities.田舎",
       "form": "田舎",
       "reading": "いなか",
       "gloss": "countryside",
-      "section": "4. Work and society",
+      "section": "17. Counters and quantities",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -1847,7 +1887,12 @@
       "section": "12. Verbs (general)",
       "pos": "verb-1",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "早く 行こう、急ぎましょう。",
+          "translation_en": "Let's go quickly, hurry up."
+        }
+      ],
       "kb_pos_tag": "v1"
     },
     {
@@ -1917,11 +1962,11 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.時代",
+      "id": "n4.vocab.10-time-and-frequency.時代",
       "form": "時代",
       "reading": "じだい",
       "gloss": "period",
-      "section": "4. Work and society",
+      "section": "10. Time and frequency",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -1983,11 +2028,11 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.地震",
+      "id": "n4.vocab.8-health-and-body.地震",
       "form": "地震",
       "reading": "じしん",
       "gloss": "earthquake",
-      "section": "4. Work and society",
+      "section": "8. Health and body",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -2137,11 +2182,11 @@
       "kb_pos_tag": "v2"
     },
     {
-      "id": "n4.vocab.4-work-and-society.科学",
+      "id": "n4.vocab.3-school-and-study.科学",
       "form": "科学",
       "reading": "かがく",
       "gloss": "science",
-      "section": "4. Work and society",
+      "section": "3. School and study",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -2247,11 +2292,11 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.格好",
+      "id": "n4.vocab.8-health-and-body.格好",
       "form": "格好",
       "reading": "かっこう",
       "gloss": "appearance",
-      "section": "4. Work and society",
+      "section": "8. Health and body",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -2331,7 +2376,12 @@
       "section": "12. Verbs (general)",
       "pos": "verb-2",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "この もんだいを 考えています。",
+          "translation_en": "I'm thinking about this problem."
+        }
+      ],
       "kb_pos_tag": "v2"
     },
     {
@@ -2346,11 +2396,11 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.関係",
+      "id": "n4.vocab.5-travel-and-transportation.関係",
       "form": "関係",
       "reading": "かんけい",
       "gloss": "relationship",
-      "section": "4. Work and society",
+      "section": "5. Travel and transportation",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -2496,7 +2546,12 @@
       "section": "12. Verbs (general)",
       "pos": "verb-1",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "大学に 通っています。",
+          "translation_en": "I commute to university."
+        }
+      ],
       "kb_pos_tag": "v1"
     },
     {
@@ -2522,11 +2577,11 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.ケーキ",
+      "id": "n4.vocab.7-food-and-restaurants.ケーキ",
       "form": "ケーキ",
       "reading": "ケーキ",
       "gloss": "cake",
-      "section": "4. Work and society",
+      "section": "7. Food and restaurants",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -2665,11 +2720,11 @@
       "kb_pos_tag": "v3"
     },
     {
-      "id": "n4.vocab.4-work-and-society.研究",
+      "id": "n4.vocab.8-health-and-body.研究",
       "form": "研究",
       "reading": "けんきゅう",
       "gloss": "research",
-      "section": "4. Work and society",
+      "section": "8. Health and body",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -2698,11 +2753,11 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.消しゴム",
+      "id": "n4.vocab.10-time-and-frequency.消しゴム",
       "form": "消しゴム",
       "reading": "けしごむ",
       "gloss": "eraser",
-      "section": "4. Work and society",
+      "section": "10. Time and frequency",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -2720,11 +2775,11 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.気",
+      "id": "n4.vocab.11-feelings-and-opinions.気",
       "form": "気",
       "reading": "き",
       "gloss": "spirit",
-      "section": "4. Work and society",
+      "section": "11. Feelings and opinions",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -2826,15 +2881,20 @@
       "section": "11. Feelings and opinions",
       "pos": "noun",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "田中さんの 気持ちが わかります。",
+          "translation_en": "I understand Tanaka-san's feelings."
+        }
+      ],
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.着物",
+      "id": "n4.vocab.3-school-and-study.着物",
       "form": "着物",
       "reading": "きもの",
       "gloss": "kimono; Japanese traditional clothing",
-      "section": "4. Work and society",
+      "section": "3. School and study",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -2852,22 +2912,22 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.絹",
+      "id": "n4.vocab.6-shopping-and-money.絹",
       "form": "絹",
       "reading": "きぬ",
       "gloss": "silk",
-      "section": "4. Work and society",
+      "section": "6. Shopping and money",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.季節",
+      "id": "n4.vocab.16-conjunctions.季節",
       "form": "季節",
       "reading": "きせつ",
       "gloss": "season",
-      "section": "4. Work and society",
+      "section": "16. Conjunctions",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -2907,14 +2967,19 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.心",
+      "id": "n4.vocab.11-feelings-and-opinions.心",
       "form": "心",
       "reading": "こころ",
       "gloss": "heart",
-      "section": "4. Work and society",
+      "section": "11. Feelings and opinions",
       "pos": "noun",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "田中さんは 心が きれいです。",
+          "translation_en": "Tanaka-san has a kind heart."
+        }
+      ],
       "kb_pos_tag": "n."
     },
     {
@@ -2969,7 +3034,12 @@
       "section": "10. Time and frequency",
       "pos": "noun",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "今度 いっしょに 行きましょう。",
+          "translation_en": "Let's go together next time."
+        }
+      ],
       "kb_pos_tag": "n."
     },
     {
@@ -3068,7 +3138,12 @@
       "section": "4. Work and society",
       "pos": "noun",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "この 答えは 正しいです。",
+          "translation_en": "This answer is correct."
+        }
+      ],
       "kb_pos_tag": "n."
     },
     {
@@ -3391,11 +3466,11 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.興味",
+      "id": "n4.vocab.16-conjunctions.興味",
       "form": "興味",
       "reading": "きょうみ",
       "gloss": "interest (in something)",
-      "section": "4. Work and society",
+      "section": "16. Conjunctions",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -3600,11 +3675,11 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.味噌",
+      "id": "n4.vocab.16-conjunctions.味噌",
       "form": "味噌",
       "reading": "みそ",
       "gloss": "fermented condiment made from soybeans",
-      "section": "4. Work and society",
+      "section": "16. Conjunctions",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -3644,11 +3719,11 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.湖",
+      "id": "n4.vocab.9-weather-and-nature.湖",
       "form": "湖",
       "reading": "みずうみ",
       "gloss": "lake",
-      "section": "4. Work and society",
+      "section": "9. Weather and nature",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -3666,11 +3741,11 @@
       "kb_pos_tag": "v1"
     },
     {
-      "id": "n4.vocab.4-work-and-society.木綿",
+      "id": "n4.vocab.6-shopping-and-money.木綿",
       "form": "木綿",
       "reading": "もめん",
       "gloss": "cotton (material)",
-      "section": "4. Work and society",
+      "section": "6. Shopping and money",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -3772,7 +3847,12 @@
       "section": "14. Na-adjectives",
       "pos": "na-adj",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "これは 無理です。",
+          "translation_en": "This is impossible."
+        }
+      ],
       "kb_pos_tag": "na-adj"
     },
     {
@@ -3787,11 +3867,11 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.息子",
+      "id": "n4.vocab.16-conjunctions.息子",
       "form": "息子",
       "reading": "むすこ",
       "gloss": "son",
-      "section": "4. Work and society",
+      "section": "16. Conjunctions",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -3974,11 +4054,11 @@
       "kb_pos_tag": "v1"
     },
     {
-      "id": "n4.vocab.4-work-and-society.熱",
+      "id": "n4.vocab.8-health-and-body.熱",
       "form": "熱",
       "reading": "ねつ",
       "gloss": "fever",
-      "section": "4. Work and society",
+      "section": "8. Health and body",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -4150,11 +4230,11 @@
       "kb_pos_tag": "v3"
     },
     {
-      "id": "n4.vocab.4-work-and-society.入院",
+      "id": "n4.vocab.8-health-and-body.入院",
       "form": "入院",
       "reading": "にゅういん",
       "gloss": "hospitalization",
-      "section": "4. Work and society",
+      "section": "8. Health and body",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -4227,11 +4307,11 @@
       "kb_pos_tag": "v1"
     },
     {
-      "id": "n4.vocab.4-work-and-society.お祝い",
+      "id": "n4.vocab.18-set-phrases-expressions.お祝い",
       "form": "お祝い",
       "reading": "おいわい",
       "gloss": "congratulation",
-      "section": "4. Work and society",
+      "section": "18. Set phrases / expressions",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -4304,11 +4384,11 @@
       "kb_pos_tag": "v1"
     },
     {
-      "id": "n4.vocab.4-work-and-society.億",
+      "id": "n4.vocab.17-counters-and-quantities.億",
       "form": "億",
       "reading": "おく",
       "gloss": "one hundred million",
-      "section": "4. Work and society",
+      "section": "17. Counters and quantities",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -4381,11 +4461,11 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.お土産",
+      "id": "n4.vocab.16-conjunctions.お土産",
       "form": "お土産",
       "reading": "おみやげ",
       "gloss": "souvenir",
-      "section": "4. Work and society",
+      "section": "16. Conjunctions",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -4436,11 +4516,11 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.お礼",
+      "id": "n4.vocab.18-set-phrases-expressions.お礼",
       "form": "お礼",
       "reading": "おれい",
       "gloss": "thanks",
-      "section": "4. Work and society",
+      "section": "18. Set phrases / expressions",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -4480,11 +4560,11 @@
       "kb_pos_tag": "v1"
     },
     {
-      "id": "n4.vocab.4-work-and-society.押し入れ",
+      "id": "n4.vocab.18-set-phrases-expressions.押し入れ",
       "form": "押し入れ",
       "reading": "おしいれ",
       "gloss": "closet",
-      "section": "4. Work and society",
+      "section": "18. Set phrases / expressions",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -4513,11 +4593,11 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.音",
+      "id": "n4.vocab.16-conjunctions.音",
       "form": "音",
       "reading": "おと",
       "gloss": "sound; note",
-      "section": "4. Work and society",
+      "section": "16. Conjunctions",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -4601,11 +4681,11 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.パソコン",
+      "id": "n4.vocab.16-conjunctions.パソコン",
       "form": "パソコン",
       "reading": "パソコン",
       "gloss": "personal computer",
-      "section": "4. Work and society",
+      "section": "16. Conjunctions",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -4667,11 +4747,11 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.歴史",
+      "id": "n4.vocab.3-school-and-study.歴史",
       "form": "歴史",
       "reading": "れきし",
       "gloss": "history",
-      "section": "4. Work and society",
+      "section": "3. School and study",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -4733,11 +4813,11 @@
       "kb_pos_tag": "v3"
     },
     {
-      "id": "n4.vocab.4-work-and-society.理由",
+      "id": "n4.vocab.16-conjunctions.理由",
       "form": "理由",
       "reading": "りゆう",
       "gloss": "reason",
-      "section": "4. Work and society",
+      "section": "16. Conjunctions",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -4898,22 +4978,22 @@
       "kb_pos_tag": "adv."
     },
     {
-      "id": "n4.vocab.4-work-and-society.サンダル",
+      "id": "n4.vocab.16-conjunctions.サンダル",
       "form": "サンダル",
       "reading": "サンダル",
       "gloss": "sandal",
-      "section": "4. Work and society",
+      "section": "16. Conjunctions",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.サンドイッチ",
+      "id": "n4.vocab.16-conjunctions.サンドイッチ",
       "form": "サンドイッチ",
       "reading": "サンドイッチ",
       "gloss": "sandwich",
-      "section": "4. Work and society",
+      "section": "16. Conjunctions",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -4931,11 +5011,11 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.サラダ",
+      "id": "n4.vocab.7-food-and-restaurants.サラダ",
       "form": "サラダ",
       "reading": "サラダ",
       "gloss": "salad",
-      "section": "4. Work and society",
+      "section": "7. Food and restaurants",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -5074,11 +5154,11 @@
       "kb_pos_tag": "v3"
     },
     {
-      "id": "n4.vocab.4-work-and-society.西洋",
+      "id": "n4.vocab.17-counters-and-quantities.西洋",
       "form": "西洋",
       "reading": "せいよう",
       "gloss": "the west; Western countries",
-      "section": "4. Work and society",
+      "section": "17. Counters and quantities",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -5268,7 +5348,12 @@
       "section": "4. Work and society",
       "pos": "noun",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "来週、試験が あります。",
+          "translation_en": "There's an exam next week."
+        }
+      ],
       "kb_pos_tag": "n."
     },
     {
@@ -5294,11 +5379,11 @@
       "kb_pos_tag": "adv."
     },
     {
-      "id": "n4.vocab.4-work-and-society.島",
+      "id": "n4.vocab.16-conjunctions.島",
       "form": "島",
       "reading": "しま",
       "gloss": "island",
-      "section": "4. Work and society",
+      "section": "16. Conjunctions",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -5345,7 +5430,12 @@
       "section": "14. Na-adjectives",
       "pos": "na-adj",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "田中さんは とても 親切です。",
+          "translation_en": "Tanaka-san is very kind."
+        }
+      ],
       "kb_pos_tag": "na-adj"
     },
     {
@@ -5393,11 +5483,11 @@
       "kb_pos_tag": "v2"
     },
     {
-      "id": "n4.vocab.4-work-and-society.下着",
+      "id": "n4.vocab.8-health-and-body.下着",
       "form": "下着",
       "reading": "したぎ",
       "gloss": "underwear",
-      "section": "4. Work and society",
+      "section": "8. Health and body",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -5536,11 +5626,11 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.ソフト",
+      "id": "n4.vocab.16-conjunctions.ソフト",
       "form": "ソフト",
       "reading": "ソフト",
       "gloss": "soft",
-      "section": "4. Work and society",
+      "section": "16. Conjunctions",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -5565,7 +5655,12 @@
       "section": "16. Conjunctions",
       "pos": "conjunction",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "雨が ふりました。それで 行きませんでした。",
+          "translation_en": "It rained. So I didn't go."
+        }
+      ],
       "kb_pos_tag": "conj."
     },
     {
@@ -5587,7 +5682,12 @@
       "section": "15. Adverbs",
       "pos": "adverb",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "そろそろ 帰りましょう。",
+          "translation_en": "It's about time we head home."
+        }
+      ],
       "kb_pos_tag": "adv."
     },
     {
@@ -5756,11 +5856,11 @@
       "kb_pos_tag": "v1"
     },
     {
-      "id": "n4.vocab.4-work-and-society.砂",
+      "id": "n4.vocab.16-conjunctions.砂",
       "form": "砂",
       "reading": "すな",
       "gloss": "sand",
-      "section": "4. Work and society",
+      "section": "16. Conjunctions",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -5833,11 +5933,11 @@
       "kb_pos_tag": "v2"
     },
     {
-      "id": "n4.vocab.4-work-and-society.数学",
+      "id": "n4.vocab.3-school-and-study.数学",
       "form": "数学",
       "reading": "すうがく",
       "gloss": "mathematics; arithmetic",
-      "section": "4. Work and society",
+      "section": "3. School and study",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -5866,11 +5966,11 @@
       "kb_pos_tag": "i-adj"
     },
     {
-      "id": "n4.vocab.4-work-and-society.退院",
+      "id": "n4.vocab.8-health-and-body.退院",
       "form": "退院",
       "reading": "たいいん",
       "gloss": "leaving hospital; discharge",
-      "section": "4. Work and society",
+      "section": "8. Health and body",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -5928,7 +6028,12 @@
       "section": "15. Adverbs",
       "pos": "adverb",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "たまに 友だちと あいます。",
+          "translation_en": "I sometimes meet my friends."
+        }
+      ],
       "kb_pos_tag": "adv."
     },
     {
@@ -5972,7 +6077,12 @@
       "section": "14. Na-adjectives",
       "pos": "na-adj",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "旅行が 楽しみです。",
+          "translation_en": "I'm looking forward to the trip."
+        }
+      ],
       "kb_pos_tag": "na-adj"
     },
     {
@@ -6009,11 +6119,11 @@
       "kb_pos_tag": "v1"
     },
     {
-      "id": "n4.vocab.4-work-and-society.畳",
+      "id": "n4.vocab.3-school-and-study.畳",
       "form": "畳",
       "reading": "たたみ",
       "gloss": "Japanese straw mat",
-      "section": "4. Work and society",
+      "section": "3. School and study",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -6027,7 +6137,12 @@
       "section": "12. Verbs (general)",
       "pos": "verb-2",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "あたらしい いえを 建てました。",
+          "translation_en": "I built a new house."
+        }
+      ],
       "kb_pos_tag": "v2"
     },
     {
@@ -6053,11 +6168,11 @@
       "kb_pos_tag": "v2"
     },
     {
-      "id": "n4.vocab.4-work-and-society.手袋",
+      "id": "n4.vocab.6-shopping-and-money.手袋",
       "form": "手袋",
       "reading": "てぶくろ",
       "gloss": "glove",
-      "section": "4. Work and society",
+      "section": "6. Shopping and money",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -6225,7 +6340,12 @@
       "section": "14. Na-adjectives",
       "pos": "na-adj",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "今日は 特別な 日です。",
+          "translation_en": "Today is a special day."
+        }
+      ],
       "kb_pos_tag": "na-adj"
     },
     {
@@ -6258,7 +6378,12 @@
       "section": "12. Verbs (general)",
       "pos": "verb-2",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "くるまを 止めてください。",
+          "translation_en": "Please stop the car."
+        }
+      ],
       "kb_pos_tag": "v2"
     },
     {
@@ -6280,7 +6405,12 @@
       "section": "12. Verbs (general)",
       "pos": "verb-1",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "駅の 前を 通ります。",
+          "translation_en": "I'll pass in front of the station."
+        }
+      ],
       "kb_pos_tag": "v1"
     },
     {
@@ -6361,11 +6491,11 @@
       "kb_pos_tag": "v2"
     },
     {
-      "id": "n4.vocab.4-work-and-society.月",
+      "id": "n4.vocab.9-weather-and-nature.月",
       "form": "月",
       "reading": "つき",
       "gloss": "moon",
-      "section": "4. Work and society",
+      "section": "9. Weather and nature",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -6438,11 +6568,11 @@
       "kb_pos_tag": "v1"
     },
     {
-      "id": "n4.vocab.4-work-and-society.腕",
+      "id": "n4.vocab.8-health-and-body.腕",
       "form": "腕",
       "reading": "うで",
       "gloss": "arm",
-      "section": "4. Work and society",
+      "section": "8. Health and body",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -6467,7 +6597,16 @@
       "section": "12. Verbs (general)",
       "pos": "verb-1",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "バスが 動き出しました。",
+          "translation_en": "The bus started to move."
+        },
+        {
+          "ja": "きかいが 動かない。",
+          "translation_en": "The machine won't work."
+        }
+      ],
       "kb_pos_tag": "v1"
     },
     {
@@ -6515,11 +6654,11 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.運転手",
+      "id": "n4.vocab.5-travel-and-transportation.運転手",
       "form": "運転手",
       "reading": "うんてんしゅ",
       "gloss": "driver; chauffeur",
-      "section": "4. Work and society",
+      "section": "5. Travel and transportation",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -6614,11 +6753,11 @@
       "kb_pos_tag": "v1"
     },
     {
-      "id": "n4.vocab.4-work-and-society.ワープロ",
+      "id": "n4.vocab.16-conjunctions.ワープロ",
       "form": "ワープロ",
       "reading": "ワープロ",
       "gloss": "word processor",
-      "section": "4. Work and society",
+      "section": "16. Conjunctions",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -6764,7 +6903,12 @@
       "section": "12. Verbs (general)",
       "pos": "verb-1",
       "tier": "core_n4",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "雨が 止みました。",
+          "translation_en": "The rain has stopped."
+        }
+      ],
       "kb_pos_tag": "v1"
     },
     {
@@ -6845,11 +6989,11 @@
       "kb_pos_tag": "v1"
     },
     {
-      "id": "n4.vocab.4-work-and-society.予習",
+      "id": "n4.vocab.16-conjunctions.予習",
       "form": "予習",
       "reading": "よしゅう",
       "gloss": "preparation for a lesson",
-      "section": "4. Work and society",
+      "section": "16. Conjunctions",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
@@ -6955,22 +7099,22 @@
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.指",
+      "id": "n4.vocab.8-health-and-body.指",
       "form": "指",
       "reading": "ゆび",
       "gloss": "finger",
-      "section": "4. Work and society",
+      "section": "8. Health and body",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],
       "kb_pos_tag": "n."
     },
     {
-      "id": "n4.vocab.4-work-and-society.指輪",
+      "id": "n4.vocab.6-shopping-and-money.指輪",
       "form": "指輪",
       "reading": "ゆびわ",
       "gloss": "finger ring",
-      "section": "4. Work and society",
+      "section": "6. Shopping and money",
       "pos": "noun",
       "tier": "core_n4",
       "examples": [],

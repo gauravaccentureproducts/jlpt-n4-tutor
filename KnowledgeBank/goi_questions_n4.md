@@ -23,9 +23,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「入る」と おなじ いみの ことばを えらんでください。
 
 1. to enter (Group 1 exception - looks like Group 2)
-2. to cut (Group 1 exception - looks like Group 2
-3. to be found
-4. to return home (Group 1 exception - looks like Group 2)
+2. to add (numbers)
+3. to hurry
+4. to rise
 
 **Answer: 1**
 
@@ -33,9 +33,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「かえる」と おなじ いみの ことばを えらんでください。
 
-1. to carry
-2. to cut (Group 1 exception - looks like Group 2
-3. (respectful) to be
+1. (respectful) to be
+2. to add (numbers)
+3. to copy or photograph
 4. to return home (Group 1 exception - looks like Group 2)
 
 **Answer: 4**
@@ -44,10 +44,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「はしる」と おなじ いみの ことばを えらんでください。
 
-1. to rise
-2. to copy or photograph
+1. (respectful) to give
+2. to stop
 3. to run (Group 1 exception - looks like Group 2)
-4. to commute
+4. to go through
 
 **Answer: 3**
 
@@ -55,9 +55,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「しる」と おなじ いみの ことばを えらんでください。
 
-1. to go through
-2. to disappear
-3. to remember
+1. to stop
+2. to remember
+3. to return home (Group 1 exception - looks like Group 2)
 4. to know (Group 1 exception - looks like Group 2)
 
 **Answer: 4**
@@ -67,9 +67,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「きる」と おなじ いみの ことばを えらんでください。
 
 1. to cut (Group 1 exception - looks like Group 2
-2. to commute
-3. to be hungry
-4. to carry
+2. to carry
+3. to copy or photograph
+4. (respectful) to be
 
 **Answer: 1**
 
@@ -77,10 +77,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「いる」と おなじ いみの ことばを えらんでください。
 
-1. (respectful) to be
+1. to copy or photograph
 2. to need (Group 1 exception - looks like Group 2
-3. to go through
-4. to add (numbers)
+3. to perform
+4. to carry
 
 **Answer: 2**
 
@@ -88,10 +88,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「ああ」と おなじ いみの ことばを えらんでください。
 
-1. considerably
+1. to be surprised
 2. ah
-3. soon
-4. to be surprised
+3. now I understand
+4. usually
 
 **Answer: 2**
 
@@ -99,9 +99,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「アフリカ」と おなじ いみの ことばを えらんでください。
 
-1. suffix for familiar female person
+1. literature
 2. petrol
-3. literature
+3. energy
 4. Africa
 
 **Answer: 4**
@@ -110,10 +110,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「上がる」と おなじ いみの ことばを えらんでください。
 
-1. to copy or photograph
-2. to run (Group 1 exception - looks like Group 2)
+1. to know (Group 1 exception - looks like Group 2)
+2. to open
 3. to rise
-4. to gather
+4. to stop
 
 **Answer: 3**
 
@@ -122,9 +122,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「味」と おなじ いみの ことばを えらんでください。
 
 1. flavor
-2. escalator
-3. building
-4. a feast
+2. fax
+3. a feast
+4. escalator
 
 **Answer: 1**
 
@@ -132,10 +132,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「アジア」と おなじ いみの ことばを えらんでください。
 
-1. part-time job
-2. accessory
+1. baby
+2. petrol station
 3. Asia
-4. building
+4. a feast
 
 **Answer: 3**
 
@@ -143,10 +143,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「赤ちゃん」と おなじ いみの ことばを えらんでください。
 
-1. accessory
-2. cherry blossom viewing
+1. petrol station
+2. grapes
 3. baby
-4. roughly
+4. gasoline
 
 **Answer: 3**
 
@@ -154,9 +154,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「アクセサリー」と おなじ いみの ことばを えらんでください。
 
-1. Africa
-2. alcohol
-3. petrol
+1. energy
+2. university student
+3. Africa
 4. accessory
 
 **Answer: 4**
@@ -165,10 +165,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「アメリカ」と おなじ いみの ことばを えらんでください。
 
-1. Asia
-2. grapes
+1. to check
+2. junior high school
 3. America
-4. building
+4. rubbish
 
 **Answer: 3**
 
@@ -176,9 +176,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「アナウンサー」と おなじ いみの ことばを えらんでください。
 
-1. junior high school
-2. energy
-3. a feast
+1. suffix for familiar female person
+2. geography
+3. building
 4. announcer
 
 **Answer: 4**
@@ -189,8 +189,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 1. (option-4)
 2. such
-3. various
-4. that sort of
+3. that sort of
+4. various
 
 **Answer: 2**
 
@@ -198,8 +198,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「安心」と おなじ いみの ことばを えらんでください。
 
-1. special
-2. full
+1. full
+2. special
 3. kindness
 4. peace of mind
 
@@ -209,9 +209,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「アルバイト」と おなじ いみの ことばを えらんでください。
 
-1. announcer
+1. fax
 2. part-time job
-3. literature
+3. energy
 4. Africa
 
 **Answer: 2**
@@ -221,9 +221,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「アルバイトする」と おなじ いみの ことばを えらんでください。
 
 1. to part-time job
-2. to research
-3. to preparation
-4. to hurrying
+2. to preparation
+3. to caution
+4. to a feast
 
 **Answer: 1**
 
@@ -232,8 +232,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「アルコール」と おなじ いみの ことばを えらんでください。
 
 1. alcohol
-2. university student
-3. part-time job
+2. Asia
+3. baby
 4. fax
 
 **Answer: 1**
@@ -243,9 +243,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「集まる」と おなじ いみの ことばを えらんでください。
 
 1. to gather
-2. to perform
-3. to move
-4. to run (Group 1 exception - looks like Group 2)
+2. to send
+3. to enter (Group 1 exception - looks like Group 2)
+4. to open
 
 **Answer: 1**
 
@@ -253,10 +253,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「集める」と おなじ いみの ことばを えらんでください。
 
-1. to be seen
-2. to build
+1. to get off
+2. to separate
 3. to collect
-4. to be heard
+4. to lower
 
 **Answer: 3**
 
@@ -265,9 +265,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「ベル」と おなじ いみの ことばを えらんでください。
 
 1. bell
-2. energy
-3. literature
-4. accessory
+2. geography
+3. energy
+4. petrol station
 
 **Answer: 1**
 
@@ -276,9 +276,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「びっくり」と おなじ いみの ことばを えらんでください。
 
 1. to be surprised
-2. to that extent
-3. soon
-4. occasionally
+2. this way
+3. clearly
+4. soon
 
 **Answer: 1**
 
@@ -286,10 +286,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「ビル」と おなじ いみの ことばを えらんでください。
 
-1. rubbish
-2. alcohol
+1. suffix for familiar female person
+2. university student
 3. building
-4. baby
+4. roughly
 
 **Answer: 3**
 
@@ -297,8 +297,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「ぶどう」と おなじ いみの ことばを えらんでください。
 
-1. rubbish
-2. America
+1. suffix for familiar female person
+2. a glass
 3. Africa
 4. grapes
 
@@ -308,10 +308,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「文学」と おなじ いみの ことばを えらんでください。
 
-1. petrol station
-2. suffix for familiar female person
+1. rubbish
+2. bell
 3. literature
-4. university student
+4. America
 
 **Answer: 3**
 
@@ -319,10 +319,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「ちゃん」と おなじ いみの ことばを えらんでください。
 
-1. America
+1. announcer
 2. suffix for familiar female person
-3. accessory
-4. bell
+3. petrol station
+4. accessory
 
 **Answer: 2**
 
@@ -330,9 +330,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「チェック」と おなじ いみの ことばを えらんでください。
 
-1. university student
-2. suffix for familiar female person
-3. petrol
+1. building
+2. literature
+3. Africa
 4. to check
 
 **Answer: 4**
@@ -341,10 +341,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「チェックする」と おなじ いみの ことばを えらんでください。
 
-1. to sightseeing
+1. to fax
 2. to check
-3. to cherry blossom viewing
-4. to caution
+3. to part-time job
+4. to opinion
 
 **Answer: 2**
 
@@ -352,10 +352,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「力」と おなじ いみの ことばを えらんでください。
 
-1. suffix for familiar female person
-2. rubbish
+1. literature
+2. suffix for familiar female person
 3. energy
-4. cherry blossom viewing
+4. grapes
 
 **Answer: 3**
 
@@ -363,9 +363,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「地理」と おなじ いみの ことばを えらんでください。
 
-1. energy
-2. building
-3. roughly
+1. a glass
+2. a feast
+3. literature
 4. geography
 
 **Answer: 4**
@@ -374,10 +374,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「中学校」と おなじ いみの ことばを えらんでください。
 
-1. escalator
+1. fax
 2. junior high school
-3. caution
-4. gasoline
+3. Asia
+4. your husband
 
 **Answer: 2**
 
@@ -386,9 +386,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「注意」と おなじ いみの ことばを えらんでください。
 
 1. Africa
-2. geography
+2. bell
 3. caution
-4. rubbish
+4. suffix for familiar female person
 
 **Answer: 3**
 
@@ -396,10 +396,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「注意する」と おなじ いみの ことばを えらんでください。
 
-1. to opinion
+1. to examination
 2. to caution
-3. to examination
-4. to preparation
+3. to pronunciation
+4. to research
 
 **Answer: 2**
 
@@ -407,10 +407,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「大分」と おなじ いみの ことばを えらんでください。
 
-1. as much as possible
+1. the other day
 2. considerably
-3. if
-4. now I understand
+3. ah
+4. occasionally
 
 **Answer: 2**
 
@@ -418,8 +418,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「大学生」と おなじ いみの ことばを えらんでください。
 
-1. junior high school
-2. your husband
+1. suffix for familiar female person
+2. a glass
 3. rubbish
 4. university student
 
@@ -430,9 +430,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「大事」と おなじ いみの ことばを えらんでください。
 
 1. important
-2. peace of mind
+2. full
 3. looking forward to
-4. kindness
+4. sudden
 
 **Answer: 1**
 
@@ -440,10 +440,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「大体」と おなじ いみの ことばを えらんでください。
 
-1. petrol
-2. bell
+1. geography
+2. accessory
 3. roughly
-4. Africa
+4. petrol
 
 **Answer: 3**
 
@@ -451,9 +451,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「as much as possible」を あらわす ことばは どれですか。
 
-1. びっくり
-2. どんどん
-3. このごろ
+1. はっきり
+2. こう
+3. どんどん
 4. できるだけ
 
 **Answer: 4**
@@ -465,9 +465,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「rapidly」を あらわす ことばは どれですか。
 
 1. どんどん
-2. なるほど
-3. たいてい
-4. 特に
+2. それほど
+3. こう
+4. そろそろ
 
 **Answer: 1**
 
@@ -475,9 +475,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「escalator」を あらわす ことばは どれですか。
 
-1. ごちそう
-2. アナウンサー
-3. ガス
+1. アメリカ
+2. ガソリン
+3. 地理
 4. エスカレーター
 
 **Answer: 4**
@@ -487,9 +487,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「fax」を あらわす ことばは どれですか。
 
 1. ファックス
-2. 注意
-3. ガラス
-4. アルバイト
+2. 大学生
+3. アナウンサー
+4. チェック
 
 **Answer: 1**
 
@@ -497,10 +497,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to fax」を あらわす ことばは どれですか。
 
-1. 花見する
-2. 注意する
+1. 急行する
+2. 会話する
 3. ファックスする
-4. 発音する
+4. 意見する
 
 **Answer: 3**
 
@@ -508,10 +508,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「a glass」を あらわす ことばは どれですか。
 
-1. ちゃん
+1. ご主人
 2. ガラス
-3. ごちそう
-4. 力
+3. アメリカ
+4. エスカレーター
 
 **Answer: 2**
 
@@ -519,10 +519,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「gasoline」を あらわす ことばは どれですか。
 
-1. ガソリンスタンド
+1. アクセサリー
 2. ガソリン
-3. 味
-4. アジア
+3. ごちそう
+4. 注意
 
 **Answer: 2**
 
@@ -530,10 +530,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「petrol station」を あらわす ことばは どれですか。
 
-1. ビル
+1. アルコール
 2. ガソリンスタンド
-3. アメリカ
-4. 大学生
+3. ガソリン
+4. 地理
 
 **Answer: 2**
 
@@ -541,10 +541,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「petrol」を あらわす ことばは どれですか。
 
-1. アジア
+1. 赤ちゃん
 2. ガス
-3. ちゃん
-4. 地理
+3. ご主人
+4. 注意
 
 **Answer: 2**
 
@@ -552,9 +552,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「a feast」を あらわす ことばは どれですか。
 
-1. アクセサリー
-2. 赤ちゃん
-3. 大体
+1. 大学生
+2. アメリカ
+3. 中学校
 4. ごちそう
 
 **Answer: 4**
@@ -563,10 +563,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to a feast」を あらわす ことばは どれですか。
 
-1. 用意する
-2. 花見する
+1. 計画する
+2. チェックする
 3. ごちそうする
-4. ファックスする
+4. 入学する
 
 **Answer: 3**
 
@@ -574,10 +574,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「rubbish」を あらわす ことばは どれですか。
 
-1. アジア
+1. 赤ちゃん
 2. ごみ
-3. 赤ちゃん
-4. アルコール
+3. ベル
+4. ファックス
 
 **Answer: 2**
 
@@ -585,9 +585,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「your husband」を あらわす ことばは どれですか。
 
-1. ガソリンスタンド
-2. 花見
-3. ぶどう
+1. アクセサリー
+2. ガラス
+3. ガス
 4. ご主人
 
 **Answer: 4**
@@ -596,10 +596,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「clearly」を あらわす ことばは どれですか。
 
-1. なるほど
+1. しっかり
 2. はっきり
-3. それほど
-4. たまに
+3. たまに
+4. できるだけ
 
 **Answer: 2**
 
@@ -607,10 +607,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to carry」を あらわす ことばは どれですか。
 
-1. いる
+1. きる
 2. 運ぶ
-3. はしる
-4. 通る
+3. 写す
+4. 思い出す
 
 **Answer: 2**
 
@@ -618,9 +618,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「cherry blossom viewing」を あらわす ことばは どれですか。
 
-1. アフリカ
-2. 地理
-3. ファックス
+1. 大体
+2. 注意
+3. アナウンサー
 4. 花見
 
 **Answer: 4**
@@ -629,10 +629,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to cherry blossom viewing」を あらわす ことばは どれですか。
 
-1. ファックスする
+1. 入学する
 2. 花見する
-3. 試験する
-4. 用意する
+3. 注意する
+4. 計画する
 
 **Answer: 2**
 
@@ -640,9 +640,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「handbag」を あらわす ことばは どれですか。
 
-1. ファックス
-2. ガラス
-3. 地理
+1. アナウンサー
+2. ガソリンスタンド
+3. 注意
 4. ハンドバッグ
 
 **Answer: 4**
@@ -651,9 +651,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「pronunciation」を あらわす ことばは どれですか。
 
-1. 味
-2. ごみ
-3. エスカレーター
+1. アフリカ
+2. 味
+3. 中学校
 4. 発音
 
 **Answer: 4**
@@ -662,9 +662,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to pronunciation」を あらわす ことばは どれですか。
 
-1. アルバイトする
-2. 見物する
-3. ファックスする
+1. ファックスする
+2. 会話する
+3. 入学する
 4. 発音する
 
 **Answer: 4**
@@ -673,10 +673,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to enter (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。
 
-1. 下さる
+1. お出でになる
 2. 入る
-3. お出でになる
-4. 通う
+3. 急ぐ
+4. 下さる
 
 **Answer: 2**
 
@@ -685,9 +685,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「to return home (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。
 
 1. かえる
-2. 運ぶ
-3. 急ぐ
-4. 開く
+2. 足す
+3. 起こす
+4. 下がる
 
 **Answer: 1**
 
@@ -695,10 +695,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to run (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。
 
-1. 無くなる
-2. 開く
+1. お出でになる
+2. 起こす
 3. はしる
-4. 止む
+4. 通う
 
 **Answer: 3**
 
@@ -706,10 +706,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to know (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。
 
-1. 通う
+1. 下さる
 2. しる
-3. かえる
-4. はしる
+3. 空く
+4. 写す
 
 **Answer: 2**
 
@@ -717,9 +717,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to cut (Group 1 exception - looks like Group 2」を あらわす ことばは どれですか。
 
-1. 下がる
-2. 見つかる
-3. 起こす
+1. 集まる
+2. 止む
+3. しる
 4. きる
 
 **Answer: 4**
@@ -729,9 +729,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「to need (Group 1 exception - looks like Group 2」を あらわす ことばは どれですか。
 
 1. いる
-2. 集まる
-3. 空く
-4. お出でになる
+2. 入る
+3. 思い出す
+4. はしる
 
 **Answer: 1**
 
@@ -739,10 +739,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「ah」を あらわす ことばは どれですか。
 
-1. ほとんど
+1. それほど
 2. ああ
-3. たいてい
-4. なるほど
+3. はっきり
+4. この間
 
 **Answer: 2**
 
@@ -750,10 +750,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Africa」を あらわす ことばは どれですか。
 
-1. 注意
+1. アルバイト
 2. アフリカ
-3. ちゃん
-4. アメリカ
+3. ご主人
+4. ガソリン
 
 **Answer: 2**
 
@@ -761,10 +761,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to rise」を あらわす ことばは どれですか。
 
-1. 集まる
+1. 入る
 2. 上がる
-3. 見つかる
-4. 下さる
+3. 止む
+4. 無くなる
 
 **Answer: 2**
 
@@ -772,10 +772,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「flavor」を あらわす ことばは どれですか。
 
-1. ガソリン
+1. ビル
 2. 味
-3. 注意
-4. 地理
+3. アルコール
+4. 注意
 
 **Answer: 2**
 
@@ -783,10 +783,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Asia」を あらわす ことばは どれですか。
 
-1. アメリカ
-2. 地理
+1. ガソリン
+2. 注意
 3. アジア
-4. アルコール
+4. 赤ちゃん
 
 **Answer: 3**
 
@@ -794,10 +794,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「baby」を あらわす ことばは どれですか。
 
-1. 地理
+1. ベル
 2. 赤ちゃん
-3. 力
-4. ごみ
+3. エスカレーター
+4. 味
 
 **Answer: 2**
 
@@ -805,10 +805,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「accessory」を あらわす ことばは どれですか。
 
-1. ぶどう
-2. 花見
+1. ガス
+2. ごみ
 3. アクセサリー
-4. 中学校
+4. 文学
 
 **Answer: 3**
 
@@ -816,9 +816,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「America」を あらわす ことばは どれですか。
 
-1. アルバイト
-2. アジア
-3. ガス
+1. チェック
+2. 赤ちゃん
+3. 力
 4. アメリカ
 
 **Answer: 4**
@@ -827,9 +827,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「announcer」を あらわす ことばは どれですか。
 
-1. 地理
-2. 大学生
-3. チェック
+1. 注意
+2. 地理
+3. ちゃん
 4. アナウンサー
 
 **Answer: 4**
@@ -849,10 +849,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「peace of mind」を あらわす ことばは どれですか。
 
-1. 急
+1. 大事
 2. 安心
-3. 十分
-4. 楽しみ
+3. 無理
+4. いっぱい
 
 **Answer: 2**
 
@@ -861,9 +861,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「part-time job」を あらわす ことばは どれですか。
 
 1. アルバイト
-2. アクセサリー
-3. 中学校
-4. アジア
+2. ごみ
+3. 文学
+4. 赤ちゃん
 
 **Answer: 1**
 
@@ -871,9 +871,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「to part-time job」を あらわす ことばは どれですか。
 
-1. 用意する
+1. 計画する
 2. 研究する
-3. ごちそうする
+3. チェックする
 4. アルバイトする
 
 **Answer: 4**
@@ -882,9 +882,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「ジャム」と もっとも ちかい いみは どれですか。
 
-1. bell
-2. grapes
-3. rubbish
+1. accessory
+2. junior high school
+3. suffix for familiar female person
 4. jam
 
 **Answer: 4**
@@ -893,10 +893,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「字」と もっとも ちかい いみは どれですか。
 
-1. alcohol
-2. announcer
+1. university student
+2. part-time job
 3. character
-4. petrol station
+4. rubbish
 
 **Answer: 3**
 
@@ -906,10 +906,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「時代」と もっとも ちかい いみは どれですか。
 
-1. grapes
+1. junior high school
 2. period
-3. energy
-4. Africa
+3. grapes
+4. petrol
 
 **Answer: 2**
 
@@ -917,9 +917,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「人口」と もっとも ちかい いみは どれですか。
 
-1. a feast
-2. grapes
-3. energy
+1. building
+2. junior high school
+3. grapes
 4. population
 
 **Answer: 4**
@@ -928,9 +928,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「人生」と もっとも ちかい いみは どれですか。
 
-1. Africa
-2. announcer
-3. energy
+1. petrol
+2. part-time job
+3. grapes
 4. human life
 
 **Answer: 4**
@@ -939,10 +939,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「十分」と もっとも ちかい いみは どれですか。
 
-1. full
-2. special
+1. special
+2. kindness
 3. enough
-4. impossible
+4. peace of mind
 
 **Answer: 3**
 
@@ -951,9 +951,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「カーテン」と もっとも ちかい いみは どれですか。
 
 1. curtain
-2. petrol
-3. Africa
-4. junior high school
+2. geography
+3. petrol
+4. energy
 
 **Answer: 1**
 
@@ -961,10 +961,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「帰り」と もっとも ちかい いみは どれですか。
 
-1. literature
-2. petrol
+1. Africa
+2. geography
 3. return
-4. grapes
+4. junior high school
 
 **Answer: 3**
 
@@ -972,10 +972,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「会場」と もっとも ちかい いみは どれですか。
 
-1. petrol
+1. geography
 2. assembly hall
-3. roughly
-4. Africa
+3. gasoline
+4. petrol
 
 **Answer: 2**
 
@@ -984,9 +984,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「会話」と もっとも ちかい いみは どれですか。
 
 1. conversation
-2. grapes
-3. Asia
-4. rubbish
+2. junior high school
+3. to check
+4. suffix for familiar female person
 
 **Answer: 1**
 
@@ -995,9 +995,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「会話する」と もっとも ちかい いみは どれですか。
 
 1. to sightseeing
-2. to pronunciation
+2. to fax
 3. to conversation
-4. to opinion
+4. to examination
 
 **Answer: 3**
 
@@ -1006,9 +1006,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「火事」と もっとも ちかい いみは どれですか。
 
 1. fire
-2. literature
-3. fax
-4. escalator
+2. Africa
+3. flavor
+4. fax
 
 **Answer: 1**
 
@@ -1016,10 +1016,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「考える」と もっとも ちかい いみは どれですか。
 
-1. to be sufficient
+1. to be heard
 2. to think
-3. to tease
-4. to be seen
+3. to discover
+4. to get off
 
 **Answer: 2**
 
@@ -1028,9 +1028,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「代わり」と もっとも ちかい いみは どれですか。
 
 1. instead
-2. university student
-3. literature
-4. announcer
+2. America
+3. Africa
+4. part-time job
 
 **Answer: 1**
 
@@ -1038,10 +1038,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「通う」と もっとも ちかい いみは どれですか。
 
-1. to wake
-2. to run (Group 1 exception - looks like Group 2)
+1. to move
+2. to get down
 3. to commute
-4. to need (Group 1 exception - looks like Group 2
+4. to disappear
 
 **Answer: 3**
 
@@ -1049,10 +1049,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「ケーキ」と もっとも ちかい いみは どれですか。
 
-1. grapes
+1. junior high school
 2. cake
-3. university student
-4. escalator
+3. America
+4. fax
 
 **Answer: 2**
 
@@ -1060,10 +1060,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「計画」と もっとも ちかい いみは どれですか。
 
-1. university student
-2. America
+1. America
+2. a glass
 3. to plan
-4. building
+4. a feast
 
 **Answer: 3**
 
@@ -1071,9 +1071,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「計画する」と もっとも ちかい いみは どれですか。
 
-1. to opinion
+1. to examination
 2. to plan
-3. to hospitalization
+3. to conversation
 4. to check
 
 **Answer: 2**
@@ -1082,10 +1082,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「見物」と もっとも ちかい いみは どれですか。
 
-1. petrol
-2. rubbish
+1. geography
+2. suffix for familiar female person
 3. sightseeing
-4. gasoline
+4. your husband
 
 **Answer: 3**
 
@@ -1094,9 +1094,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「見物する」と もっとも ちかい いみは どれですか。
 
 1. to sightseeing
-2. to opinion
-3. to hurrying
-4. to examination
+2. to examination
+3. to a feast
+4. to hurrying
 
 **Answer: 1**
 
@@ -1104,10 +1104,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「研究」と もっとも ちかい いみは どれですか。
 
-1. a feast
+1. building
 2. research
-3. Africa
-4. roughly
+3. petrol
+4. gasoline
 
 **Answer: 2**
 
@@ -1115,10 +1115,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「研究する」と もっとも ちかい いみは どれですか。
 
-1. to entry to school or university
-2. to sightseeing
+1. to conversation
+2. to fax
 3. to research
-4. to hospitalization
+4. to part-time job
 
 **Answer: 3**
 

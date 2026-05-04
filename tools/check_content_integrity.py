@@ -45,7 +45,7 @@ QUESTION_FILES = [
     "goi_questions_n4.md",
     "bunpou_questions_n4.md",
     "dokkai_questions_n4.md",
-    "externally_sourced_n5.md",
+    "externally_sourced_n4.md",
 ]
 
 CATALOG_FILES = ["grammar_n4.md", "kanji_n4.md", "vocabulary_n4.md", "sources.md"]
@@ -55,7 +55,7 @@ EXPECTED_Q_COUNTS = {
     "goi_questions_n4.md": 100,
     "bunpou_questions_n4.md": 100,
     "dokkai_questions_n4.md": 102,
-    "externally_sourced_n5.md": 189,
+    "externally_sourced_n4.md": 189,
 }
 EXPECTED_TOTAL = sum(EXPECTED_Q_COUNTS.values())  # 591
 
