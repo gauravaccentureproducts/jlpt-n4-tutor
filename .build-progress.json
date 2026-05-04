@@ -1,0 +1,9 @@
+{
+  "step": 1,
+  "completed": [1],
+  "in_progress": null,
+  "next": 2,
+  "buildVersion": "v0.1.0",
+  "lastCommit": null,
+  "startedAt": "2026-05-04T10:30:00Z"
+}

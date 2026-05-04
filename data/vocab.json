@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "schema_version": 1,
+    "entity_count": 0,
+    "id_range": "n4.vocab.<section-slug>.<form>",
+    "id_gap_policy": "Reserve numeric ranges per category. Retired IDs are NEVER re-used.",
+    "history": [
+      {
+        "date": "2026-05-04",
+        "delta": "+0 (skeleton)"
+      }
+    ]
+  },
+  "entries": []
+}
