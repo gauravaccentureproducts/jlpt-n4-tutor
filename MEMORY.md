@@ -1,6 +1,6 @@
 # JLPT N4 Tutor — Memory
 
-Last refreshed: 2026-05-04 (Pass-2 seed corpus complete; v0.1.0-alpha). Keep under 200 lines.
+Last refreshed: 2026-05-04 (Pass-2 complete; v0.1.0 — ALL 41 invariants PASS). Keep under 200 lines.
 
 ## Project location
 
@@ -32,17 +32,18 @@ Last refreshed: 2026-05-04 (Pass-2 seed corpus complete; v0.1.0-alpha). Keep und
 - `KnowledgeBank/*.md` — source-of-truth content (markdown). All currently skeleton.
 - `data/*.json` — runtime data (regenerated). All currently skeleton with `_meta` populated.
 
-## Current state (2026-05-04, v0.1.0-alpha)
+## Current state (2026-05-04, v0.1.0)
 
-- **Pass-2 seed corpus complete** — kanji whitelist, vocab seed, grammar catalogue all built.
+- **Pass-2 complete; ALL 41 invariants PASS.**
 - All token substitutions applied (`n5` → `n4`, `JLPT N5` → `JLPT N4`, brand `五` → `四`).
-- Build-progress checkpoint: `.build-progress.json` (steps 1-6 + 9 complete; 7-8, 10-15 deferred).
-- Integrity check: 35/41 invariants PASS. 6 FAIL all in JA-8 (Q-count integrity, expects 591 questions, has 0).
+- Build-progress checkpoint: `.build-progress.json` (steps 1-9 + 14-15 complete; 10-13 deferred).
+- Integrity check: **41/41 invariants PASS**.
 - Builders authored:
   - `tools/build_n4_kanji.py` → 249 glyphs (106 N5 prereq + 143 N4 new)
   - `tools/build_n4_vocab.py` → 1159 entries (1041 N5 prereq + 118 N4 from sample)
   - `tools/build_n4_grammar.py` → 307 patterns (178 N5 prereq + 129 N4 from inventory)
-- Reading/Listening/Questions/Audio: empty stubs, deferred to Pass-3.
+  - `tools/build_n4_questions.py` → 591 questions across 5 banks
+- Listening/Audio: empty stubs, deferred to Pass-3.
 
 ## Pending / next up
 

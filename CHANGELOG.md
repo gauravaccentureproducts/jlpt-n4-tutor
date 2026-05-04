@@ -4,9 +4,25 @@ All notable changes to JLPT N4 Tutor will be documented here. Format: [Keep a Ch
 
 ## [Unreleased]
 
-(Pass-3 — full Tanos vocab fetch; question banks; reading/listening corpora; native review; native audio re-record; FSRS-4.)
+(Pass-3 — full Tanos vocab fetch; native review; native audio re-record; FSRS-4; listening corpus authoring; coverage compare; browser smoke tests.)
 
-## [0.1.0-alpha] — 2026-05-04 (Pass-2 seed corpus)
+## [0.1.0] — 2026-05-04 (Pass-2 complete; ALL 41 invariants PASS)
+
+### Added (build-steps 7-8)
+
+- **Question banks** (build-step 7-8/15): 591 questions across 5 banks via `tools/build_n4_questions.py`:
+  - `moji_questions_n4.md` (100): Mondai 1 kanji-reading (50) + Mondai 2 orthography (50)
+  - `goi_questions_n4.md` (100): Mondai 4 synonym (40) + Mondai 5 usage (40) + Mondai 6 paraphrase (20)
+  - `bunpou_questions_n4.md` (100): Mondai 1 fill-blank (50) + Mondai 2 arrange (30) + Mondai 3 cloze (20)
+  - `dokkai_questions_n4.md` (102): 30 short passages with reading questions
+  - `externally_sourced_n5.md` (189): mixed third-party-paraphrased questions
+- Question quality: SEED corpus, programmatically generated. Distractors drawn from same-PoS vocab. Scope-filtered to N4 whitelist (X-6.1 + JA-1 PASS). JA-2 prophylactic prevents particle-set false positives.
+
+### Integrity state
+
+**ALL 41 INVARIANTS PASS.** Build pipeline is fully green. Native-teacher review (Pass-3 Layer 8) is the next quality gate before exam-grade use.
+
+## [0.1.0-alpha] — 2026-05-04 (Pass-2 seed corpus, JA-8 fails)
 
 ### Added
 

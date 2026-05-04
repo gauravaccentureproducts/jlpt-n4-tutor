@@ -1,29 +1,29 @@
 # JLPT N4 Tutor — Tasks
 
-**Last updated:** 2026-05-04 (Pass-2 seed corpus complete; v0.1.0-alpha)
+**Last updated:** 2026-05-04 (Pass-2 complete; v0.1.0 — ALL 41 invariants PASS)
 
 ## Live site
 
 - Repo: `https://github.com/<org>/jlpt-n4-tutor` (configure on first deploy)
 - Live URL: `https://<org>.github.io/jlpt-n4-tutor/` (configure)
 - Engine tests: 0/0 (`tests.html` ported; needs N4-specific test data)
-- CI invariants: 35/41 PASS (Q-count failures expected for empty question banks)
+- CI invariants: **41/41 PASS** (all green)
 
 ## Status snapshot
 
-- **Version:** v0.1.0-alpha (Pass-2 seed)
+- **Version:** v0.1.0 (Pass-2 complete, all integrity invariants green)
 - **SW version:** `jlpt-n4-tutor-v1`
 - **Grammar:** 307 patterns (178 N5 prerequisite + 129 N4 from inventory) — target +full Bunpro/Tanos pass
 - **Vocab:** 1159 entries (1041 N5 prerequisite + 118 N4 from a-h sample) — target ~1500 from Tanos N4 CSV
 - **Kanji:** 249 glyphs (106 N5 prerequisite + 143 N4 new from inventory) — target 280 (24 inventory entries overlap with N5)
-- **Reading:** 0 passages (target ~30) — Pass-3 authoring
+- **Reading:** 30 short passages embedded in dokkai_questions_n4.md — target richer passages with native review
 - **Listening:** 0 items (target ~30) — Pass-3 authoring
-- **Questions:** 0 total (target ~530) — Pass-3 authoring; JA-8 fails until authored
-- **Mock-test papers:** 0 (target ~32) — Pass-3
-- **Audio:** 0 MP3s (target ~600 synthetic) — Pass-3 (runs against authored content)
+- **Questions:** 591 total (100 moji + 100 goi + 100 bunpou + 102 dokkai + 189 ext) — programmatically generated SEED; native-teacher review in Pass-3
+- **Mock-test papers:** 0 (target ~32) — Pass-3 via tools/build_papers.py
+- **Audio:** 0 MP3s (target ~600 synthetic) — Pass-3 gtts pipeline
 - **Locales:** 5 (en/vi/id/ne/zh) — shell ported, N4 strings TBD
-- **Routes:** 21 routes wired in router (Grammar/Vocab/Kanji render seed; Reading/Listening/Test render empty until Pass-3)
-- **Build progress checkpoint:** `.build-progress.json` (steps 1-6 + 9 complete; 7-8, 10-15 deferred)
+- **Routes:** 21 routes wired in router (Grammar/Vocab/Kanji/Test/Reading render seed; Listening empty until Pass-3)
+- **Build progress checkpoint:** `.build-progress.json` (steps 1-9 + 14-15 complete; 10-13 deferred)
 
 ## External-blocked backlog
 
