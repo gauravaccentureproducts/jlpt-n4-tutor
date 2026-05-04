@@ -20,7 +20,7 @@
       "categoryOrder": 17,
       "patternOrder": 1,
       "meaning_en": "while; during; between",
-      "meaning_ja": "",
+      "meaning_ja": "ある期間、ずっと。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -30,7 +30,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: while; during; between. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "夏休みの 間、毎日 海に 行きました。",
+          "form": "affirmative",
+          "translation_en": "During summer vacation, I went to the sea every day.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -43,7 +51,7 @@
       "categoryOrder": 17,
       "patternOrder": 2,
       "meaning_en": "while; during (something happened)",
-      "meaning_ja": "",
+      "meaning_ja": "ある期間に、何かが起きる。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -53,7 +61,17 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: while; during (something happened). See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "母が でかけている 間に、しゅくだいを しました。",
+          "form": "affirmative",
+          "translation_en": "While mother was out, I did my homework.",
+          "vocab_ids": [
+            "n4.vocab.0-group1-exceptions.いる"
+          ],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -66,7 +84,7 @@
       "categoryOrder": 1,
       "patternOrder": 3,
       "meaning_en": "not very; not much",
-      "meaning_ja": "",
+      "meaning_ja": "たくさんではない、少しだけ。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -76,7 +94,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: not very; not much. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "この 料理は あまり すきじゃ ありません。",
+          "form": "affirmative",
+          "translation_en": "I don't like this dish very much.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -89,7 +115,7 @@
       "categoryOrder": 17,
       "patternOrder": 4,
       "meaning_en": "after; later",
-      "meaning_ja": "",
+      "meaning_ja": "何かのあとで。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -99,7 +125,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: after; later. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "仕事の 後で、友だちと 食事を します。",
+          "form": "affirmative",
+          "translation_en": "After work, I'll have a meal with my friends.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -112,7 +146,7 @@
       "categoryOrder": 8,
       "patternOrder": 5,
       "meaning_en": "conditional form (if-then)",
-      "meaning_ja": "",
+      "meaning_ja": "もしAなら、Bする。",
       "form_rules": {
         "attaches_to": [
           "verb_ba_form"
@@ -120,7 +154,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: conditional form (if-then). See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "雨が ふれば、行きません。",
+          "form": "affirmative",
+          "translation_en": "If it rains, I won't go.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -133,7 +175,7 @@
       "categoryOrder": 1,
       "patternOrder": 6,
       "meaning_en": "in the event of; in case that",
-      "meaning_ja": "",
+      "meaning_ja": "〜のとき、〜なら。",
       "form_rules": {
         "attaches_to": [
           "verb_ba_form"
@@ -141,7 +183,17 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: in the event of; in case that. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "火事の ばあいは、すぐに 出てください。",
+          "form": "affirmative",
+          "translation_en": "In case of fire, please leave immediately.",
+          "vocab_ids": [
+            "n4.vocab.4-work-and-society.火事"
+          ],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -154,7 +206,7 @@
       "categoryOrder": 17,
       "patternOrder": 7,
       "meaning_en": "only; nothing but",
-      "meaning_ja": "",
+      "meaning_ja": "〜だけ、それ以外しない。",
       "form_rules": {
         "attaches_to": [
           "verb_ba_form"
@@ -162,7 +214,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: only; nothing but. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "テレビばかり 見ないで、勉強してください。",
+          "form": "affirmative",
+          "translation_en": "Don't only watch TV; please study.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -175,7 +235,7 @@
       "categoryOrder": 1,
       "patternOrder": 8,
       "meaning_en": "just by; by doing alone",
-      "meaning_ja": "",
+      "meaning_ja": "〜だけで、ほかは要らない。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -185,7 +245,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: just by; by doing alone. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "見るだけで、買いません。",
+          "form": "affirmative",
+          "translation_en": "I'm just looking, not buying.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -198,7 +266,7 @@
       "categoryOrder": 1,
       "patternOrder": 9,
       "meaning_en": "to begin to; start to; burst into",
-      "meaning_ja": "",
+      "meaning_ja": "何かを始める。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -208,7 +276,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to begin to; start to; burst into. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "急に 雨が ふりだしました。",
+          "form": "affirmative",
+          "translation_en": "It suddenly started to rain.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -221,7 +297,7 @@
       "categoryOrder": 1,
       "patternOrder": 10,
       "meaning_en": "to be (honorific)",
-      "meaning_ja": "",
+      "meaning_ja": "「です」のていねいな形。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -230,7 +306,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to be (honorific). See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "こちらは 田中で ございます。",
+          "form": "affirmative",
+          "translation_en": "This is Tanaka (humble/polite).",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -243,7 +327,7 @@
       "categoryOrder": 1,
       "patternOrder": 11,
       "meaning_en": "or something; how about",
-      "meaning_ja": "",
+      "meaning_ja": "〜などの一つを選ぶ。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -253,7 +337,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: or something; how about. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "お茶でも 飲みませんか。",
+          "form": "affirmative",
+          "translation_en": "Would you like tea or something?",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -266,7 +358,7 @@
       "categoryOrder": 1,
       "patternOrder": 12,
       "meaning_en": "right?; isn't it?",
-      "meaning_ja": "",
+      "meaning_ja": "〜だね、と確認する。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -276,7 +368,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: right?; isn't it?. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "これは あなたの かばん ではないか。",
+          "form": "affirmative",
+          "translation_en": "Isn't this your bag?",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -289,7 +389,7 @@
       "categoryOrder": 1,
       "patternOrder": 13,
       "meaning_en": "to smell; hear; taste",
-      "meaning_ja": "",
+      "meaning_ja": "音や味などを感じる。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -298,7 +398,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to smell; hear; taste. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "いい 音が します。",
+          "form": "affirmative",
+          "translation_en": "I hear a nice sound.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -311,7 +419,7 @@
       "categoryOrder": 1,
       "patternOrder": 14,
       "meaning_en": "personality/tendency",
-      "meaning_ja": "",
+      "meaning_ja": "そういう人だ、という性格。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -321,7 +429,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: personality/tendency. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "弟は さむがりです。",
+          "form": "affirmative",
+          "translation_en": "My little brother feels the cold easily.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -334,7 +450,7 @@
       "categoryOrder": 15,
       "patternOrder": 15,
       "meaning_en": "to show signs of; appear; feel",
-      "meaning_ja": "",
+      "meaning_ja": "そう見える、感じている。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -343,7 +459,17 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to show signs of; appear; feel. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "妹は 新しい おもちゃを ほしがって います。",
+          "form": "affirmative",
+          "translation_en": "My little sister wants a new toy.",
+          "vocab_ids": [
+            "n4.vocab.4-work-and-society.おもちゃ"
+          ],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -356,7 +482,7 @@
       "categoryOrder": 1,
       "patternOrder": 16,
       "meaning_en": "to be; to exist (polite)",
-      "meaning_ja": "",
+      "meaning_ja": "「あります」のていねいな形。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -365,7 +491,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to be; to exist (polite). See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "あちらに うけつけが ございます。",
+          "form": "affirmative",
+          "translation_en": "The reception is over there.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -378,7 +512,7 @@
       "categoryOrder": 1,
       "patternOrder": 17,
       "meaning_en": "to start; to begin to",
-      "meaning_ja": "",
+      "meaning_ja": "何かをスタートする。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -388,7 +522,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to start; to begin to. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "七時から 会ぎを 始めます。",
+          "form": "affirmative",
+          "translation_en": "The meeting starts at seven o'clock.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -401,7 +543,7 @@
       "categoryOrder": 11,
       "patternOrder": 18,
       "meaning_en": "it must be; should be",
-      "meaning_ja": "",
+      "meaning_ja": "きっと〜だと思う。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -411,7 +553,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: it must be; should be. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "田中さんは 今日 来る はずです。",
+          "form": "affirmative",
+          "translation_en": "Tanaka should come today.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -424,7 +574,7 @@
       "categoryOrder": 1,
       "patternOrder": 19,
       "meaning_en": "cannot be (impossible)",
-      "meaning_ja": "",
+      "meaning_ja": "〜のはずがない、ありえない。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -434,7 +584,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: cannot be (impossible). See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "あの 人が うそを 言う はずが ありません。",
+          "form": "affirmative",
+          "translation_en": "There's no way that person would lie.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -447,7 +605,7 @@
       "categoryOrder": 1,
       "patternOrder": 20,
       "meaning_en": "need to; it is necessary",
-      "meaning_ja": "",
+      "meaning_ja": "〜することが必要。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -456,7 +614,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: need to; it is necessary. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "駅まで 行く ひつようが あります。",
+          "form": "affirmative",
+          "translation_en": "I need to go to the station.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -469,7 +635,7 @@
       "categoryOrder": 14,
       "patternOrder": 21,
       "meaning_en": "to be; come; go (polite)",
-      "meaning_ja": "",
+      "meaning_ja": "「いる/来る/行く」のていねいな形。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -478,7 +644,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to be; come; go (polite). See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "先生は 教室に いらっしゃいます。",
+          "form": "affirmative",
+          "translation_en": "The teacher is in the classroom.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -491,7 +665,7 @@
       "categoryOrder": 14,
       "patternOrder": 22,
       "meaning_en": "to do (polite form)",
-      "meaning_ja": "",
+      "meaning_ja": "「する」のていねいな形。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -500,7 +674,17 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to do (polite form). See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "私が ごあんない いたします。",
+          "form": "affirmative",
+          "translation_en": "I will guide you (humble).",
+          "vocab_ids": [
+            "n4.vocab.1-people-and-relationships.あんな"
+          ],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -513,7 +697,7 @@
       "categoryOrder": 1,
       "patternOrder": 23,
       "meaning_en": "right?; isn't it?; let's",
-      "meaning_ja": "",
+      "meaning_ja": "みんなで〜しよう、〜だね。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -523,7 +707,17 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: right?; isn't it?; let's. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "いっしょに 行こう じゃないか。",
+          "form": "affirmative",
+          "translation_en": "Let's go together, shall we?",
+          "vocab_ids": [
+            "n4.vocab.15-adverbs.こう"
+          ],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -536,7 +730,7 @@
       "categoryOrder": 1,
       "patternOrder": 24,
       "meaning_en": "whether or not",
-      "meaning_ja": "",
+      "meaning_ja": "AかBか、わからない。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -546,7 +740,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: whether or not. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "来るか どうか 分かりません。",
+          "form": "affirmative",
+          "translation_en": "I don't know whether (he) is coming or not.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -559,7 +761,7 @@
       "categoryOrder": 14,
       "patternOrder": 25,
       "meaning_en": "I wonder (feminine)",
-      "meaning_ja": "",
+      "meaning_ja": "〜かなあ（女性）。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -569,7 +771,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: I wonder (feminine). See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "雨が ふる かしら。",
+          "form": "affirmative",
+          "translation_en": "I wonder if it will rain.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -582,7 +792,7 @@
       "categoryOrder": 1,
       "patternOrder": 26,
       "meaning_en": "turns sentence into yes/no question",
-      "meaning_ja": "",
+      "meaning_ja": "〜か（質問）。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -592,7 +802,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: turns sentence into yes/no question. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "あれは きみの本かい。",
+          "form": "affirmative",
+          "translation_en": "Is that your book?",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -605,7 +823,7 @@
       "categoryOrder": 14,
       "patternOrder": 27,
       "meaning_en": "might; perhaps; possibly",
-      "meaning_ja": "",
+      "meaning_ja": "〜の可能性がある。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -615,7 +833,17 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: might; perhaps; possibly. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "明日 雨が ふる かもしれません。",
+          "form": "affirmative",
+          "translation_en": "It might rain tomorrow.",
+          "vocab_ids": [
+            "n4.vocab.15-adverbs.もし"
+          ],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -628,7 +856,7 @@
       "categoryOrder": 11,
       "patternOrder": 28,
       "meaning_en": "I wonder; should I?",
-      "meaning_ja": "",
+      "meaning_ja": "〜かなあ（独り言）。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -638,7 +866,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: I wonder; should I?. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "今 何時かな。",
+          "form": "affirmative",
+          "translation_en": "I wonder what time it is.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -651,7 +887,7 @@
       "categoryOrder": 14,
       "patternOrder": 29,
       "meaning_en": "made from; made with",
-      "meaning_ja": "",
+      "meaning_ja": "〜から作られている。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -660,7 +896,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: made from; made with. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "この パンは こめから 作ります。",
+          "form": "affirmative",
+          "translation_en": "This bread is made from rice.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -673,7 +917,7 @@
       "categoryOrder": 18,
       "patternOrder": 30,
       "meaning_en": "surely; undoubtedly; most likely",
-      "meaning_ja": "",
+      "meaning_ja": "絶対に、必ず。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -683,7 +927,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: surely; undoubtedly; most likely. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "きっと 来ます。",
+          "form": "affirmative",
+          "translation_en": "(He) will surely come.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -696,7 +948,7 @@
       "categoryOrder": 17,
       "patternOrder": 31,
       "meaning_en": "around; about; when",
-      "meaning_ja": "",
+      "meaning_ja": "〜の時、〜くらい。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -706,7 +958,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: around; about; when. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "三時ころ 着きます。",
+          "form": "affirmative",
+          "translation_en": "I'll arrive around three o'clock.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -719,7 +979,7 @@
       "categoryOrder": 5,
       "patternOrder": 32,
       "meaning_en": "verb nominalizer",
-      "meaning_ja": "",
+      "meaning_ja": "動詞を名詞にする。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -729,7 +989,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: verb nominalizer. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "漢字を 書く ことは むずかしいです。",
+          "form": "affirmative",
+          "translation_en": "Writing kanji is difficult.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -742,7 +1010,7 @@
       "categoryOrder": 12,
       "patternOrder": 33,
       "meaning_en": "there are times when",
-      "meaning_ja": "",
+      "meaning_ja": "〜したことがある（経験）。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -751,7 +1019,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: there are times when. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "京とに 行った ことが あります。",
+          "form": "affirmative",
+          "translation_en": "I have been to Kyoto.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -764,7 +1040,7 @@
       "categoryOrder": 6,
       "patternOrder": 34,
       "meaning_en": "can; able to",
-      "meaning_ja": "",
+      "meaning_ja": "〜できる（能力）。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -773,7 +1049,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: can; able to. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "私は 日本語を 話す ことが できます。",
+          "form": "affirmative",
+          "translation_en": "I can speak Japanese.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -786,7 +1070,7 @@
       "categoryOrder": 1,
       "patternOrder": 35,
       "meaning_en": "it has been decided; turns out",
-      "meaning_ja": "",
+      "meaning_ja": "〜することに決まった。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -795,7 +1079,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: it has been decided; turns out. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "来月 ひっこす ことに なりました。",
+          "form": "affirmative",
+          "translation_en": "It's been decided that I move next month.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -808,7 +1100,7 @@
       "categoryOrder": 1,
       "patternOrder": 36,
       "meaning_en": "to decide on",
-      "meaning_ja": "",
+      "meaning_ja": "〜することに決めた。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -817,7 +1109,17 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to decide on. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "毎日 早く 起きる ことに しました。",
+          "form": "affirmative",
+          "translation_en": "I decided to get up early every day.",
+          "vocab_ids": [
+            "n4.vocab.0-group1-exceptions.きる"
+          ],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -830,7 +1132,7 @@
       "categoryOrder": 1,
       "patternOrder": 37,
       "meaning_en": "to make something",
-      "meaning_ja": "",
+      "meaning_ja": "〜の状態にする。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -839,7 +1141,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to make something. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "へやを きれいに します。",
+          "form": "affirmative",
+          "translation_en": "I will clean the room (make it tidy).",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -852,7 +1162,7 @@
       "categoryOrder": 1,
       "patternOrder": 38,
       "meaning_en": "quickly; suddenly; abruptly",
-      "meaning_ja": "",
+      "meaning_ja": "急に、突然に。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -862,7 +1172,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: quickly; suddenly; abruptly. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "子どもが 急に 走り出しました。",
+          "form": "affirmative",
+          "translation_en": "The child suddenly began to run.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -875,7 +1193,7 @@
       "categoryOrder": 17,
       "patternOrder": 39,
       "meaning_en": "by; by the time; indicates time limit",
-      "meaning_ja": "",
+      "meaning_ja": "〜の時間より前に。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -885,7 +1203,17 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: by; by the time; indicates time limit. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "五時までに 帰ります。",
+          "form": "affirmative",
+          "translation_en": "I'll return by five o'clock.",
+          "vocab_ids": [
+            "n4.vocab.4-work-and-society.帰り"
+          ],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -898,7 +1226,7 @@
       "categoryOrder": 1,
       "patternOrder": 40,
       "meaning_en": "as it is; current state; without changing",
-      "meaning_ja": "",
+      "meaning_ja": "今のままで、変えないで。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -908,7 +1236,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: as it is; current state; without changing. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "くつの まま 入らないでください。",
+          "form": "affirmative",
+          "translation_en": "Please don't enter with your shoes on.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -921,7 +1257,7 @@
       "categoryOrder": 1,
       "patternOrder": 41,
       "meaning_en": "both; or; otherwise; choice between [A] or [B]",
-      "meaning_ja": "",
+      "meaning_ja": "AかBを選ぶ。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -931,7 +1267,17 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: both; or; otherwise; choice between [A] or [B]. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "コーヒー または こうちゃを えらんでください。",
+          "form": "affirmative",
+          "translation_en": "Please choose coffee or tea.",
+          "vocab_ids": [
+            "n4.vocab.15-adverbs.こう"
+          ],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -944,7 +1290,7 @@
       "categoryOrder": 1,
       "patternOrder": 42,
       "meaning_en": "like; similar to; resembling",
-      "meaning_ja": "",
+      "meaning_ja": "〜のように見える。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -954,7 +1300,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: like; similar to; resembling. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "あの 人は 学生 みたいだ。",
+          "form": "affirmative",
+          "translation_en": "That person seems to be a student.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -967,7 +1321,7 @@
       "categoryOrder": 1,
       "patternOrder": 43,
       "meaning_en": "like, similar to",
-      "meaning_ja": "",
+      "meaning_ja": "〜のような〜。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -977,7 +1331,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: like, similar to. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "子ども みたいな 人ですね。",
+          "form": "affirmative",
+          "translation_en": "(He) is a person like a child, isn't he.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -990,7 +1352,7 @@
       "categoryOrder": 1,
       "patternOrder": 44,
       "meaning_en": "like; similar to",
-      "meaning_ja": "",
+      "meaning_ja": "〜のように〜する。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1000,7 +1362,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: like; similar to. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "鳥 みたいに とびたいです。",
+          "form": "affirmative",
+          "translation_en": "I want to fly like a bird.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1013,7 +1383,7 @@
       "categoryOrder": 1,
       "patternOrder": 45,
       "meaning_en": "as many as; as much as; up to; nearly",
-      "meaning_ja": "",
+      "meaning_ja": "たくさん、〜も。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1023,7 +1393,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: as many as; as much as; up to; nearly. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "一万円も はらいました。",
+          "form": "affirmative",
+          "translation_en": "I paid as much as ten thousand yen.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1036,7 +1414,7 @@
       "categoryOrder": 1,
       "patternOrder": 46,
       "meaning_en": "don't ~ (order somebody to not do something)",
-      "meaning_ja": "",
+      "meaning_ja": "〜してはいけない（命令）。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1046,7 +1424,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: don't ~ (order somebody to not do something). See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "ここで 走るな。",
+          "form": "affirmative",
+          "translation_en": "Don't run here.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1059,7 +1445,7 @@
       "categoryOrder": 14,
       "patternOrder": 47,
       "meaning_en": "such as; things like",
-      "meaning_ja": "",
+      "meaning_ja": "〜のような物。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1069,7 +1455,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: such as; things like. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "りんごや みかんなどを 買いました。",
+          "form": "affirmative",
+          "translation_en": "I bought apples, oranges, and so on.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1082,7 +1476,7 @@
       "categoryOrder": 14,
       "patternOrder": 48,
       "meaning_en": "while; during; as; simultaneously",
-      "meaning_ja": "",
+      "meaning_ja": "同時に二つのことをする。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1092,7 +1486,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: while; during; as; simultaneously. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "音楽を 聞きながら 勉強します。",
+          "form": "affirmative",
+          "translation_en": "I study while listening to music.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1105,7 +1507,7 @@
       "categoryOrder": 1,
       "patternOrder": 49,
       "meaning_en": "not easy to; struggling to; not able to",
-      "meaning_ja": "",
+      "meaning_ja": "〜することがむずかしい。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1115,7 +1517,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: not easy to; struggling to; not able to. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "この 漢字は なかなか おぼえられません。",
+          "form": "affirmative",
+          "translation_en": "I just can't seem to remember this kanji.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1128,7 +1538,7 @@
       "categoryOrder": 11,
       "patternOrder": 50,
       "meaning_en": "must do something; have to do something",
-      "meaning_ja": "",
+      "meaning_ja": "〜しないとだめ。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1138,7 +1548,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: must do something; have to do something. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "毎日 勉強しなければ いけません。",
+          "form": "affirmative",
+          "translation_en": "I have to study every day.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1151,7 +1569,7 @@
       "categoryOrder": 11,
       "patternOrder": 51,
       "meaning_en": "must do something; have to do something",
-      "meaning_ja": "",
+      "meaning_ja": "〜しないとだめ（formal）。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1161,7 +1579,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: must do something; have to do something. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "やくそくを まもらなければ なりません。",
+          "form": "affirmative",
+          "translation_en": "I must keep my promise.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1174,7 +1600,7 @@
       "categoryOrder": 8,
       "patternOrder": 52,
       "meaning_en": "if; in the case that",
-      "meaning_ja": "",
+      "meaning_ja": "もし〜なら。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1184,7 +1610,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: if; in the case that. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "安いなら、買います。",
+          "form": "affirmative",
+          "translation_en": "If it's cheap, I'll buy it.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1197,7 +1631,7 @@
       "categoryOrder": 10,
       "patternOrder": 53,
       "meaning_en": "do this (soft/firm command)",
-      "meaning_ja": "",
+      "meaning_ja": "〜してください（やわらかい命令）。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1207,7 +1641,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: do this (soft/firm command). See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "早く ねなさい。",
+          "form": "affirmative",
+          "translation_en": "Go to bed early.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1220,7 +1662,7 @@
       "categoryOrder": 1,
       "patternOrder": 54,
       "meaning_en": "to do (honorific)",
-      "meaning_ja": "",
+      "meaning_ja": "「する」のけいご。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -1229,7 +1671,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to do (honorific). See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "先生は 何を なさいますか。",
+          "form": "affirmative",
+          "translation_en": "What will the teacher do? (honorific)",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1242,7 +1692,7 @@
       "categoryOrder": 1,
       "patternOrder": 55,
       "meaning_en": "to notice; to realize",
-      "meaning_ja": "",
+      "meaning_ja": "〜にきがつく。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1252,7 +1702,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to notice; to realize. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "間ちがいに きがつきました。",
+          "form": "affirmative",
+          "translation_en": "I noticed the mistake.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1265,7 +1723,7 @@
       "categoryOrder": 1,
       "patternOrder": 56,
       "meaning_en": "to look; to seem; to appear",
-      "meaning_ja": "",
+      "meaning_ja": "〜のように見える。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1275,7 +1733,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to look; to seem; to appear. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "元気そうに 見えます。",
+          "form": "affirmative",
+          "translation_en": "(You) look well.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1288,7 +1754,7 @@
       "categoryOrder": 1,
       "patternOrder": 57,
       "meaning_en": "to make something",
-      "meaning_ja": "",
+      "meaning_ja": "〜にきめる。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -1297,7 +1763,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to make something. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "コーヒーに します。",
+          "form": "affirmative",
+          "translation_en": "I'll have coffee (I'll go with coffee).",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1310,7 +1784,7 @@
       "categoryOrder": 1,
       "patternOrder": 58,
       "meaning_en": "difficult to do",
-      "meaning_ja": "",
+      "meaning_ja": "〜することがむずかしい。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1320,7 +1794,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: difficult to do. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "この くつは 歩きにくいです。",
+          "form": "affirmative",
+          "translation_en": "These shoes are hard to walk in.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1333,7 +1815,7 @@
       "categoryOrder": 1,
       "patternOrder": 59,
       "meaning_en": "in; among",
-      "meaning_ja": "",
+      "meaning_ja": "〜の中で、いちばん〜。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1343,7 +1825,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: in; among. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "クラスの 中で、田中さんが 一番 せが 高いです。",
+          "form": "affirmative",
+          "translation_en": "In the class, Tanaka is the tallest.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1356,7 +1846,7 @@
       "categoryOrder": 14,
       "patternOrder": 60,
       "meaning_en": "although, in spite of, even though",
-      "meaning_ja": "",
+      "meaning_ja": "〜のに、ちがう結果。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1366,7 +1856,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: although, in spite of, even though. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "勉強したのに、テストが できませんでした。",
+          "form": "affirmative",
+          "translation_en": "Even though I studied, I couldn't do the test.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1379,7 +1877,7 @@
       "categoryOrder": 14,
       "patternOrder": 61,
       "meaning_en": "to (do something); in order to",
-      "meaning_ja": "",
+      "meaning_ja": "〜するために、〜に使う。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1389,7 +1887,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to (do something); in order to. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "この ペンは 手紙を 書くのに 使います。",
+          "form": "affirmative",
+          "translation_en": "I use this pen to write letters.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1402,7 +1908,7 @@
       "categoryOrder": 16,
       "patternOrder": 62,
       "meaning_en": "[A] is [B]; the reason for [A] is [B]",
-      "meaning_ja": "",
+      "meaning_ja": "AはBだ、と強調する。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1412,7 +1918,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: [A] is [B]; the reason for [A] is [B]. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "私が 行くのは 来週です。",
+          "form": "affirmative",
+          "translation_en": "When I go is next week.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1425,7 +1939,7 @@
       "categoryOrder": 10,
       "patternOrder": 63,
       "meaning_en": "please do ~ (honorific)",
-      "meaning_ja": "",
+      "meaning_ja": "〜してください（けいご）。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1435,7 +1949,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: please do ~ (honorific). See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "こちらに おすわりください。",
+          "form": "affirmative",
+          "translation_en": "Please sit here (honorific).",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1448,7 +1970,7 @@
       "categoryOrder": 1,
       "patternOrder": 64,
       "meaning_en": "to do (honorific)",
-      "meaning_ja": "",
+      "meaning_ja": "〜する（けいご）。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -1457,7 +1979,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to do (honorific). See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "先生が お話しに なります。",
+          "form": "affirmative",
+          "translation_en": "The teacher will speak (honorific).",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1470,7 +2000,7 @@
       "categoryOrder": 1,
       "patternOrder": 65,
       "meaning_en": "repeated at intervals, every",
-      "meaning_ja": "",
+      "meaning_ja": "〜の間隔で、くりかえす。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1480,7 +2010,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: repeated at intervals, every. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "一日おきに 運動します。",
+          "form": "affirmative",
+          "translation_en": "I exercise every other day.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1493,7 +2031,7 @@
       "categoryOrder": 1,
       "patternOrder": 66,
       "meaning_en": "to finish; to end",
-      "meaning_ja": "",
+      "meaning_ja": "〜が終わる。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1503,7 +2041,18 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to finish; to end. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "コンサートが 九時に 終わりました。",
+          "form": "affirmative",
+          "translation_en": "The concert ended at nine.",
+          "vocab_ids": [
+            "n4.vocab.4-work-and-society.コンサート",
+            "n4.vocab.4-work-and-society.終わり"
+          ],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1516,7 +2065,7 @@
       "categoryOrder": 6,
       "patternOrder": 67,
       "meaning_en": "potential form; ability or inability to do something",
-      "meaning_ja": "",
+      "meaning_ja": "〜できる（可能形）。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -1525,7 +2074,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: potential form; ability or inability to do something. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "私は 漢字が 書けます。",
+          "form": "affirmative",
+          "translation_en": "I can write kanji.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1538,7 +2095,7 @@
       "categoryOrder": 14,
       "patternOrder": 68,
       "meaning_en": "it seems like; I heard; apparently",
-      "meaning_ja": "",
+      "meaning_ja": "〜らしい、〜のようだ。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1548,7 +2105,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: it seems like; I heard; apparently. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "田中さんは 元気らしいです。",
+          "form": "affirmative",
+          "translation_en": "Tanaka apparently is well.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1561,7 +2126,7 @@
       "categoryOrder": 1,
       "patternOrder": 69,
       "meaning_en": "-ness; nominalizer for adjective",
-      "meaning_ja": "",
+      "meaning_ja": "形容詞を名詞にする。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1571,7 +2136,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: -ness; nominalizer for adjective. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "山の 高さを 知りたいです。",
+          "form": "affirmative",
+          "translation_en": "I want to know the mountain's height.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1584,7 +2157,7 @@
       "categoryOrder": 17,
       "patternOrder": 70,
       "meaning_en": "some time ago; just now",
-      "meaning_ja": "",
+      "meaning_ja": "すこし前に。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1594,7 +2167,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: some time ago; just now. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "さっき 駅で 田中さんに 会いました。",
+          "form": "affirmative",
+          "translation_en": "I just met Tanaka at the station a moment ago.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1607,7 +2188,7 @@
       "categoryOrder": 1,
       "patternOrder": 71,
       "meaning_en": "causative-passive; to be made to do something",
-      "meaning_ja": "",
+      "meaning_ja": "〜することをさせられた。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -1616,7 +2197,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: causative-passive; to be made to do something. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "子どもの 時、毎日 勉強させられました。",
+          "form": "affirmative",
+          "translation_en": "When I was a child, I was made to study every day.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1629,7 +2218,7 @@
       "categoryOrder": 1,
       "patternOrder": 72,
       "meaning_en": "causative form; to make/let somebody do something",
-      "meaning_ja": "",
+      "meaning_ja": "〜を〜させる（しえき）。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -1638,7 +2227,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: causative form; to make/let somebody do something. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "母は 弟に へやを そうじさせました。",
+          "form": "affirmative",
+          "translation_en": "Mother made my little brother clean the room.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1651,7 +2248,7 @@
       "categoryOrder": 10,
       "patternOrder": 73,
       "meaning_en": "please let me do",
-      "meaning_ja": "",
+      "meaning_ja": "〜してもいいですか（けいご）。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1661,7 +2258,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: please let me do. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "少し 休ませてください。",
+          "form": "affirmative",
+          "translation_en": "Please let me rest a little.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1674,7 +2279,7 @@
       "categoryOrder": 1,
       "patternOrder": 74,
       "meaning_en": "as one would expect; even",
-      "meaning_ja": "",
+      "meaning_ja": "やっぱり〜、思った通り。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1684,7 +2289,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: as one would expect; even. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "さすが 田中さんですね。",
+          "form": "affirmative",
+          "translation_en": "As expected of Tanaka.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1697,7 +2310,7 @@
       "categoryOrder": 14,
       "patternOrder": 75,
       "meaning_en": "and; and what's more (emphasis)",
-      "meaning_ja": "",
+      "meaning_ja": "〜だし、〜だ（理由）。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1707,7 +2320,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: and; and what's more (emphasis). See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "この 店は 安いし、おいしいです。",
+          "form": "affirmative",
+          "translation_en": "This shop is cheap and (also) delicious.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1720,7 +2341,7 @@
       "categoryOrder": 1,
       "patternOrder": 76,
       "meaning_en": "so much; so; like that",
-      "meaning_ja": "",
+      "meaning_ja": "そんなに〜（強調）。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1730,7 +2351,17 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: so much; so; like that. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "そんなに 食べないでください。",
+          "form": "affirmative",
+          "translation_en": "Please don't eat so much.",
+          "vocab_ids": [
+            "n4.vocab.1-people-and-relationships.そんな"
+          ],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1743,7 +2374,7 @@
       "categoryOrder": 1,
       "patternOrder": 77,
       "meaning_en": "but still; and yet; even so",
-      "meaning_ja": "",
+      "meaning_ja": "それでも、しかし〜。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1753,7 +2384,17 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: but still; and yet; even so. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "雨が ふりました。それでも 試あを つづけました。",
+          "form": "affirmative",
+          "translation_en": "It rained. Even so, we continued the game.",
+          "vocab_ids": [
+            "n4.vocab.16-conjunctions.それで"
+          ],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1766,7 +2407,7 @@
       "categoryOrder": 1,
       "patternOrder": 78,
       "meaning_en": "besides; in addition; also; moreover",
-      "meaning_ja": "",
+      "meaning_ja": "それに、さらに〜。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1776,7 +2417,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: besides; in addition; also; moreover. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "安いです。それに、おいしいです。",
+          "form": "affirmative",
+          "translation_en": "It's cheap. Moreover, it's delicious.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1789,7 +2438,7 @@
       "categoryOrder": 15,
       "patternOrder": 79,
       "meaning_en": "I heard that; it is said that ~",
-      "meaning_ja": "",
+      "meaning_ja": "AはBだそうだ（伝聞）。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1799,7 +2448,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: I heard that; it is said that ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "田中さんは 来ない そうです。",
+          "form": "affirmative",
+          "translation_en": "I heard that Tanaka isn't coming.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1812,7 +2469,7 @@
       "categoryOrder": 1,
       "patternOrder": 80,
       "meaning_en": "looks like; appears like; seeming ~",
-      "meaning_ja": "",
+      "meaning_ja": "〜のように見える。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1822,7 +2479,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: looks like; appears like; seeming ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "雨が ふりそうです。",
+          "form": "affirmative",
+          "translation_en": "It looks like it's going to rain.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1835,7 +2500,7 @@
       "categoryOrder": 1,
       "patternOrder": 81,
       "meaning_en": "seems like; looks like ~",
-      "meaning_ja": "",
+      "meaning_ja": "そう見える、そんな〜。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -1845,7 +2510,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: seems like; looks like ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "楽しそうに わらっています。",
+          "form": "affirmative",
+          "translation_en": "(She) is laughing as if having fun.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1858,7 +2531,7 @@
       "categoryOrder": 17,
       "patternOrder": 82,
       "meaning_en": "just finished; something just occurred",
-      "meaning_ja": "",
+      "meaning_ja": "いま〜したばかり。",
       "form_rules": {
         "attaches_to": [
           "verb_ta_form"
@@ -1866,7 +2539,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: just finished; something just occurred. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "食事を したばかりです。",
+          "form": "affirmative",
+          "translation_en": "I just finished a meal.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1879,7 +2560,7 @@
       "categoryOrder": 17,
       "patternOrder": 83,
       "meaning_en": "just finished doing, was just doing",
-      "meaning_ja": "",
+      "meaning_ja": "今〜したところ、ちょうど。",
       "form_rules": {
         "attaches_to": [
           "verb_ta_form"
@@ -1887,7 +2568,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: just finished doing, was just doing. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "今 帰った ところです。",
+          "form": "affirmative",
+          "translation_en": "I just got home.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1900,7 +2589,7 @@
       "categoryOrder": 1,
       "patternOrder": 84,
       "meaning_en": "wants to do ~ (third person)",
-      "meaning_ja": "",
+      "meaning_ja": "〜したがる（第三者）。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -1909,7 +2598,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: wants to do ~ (third person). See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "弟は 外に 行きたがっています。",
+          "form": "affirmative",
+          "translation_en": "My little brother wants to go outside.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1922,7 +2619,7 @@
       "categoryOrder": 8,
       "patternOrder": 85,
       "meaning_en": "if; after; when ~",
-      "meaning_ja": "",
+      "meaning_ja": "AしたらB、もしAなら。",
       "form_rules": {
         "attaches_to": [
           "verb_ta_form"
@@ -1930,7 +2627,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: if; after; when ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "駅に 着いたら、電話してください。",
+          "form": "affirmative",
+          "translation_en": "When you arrive at the station, please call.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1943,7 +2648,7 @@
       "categoryOrder": 9,
       "patternOrder": 86,
       "meaning_en": "why don't you; how about ~ (used to give advice)",
-      "meaning_ja": "",
+      "meaning_ja": "〜したらどうですか（提案）。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -1952,7 +2657,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: why don't you; how about ~ (used to give advice). See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "病院に 行ったら どうですか。",
+          "form": "affirmative",
+          "translation_en": "Why don't you go to the hospital?",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1965,7 +2678,7 @@
       "categoryOrder": 11,
       "patternOrder": 87,
       "meaning_en": "what should I do?; speaker seeking instructions",
-      "meaning_ja": "",
+      "meaning_ja": "何をすればいいですか。",
       "form_rules": {
         "attaches_to": [
           "verb_ta_form"
@@ -1973,7 +2686,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: what should I do?; speaker seeking instructions. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "何を したらいいですか。",
+          "form": "affirmative",
+          "translation_en": "What should I do?",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -1986,7 +2707,7 @@
       "categoryOrder": 16,
       "patternOrder": 88,
       "meaning_en": "conjunctive particle; so; because of",
-      "meaning_ja": "",
+      "meaning_ja": "〜して、〜（理由・つなぎ）。",
       "form_rules": {
         "attaches_to": [
           "verb_te_form"
@@ -1994,7 +2715,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: conjunctive particle; so; because of. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "さむくて、でかけられません。",
+          "form": "affirmative",
+          "translation_en": "It's cold, so I can't go out.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2007,7 +2736,7 @@
       "categoryOrder": 9,
       "patternOrder": 89,
       "meaning_en": "to do for; to do a favor",
-      "meaning_ja": "",
+      "meaning_ja": "〜してあげる（あげる）。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -2016,7 +2745,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to do for; to do a favor. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "母に 花を 買って あげました。",
+          "form": "affirmative",
+          "translation_en": "I bought flowers for my mother.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2029,7 +2766,7 @@
       "categoryOrder": 14,
       "patternOrder": 90,
       "meaning_en": "I want you to; need you to ~",
-      "meaning_ja": "",
+      "meaning_ja": "〜してほしい、お願いする。",
       "form_rules": {
         "attaches_to": [
           "verb_te_form"
@@ -2037,7 +2774,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: I want you to; need you to ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "いっしょに 来て ほしいです。",
+          "form": "affirmative",
+          "translation_en": "I want you to come with me.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2050,7 +2795,7 @@
       "categoryOrder": 2,
       "patternOrder": 91,
       "meaning_en": "to start; to continue; to go on",
-      "meaning_ja": "",
+      "meaning_ja": "これからずっと〜していく。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -2059,7 +2804,17 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to start; to continue; to go on. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "これから だんだん さむく なって いきます。",
+          "form": "affirmative",
+          "translation_en": "From now on it will gradually get cold.",
+          "vocab_ids": [
+            "n4.vocab.16-conjunctions.これから"
+          ],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2072,7 +2827,7 @@
       "categoryOrder": 1,
       "patternOrder": 92,
       "meaning_en": "was doing something (past continuous)",
-      "meaning_ja": "",
+      "meaning_ja": "〜していた（過去進行）。",
       "form_rules": {
         "attaches_to": [
           "verb_te_form"
@@ -2080,7 +2835,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: was doing something (past continuous). See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "三時まで テレビを 見て いました。",
+          "form": "affirmative",
+          "translation_en": "I was watching TV until three o'clock.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2093,7 +2856,7 @@
       "categoryOrder": 9,
       "patternOrder": 93,
       "meaning_en": "could you please ~",
-      "meaning_ja": "",
+      "meaning_ja": "〜していただけませんか。",
       "form_rules": {
         "attaches_to": [
           "verb_te_form"
@@ -2101,7 +2864,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: could you please ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "ちょっと 待って いただけませんか。",
+          "form": "affirmative",
+          "translation_en": "Could you please wait a moment?",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2114,7 +2885,7 @@
       "categoryOrder": 9,
       "patternOrder": 94,
       "meaning_en": "to do a favor; do something for someone",
-      "meaning_ja": "",
+      "meaning_ja": "相手が〜してくれる。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -2123,7 +2894,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to do a favor; do something for someone. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "友だちが 本を 貸して くれました。",
+          "form": "affirmative",
+          "translation_en": "A friend lent me a book.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2136,7 +2915,7 @@
       "categoryOrder": 2,
       "patternOrder": 95,
       "meaning_en": "to do and come back; to become; to continue; to start",
-      "meaning_ja": "",
+      "meaning_ja": "これまで〜してきた。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -2145,7 +2924,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to do and come back; to become; to continue; to start. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "だんだん 春に なって きました。",
+          "form": "affirmative",
+          "translation_en": "Spring has gradually come.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2158,7 +2945,7 @@
       "categoryOrder": 2,
       "patternOrder": 96,
       "meaning_en": "try doing",
-      "meaning_ja": "",
+      "meaning_ja": "〜してみる、ためす。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -2167,7 +2954,17 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: try doing. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "この ケーキを 食べて みました。",
+          "form": "affirmative",
+          "translation_en": "I tried this cake.",
+          "vocab_ids": [
+            "n4.vocab.4-work-and-society.ケーキ"
+          ],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2180,7 +2977,7 @@
       "categoryOrder": 9,
       "patternOrder": 97,
       "meaning_en": "to get somebody to do something",
-      "meaning_ja": "",
+      "meaning_ja": "〜してもらう。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -2189,7 +2986,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to get somebody to do something. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "友だちに 写真を とって もらいました。",
+          "form": "affirmative",
+          "translation_en": "I had a friend take a photo (for me).",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2202,7 +3007,7 @@
       "categoryOrder": 2,
       "patternOrder": 98,
       "meaning_en": "to do something in advance",
-      "meaning_ja": "",
+      "meaning_ja": "〜しておく、準備する。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -2211,7 +3016,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to do something in advance. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "でかける 前に、しゅくだいを して おきます。",
+          "form": "affirmative",
+          "translation_en": "Before going out, I'll do my homework in advance.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2224,7 +3037,7 @@
       "categoryOrder": 14,
       "patternOrder": 99,
       "meaning_en": "to do by accident, to finish completely",
-      "meaning_ja": "",
+      "meaning_ja": "〜してしまう（完了・後悔）。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -2233,7 +3046,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to do by accident, to finish completely. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "コーヒーを こぼして しまいました。",
+          "form": "affirmative",
+          "translation_en": "I (regrettably) spilled the coffee.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2246,7 +3067,7 @@
       "categoryOrder": 1,
       "patternOrder": 100,
       "meaning_en": "I'm sorry for",
-      "meaning_ja": "",
+      "meaning_ja": "〜してすみません（謝る）。",
       "form_rules": {
         "attaches_to": [
           "verb_te_form"
@@ -2254,7 +3075,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: I'm sorry for. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "おそく なって、すみません。",
+          "form": "affirmative",
+          "translation_en": "I'm sorry for being late.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2267,7 +3096,7 @@
       "categoryOrder": 9,
       "patternOrder": 101,
       "meaning_en": "to do for; to do a favor (casual)",
-      "meaning_ja": "",
+      "meaning_ja": "〜してやる（カジュアル）。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -2276,7 +3105,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to do for; to do a favor (casual). See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "弟に 本を 読んで やりました。",
+          "form": "affirmative",
+          "translation_en": "I read a book for my little brother.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2289,7 +3126,7 @@
       "categoryOrder": 1,
       "patternOrder": 102,
       "meaning_en": "I'm glad that ~",
-      "meaning_ja": "",
+      "meaning_ja": "〜してよかった。",
       "form_rules": {
         "attaches_to": [
           "verb_te_form"
@@ -2297,7 +3134,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: I'm glad that ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "雨が ふらなくて、よかったです。",
+          "form": "affirmative",
+          "translation_en": "I'm glad it didn't rain.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2310,7 +3155,7 @@
       "categoryOrder": 17,
       "patternOrder": 103,
       "meaning_en": "in the process of doing",
-      "meaning_ja": "",
+      "meaning_ja": "今〜しているところ。",
       "form_rules": {
         "attaches_to": [
           "verb_te_form"
@@ -2318,7 +3163,17 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: in the process of doing. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "今、本を 読んでいる ところです。",
+          "form": "affirmative",
+          "translation_en": "Right now I'm in the middle of reading a book.",
+          "vocab_ids": [
+            "n4.vocab.0-group1-exceptions.いる"
+          ],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2331,7 +3186,7 @@
       "categoryOrder": 14,
       "patternOrder": 104,
       "meaning_en": "even; even if; even though ~",
-      "meaning_ja": "",
+      "meaning_ja": "〜しても、関係ない。",
       "form_rules": {
         "attaches_to": [
           "verb_te_form"
@@ -2339,7 +3194,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: even; even if; even though ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "雨が ふっても、行きます。",
+          "form": "affirmative",
+          "translation_en": "Even if it rains, I'll go.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2352,7 +3215,7 @@
       "categoryOrder": 8,
       "patternOrder": 105,
       "meaning_en": "whenever [A] happens, [B] also happens",
-      "meaning_ja": "",
+      "meaning_ja": "Aすると必ずB。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -2362,7 +3225,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: whenever [A] happens, [B] also happens. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "春に なると、花が さきます。",
+          "form": "affirmative",
+          "translation_en": "When spring comes, flowers bloom.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2375,7 +3246,7 @@
       "categoryOrder": 10,
       "patternOrder": 106,
       "meaning_en": "you could say; one might say; I'd say ~",
-      "meaning_ja": "",
+      "meaning_ja": "AといってもいいくらいB。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -2385,7 +3256,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: you could say; one might say; I'd say ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "この 本は やさしいと 言ってもいいです。",
+          "form": "affirmative",
+          "translation_en": "You could say this book is easy.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2398,7 +3277,7 @@
       "categoryOrder": 15,
       "patternOrder": 107,
       "meaning_en": "called; named; that ~",
-      "meaning_ja": "",
+      "meaning_ja": "〜という名前の。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -2407,7 +3286,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: called; named; that ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "田中という 人を 知っていますか。",
+          "form": "affirmative",
+          "translation_en": "Do you know a person named Tanaka?",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2420,7 +3307,7 @@
       "categoryOrder": 15,
       "patternOrder": 108,
       "meaning_en": "convert phrase into noun",
-      "meaning_ja": "",
+      "meaning_ja": "〜ということ（名詞化）。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -2430,7 +3317,17 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: convert phrase into noun. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "行くということは、お金が いるということです。",
+          "form": "affirmative",
+          "translation_en": "Going means needing money.",
+          "vocab_ids": [
+            "n4.vocab.0-group1-exceptions.いる"
+          ],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2443,7 +3340,7 @@
       "categoryOrder": 15,
       "patternOrder": 109,
       "meaning_en": "it is said that ~",
-      "meaning_ja": "",
+      "meaning_ja": "〜と言われている（伝聞）。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -2453,7 +3350,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: it is said that ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "日本は あんぜんな 国だと 言われています。",
+          "form": "affirmative",
+          "translation_en": "Japan is said to be a safe country.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2466,7 +3371,7 @@
       "categoryOrder": 15,
       "patternOrder": 110,
       "meaning_en": "I heard...",
-      "meaning_ja": "",
+      "meaning_ja": "〜と聞いた。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -2476,7 +3381,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: I heard. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "田中さんが けっこんすると 聞きました。",
+          "form": "affirmative",
+          "translation_en": "I heard that Tanaka is getting married.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2489,7 +3402,7 @@
       "categoryOrder": 15,
       "patternOrder": 111,
       "meaning_en": "to think…; I think…; you think…",
-      "meaning_ja": "",
+      "meaning_ja": "〜と思う（意見）。",
       "form_rules": {
         "attaches_to": [
           "plain_clause"
@@ -2497,7 +3410,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to think…; I think…; you think…. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "明日は はれると 思います。",
+          "form": "affirmative",
+          "translation_en": "I think it will be sunny tomorrow.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2510,7 +3431,7 @@
       "categoryOrder": 14,
       "patternOrder": 112,
       "meaning_en": "among other things; such as; like ~",
-      "meaning_ja": "",
+      "meaning_ja": "〜とか〜とか（例）。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -2520,7 +3441,17 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: among other things; such as; like ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "コーヒーとか こうちゃとかを 飲みます。",
+          "form": "affirmative",
+          "translation_en": "I drink things like coffee and tea.",
+          "vocab_ids": [
+            "n4.vocab.15-adverbs.こう"
+          ],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2533,7 +3464,7 @@
       "categoryOrder": 17,
       "patternOrder": 113,
       "meaning_en": "just about to; on the verge of doing something",
-      "meaning_ja": "",
+      "meaning_ja": "ちょうど〜するところ。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -2543,7 +3474,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: just about to; on the verge of doing something. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "でかけようと した ところに、雨が ふってきました。",
+          "form": "affirmative",
+          "translation_en": "Just as I was about to go out, it started raining.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2556,7 +3495,7 @@
       "categoryOrder": 1,
       "patternOrder": 114,
       "meaning_en": "continue to; keen on ~",
-      "meaning_ja": "",
+      "meaning_ja": "ずっと〜つづける。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -2565,7 +3504,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: continue to; keen on ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "雨が 三日も つづけて ふりました。",
+          "form": "affirmative",
+          "translation_en": "The rain continued falling for three days.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2578,7 +3525,7 @@
       "categoryOrder": 15,
       "patternOrder": 115,
       "meaning_en": "named; called ~",
-      "meaning_ja": "",
+      "meaning_ja": "〜という（カジュアル）。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -2588,7 +3535,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: named; called ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "田中って 人を 知っていますか。",
+          "form": "affirmative",
+          "translation_en": "Do you know a person called Tanaka?",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2601,7 +3556,7 @@
       "categoryOrder": 13,
       "patternOrder": 116,
       "meaning_en": "[A] but [B]; however; comparison",
-      "meaning_ja": "",
+      "meaning_ja": "AはXだが、BはY（対比）。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -2611,7 +3566,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: [A] but [B]; however; comparison. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "兄は 学生だが、私は 会社員だ。",
+          "form": "affirmative",
+          "translation_en": "My older brother is a student, but I'm an office worker.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2624,7 +3587,7 @@
       "categoryOrder": 1,
       "patternOrder": 117,
       "meaning_en": "easy to; likely to; prone to; have a tendency to ~",
-      "meaning_ja": "",
+      "meaning_ja": "〜しやすい。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -2634,7 +3597,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: easy to; likely to; prone to; have a tendency to ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "この 本は 読みやすいです。",
+          "form": "affirmative",
+          "translation_en": "This book is easy to read.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2647,7 +3618,7 @@
       "categoryOrder": 1,
       "patternOrder": 118,
       "meaning_en": "at last; finally; barely; narrowly ~",
-      "meaning_ja": "",
+      "meaning_ja": "やっと、ついに。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -2657,7 +3628,17 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: at last; finally; barely; narrowly ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "やっと しゅくだいが 終わりました。",
+          "form": "affirmative",
+          "translation_en": "I finally finished my homework.",
+          "vocab_ids": [
+            "n4.vocab.4-work-and-society.終わり"
+          ],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2670,7 +3651,7 @@
       "categoryOrder": 13,
       "patternOrder": 119,
       "meaning_en": "than; rather than; more than ~",
-      "meaning_ja": "",
+      "meaning_ja": "AよりB（比較）。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -2680,7 +3661,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: than; rather than; more than ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "バスより 電車の 方が 早いです。",
+          "form": "affirmative",
+          "translation_en": "The train is faster than the bus.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2693,7 +3682,7 @@
       "categoryOrder": 12,
       "patternOrder": 120,
       "meaning_en": "plan to, intend to",
-      "meaning_ja": "",
+      "meaning_ja": "〜する予定だ。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -2703,7 +3692,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: plan to, intend to. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "来週、京とに 行く よていです。",
+          "form": "affirmative",
+          "translation_en": "Next week, I plan to go to Kyoto.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2716,7 +3713,7 @@
       "categoryOrder": 1,
       "patternOrder": 121,
       "meaning_en": "appears; seems; looks as if ~",
-      "meaning_ja": "",
+      "meaning_ja": "〜のようだ、〜らしい。",
       "form_rules": {
         "attaches_to": [
           "verb_volitional"
@@ -2724,7 +3721,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: appears; seems; looks as if ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "雨が ふりそうな ようです。",
+          "form": "affirmative",
+          "translation_en": "It looks like it's going to rain.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2737,7 +3742,7 @@
       "categoryOrder": 1,
       "patternOrder": 122,
       "meaning_en": "like; as; similar to ~",
-      "meaning_ja": "",
+      "meaning_ja": "〜のように、〜のような。",
       "form_rules": {
         "attaches_to": [
           "verb_volitional"
@@ -2745,7 +3750,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: like; as; similar to ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "鳥の ように 歌います。",
+          "form": "affirmative",
+          "translation_en": "(She) sings like a bird.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2758,7 +3771,7 @@
       "categoryOrder": 1,
       "patternOrder": 123,
       "meaning_en": "to reach the point that; to come to be that; to turn into ~",
-      "meaning_ja": "",
+      "meaning_ja": "〜するようになる（変化）。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -2767,7 +3780,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to reach the point that; to come to be that; to turn into ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "漢字が 読める ように なりました。",
+          "form": "affirmative",
+          "translation_en": "I've become able to read kanji.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2780,7 +3801,7 @@
       "categoryOrder": 1,
       "patternOrder": 124,
       "meaning_en": "to try to; to make sure that ~",
-      "meaning_ja": "",
+      "meaning_ja": "〜するようにする（努力）。",
       "form_rules": {
         "attaches_to": [
           "verb_dictionary",
@@ -2789,7 +3810,17 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to try to; to make sure that ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "早く 起きる ように します。",
+          "form": "affirmative",
+          "translation_en": "I'll try to get up early.",
+          "vocab_ids": [
+            "n4.vocab.0-group1-exceptions.きる"
+          ],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2802,7 +3833,7 @@
       "categoryOrder": 12,
       "patternOrder": 125,
       "meaning_en": "thinking of doing; planning to ~",
-      "meaning_ja": "",
+      "meaning_ja": "〜しようと思う（意向）。",
       "form_rules": {
         "attaches_to": [
           "plain_clause"
@@ -2810,7 +3841,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: thinking of doing; planning to ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "来年 りゅうがくしようと 思います。",
+          "form": "affirmative",
+          "translation_en": "I'm thinking of studying abroad next year.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2823,7 +3862,7 @@
       "categoryOrder": 18,
       "patternOrder": 126,
       "meaning_en": "by all means; certainly; definitely ~",
-      "meaning_ja": "",
+      "meaning_ja": "ぜひ〜してください。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -2833,7 +3872,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: by all means; certainly; definitely ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "ぜひ あそびに 来てください。",
+          "form": "affirmative",
+          "translation_en": "By all means, please come visit.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2846,7 +3893,7 @@
       "categoryOrder": 18,
       "patternOrder": 127,
       "meaning_en": "(not) at all",
-      "meaning_ja": "",
+      "meaning_ja": "全然〜ない。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -2856,7 +3903,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: (not) at all. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "この 漢字は ぜんぜん 分かりません。",
+          "form": "affirmative",
+          "translation_en": "I don't understand this kanji at all.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""
@@ -2869,7 +3924,7 @@
       "categoryOrder": 1,
       "patternOrder": 128,
       "meaning_en": "difficult to do ~",
-      "meaning_ja": "",
+      "meaning_ja": "〜しづらい。",
       "form_rules": {
         "attaches_to": [
           "verb",
@@ -2879,7 +3934,15 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: difficult to do ~. See native-teacher review for nuance and register notes.",
-      "examples": [],
+      "examples": [
+        {
+          "ja": "この くつは 歩きづらいです。",
+          "form": "affirmative",
+          "translation_en": "These shoes are hard to walk in.",
+          "vocab_ids": [],
+          "review_status": "llm_authored_curated"
+        }
+      ],
       "common_mistakes": [],
       "contrasts": [],
       "notes": ""

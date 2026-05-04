@@ -58,10 +58,10 @@
       "type": "mcq",
       "stem_html": "問: 「チェックする」とは どのような いみですか。",
       "choices": [
-        "building",
-        "baby",
+        "to rise",
+        "grapes",
         "to check",
-        "literature"
+        "peace of mind"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -74,10 +74,10 @@
       "type": "mcq",
       "stem_html": "問: 「力」とは どのような いみですか。",
       "choices": [
-        "to know (Group 1 exception - looks like Group 2)",
-        "baby",
+        "flavor",
+        "grapes",
         "energy",
-        "to part-time job"
+        "part-time job"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -90,9 +90,9 @@
       "type": "mcq",
       "stem_html": "問: 「地理」とは どのような いみですか。",
       "choices": [
-        "Asia",
-        "building",
-        "to check",
+        "alcohol",
+        "to rise",
+        "Ah",
         "geography"
       ],
       "correctIndex": 3,
@@ -107,9 +107,9 @@
       "stem_html": "問: 「注意する」とは どのような いみですか。",
       "choices": [
         "to caution",
-        "to part-time job",
-        "to check",
-        "to return home (Group 1 exception - looks like Group 2)"
+        "part-time job",
+        "Ah",
+        "announcer"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -122,10 +122,10 @@
       "type": "mcq",
       "stem_html": "問: 「大分」とは どのような いみですか。",
       "choices": [
-        "literature",
+        "peace of mind",
         "considerably",
-        "to rise",
-        "to cut (Group 1 exception - looks like Group 2"
+        "literature",
+        "to be surprised"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -138,9 +138,9 @@
       "type": "mcq",
       "stem_html": "問: 「大学生」とは どのような いみですか。",
       "choices": [
-        "to run (Group 1 exception - looks like Group 2)",
-        "America",
-        "Africa",
+        "to check",
+        "to gather",
+        "to return home (Group 1 exception - looks like Group 2)",
         "university student"
       ],
       "correctIndex": 3,
@@ -154,10 +154,10 @@
       "type": "mcq",
       "stem_html": "問: 「できるだけ」とは どのような いみですか。",
       "choices": [
-        "peace of mind",
+        "America",
         "as much as possible",
-        "to check",
-        "such"
+        "Ah",
+        "to need (Group 1 exception - looks like Group 2"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -170,9 +170,9 @@
       "type": "mcq",
       "stem_html": "問: 「どんどん」とは どのような いみですか。",
       "choices": [
-        "to return home (Group 1 exception - looks like Group 2)",
-        "peace of mind",
-        "to collect",
+        "announcer",
+        "America",
+        "to know (Group 1 exception - looks like Group 2)",
         "rapidly"
       ],
       "correctIndex": 3,
@@ -186,10 +186,10 @@
       "type": "mcq",
       "stem_html": "問: 「エスカレーター」とは どのような いみですか。",
       "choices": [
-        "Ah",
-        "part-time job",
+        "building",
+        "bell",
         "escalator",
-        "to run (Group 1 exception - looks like Group 2)"
+        "to check"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -202,10 +202,10 @@
       "type": "mcq",
       "stem_html": "問: 「ガラス」とは どのような いみですか。",
       "choices": [
-        "peace of mind",
-        "to be surprised",
+        "America",
+        "to cut (Group 1 exception - looks like Group 2",
         "a glass",
-        "accessory"
+        "baby"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -218,9 +218,9 @@
       "type": "mcq",
       "stem_html": "問: 「ガソリン」とは どのような いみですか。",
       "choices": [
-        "suffix for familiar female person",
-        "bell",
-        "to cut (Group 1 exception - looks like Group 2",
+        "ah",
+        "to collect",
+        "to be surprised",
         "gasoline"
       ],
       "correctIndex": 3,
@@ -234,10 +234,10 @@
       "type": "mcq",
       "stem_html": "問: 「ガソリンスタンド」とは どのような いみですか。",
       "choices": [
-        "bell",
+        "to collect",
         "petrol station",
-        "to return home (Group 1 exception - looks like Group 2)",
-        "to know (Group 1 exception - looks like Group 2)"
+        "announcer",
+        "flavor"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -250,9 +250,9 @@
       "type": "mcq",
       "stem_html": "問: 「ごちそうする」とは どのような いみですか。",
       "choices": [
-        "such",
-        "Asia",
-        "accessory",
+        "to need (Group 1 exception - looks like Group 2",
+        "alcohol",
+        "baby",
         "to a feast"
       ],
       "correctIndex": 3,
@@ -266,10 +266,10 @@
       "type": "mcq",
       "stem_html": "問: 「ごみ」とは どのような いみですか。",
       "choices": [
-        "America",
-        "to return home (Group 1 exception - looks like Group 2)",
+        "to gather",
+        "announcer",
         "rubbish",
-        "to cut (Group 1 exception - looks like Group 2"
+        "to be surprised"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -283,9 +283,9 @@
       "stem_html": "問: 「ご主人」とは どのような いみですか。",
       "choices": [
         "your husband",
-        "to enter (Group 1 exception - looks like Group 2)",
-        "accessory",
-        "building"
+        "to part-time job",
+        "baby",
+        "to rise"
       ],
       "correctIndex": 0,
       "rationale": "",

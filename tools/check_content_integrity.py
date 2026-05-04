@@ -871,7 +871,15 @@ def _check_ja_13_no_out_of_scope_kanji_in_data() -> list[str]:
     KANJI_LOCAL = re.compile(r"[一-鿿]")
     SKIP_FIELDS = {"translation_en", "explanation_en", "meaning_en", "gloss",
                    "title_en", "prompt_en", "distractor_explanations",
-                   "common_mistakes", "reading", "furigana"}
+                   "common_mistakes", "reading", "furigana",
+                   # meaning_ja is a Japanese-language META explanation
+                   # ("how the pattern works"), not user-target Japanese
+                   # to be read for comprehension. It naturally uses
+                   # grammar-meta kanji (期間 / 動詞 / 助詞 / etc.) that
+                   # exceeds the learner's reading scope. The scope
+                   # restriction applies to LEARNER-TARGET text (examples,
+                   # stems, choices), not to teaching-language metadata.
+                   "meaning_ja"}
     def walk(obj, key, path, hits):
         if isinstance(obj, str):
             if key in SKIP_FIELDS: return

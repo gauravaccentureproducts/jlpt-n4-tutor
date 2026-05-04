@@ -98,9 +98,9 @@
       "stem_html": "問: 「代わり」の いみは どれですか。",
       "choices": [
         "instead",
-        "peace of mind",
-        "to return home (Group 1 exception - looks like Group 2)",
-        "ah"
+        "to enter (Group 1 exception - looks like Group 2)",
+        "flavor",
+        "to return home (Group 1 exception - looks like Group 2)"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -113,10 +113,10 @@
       "type": "mcq",
       "stem_html": "問: 「通う」の いみは どれですか。",
       "choices": [
-        "ah",
+        "to return home (Group 1 exception - looks like Group 2)",
         "to commute",
-        "peace of mind",
-        "to know (Group 1 exception - looks like Group 2)"
+        "to enter (Group 1 exception - looks like Group 2)",
+        "part-time job"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -131,8 +131,8 @@
       "choices": [
         "cake",
         "accessory",
-        "to part-time job",
-        "to return home (Group 1 exception - looks like Group 2)"
+        "baby",
+        "flavor"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -146,9 +146,9 @@
       "stem_html": "問: 「計画」の いみは どれですか。",
       "choices": [
         "to plan",
-        "to rise",
-        "to enter (Group 1 exception - looks like Group 2)",
-        "ah"
+        "such",
+        "to part-time job",
+        "to return home (Group 1 exception - looks like Group 2)"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -162,9 +162,9 @@
       "stem_html": "問: 「計画する」の いみは どれですか。",
       "choices": [
         "to plan",
-        "to need (Group 1 exception - looks like Group 2",
+        "to know (Group 1 exception - looks like Group 2)",
         "Asia",
-        "baby"
+        "to rise"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -177,10 +177,10 @@
       "type": "mcq",
       "stem_html": "問: 「見物」の いみは どれですか。",
       "choices": [
-        "baby",
-        "part-time job",
+        "to rise",
+        "America",
         "sightseeing",
-        "to enter (Group 1 exception - looks like Group 2)"
+        "to part-time job"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -193,9 +193,9 @@
       "type": "mcq",
       "stem_html": "問: 「見物する」の いみは どれですか。",
       "choices": [
-        "Africa",
-        "to need (Group 1 exception - looks like Group 2",
-        "flavor",
+        "ah",
+        "to know (Group 1 exception - looks like Group 2)",
+        "Ah",
         "to sightseeing"
       ],
       "correctIndex": 3,
@@ -209,10 +209,10 @@
       "type": "mcq",
       "stem_html": "問: 「研究」の いみは どれですか。",
       "choices": [
-        "to know (Group 1 exception - looks like Group 2)",
+        "part-time job",
         "Asia",
         "research",
-        "flavor"
+        "Ah"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -226,9 +226,9 @@
       "stem_html": "問: 「研究する」の いみは どれですか。",
       "choices": [
         "to research",
-        "to return home (Group 1 exception - looks like Group 2)",
-        "to part-time job",
-        "to enter (Group 1 exception - looks like Group 2)"
+        "flavor",
+        "baby",
+        "to part-time job"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -241,9 +241,9 @@
       "type": "mcq",
       "stem_html": "問: 「研究室」の いみは どれですか。",
       "choices": [
-        "baby",
+        "to rise",
         "Asia",
-        "America",
+        "to run (Group 1 exception - looks like Group 2)",
         "laboratory"
       ],
       "correctIndex": 3,
@@ -258,9 +258,9 @@
       "stem_html": "問: 「気」の いみは どれですか。",
       "choices": [
         "spirit",
-        "to run (Group 1 exception - looks like Group 2)",
+        "peace of mind",
         "Asia",
-        "baby"
+        "to rise"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -273,10 +273,10 @@
       "type": "mcq",
       "stem_html": "問: 「気分」の いみは どれですか。",
       "choices": [
-        "baby",
-        "to need (Group 1 exception - looks like Group 2",
+        "to rise",
+        "to know (Group 1 exception - looks like Group 2)",
         "feeling",
-        "to rise"
+        "such"
       ],
       "correctIndex": 2,
       "rationale": "",

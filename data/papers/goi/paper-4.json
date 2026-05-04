@@ -11,10 +11,10 @@
       "type": "mcq",
       "stem_html": "「gasoline」を あらわす ことばは どれですか。",
       "choices": [
-        "アメリカ",
+        "ガソリンスタンド",
         "ガソリン",
-        "ごちそう",
-        "ぶどう"
+        "味",
+        "アジア"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -25,10 +25,10 @@
       "type": "mcq",
       "stem_html": "「petrol station」を あらわす ことばは どれですか。",
       "choices": [
-        "アルバイト",
+        "ビル",
         "ガソリンスタンド",
-        "大学生",
-        "チェック"
+        "アメリカ",
+        "大学生"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -39,10 +39,10 @@
       "type": "mcq",
       "stem_html": "「petrol」を あらわす ことばは どれですか。",
       "choices": [
-        "ファックス",
+        "アジア",
         "ガス",
         "ちゃん",
-        "ぶどう"
+        "地理"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -53,9 +53,9 @@
       "type": "mcq",
       "stem_html": "「a feast」を あらわす ことばは どれですか。",
       "choices": [
+        "アクセサリー",
+        "赤ちゃん",
         "大体",
-        "文学",
-        "中学校",
         "ごちそう"
       ],
       "correctIndex": 3,
@@ -67,10 +67,10 @@
       "type": "mcq",
       "stem_html": "「to a feast」を あらわす ことばは どれですか。",
       "choices": [
-        "発音する",
-        "アルバイトする",
+        "用意する",
+        "花見する",
         "ごちそうする",
-        "計画する"
+        "ファックスする"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -81,10 +81,10 @@
       "type": "mcq",
       "stem_html": "「rubbish」を あらわす ことばは どれですか。",
       "choices": [
-        "ぶどう",
+        "アジア",
         "ごみ",
-        "ガソリンスタンド",
-        "ファックス"
+        "赤ちゃん",
+        "アルコール"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -95,9 +95,9 @@
       "type": "mcq",
       "stem_html": "「your husband」を あらわす ことばは どれですか。",
       "choices": [
-        "アメリカ",
-        "アナウンサー",
-        "アジア",
+        "ガソリンスタンド",
+        "花見",
+        "ぶどう",
         "ご主人"
       ],
       "correctIndex": 3,
@@ -111,8 +111,8 @@
       "choices": [
         "なるほど",
         "はっきり",
-        "できるだけ",
-        "まず"
+        "それほど",
+        "たまに"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -123,10 +123,10 @@
       "type": "mcq",
       "stem_html": "「to carry」を あらわす ことばは どれですか。",
       "choices": [
-        "空く",
+        "いる",
         "運ぶ",
-        "お出でになる",
-        "入る"
+        "はしる",
+        "通る"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -137,9 +137,9 @@
       "type": "mcq",
       "stem_html": "「cherry blossom viewing」を あらわす ことばは どれですか。",
       "choices": [
-        "アルコール",
-        "アクセサリー",
-        "ベル",
+        "アフリカ",
+        "地理",
+        "ファックス",
         "花見"
       ],
       "correctIndex": 3,
@@ -151,10 +151,10 @@
       "type": "mcq",
       "stem_html": "「to cherry blossom viewing」を あらわす ことばは どれですか。",
       "choices": [
-        "計画する",
+        "ファックスする",
         "花見する",
-        "急行する",
-        "発音する"
+        "試験する",
+        "用意する"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -165,9 +165,9 @@
       "type": "mcq",
       "stem_html": "「handbag」を あらわす ことばは どれですか。",
       "choices": [
-        "ベル",
-        "赤ちゃん",
-        "アクセサリー",
+        "ファックス",
+        "ガラス",
+        "地理",
         "ハンドバッグ"
       ],
       "correctIndex": 3,
@@ -179,9 +179,9 @@
       "type": "mcq",
       "stem_html": "「pronunciation」を あらわす ことばは どれですか。",
       "choices": [
-        "ごちそう",
+        "味",
+        "ごみ",
         "エスカレーター",
-        "中学校",
         "発音"
       ],
       "correctIndex": 3,
@@ -193,9 +193,9 @@
       "type": "mcq",
       "stem_html": "「to pronunciation」を あらわす ことばは どれですか。",
       "choices": [
-        "チェックする",
-        "意見する",
-        "計画する",
+        "アルバイトする",
+        "見物する",
+        "ファックスする",
         "発音する"
       ],
       "correctIndex": 3,
@@ -209,8 +209,8 @@
       "choices": [
         "下さる",
         "入る",
-        "無くなる",
-        "きる"
+        "お出でになる",
+        "通う"
       ],
       "correctIndex": 1,
       "rationale": "",

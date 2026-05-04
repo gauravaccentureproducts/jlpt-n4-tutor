@@ -59,9 +59,9 @@
       "stem_html": "問: 「花見」とは どのような いみですか。",
       "choices": [
         "cherry blossom viewing",
-        "part-time job",
-        "America",
-        "to collect"
+        "bell",
+        "to gather",
+        "to know (Group 1 exception - looks like Group 2)"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -74,9 +74,9 @@
       "type": "mcq",
       "stem_html": "問: 「花見する」とは どのような いみですか。",
       "choices": [
-        "grapes",
-        "peace of mind",
-        "ah",
+        "suffix for familiar female person",
+        "America",
+        "such",
         "to cherry blossom viewing"
       ],
       "correctIndex": 3,
@@ -91,9 +91,9 @@
       "stem_html": "問: 「ハンドバッグ」とは どのような いみですか。",
       "choices": [
         "handbag",
-        "building",
-        "bell",
-        "ah"
+        "to rise",
+        "to collect",
+        "such"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -107,9 +107,9 @@
       "stem_html": "問: 「火」とは どのような いみですか。",
       "choices": [
         "fire",
-        "flavor",
-        "suffix for familiar female person",
-        "to cut (Group 1 exception - looks like Group 2"
+        "to enter (Group 1 exception - looks like Group 2)",
+        "ah",
+        "to be surprised"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -123,9 +123,9 @@
       "stem_html": "問: 「開く」とは どのような いみですか。",
       "choices": [
         "to open",
-        "America",
-        "to check",
-        "to enter (Group 1 exception - looks like Group 2)"
+        "to gather",
+        "Ah",
+        "to part-time job"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -138,10 +138,10 @@
       "type": "mcq",
       "stem_html": "問: 「昼間」とは どのような いみですか。",
       "choices": [
-        "to cut (Group 1 exception - looks like Group 2",
-        "alcohol",
+        "to be surprised",
+        "to run (Group 1 exception - looks like Group 2)",
         "daytime",
-        "to know (Group 1 exception - looks like Group 2)"
+        "flavor"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -154,9 +154,9 @@
       "type": "mcq",
       "stem_html": "問: 「一度」とは どのような いみですか。",
       "choices": [
-        "suffix for familiar female person",
-        "Ah",
-        "bell",
+        "ah",
+        "building",
+        "to collect",
         "once"
       ],
       "correctIndex": 3,
@@ -170,9 +170,9 @@
       "type": "mcq",
       "stem_html": "問: 「以外」とは どのような いみですか。",
       "choices": [
-        "part-time job",
-        "literature",
-        "to return home (Group 1 exception - looks like Group 2)",
+        "bell",
+        "peace of mind",
+        "announcer",
         "with the exception of"
       ],
       "correctIndex": 3,
@@ -186,10 +186,10 @@
       "type": "mcq",
       "stem_html": "問: 「医学」とは どのような いみですか。",
       "choices": [
-        "to cut (Group 1 exception - looks like Group 2",
+        "to be surprised",
         "medical science",
-        "to return home (Group 1 exception - looks like Group 2)",
-        "part-time job"
+        "announcer",
+        "bell"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -203,9 +203,9 @@
       "stem_html": "問: 「以下」とは どのような いみですか。",
       "choices": [
         "not exceeding",
-        "announcer",
-        "alcohol",
-        "to check"
+        "Asia",
+        "to run (Group 1 exception - looks like Group 2)",
+        "Ah"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -218,10 +218,10 @@
       "type": "mcq",
       "stem_html": "問: 「意見」とは どのような いみですか。",
       "choices": [
-        "ah",
-        "opinion",
         "such",
-        "suffix for familiar female person"
+        "opinion",
+        "to need (Group 1 exception - looks like Group 2",
+        "ah"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -234,10 +234,10 @@
       "type": "mcq",
       "stem_html": "問: 「意見する」とは どのような いみですか。",
       "choices": [
-        "to be surprised",
+        "to cut (Group 1 exception - looks like Group 2",
         "to opinion",
-        "to enter (Group 1 exception - looks like Group 2)",
-        "literature"
+        "to part-time job",
+        "peace of mind"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -250,10 +250,10 @@
       "type": "mcq",
       "stem_html": "問: 「いっぱい」とは どのような いみですか。",
       "choices": [
-        "to part-time job",
+        "part-time job",
         "full",
-        "America",
-        "to rise"
+        "to gather",
+        "literature"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -266,9 +266,9 @@
       "type": "mcq",
       "stem_html": "問: 「色んな」とは どのような いみですか。",
       "choices": [
-        "Africa",
-        "baby",
-        "to enter (Group 1 exception - looks like Group 2)",
+        "to return home (Group 1 exception - looks like Group 2)",
+        "grapes",
+        "to part-time job",
         "various"
       ],
       "correctIndex": 3,
@@ -283,9 +283,9 @@
       "stem_html": "問: 「急ぐ」とは どのような いみですか。",
       "choices": [
         "to hurry",
-        "America",
-        "ah",
-        "baby"
+        "to gather",
+        "such",
+        "grapes"
       ],
       "correctIndex": 0,
       "rationale": "",

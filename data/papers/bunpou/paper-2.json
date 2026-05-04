@@ -9,12 +9,12 @@
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "「to be」(n4-016) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "つぎの いみに あう ぶんぽうは どれですか:「to be」(n4-016)",
       "choices": [
         "ございます",
+        "から作る",
         "かな",
-        "始める（はじめる）",
-        "ば"
+        "ころ"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -25,10 +25,10 @@
       "type": "mcq",
       "stem_html": "「to start」(n4-017) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "ころ",
-        "はずがない",
+        "かどうか",
+        "ございます",
         "始める（はじめる）",
-        "かい"
+        "きっと"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -37,12 +37,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「it must be」(n4-018) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「it must be」(n4-018) の いみで つかう ことばは どれですか。",
       "choices": [
         "はずだ",
-        "間（あいだ）",
-        "がる / がっている",
-        "だけで"
+        "ではないか",
+        "出す（だす）",
+        "間に（あいだに）"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -51,12 +51,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「cannot be (impossible)」(n4-019) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「cannot be (impossible)」(n4-019) と いう いみの ぶんぽうを えらんでください。",
       "choices": [
         "はずがない",
-        "間（あいだ）",
-        "でございます",
-        "出す（だす）"
+        "ではないか",
+        "がる / がっている",
+        "ころ"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -65,12 +65,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「need to」(n4-020) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "つぎの いみに あう ぶんぽうは どれですか:「need to」(n4-020)",
       "choices": [
-        "始める（はじめる）",
+        "かい",
         "ひつようがある",
-        "ば",
-        "ではないか"
+        "でございます",
+        "じゃないか"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -82,9 +82,9 @@
       "stem_html": "「to be」(n4-021) を あらわす ぶんぽうは どれですか。",
       "choices": [
         "いらっしゃる",
-        "始める（はじめる）",
-        "ございます",
-        "いたします"
+        "じゃないか",
+        "かい",
+        "でございます"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -93,12 +93,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to do (polite form)」(n4-022) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to do (polite form)」(n4-022) の いみで つかう ことばは どれですか。",
       "choices": [
-        "あまり〜ない",
-        "始める（はじめる）",
+        "かもしれない",
+        "ころ",
         "いたします",
-        "はずがない"
+        "ございます"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -107,12 +107,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「right?」(n4-023) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「right?」(n4-023) と いう いみの ぶんぽうを えらんでください。",
       "choices": [
-        "から作る",
-        "かしら",
+        "がり",
+        "かもしれない",
         "じゃないか",
-        "いらっしゃる"
+        "かい"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -121,12 +121,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「whether or not」(n4-024) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "つぎの いみに あう ぶんぽうは どれですか:「whether or not」(n4-024)",
       "choices": [
         "かどうか",
-        "いらっしゃる",
+        "きっと",
         "いたします",
-        "後で（あとで）"
+        "始める（はじめる）"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -137,10 +137,10 @@
       "type": "mcq",
       "stem_html": "「I wonder (feminine)」(n4-025) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "いたします",
+        "がり",
         "かしら",
-        "はずだ",
-        "がり"
+        "じゃないか",
+        "がる / がっている"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -149,11 +149,11 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「turns sentence into yes/no question」(n4-026) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「turns sentence into yes/no question」(n4-026) の いみで つかう ことばは どれですか。",
       "choices": [
         "かな",
-        "ひつようがある",
-        "ころ",
+        "いたします",
+        "かどうか",
         "かい"
       ],
       "correctIndex": 3,
@@ -163,12 +163,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「might」(n4-027) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「might」(n4-027) と いう いみの ぶんぽうを えらんでください。",
       "choices": [
-        "いらっしゃる",
-        "はずだ",
+        "はずがない",
+        "がする",
         "かもしれない",
-        "後で（あとで）"
+        "から作る"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -177,12 +177,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「I wonder」(n4-028) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "つぎの いみに あう ぶんぽうは どれですか:「I wonder」(n4-028)",
       "choices": [
-        "ひつようがある",
+        "いたします",
         "かな",
-        "いらっしゃる",
-        "いたします"
+        "はずがない",
+        "じゃないか"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -193,10 +193,10 @@
       "type": "mcq",
       "stem_html": "「made from」(n4-029) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "あまり〜ない",
+        "がり",
         "から作る",
-        "がする",
-        "ば"
+        "ころ",
+        "でございます"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -205,12 +205,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「surely」(n4-030) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「surely」(n4-030) の いみで つかう ことばは どれですか。",
       "choices": [
-        "じゃないか",
+        "がする",
         "きっと",
-        "ばあいは",
-        "かい"
+        "あまり〜ない",
+        "かしら"
       ],
       "correctIndex": 1,
       "rationale": "",

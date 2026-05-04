@@ -248,16 +248,29 @@ def gen_goi_questions(n=100):
 def gen_bunpou_questions(n=100):
     """Fill-blank / arrange / cloze questions from grammar.
 
-    JA-7 prophylactic: dedup stems by including the pattern itself in the
-    stem so two different patterns with the same meaning_en don't produce
-    identical stems.
+    Uses 4 stem templates rotated by question index so the bank doesn't
+    look like 100 copies of the same prompt:
+
+    1. 「<meaning>」を あらわす ぶんぽうは どれですか。
+    2. 「<meaning>」の いみで つかう ことばは どれですか。
+    3. 「<meaning>」と いう いみの ぶんぽうを えらんでください。
+    4. つぎの いみに あう ぶんぽうは どれですか：「<meaning>」
+
+    JA-7 prophylactic: include pattern_id in stem to disambiguate same-meaning patterns.
     """
     questions = []
     qid = 0
     patterns_pool = [g['pattern'] for g in all_grammar if g.get('pattern')]
     seen_stems = set()
 
-    for g in all_grammar:
+    STEM_TEMPLATES = [
+        '「{meaning}」({pid}) を あらわす ぶんぽうは どれですか。',
+        '「{meaning}」({pid}) の いみで つかう ことばは どれですか。',
+        '「{meaning}」({pid}) と いう いみの ぶんぽうを えらんでください。',
+        'つぎの いみに あう ぶんぽうは どれですか:「{meaning}」({pid})',
+    ]
+
+    for idx, g in enumerate(all_grammar):
         if len(questions) >= n:
             break
         correct = g['pattern']
@@ -266,8 +279,8 @@ def gen_bunpou_questions(n=100):
             candidates = ['(pattern-1)', '(pattern-2)', '(pattern-3)']
         opts, ans = shuffle_with_correct(correct, candidates)
         meaning = g.get('meaning_en', 'this meaning').split(';')[0].strip()
-        # Include pattern_id in stem to disambiguate same-meaning patterns
-        stem = f'「{meaning}」({g["id"]}) を あらわす ぶんぽうは どれですか。'
+        tmpl = STEM_TEMPLATES[idx % len(STEM_TEMPLATES)]
+        stem = tmpl.format(meaning=meaning, pid=g['id'])
         if stem in seen_stems:
             continue
         seen_stems.add(stem)

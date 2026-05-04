@@ -13,8 +13,8 @@
       "choices": [
         "(option-4)",
         "such",
-        "that sort of",
-        "various"
+        "various",
+        "that sort of"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -25,9 +25,9 @@
       "type": "mcq",
       "stem_html": "「安心」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "enough",
+        "special",
+        "full",
         "kindness",
-        "impossible",
         "peace of mind"
       ],
       "correctIndex": 3,
@@ -39,10 +39,10 @@
       "type": "mcq",
       "stem_html": "「アルバイト」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "rubbish",
+        "announcer",
         "part-time job",
-        "fax",
-        "junior high school"
+        "literature",
+        "Africa"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -54,9 +54,9 @@
       "stem_html": "「アルバイトする」と おなじ いみの ことばを えらんでください。",
       "choices": [
         "to part-time job",
-        "to a feast",
-        "to pronunciation",
-        "to preparation"
+        "to research",
+        "to preparation",
+        "to hurrying"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -68,9 +68,9 @@
       "stem_html": "「アルコール」と おなじ いみの ことばを えらんでください。",
       "choices": [
         "alcohol",
-        "petrol station",
-        "accessory",
-        "grapes"
+        "university student",
+        "part-time job",
+        "fax"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -82,9 +82,9 @@
       "stem_html": "「集まる」と おなじ いみの ことばを えらんでください。",
       "choices": [
         "to gather",
-        "to open",
-        "to hurry",
-        "to enter (Group 1 exception - looks like Group 2)"
+        "to perform",
+        "to move",
+        "to run (Group 1 exception - looks like Group 2)"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -95,10 +95,10 @@
       "type": "mcq",
       "stem_html": "「集める」と おなじ いみの ことばを えらんでください。",
       "choices": [
+        "to be seen",
         "to build",
-        "to get off",
         "to collect",
-        "to separate"
+        "to be heard"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -110,9 +110,9 @@
       "stem_html": "「ベル」と おなじ いみの ことばを えらんでください。",
       "choices": [
         "bell",
-        "gasoline",
-        "baby",
-        "petrol"
+        "energy",
+        "literature",
+        "accessory"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -124,9 +124,9 @@
       "stem_html": "「びっくり」と おなじ いみの ことばを えらんでください。",
       "choices": [
         "to be surprised",
-        "occasionally",
-        "now I understand",
-        "firmly"
+        "to that extent",
+        "soon",
+        "occasionally"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -137,10 +137,10 @@
       "type": "mcq",
       "stem_html": "「ビル」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "energy",
-        "flavor",
+        "rubbish",
+        "alcohol",
         "building",
-        "bell"
+        "baby"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -151,9 +151,9 @@
       "type": "mcq",
       "stem_html": "「ぶどう」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "announcer",
-        "part-time job",
-        "baby",
+        "rubbish",
+        "America",
+        "Africa",
         "grapes"
       ],
       "correctIndex": 3,
@@ -165,10 +165,10 @@
       "type": "mcq",
       "stem_html": "「文学」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "energy",
-        "cherry blossom viewing",
+        "petrol station",
+        "suffix for familiar female person",
         "literature",
-        "petrol station"
+        "university student"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -179,10 +179,10 @@
       "type": "mcq",
       "stem_html": "「ちゃん」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "a feast",
+        "America",
         "suffix for familiar female person",
-        "petrol",
-        "gasoline"
+        "accessory",
+        "bell"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -194,8 +194,8 @@
       "stem_html": "「チェック」と おなじ いみの ことばを えらんでください。",
       "choices": [
         "university student",
-        "cherry blossom viewing",
-        "baby",
+        "suffix for familiar female person",
+        "petrol",
         "to check"
       ],
       "correctIndex": 3,
@@ -207,10 +207,10 @@
       "type": "mcq",
       "stem_html": "「チェックする」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "to examination",
+        "to sightseeing",
         "to check",
-        "to hospitalization",
-        "to entry to school or university"
+        "to cherry blossom viewing",
+        "to caution"
       ],
       "correctIndex": 1,
       "rationale": "",

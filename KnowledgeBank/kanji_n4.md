@@ -17,6 +17,7 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: おな(じ)
   - primary: ドウ  (kind: on)
   - meanings: same, agree, equal
+  - examples: 同じ(おなじ, same); 同時(どうじ, same time)
 
 - **事**  (tier: core_n4)
   - on: ジ
@@ -30,6 +31,7 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: みずか(ら)
   - primary: ジ  (kind: on)
   - meanings: oneself
+  - examples: 自分(じぶん, oneself); 自由(じゆう, freedom); 自動(じどう, automatic)
 
 - **発**  (tier: core_n4)
   - on: ハツ、ホツ
@@ -43,6 +45,7 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: もの
   - primary: シャ  (kind: on)
   - meanings: someone, person
+  - examples: 学者(がくしゃ, scholar); 医者(いしゃ, doctor); 者(もの, person)
 
 - **地**  (tier: core_n4)
   - on: チ、ジ
@@ -84,6 +87,7 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: と(う)
   - primary: モン  (kind: on)
   - meanings: question, ask, problem
+  - examples: 問題(もんだい, problem); 質問(しつもん, question)
 
 - **代**  (tier: core_n4)
   - on: ダイ
@@ -97,6 +101,7 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: あか(るい)
   - primary: メイ  (kind: on)
   - meanings: bright, light
+  - examples: 明日(あした, tomorrow); 明るい(あかるい, bright); 説明(せつめい, explanation)
 
 - **動**  (tier: core_n4)
   - on: ドウ
@@ -110,6 +115,7 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: みやこ
   - primary: キョウ  (kind: on)
   - meanings: capital
+  - examples: 東京(とうきょう, Tokyo); 京都(きょうと, Kyoto)
 
 - **通**  (tier: core_n4)
   - on: ツウ
@@ -144,6 +150,7 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: (none)
   - primary: ダイ  (kind: on)
   - meanings: topic, subject
+  - examples: 問題(もんだい, problem); 話題(わだい, topic)
 
 - **意**  (tier: core_n4)
   - on: イ
@@ -157,12 +164,14 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: (none)
   - primary: フ  (kind: on)
   - meanings: negative, non-, bad
+  - examples: 不便(ふべん, inconvenient); 不安(ふあん, anxiety)
 
 - **作**  (tier: core_n4)
   - on: サク、サ
   - kun: つく(る)
   - primary: サク  (kind: on)
   - meanings: make, production, prepare, build
+  - examples: 作る(つくる, to make); 作品(さくひん, work); 作文(さくぶん, composition)
 
 - **用**  (tier: core_n4)
   - on: ヨウ
@@ -183,12 +192,14 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: つよ(い)
   - primary: つよ(い)  (kind: kun)
   - meanings: strong
+  - examples: 強い(つよい, strong); 勉強(べんきょう, study)
 
 - **公**  (tier: core_n4)
   - on: コウ
   - kun: (none)
   - primary: コウ  (kind: on)
   - meanings: public, prince, official, governmental
+  - examples: 公園(こうえん, park); 公平(こうへい, fairness)
 
 - **持**  (tier: core_n4)
   - on: ジ
@@ -202,6 +213,7 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: の
   - primary: ヤ  (kind: on)
   - meanings: plains, field, rustic, civilian life
+  - examples: 野菜(やさい, vegetable); 野原(のはら, field)
 
 - **以**  (tier: core_n4)
   - on: イ
@@ -222,6 +234,7 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: いえ、や、うち
   - primary: カ  (kind: on)
   - meanings: house, home, family, professional, expert
+  - examples: 家(いえ, house); 家族(かぞく, family); 作家(さっか, writer)
 
 - **世**  (tier: core_n4)
   - on: セイ、セ
@@ -235,6 +248,7 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: おお(い)
   - primary: おお(い)  (kind: kun)
   - meanings: many, frequent, much
+  - examples: 多い(おおい, many); 多分(たぶん, probably)
 
 - **正**  (tier: core_n4)
   - on: セイ、ショウ
@@ -283,18 +297,21 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: もと
   - primary: ゲン  (kind: on)
   - meanings: beginning, former time, origin
+  - examples: 元気(げんき, energetic); 元(もと, origin)
 
 - **重**  (tier: core_n4)
   - on: ジュウ、チョウ
   - kun: おも(い)、かさ(ねる)
   - primary: おも(い)  (kind: kun)
   - meanings: heavy, important, esteem, respect
+  - examples: 重い(おもい, heavy); 重要(じゅうよう, important)
 
 - **近**  (tier: core_n4)
   - on: キン
   - kun: ちか(い)
   - primary: ちか(い)  (kind: kun)
   - meanings: near, early, akin, tantamount
+  - examples: 近い(ちかい, near); 近所(きんじょ, neighborhood); 最近(さいきん, recently)
 
 - **考**  (tier: core_n4)
   - on: コウ
@@ -315,6 +332,7 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: うみ
   - primary: カイ  (kind: on)
   - meanings: sea, ocean
+  - examples: 海(うみ, sea); 海岸(かいがん, coast)
 
 - **売**  (tier: core_n4)
   - on: バイ
@@ -356,6 +374,7 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: つか(う)
   - primary: シ  (kind: on)
   - meanings: use, order, messenger, ambassador
+  - examples: 使う(つかう, to use); 使用(しよう, use)
 
 - **品**  (tier: core_n4)
   - on: ヒン
@@ -376,6 +395,7 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: し(ぬ)
   - primary: シ  (kind: on)
   - meanings: death, die
+  - examples: 死ぬ(しぬ, to die); 死亡(しぼう, death)
 
 - **特**  (tier: core_n4)
   - on: トク
@@ -389,12 +409,14 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: はじ(める)
   - primary: シ  (kind: on)
   - meanings: commence, begin
+  - examples: 始める(はじめる, to begin); 始まる(はじまる, to start); 開始(かいし, start)
 
 - **朝**  (tier: core_n4)
   - on: チョウ
   - kun: あさ
   - primary: チョウ  (kind: on)
   - meanings: morning
+  - examples: 朝(あさ, morning); 朝食(ちょうしょく, breakfast)
 
 - **運**  (tier: core_n4)
   - on: ウン
@@ -422,12 +444,14 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: ひろ(い)
   - primary: ひろ(い)  (kind: kun)
   - meanings: wide, broad, spacious
+  - examples: 広い(ひろい, wide); 広場(ひろば, plaza)
 
 - **住**  (tier: core_n4)
   - on: ジュウ、チュウ
   - kun: す(む)
   - primary: ジュウ  (kind: on)
   - meanings: dwell, reside, live, inhabit
+  - examples: 住む(すむ, to live); 住所(じゅうしょ, address)
 
 - **無**  (tier: core_n4)
   - on: ム、ブ
@@ -448,18 +472,21 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: あ(る)
   - primary: ユウ  (kind: on)
   - meanings: possess, have, exist, happen
+  - examples: 有名(ゆうめい, famous); 有る(ある, to exist)
 
 - **少**  (tier: core_n4)
   - on: ショウ
   - kun: すく(ない)、すこ(し)
   - primary: ショウ  (kind: on)
   - meanings: few, little
+  - examples: 少し(すこし, a little); 少ない(すくない, few)
 
 - **町**  (tier: core_n4)
   - on: チョウ
   - kun: まち
   - primary: チョウ  (kind: on)
   - meanings: town, village, block, street
+  - examples: 町(まち, town); 町長(ちょうちょう, mayor)
 
 - **料**  (tier: core_n4)
   - on: リョウ
@@ -557,18 +584,21 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: や(む)
   - primary: ビョウ  (kind: on)
   - meanings: ill, sick
+  - examples: 病気(びょうき, illness); 病院(びょういん, hospital)
 
 - **質**  (tier: core_n4)
   - on: シツ、シチ
   - kun: たち、ただ(す)
   - primary: シツ  (kind: on)
   - meanings: substance, quality, matter, temperament
+  - examples: 質問(しつもん, question); 品質(ひんしつ, quality)
 
 - **待**  (tier: core_n4)
   - on: タイ
   - kun: ま(つ)
   - primary: タイ  (kind: on)
   - meanings: wait, depend on
+  - examples: 待つ(まつ, to wait); 期待(きたい, expectation)
 
 - **試**  (tier: core_n4)
   - on: シ
@@ -582,24 +612,28 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: (none)
   - primary: ゾク  (kind: on)
   - meanings: tribe, family
+  - examples: 家族(かぞく, family); 民族(みんぞく, ethnic group)
 
 - **銀**  (tier: core_n4)
   - on: ギン
   - kun: (none)
   - primary: ギン  (kind: on)
   - meanings: silver
+  - examples: 銀行(ぎんこう, bank); 銀(ぎん, silver)
 
 - **早**  (tier: core_n4)
   - on: ソウ、サ
   - kun: はや(い)
   - primary: はや(い)  (kind: kun)
   - meanings: early, fast
+  - examples: 早い(はやい, early); 早朝(そうちょう, early morning)
 
 - **映**  (tier: core_n4)
   - on: エイ
   - kun: うつ(る)、は(える)
   - primary: エイ  (kind: on)
   - meanings: reflect, reflection, projection
+  - examples: 映画(えいが, movie); 映る(うつる, to be reflected)
 
 - **親**  (tier: core_n4)
   - on: シン
@@ -620,6 +654,7 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: (none)
   - primary: エイ  (kind: on)
   - meanings: England, English, hero, outstanding
+  - examples: 英語(えいご, English); 英国(えいこく, UK)
 
 - **医**  (tier: core_n4)
   - on: イ
@@ -640,6 +675,7 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: さ(る)
   - primary: キョ  (kind: on)
   - meanings: gone, past, quit, leave, elapse, eliminate
+  - examples: 去年(きょねん, last year); 過去(かこ, past)
 
 - **味**  (tier: core_n4)
   - on: ミ
@@ -702,18 +738,21 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: うた、うた(う)
   - primary: カ  (kind: on)
   - meanings: song, sing
+  - examples: 歌(うた, song); 歌う(うたう, to sing); 歌手(かしゅ, singer)
 
 - **悪**  (tier: core_n4)
   - on: アク
   - kun: わる(い)
   - primary: わる(い)  (kind: kun)
   - meanings: bad, evil, wrong
+  - examples: 悪い(わるい, bad); 悪人(あくにん, bad person)
 
 - **図**  (tier: core_n4)
   - on: ズ、ト
   - kun: はか(る)
   - primary: ズ  (kind: on)
   - meanings: map, drawing, plan, extraordinary
+  - examples: 地図(ちず, map); 図書館(としょかん, library)
 
 - **室**  (tier: core_n4)
   - on: シツ
@@ -727,6 +766,7 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: ある(く)、あゆ(む)
   - primary: ホ  (kind: on)
   - meanings: walk, counter for steps
+  - examples: 歩く(あるく, to walk); 散歩(さんぽ, walk)
 
 - **風**  (tier: core_n4)
   - on: フウ、フ
@@ -740,18 +780,21 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: かみ
   - primary: シ  (kind: on)
   - meanings: paper
+  - examples: 紙(かみ, paper); 手紙(てがみ, letter)
 
 - **黒**  (tier: core_n4)
   - on: コク
   - kun: くろ
   - primary: コク  (kind: on)
   - meanings: black
+  - examples: 黒(くろ, black); 黒板(こくばん, blackboard)
 
 - **春**  (tier: core_n4)
   - on: シュン
   - kun: はる
   - primary: シュン  (kind: on)
   - meanings: spring
+  - examples: 春(はる, spring); 春休み(はるやすみ, spring break)
 
 - **赤**  (tier: core_n4)
   - on: セキ、シャク
@@ -765,6 +808,7 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: あお(い)
   - primary: あお(い)  (kind: kun)
   - meanings: blue
+  - examples: 青い(あおい, blue); 青年(せいねん, youth)
 
 - **館**  (tier: core_n4)
   - on: カン
@@ -792,24 +836,28 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: はし(る)
   - primary: ソウ  (kind: on)
   - meanings: run
+  - examples: 走る(はしる, to run)
 
 - **秋**  (tier: core_n4)
   - on: シュウ
   - kun: あき
   - primary: シュウ  (kind: on)
   - meanings: autumn, fall
+  - examples: 秋(あき, autumn); 秋分(しゅうぶん, autumn equinox)
 
 - **夏**  (tier: core_n4)
   - on: カ、ゲ
   - kun: なつ
   - primary: カ  (kind: on)
   - meanings: summer
+  - examples: 夏(なつ, summer); 夏休み(なつやすみ, summer vacation)
 
 - **習**  (tier: core_n4)
   - on: シュウ
   - kun: なら(う)
   - primary: シュウ  (kind: on)
   - meanings: learn
+  - examples: 習う(ならう, to learn); 練習(れんしゅう, practice); 習慣(しゅうかん, habit)
 
 - **洋**  (tier: core_n4)
   - on: ヨウ
@@ -830,36 +878,42 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: (none)
   - primary: フク  (kind: on)
   - meanings: clothing, admit, obey
+  - examples: 服(ふく, clothes); 洋服(ようふく, Western clothes)
 
 - **夕**  (tier: core_n4)
   - on: (none)
   - kun: ゆう
   - primary: ゆう  (kind: kun)
   - meanings: evening
+  - examples: 夕方(ゆうがた, evening); 夕食(ゆうしょく, dinner)
 
 - **借**  (tier: core_n4)
   - on: シャク
   - kun: か(りる)
   - primary: シャク  (kind: on)
   - meanings: borrow, rent
+  - examples: 借りる(かりる, to borrow); 借金(しゃっきん, debt)
 
 - **肉**  (tier: core_n4)
   - on: ニク
   - kun: (none)
   - primary: ニク  (kind: on)
   - meanings: meat
+  - examples: 肉(にく, meat); 牛肉(ぎゅうにく, beef)
 
 - **貸**  (tier: core_n4)
   - on: タイ
   - kun: か(す)、かし
   - primary: タイ  (kind: on)
   - meanings: lend
+  - examples: 貸す(かす, to lend)
 
 - **堂**  (tier: core_n4)
   - on: ドウ
   - kun: (none)
   - primary: ドウ  (kind: on)
   - meanings: public chamber, hall
+  - examples: 食堂(しょくどう, cafeteria); 講堂(こうどう, auditorium)
 
 - **鳥**  (tier: core_n4)
   - on: チョウ
@@ -873,18 +927,21 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: めし
   - primary: ハン  (kind: on)
   - meanings: meal, rice
+  - examples: ご飯(ごはん, rice/meal); 朝飯(あさめし, breakfast)
 
 - **勉**  (tier: core_n4)
   - on: ベン
   - kun: つと(める)
   - primary: ベン  (kind: on)
   - meanings: exertion, endeavor, effort
+  - examples: 勉強(べんきょう, study)
 
 - **冬**  (tier: core_n4)
   - on: トウ
   - kun: ふゆ
   - primary: トウ  (kind: on)
   - meanings: winter
+  - examples: 冬(ふゆ, winter); 冬休み(ふゆやすみ, winter break)
 
 - **昼**  (tier: core_n4)
   - on: チュウ
@@ -898,52 +955,61 @@ https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.
   - kun: (none)
   - primary: チャ  (kind: on)
   - meanings: tea
+  - examples: お茶(おちゃ, tea); 茶色(ちゃいろ, brown)
 
 - **弟**  (tier: core_n4)
   - on: テイ、ダイ、デ
   - kun: おとうと
   - primary: テイ  (kind: on)
   - meanings: younger brother
+  - examples: 弟(おとうと, younger brother)
 
 - **牛**  (tier: core_n4)
   - on: ギュウ
   - kun: うし
   - primary: ギュウ  (kind: on)
   - meanings: cow
+  - examples: 牛(うし, cow); 牛乳(ぎゅうにゅう, milk)
 
 - **魚**  (tier: core_n4)
   - on: ギョ
   - kun: うお、さかな
   - primary: ギョ  (kind: on)
   - meanings: fish
+  - examples: 魚(さかな, fish); 金魚(きんぎょ, goldfish)
 
 - **兄**  (tier: core_n4)
   - on: キョウ、ケイ
   - kun: あに
   - primary: キョウ  (kind: on)
   - meanings: elder brother
+  - examples: 兄(あに, older brother); 兄弟(きょうだい, siblings)
 
 - **犬**  (tier: core_n4)
   - on: ケン
   - kun: いぬ
   - primary: ケン  (kind: on)
   - meanings: dog
+  - examples: 犬(いぬ, dog)
 
 - **妹**  (tier: core_n4)
   - on: マイ
   - kun: いもうと
   - primary: マイ  (kind: on)
   - meanings: younger sister
+  - examples: 妹(いもうと, younger sister)
 
 - **姉**  (tier: core_n4)
   - on: シ
   - kun: あね
   - primary: シ  (kind: on)
   - meanings: elder sister
+  - examples: 姉(あね, older sister); 姉妹(しまい, sisters)
 
 - **漢**  (tier: core_n4)
   - on: カン
   - kun: (none)
   - primary: カン  (kind: on)
   - meanings: China
+  - examples: 漢字(かんじ, kanji); 漢方(かんぽう, Chinese medicine)
 

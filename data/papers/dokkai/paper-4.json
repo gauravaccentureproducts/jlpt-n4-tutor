@@ -58,9 +58,9 @@
       "type": "mcq",
       "stem_html": "問: 「時代」とは どのような いみですか。",
       "choices": [
-        "such",
-        "to know (Group 1 exception - looks like Group 2)",
-        "bell",
+        "to need (Group 1 exception - looks like Group 2",
+        "flavor",
+        "to collect",
         "period"
       ],
       "correctIndex": 3,
@@ -74,10 +74,10 @@
       "type": "mcq",
       "stem_html": "問: 「人口」とは どのような いみですか。",
       "choices": [
-        "announcer",
-        "to be surprised",
+        "Asia",
+        "to cut (Group 1 exception - looks like Group 2",
         "population",
-        "literature"
+        "peace of mind"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -90,10 +90,10 @@
       "type": "mcq",
       "stem_html": "問: 「人生」とは どのような いみですか。",
       "choices": [
-        "bell",
+        "to collect",
         "human life",
-        "alcohol",
-        "to need (Group 1 exception - looks like Group 2"
+        "to run (Group 1 exception - looks like Group 2)",
+        "Africa"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -107,9 +107,9 @@
       "stem_html": "問: 「帰り」とは どのような いみですか。",
       "choices": [
         "return",
-        "ah",
-        "Asia",
-        "to run (Group 1 exception - looks like Group 2)"
+        "such",
+        "alcohol",
+        "to check"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -123,9 +123,9 @@
       "stem_html": "問: 「会場」とは どのような いみですか。",
       "choices": [
         "assembly hall",
-        "suffix for familiar female person",
-        "baby",
-        "building"
+        "ah",
+        "grapes",
+        "to rise"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -138,10 +138,10 @@
       "type": "mcq",
       "stem_html": "問: 「会話」とは どのような いみですか。",
       "choices": [
-        "to enter (Group 1 exception - looks like Group 2)",
-        "to be surprised",
+        "to part-time job",
+        "to cut (Group 1 exception - looks like Group 2",
         "conversation",
-        "to collect"
+        "to know (Group 1 exception - looks like Group 2)"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -154,10 +154,10 @@
       "type": "mcq",
       "stem_html": "問: 「考える」とは どのような いみですか。",
       "choices": [
-        "to part-time job",
+        "part-time job",
         "to think",
-        "to run (Group 1 exception - looks like Group 2)",
-        "flavor"
+        "to check",
+        "to enter (Group 1 exception - looks like Group 2)"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -170,10 +170,10 @@
       "type": "mcq",
       "stem_html": "問: 「代わり」とは どのような いみですか。",
       "choices": [
-        "America",
+        "to gather",
         "instead",
-        "Africa",
-        "to need (Group 1 exception - looks like Group 2"
+        "to return home (Group 1 exception - looks like Group 2)",
+        "Africa"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -186,9 +186,9 @@
       "type": "mcq",
       "stem_html": "問: 「通う」とは どのような いみですか。",
       "choices": [
-        "America",
-        "part-time job",
-        "literature",
+        "to gather",
+        "bell",
+        "peace of mind",
         "to commute"
       ],
       "correctIndex": 3,
@@ -202,9 +202,9 @@
       "type": "mcq",
       "stem_html": "問: 「計画する」とは どのような いみですか。",
       "choices": [
-        "ah",
-        "to gather",
-        "bell",
+        "such",
+        "accessory",
+        "to collect",
         "to plan"
       ],
       "correctIndex": 3,
@@ -218,9 +218,9 @@
       "type": "mcq",
       "stem_html": "問: 「見物」とは どのような いみですか。",
       "choices": [
-        "America",
-        "announcer",
         "to gather",
+        "Asia",
+        "accessory",
         "sightseeing"
       ],
       "correctIndex": 3,
@@ -234,9 +234,9 @@
       "type": "mcq",
       "stem_html": "問: 「見物する」とは どのような いみですか。",
       "choices": [
-        "peace of mind",
-        "to need (Group 1 exception - looks like Group 2",
-        "to know (Group 1 exception - looks like Group 2)",
+        "America",
+        "Africa",
+        "flavor",
         "to sightseeing"
       ],
       "correctIndex": 3,
@@ -250,10 +250,10 @@
       "type": "mcq",
       "stem_html": "問: 「研究室」とは どのような いみですか。",
       "choices": [
-        "Africa",
-        "to check",
+        "to return home (Group 1 exception - looks like Group 2)",
+        "Ah",
         "laboratory",
-        "suffix for familiar female person"
+        "ah"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -266,10 +266,10 @@
       "type": "mcq",
       "stem_html": "問: 「気」とは どのような いみですか。",
       "choices": [
-        "bell",
-        "building",
+        "to collect",
+        "to rise",
         "spirit",
-        "to need (Group 1 exception - looks like Group 2"
+        "Africa"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -282,10 +282,10 @@
       "type": "mcq",
       "stem_html": "問: 「気分」とは どのような いみですか。",
       "choices": [
-        "flavor",
+        "to enter (Group 1 exception - looks like Group 2)",
         "feeling",
-        "part-time job",
-        "ah"
+        "bell",
+        "such"
       ],
       "correctIndex": 1,
       "rationale": "",

@@ -9,12 +9,12 @@
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "「don't ~ (order somebody to not do something)」(n4-046) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「don't ~ (order somebody to not do something)」(n4-046) の いみで つかう ことばは どれですか。",
       "choices": [
-        "かもしれない",
+        "間（あいだ）",
         "かな",
         "な",
-        "きっと"
+        "ば"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -23,11 +23,11 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「such as」(n4-047) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「such as」(n4-047) と いう いみの ぶんぽうを えらんでください。",
       "choices": [
-        "でも",
-        "を",
         "ばかり",
+        "で",
+        "でも",
         "など"
       ],
       "correctIndex": 3,
@@ -37,12 +37,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「while」(n4-048) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "つぎの いみに あう ぶんぽうは どれですか:「while」(n4-048)",
       "choices": [
-        "後で（あとで）",
+        "だけで",
         "ながら",
-        "始める（はじめる）",
-        "ばあいは"
+        "ひつようがある",
+        "あまり〜ない"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -53,10 +53,10 @@
       "type": "mcq",
       "stem_html": "「not easy to」(n4-049) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "がり",
+        "から作る",
         "なかなか〜ない",
-        "出す（だす）",
-        "きっと"
+        "かい",
+        "ば"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -65,12 +65,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「must do something」(n4-050) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「must do something」(n4-050) の いみで つかう ことばは どれですか。",
       "choices": [
-        "間（あいだ）",
+        "ではないか",
         "なければいけない",
-        "かしら",
-        "間に（あいだに）"
+        "かもしれない",
+        "いらっしゃる"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -79,12 +79,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「must do something」(n4-051) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「must do something」(n4-051) と いう いみの ぶんぽうを えらんでください。",
       "choices": [
-        "かもしれない",
-        "ば",
+        "から作る",
+        "始める（はじめる）",
         "なければならない",
-        "がり"
+        "でございます"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -93,12 +93,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「if」(n4-052) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "つぎの いみに あう ぶんぽうは どれですか:「if」(n4-052)",
       "choices": [
         "なら",
-        "いらっしゃる",
-        "間（あいだ）",
-        "間に（あいだに）"
+        "はずがない",
+        "ではないか",
+        "いらっしゃる"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -109,9 +109,9 @@
       "type": "mcq",
       "stem_html": "「do this (soft/firm command)」(n4-053) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "がり",
-        "かしら",
-        "いたします",
+        "かもしれない",
+        "じゃないか",
+        "間（あいだ）",
         "なさい"
       ],
       "correctIndex": 3,
@@ -121,11 +121,11 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to do (honorific)」(n4-054) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to do (honorific)」(n4-054) の いみで つかう ことばは どれですか。",
       "choices": [
-        "ひつようがある",
-        "かどうか",
-        "だけで",
+        "いたします",
+        "ばあいは",
+        "間に（あいだに）",
         "なさる"
       ],
       "correctIndex": 3,
@@ -135,12 +135,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to notice」(n4-055) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to notice」(n4-055) と いう いみの ぶんぽうを えらんでください。",
       "choices": [
         "に気がつく（にきがつく）",
         "はずだ",
-        "かどうか",
-        "かしら"
+        "ばあいは",
+        "かもしれない"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -149,12 +149,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to look」(n4-056) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "つぎの いみに あう ぶんぽうは どれですか:「to look」(n4-056)",
       "choices": [
-        "だけで",
-        "ひつようがある",
+        "間に（あいだに）",
+        "いたします",
         "に見える（にみえる）",
-        "間（あいだ）"
+        "ではないか"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -165,10 +165,10 @@
       "type": "mcq",
       "stem_html": "「to make something」(n4-057) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "きっと",
+        "ば",
         "にする",
-        "かな",
-        "はずだ"
+        "はずだ",
+        "間（あいだ）"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -177,12 +177,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「difficult to do」(n4-058) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「difficult to do」(n4-058) の いみで つかう ことばは どれですか。",
       "choices": [
         "にくい",
-        "ございます",
+        "出す（だす）",
         "はずだ",
-        "かい"
+        "きっと"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -191,12 +191,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「in」(n4-059) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「in」(n4-059) と いう いみの ぶんぽうを えらんでください。",
       "choices": [
-        "でございます",
+        "がる / がっている",
         "の中で（のなかで）",
-        "ございます",
-        "出す（だす）"
+        "出す（だす）",
+        "間（あいだ）"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -205,12 +205,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「although, in spite of, even though」(n4-060) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "つぎの いみに あう ぶんぽうは どれですか:「although, in spite of, even though」(n4-060)",
       "choices": [
-        "かもしれない",
-        "間に（あいだに）",
+        "いらっしゃる",
+        "かしら",
         "のに",
-        "ばあいは"
+        "あまり〜ない"
       ],
       "correctIndex": 2,
       "rationale": "",

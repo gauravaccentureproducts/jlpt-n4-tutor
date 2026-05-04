@@ -9,12 +9,12 @@
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "「to start」(n4-091) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to start」(n4-091) と いう いみの ぶんぽうを えらんでください。",
       "choices": [
         "ていく",
-        "かもしれない",
-        "間に（あいだに）",
-        "がり"
+        "から作る",
+        "いらっしゃる",
+        "はずだ"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -23,12 +23,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「was doing something (past continuous)」(n4-092) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "つぎの いみに あう ぶんぽうは どれですか:「was doing something (past continuous)」(n4-092)",
       "choices": [
         "ていた",
-        "いらっしゃる",
-        "ばあいは",
-        "間に（あいだに）"
+        "はずがない",
+        "あまり〜ない",
+        "いらっしゃる"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -39,10 +39,10 @@
       "type": "mcq",
       "stem_html": "「could you please ~」(n4-093) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "かしら",
+        "間（あいだ）",
         "ていただけませんか",
-        "がする",
-        "から作る"
+        "かもしれない",
+        "がり"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -51,12 +51,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to do a favor」(n4-094) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to do a favor」(n4-094) の いみで つかう ことばは どれですか。",
       "choices": [
         "てくれる",
-        "きっと",
-        "ございます",
-        "いたします"
+        "ば",
+        "出す（だす）",
+        "じゃないか"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -65,12 +65,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to do and come back」(n4-095) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to do and come back」(n4-095) と いう いみの ぶんぽうを えらんでください。",
       "choices": [
-        "きっと",
-        "でございます",
+        "ば",
+        "がる / がっている",
         "てくる",
-        "だけで"
+        "間に（あいだに）"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -79,12 +79,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「try doing」(n4-096) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "つぎの いみに あう ぶんぽうは どれですか:「try doing」(n4-096)",
       "choices": [
-        "はずがない",
-        "後で（あとで）",
+        "ございます",
+        "だけで",
         "てみる",
-        "がり"
+        "から作る"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -96,9 +96,9 @@
       "stem_html": "「to get somebody to do something」(n4-097) を あらわす ぶんぽうは どれですか。",
       "choices": [
         "てもらう",
-        "ございます",
-        "ひつようがある",
-        "はずがない"
+        "出す（だす）",
+        "いたします",
+        "間（あいだ）"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -107,12 +107,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to do something in advance」(n4-098) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to do something in advance」(n4-098) の いみで つかう ことばは どれですか。",
       "choices": [
-        "がる / がっている",
-        "じゃないか",
+        "始める（はじめる）",
+        "がする",
         "ておく",
-        "だけで"
+        "間に（あいだに）"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -121,11 +121,11 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「to do by accident, to finish completely」(n4-099) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to do by accident, to finish completely」(n4-099) と いう いみの ぶんぽうを えらんでください。",
       "choices": [
         "かな",
-        "ではないか",
-        "ばあいは",
+        "かしら",
+        "あまり〜ない",
         "てしまう / ちゃう"
       ],
       "correctIndex": 3,
@@ -135,11 +135,11 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「I'm sorry for」(n4-100) を あらわす ぶんぽうは どれですか。",
+      "stem_html": "つぎの いみに あう ぶんぽうは どれですか:「I'm sorry for」(n4-100)",
       "choices": [
-        "いたします",
-        "間（あいだ）",
+        "じゃないか",
         "ではないか",
+        "かしら",
         "てすみません"
       ],
       "correctIndex": 3,
