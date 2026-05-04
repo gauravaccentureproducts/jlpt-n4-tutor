@@ -1,0 +1,289 @@
+{
+  "id": "dokkai-7",
+  "category": "dokkai",
+  "paperNumber": 7,
+  "name": "Dokkai Paper 7",
+  "source_file": "KnowledgeBank/dokkai_questions_n4.md",
+  "source_question_range": "Q91-Q102",
+  "questionCount": 12,
+  "passages": [
+    {
+      "label": "Passage 20 (Q91)",
+      "text": "> いくつは とても how many, how oldです。",
+      "question_ids": [
+        "dokkai-7.1"
+      ]
+    },
+    {
+      "label": "Passage 21 (Q92)",
+      "text": "> 何時は とても what timeです。",
+      "question_ids": [
+        "dokkai-7.2"
+      ]
+    },
+    {
+      "label": "Passage 22 (Q93)",
+      "text": "> 何曜日は とても what day of the weekです。",
+      "question_ids": [
+        "dokkai-7.3"
+      ]
+    },
+    {
+      "label": "Passage 23 (Q94)",
+      "text": "> 何月は とても what monthです。",
+      "question_ids": [
+        "dokkai-7.4"
+      ]
+    },
+    {
+      "label": "Passage 24 (Q95)",
+      "text": "> 何日は とても what dayです。",
+      "question_ids": [
+        "dokkai-7.5"
+      ]
+    },
+    {
+      "label": "Passage 25 (Q96)",
+      "text": "> なぜは とても whyです。",
+      "question_ids": [
+        "dokkai-7.6"
+      ]
+    },
+    {
+      "label": "Passage 26 (Q97)",
+      "text": "> どうしては とても whyです。",
+      "question_ids": [
+        "dokkai-7.7"
+      ]
+    },
+    {
+      "label": "Passage 27 (Q98)",
+      "text": "> 何では とても why, by what meansです。",
+      "question_ids": [
+        "dokkai-7.8"
+      ]
+    },
+    {
+      "label": "Passage 28 (Q99)",
+      "text": "> 一は とても oneです。",
+      "question_ids": [
+        "dokkai-7.9"
+      ]
+    },
+    {
+      "label": "Passage 29 (Q100)",
+      "text": "> 二は とても twoです。",
+      "question_ids": [
+        "dokkai-7.10"
+      ]
+    },
+    {
+      "label": "Passage 30 (Q101)",
+      "text": "> 三は とても threeです。",
+      "question_ids": [
+        "dokkai-7.11"
+      ]
+    },
+    {
+      "label": "Passage 31 (Q102)",
+      "text": "> 四は とても fourです。",
+      "question_ids": [
+        "dokkai-7.12"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "問: 「いくつ」の いみは どれですか。",
+      "choices": [
+        "person",
+        "who",
+        "oneself",
+        "how many, how old"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q91",
+      "passage_text": "> いくつは とても how many, how oldです。",
+      "passage_label": "Passage 20 (Q91)",
+      "id": "dokkai-7.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「何時」の いみは どれですか。",
+      "choices": [
+        "what time",
+        "I, me",
+        "person (polite)",
+        "who (polite)"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q92",
+      "passage_text": "> 何時は とても what timeです。",
+      "passage_label": "Passage 21 (Q92)",
+      "id": "dokkai-7.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「何曜日」の いみは どれですか。",
+      "choices": [
+        "everyone (polite)",
+        "who (polite)",
+        "what day of the week",
+        "oneself"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q93",
+      "passage_text": "> 何曜日は とても what day of the weekです。",
+      "passage_label": "Passage 22 (Q93)",
+      "id": "dokkai-7.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「何月」の いみは どれですか。",
+      "choices": [
+        "person (polite)",
+        "what month",
+        "oneself",
+        "family"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q94",
+      "passage_text": "> 何月は とても what monthです。",
+      "passage_label": "Passage 23 (Q94)",
+      "id": "dokkai-7.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「何日」の いみは どれですか。",
+      "choices": [
+        "person",
+        "everyone (polite)",
+        "who (polite)",
+        "what day"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q95",
+      "passage_text": "> 何日は とても what dayです。",
+      "passage_label": "Passage 24 (Q95)",
+      "id": "dokkai-7.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「なぜ」の いみは どれですか。",
+      "choices": [
+        "why",
+        "person (polite)",
+        "family",
+        "father (someone else's / address form)"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q96",
+      "passage_text": "> なぜは とても whyです。",
+      "passage_label": "Passage 25 (Q96)",
+      "id": "dokkai-7.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「どうして」の いみは どれですか。",
+      "choices": [
+        "older brother (own)",
+        "oneself",
+        "why",
+        "father (own)"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q97",
+      "passage_text": "> どうしては とても whyです。",
+      "passage_label": "Passage 26 (Q97)",
+      "id": "dokkai-7.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「何で」の いみは どれですか。",
+      "choices": [
+        "father (own)",
+        "who",
+        "younger brother",
+        "why, by what means"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q98",
+      "passage_text": "> 何では とても why, by what meansです。",
+      "passage_label": "Passage 27 (Q98)",
+      "id": "dokkai-7.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「一」の いみは どれですか。",
+      "choices": [
+        "one",
+        "you",
+        "who (polite)",
+        "younger brother"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q99",
+      "passage_text": "> 一は とても oneです。",
+      "passage_label": "Passage 28 (Q99)",
+      "id": "dokkai-7.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「二」の いみは どれですか。",
+      "choices": [
+        "you",
+        "two",
+        "mother (own)",
+        "mother (someone else's / address form)"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q100",
+      "passage_text": "> 二は とても twoです。",
+      "passage_label": "Passage 29 (Q100)",
+      "id": "dokkai-7.10"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「三」の いみは どれですか。",
+      "choices": [
+        "father (someone else's / address form)",
+        "everyone (polite)",
+        "younger sister",
+        "three"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q101",
+      "passage_text": "> 三は とても threeです。",
+      "passage_label": "Passage 30 (Q101)",
+      "id": "dokkai-7.11"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「四」の いみは どれですか。",
+      "choices": [
+        "mother (own)",
+        "younger brother",
+        "four",
+        "he, him (boyfriend - more advanced sense)"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q102",
+      "passage_text": "> 四は とても fourです。",
+      "passage_label": "Passage 31 (Q102)",
+      "id": "dokkai-7.12"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "goi-6",
+  "category": "goi",
+  "paperNumber": 6,
+  "name": "Goi Paper 6",
+  "source_file": "KnowledgeBank/goi_questions_n4.md",
+  "source_question_range": "Q76-Q90",
+  "questionCount": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "「mother (someone else's / address form)」を あらわす ことばは どれですか。",
+      "choices": [
+        "お母さん",
+        "きょうだい",
+        "大人",
+        "りょうしん"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q76",
+      "id": "goi-6.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「older brother (own)」を あらわす ことばは どれですか。",
+      "choices": [
+        "大人",
+        "あに",
+        "いもうと",
+        "せいと"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q77",
+      "id": "goi-6.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「older sister (own)」を あらわす ことばは どれですか。",
+      "choices": [
+        "ともだち",
+        "子ども",
+        "おじいさん",
+        "あね"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q78",
+      "id": "goi-6.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「younger brother」を あらわす ことばは どれですか。",
+      "choices": [
+        "おとうと",
+        "子ども",
+        "ともだち",
+        "かた"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q79",
+      "id": "goi-6.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「younger sister」を あらわす ことばは どれですか。",
+      "choices": [
+        "いもうと",
+        "父",
+        "人",
+        "お母さん"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q80",
+      "id": "goi-6.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「こんな」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "that (over there)",
+        "various",
+        "this kind of",
+        "which (one)"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q81",
+      "id": "goi-6.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「そんな」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "that way (over there)",
+        "that kind of",
+        "that kind of (over there)",
+        "like that"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q82",
+      "id": "goi-6.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「あんな」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "that kind of (over there)",
+        "where",
+        "that way (over there)",
+        "which (one)"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q83",
+      "id": "goi-6.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「どんな」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "what kind of",
+        "how",
+        "that kind of",
+        "that way over there (casual)"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q84",
+      "id": "goi-6.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「こう」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "that way over there (casual)",
+        "this way (casual)",
+        "that kind of",
+        "like this"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q85",
+      "id": "goi-6.10"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「そう」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "that way (casual)",
+        "which (modifier)",
+        "like that",
+        "how"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q86",
+      "id": "goi-6.11"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「ああ」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "this way / this person (polite)",
+        "over there",
+        "like that (over there)",
+        "which (one)"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q87",
+      "id": "goi-6.12"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「どう」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "that over there (modifier)",
+        "like this",
+        "what kind of",
+        "how"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q88",
+      "id": "goi-6.13"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「何」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "what",
+        "how many, how old",
+        "what day",
+        "what day of the week"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q89",
+      "id": "goi-6.14"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「いつ」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "who",
+        "what day",
+        "when",
+        "what day of the week"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q90",
+      "id": "goi-6.15"
+    }
+  ]
+}

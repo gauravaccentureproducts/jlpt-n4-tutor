@@ -1,0 +1,221 @@
+{
+  "id": "moji-2",
+  "category": "moji",
+  "paperNumber": 2,
+  "name": "Moji Paper 2",
+  "source_file": "KnowledgeBank/moji_questions_n4.md",
+  "source_question_range": "Q16-Q30",
+  "questionCount": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "<u>分かる</u> の よみかたを えらんでください。",
+      "choices": [
+        "やすむ",
+        "くる",
+        "わかる",
+        "いちど"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q16",
+      "id": "moji-2.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>社会</u> の よみかたを えらんでください。",
+      "choices": [
+        "ちゅうごく",
+        "ふたり",
+        "ちいさい",
+        "しゃかい"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q17",
+      "id": "moji-2.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>スペイン人</u> の よみかたを えらんでください。",
+      "choices": [
+        "にゅういんする",
+        "おくじょう",
+        "じゅういちがつ",
+        "スペインじん"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q18",
+      "id": "moji-2.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>九</u> の よみかたを えらんでください。",
+      "choices": [
+        "きゅう / く",
+        "しょくりょうひん",
+        "はつおんする",
+        "にゅういんする"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q19",
+      "id": "moji-2.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>何</u> の よみかたを えらんでください。",
+      "choices": [
+        "なに / なん",
+        "かいしゃいん",
+        "けんきゅうしつ",
+        "しょくりょうひん"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q20",
+      "id": "moji-2.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>親</u> の よみかたを えらんでください。",
+      "choices": [
+        "ちち",
+        "にし",
+        "せん",
+        "おや"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q21",
+      "id": "moji-2.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>番</u> の よみかたを えらんでください。",
+      "choices": [
+        "よっか",
+        "ばん",
+        "うえ",
+        "きた"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q22",
+      "id": "moji-2.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>赤ちゃん</u> の よみかたを えらんでください。",
+      "choices": [
+        "しんせつ",
+        "しちがつ",
+        "ごしゅじん",
+        "あかちゃん"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q23",
+      "id": "moji-2.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>開く</u> の よみかたを えらんでください。",
+      "choices": [
+        "むいか",
+        "よう",
+        "みつかる",
+        "ひらく"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q24",
+      "id": "moji-2.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>集まる</u> の よみかたを えらんでください。",
+      "choices": [
+        "てんぷら",
+        "ながい",
+        "だいがく",
+        "あつまる"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q25",
+      "id": "moji-2.10"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>新しい</u> の よみかたを えらんでください。",
+      "choices": [
+        "がくせい",
+        "あたらしい",
+        "おかあさん",
+        "まいにち"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q26",
+      "id": "moji-2.11"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>発音</u> の よみかたを えらんでください。",
+      "choices": [
+        "はつおん",
+        "いじょう",
+        "いれる",
+        "はなす"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q27",
+      "id": "moji-2.12"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>生まれ</u> の よみかたを えらんでください。",
+      "choices": [
+        "にほんご",
+        "うまれ",
+        "はつか",
+        "さん"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q28",
+      "id": "moji-2.13"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>食料品</u> の よみかたを えらんでください。",
+      "choices": [
+        "じゅういちがつ",
+        "けんきゅうする",
+        "にゅういんする",
+        "しょくりょうひん"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q29",
+      "id": "moji-2.14"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>研究</u> の よみかたを えらんでください。",
+      "choices": [
+        "じゅういち",
+        "けんきゅう",
+        "あつめる",
+        "みつかる"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q30",
+      "id": "moji-2.15"
+    }
+  ]
+}

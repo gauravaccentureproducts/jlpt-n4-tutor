@@ -1,0 +1,151 @@
+{
+  "id": "bunpou-7",
+  "category": "bunpou",
+  "paperNumber": 7,
+  "name": "Bunpou Paper 7",
+  "source_file": "KnowledgeBank/bunpou_questions_n4.md",
+  "source_question_range": "Q91-Q100",
+  "questionCount": 10,
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "「～より～のほうが [adj] です - '~ is more [adj] than ~' (focuses on the bigger one)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "～より～のほうが～です",
+        "なに／なん",
+        "から～まで",
+        "〜です／〜ます"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q91",
+      "id": "bunpou-7.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「AとBと、どちらが ～ですか - 'which is more ~, A or B?' (2-way question)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "〜です／〜ます",
+        "～と～と、どちらが～ですか",
+        "いつ",
+        "この／その／あの／どの ＋ N (noun)"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q92",
+      "id": "bunpou-7.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Most ~ of all (covered by superlative pattern)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "nominalizer in basic use",
+        "よね",
+        "～の",
+        "～"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q93",
+      "id": "bunpou-7.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「～が すきです / きらいです - like / dislike」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "nominalizer in basic use",
+        "ここ／そこ／あそこ／どこ",
+        "だれ／どなた",
+        "～がすきです / きらいです"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q94",
+      "id": "bunpou-7.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「～が じょうずです / へたです - good at / bad at」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "なに／なん",
+        "いつ",
+        "nominalizer in basic use",
+        "～がじょうずです / へたです"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q95",
+      "id": "bunpou-7.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「～が ほしいです - want (an object)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "だれ／どなた",
+        "なに／なん",
+        "この／その／あの／どの ＋ N (noun)",
+        "～がほしいです"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q96",
+      "id": "bunpou-7.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「～が わかります - understand / know」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "この／その／あの／どの ＋ N (noun)",
+        "～の",
+        "～がわかります",
+        "nominalizer in basic use"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q97",
+      "id": "bunpou-7.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「～が できます - can do / be able to / have ability in」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "この／その／あの／どの ＋ N (noun)",
+        "nominalizer in basic use",
+        "～ができます",
+        "〜の"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q98",
+      "id": "bunpou-7.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Verb-stem + たいです - want to do」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "いつ",
+        "なに／なん",
+        "Verb-stem + たいです",
+        "ここ／そこ／あそこ／どこ"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q99",
+      "id": "bunpou-7.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Verb-stem + たくないです - don't want to」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "nominalizer in basic use",
+        "よね",
+        "これ／それ／あれ／どれ",
+        "Verb-stem + たくないです"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q100",
+      "id": "bunpou-7.10"
+    }
+  ]
+}

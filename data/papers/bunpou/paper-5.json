@@ -1,0 +1,221 @@
+{
+  "id": "bunpou-5",
+  "category": "bunpou",
+  "paperNumber": 5,
+  "name": "Bunpou Paper 5",
+  "source_file": "KnowledgeBank/bunpou_questions_n4.md",
+  "source_question_range": "Q61-Q75",
+  "questionCount": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "「Plain non-past negative」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "Verb-ない",
+        "ここ／そこ／あそこ／どこ",
+        "から～まで",
+        "なに／なん"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q61",
+      "id": "bunpou-5.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Plain past affirmative (た-form)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "これ／それ／あれ／どれ",
+        "possessive / noun-modifier",
+        "ここ／そこ／あそこ／どこ",
+        "Verb-た"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q62",
+      "id": "bunpou-5.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Plain past negative (-なかった)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "〜の",
+        "ここ／そこ／あそこ／どこ",
+        "よね",
+        "Verb-なかった"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q63",
+      "id": "bunpou-5.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Verb-て (te-form) - connector / sequence / request base」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "〜の",
+        "Verb-て",
+        "しか～ない",
+        "ここ／そこ／あそこ／どこ"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q64",
+      "id": "bunpou-5.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Verb-て、Verb-て、… - sequential / chained actions」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "しか～ない",
+        "いつ",
+        "だれ／どなた",
+        "Verb-て、Verb-て、…"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q65",
+      "id": "bunpou-5.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Verb-てください - please do (polite request / instruction)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "しか～ない",
+        "nominalizer in basic use",
+        "これ／それ／あれ／どれ",
+        "Verb-てください"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q66",
+      "id": "bunpou-5.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Verb-ています - progressive / current state / habitual」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "Verb-ています",
+        "この／その／あの／どの ＋ N (noun)",
+        "～の",
+        "これ／それ／あれ／どれ"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q67",
+      "id": "bunpou-5.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Verb-ていません - currently NOT doing / NOT in state」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "しか～ない",
+        "Verb-ていません",
+        "いつ",
+        "nominalizer in basic use"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q68",
+      "id": "bunpou-5.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Verb-てもいいです - may / it's OK to do (permission)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "Verb-てもいいです",
+        "この／その／あの／どの ＋ N (noun)",
+        "しか～ない",
+        "だれ／どなた"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q69",
+      "id": "bunpou-5.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Verb-てはいけません - must not / it's forbidden」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "ここ／そこ／あそこ／どこ",
+        "〜です／〜ます",
+        "Verb-てはいけません",
+        "しか～ない"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q70",
+      "id": "bunpou-5.10"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Verb-てから - 'after doing X'」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "しか～ない",
+        "possessive / noun-modifier",
+        "Verb-てから",
+        "ここ／そこ／あそこ／どこ"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q71",
+      "id": "bunpou-5.11"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Verb-ないでください - please don't do」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "これ／それ／あれ／どれ",
+        "Verb-ないでください",
+        "いつ",
+        "〜の"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q72",
+      "id": "bunpou-5.12"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「い-Adjective + Noun - adjective directly before noun」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "い-Adjective + Noun",
+        "〜の",
+        "いつ",
+        "nominalizer in basic use"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q73",
+      "id": "bunpou-5.13"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「い-Adjective + です - polite present affirmative」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "い-Adjective + です",
+        "〜の",
+        "これ／それ／あれ／どれ",
+        "～の"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q74",
+      "id": "bunpou-5.14"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「い-Adjective negative - present polite」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "〜です／〜ます",
+        "い-Adjective negative: ～くないです / ～くありません",
+        "だれ／どなた",
+        "なに／なん"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q75",
+      "id": "bunpou-5.15"
+    }
+  ]
+}

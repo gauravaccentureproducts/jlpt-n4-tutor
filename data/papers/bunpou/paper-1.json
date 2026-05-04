@@ -1,0 +1,221 @@
+{
+  "id": "bunpou-1",
+  "category": "bunpou",
+  "paperNumber": 1,
+  "name": "Bunpou Paper 1",
+  "source_file": "KnowledgeBank/bunpou_questions_n4.md",
+  "source_question_range": "Q1-Q15",
+  "questionCount": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "「Polite copula / polite verb ending」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "この／その／あの／どの ＋ N (noun)",
+        "〜です／〜ます",
+        "から～まで",
+        "よね"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q1",
+      "id": "bunpou-1.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Topic marker - introduces what the sentence is about (already-known information)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "に",
+        "で",
+        "から",
+        "は"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q2",
+      "id": "bunpou-1.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Subject marker - marks new information, focus, or the subject of certain stative verbs/adjectives」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "は",
+        "に",
+        "も",
+        "が"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q3",
+      "id": "bunpou-1.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Direct object marker - marks the noun receiving the action of a transitive verb」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "が",
+        "だけ",
+        "は",
+        "を"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q4",
+      "id": "bunpou-1.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Multi-purpose: location of existence / specific time / direction-destination / indirect object (recipient)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "が",
+        "に",
+        "と",
+        "や"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q5",
+      "id": "bunpou-1.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Direction marker - toward (used with movement verbs)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "へ",
+        "だけ",
+        "まで",
+        "を"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q6",
+      "id": "bunpou-1.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Location of action / means / instrument - where action takes place, by what means, with what tool」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "も",
+        "で",
+        "は",
+        "を"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q7",
+      "id": "bunpou-1.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「With (companion) / and (exhaustive listing) / quotation marker」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "を",
+        "と",
+        "まで",
+        "よ"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q8",
+      "id": "bunpou-1.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「From (starting point in time / place) / because (reason)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "や",
+        "に",
+        "が",
+        "から"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q9",
+      "id": "bunpou-1.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Until / up to (a point in time or place)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "は",
+        "か",
+        "まで",
+        "から"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q10",
+      "id": "bunpou-1.10"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「And - non-exhaustive listing (these and others)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "だけ",
+        "よ",
+        "や",
+        "に"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q11",
+      "id": "bunpou-1.11"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Also / too / even (with negation: 'not even / no one / nothing')」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "と",
+        "を",
+        "まで",
+        "も"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q12",
+      "id": "bunpou-1.12"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Pronouns: this / that-near-listener / that-far / which-one (standalone, no noun follows)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "これ／それ／あれ／どれ",
+        "から～まで",
+        "この／その／あの／どの ＋ N (noun)",
+        "ここ／そこ／あそこ／どこ"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q13",
+      "id": "bunpou-1.13"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Adjective form: this / that / which + Noun (always followed by a noun)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "ここ／そこ／あそこ／どこ",
+        "この／その／あの／どの ＋ N (noun)",
+        "ぐらい / くらい",
+        "possessive / noun-modifier"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q14",
+      "id": "bunpou-1.14"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Location words: here / there-near-listener / over-there / where」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "ここ／そこ／あそこ／どこ",
+        "いつ",
+        "なに／なん",
+        "だれ／どなた"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q15",
+      "id": "bunpou-1.15"
+    }
+  ]
+}

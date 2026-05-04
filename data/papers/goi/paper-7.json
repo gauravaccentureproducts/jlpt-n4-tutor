@@ -1,0 +1,151 @@
+{
+  "id": "goi-7",
+  "category": "goi",
+  "paperNumber": 7,
+  "name": "Goi Paper 7",
+  "source_file": "KnowledgeBank/goi_questions_n4.md",
+  "source_question_range": "Q91-Q100",
+  "questionCount": 10,
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "「いくら」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "how much (price)",
+        "what",
+        "what day",
+        "why, by what means"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q91",
+      "id": "goi-7.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「いくつ」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "what month",
+        "what",
+        "what day of the week",
+        "how many, how old"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q92",
+      "id": "goi-7.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「何時」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "what time",
+        "what month",
+        "who (polite)",
+        "why, by what means"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q93",
+      "id": "goi-7.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「何曜日」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "what month",
+        "why, by what means",
+        "what day of the week",
+        "when"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q94",
+      "id": "goi-7.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「何月」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "what month",
+        "why",
+        "what time",
+        "why, by what means"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q95",
+      "id": "goi-7.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「何日」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "what time",
+        "who",
+        "who (polite)",
+        "what day"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q96",
+      "id": "goi-7.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「なぜ」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "who",
+        "what",
+        "why",
+        "when"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q97",
+      "id": "goi-7.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「どうして」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "why",
+        "who (polite)",
+        "how many, how old",
+        "who"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q98",
+      "id": "goi-7.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「何で」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "why, by what means",
+        "who (polite)",
+        "how many, how old",
+        "what time"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q99",
+      "id": "goi-7.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「一」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "eight",
+        "six",
+        "one",
+        "twenty"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q100",
+      "id": "goi-7.10"
+    }
+  ]
+}

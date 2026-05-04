@@ -1,0 +1,221 @@
+{
+  "id": "goi-5",
+  "category": "goi",
+  "paperNumber": 5,
+  "name": "Goi Paper 5",
+  "source_file": "KnowledgeBank/goi_questions_n4.md",
+  "source_question_range": "Q61-Q75",
+  "questionCount": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "「I, me」を あらわす ことばは どれですか。",
+      "choices": [
+        "私",
+        "かれ",
+        "私たち",
+        "かのじょ"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q61",
+      "id": "goi-5.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「we」を あらわす ことばは どれですか。",
+      "choices": [
+        "私",
+        "私たち",
+        "あなた",
+        "かれ"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q62",
+      "id": "goi-5.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「you」を あらわす ことばは どれですか。",
+      "choices": [
+        "あなた",
+        "私",
+        "かのじょ",
+        "じぶん"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q63",
+      "id": "goi-5.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「he, him (boyfriend - more advanced sense)」を あらわす ことばは どれですか。",
+      "choices": [
+        "私",
+        "かれ",
+        "私たち",
+        "じぶん"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q64",
+      "id": "goi-5.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「she, her (girlfriend - more advanced sense)」を あらわす ことばは どれですか。",
+      "choices": [
+        "かのじょ",
+        "私たち",
+        "あなた",
+        "かれ"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q65",
+      "id": "goi-5.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「person (polite)」を あらわす ことばは どれですか。",
+      "choices": [
+        "あに",
+        "いもうと",
+        "かた",
+        "お母さん"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q66",
+      "id": "goi-5.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「person」を あらわす ことばは どれですか。",
+      "choices": [
+        "おばさん",
+        "人",
+        "かぞく",
+        "おばあさん"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q67",
+      "id": "goi-5.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「everyone (polite)」を あらわす ことばは どれですか。",
+      "choices": [
+        "母",
+        "みなさん",
+        "女の子",
+        "いもうと"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q68",
+      "id": "goi-5.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「who」を あらわす ことばは どれですか。",
+      "choices": [
+        "なぜ",
+        "だれ",
+        "何",
+        "いくつ"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q69",
+      "id": "goi-5.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「who (polite)」を あらわす ことばは どれですか。",
+      "choices": [
+        "何で",
+        "だれ",
+        "いくら",
+        "どなた"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q70",
+      "id": "goi-5.10"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「oneself」を あらわす ことばは どれですか。",
+      "choices": [
+        "かれ",
+        "かのじょ",
+        "じぶん",
+        "あなた"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q71",
+      "id": "goi-5.11"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「family」を あらわす ことばは どれですか。",
+      "choices": [
+        "父",
+        "せいと",
+        "かぞく",
+        "りょうしん"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q72",
+      "id": "goi-5.12"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「father (own)」を あらわす ことばは どれですか。",
+      "choices": [
+        "男の子",
+        "父",
+        "そぼ",
+        "そふ"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q73",
+      "id": "goi-5.13"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「mother (own)」を あらわす ことばは どれですか。",
+      "choices": [
+        "母",
+        "おばさん",
+        "女",
+        "お母さん"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q74",
+      "id": "goi-5.14"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「father (someone else's / address form)」を あらわす ことばは どれですか。",
+      "choices": [
+        "ともだち",
+        "お父さん",
+        "かぞく",
+        "男の子"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q75",
+      "id": "goi-5.15"
+    }
+  ]
+}

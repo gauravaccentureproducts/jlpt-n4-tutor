@@ -1,0 +1,221 @@
+{
+  "id": "bunpou-2",
+  "category": "bunpou",
+  "paperNumber": 2,
+  "name": "Bunpou Paper 2",
+  "source_file": "KnowledgeBank/bunpou_questions_n4.md",
+  "source_question_range": "Q16-Q30",
+  "questionCount": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "「What - pronounced なに or なん depending on what follows」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "〜です／〜ます",
+        "なに／なん",
+        "nominalizer in basic use",
+        "～の"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q16",
+      "id": "bunpou-2.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Who - だれ casual」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "nominalizer in basic use",
+        "だれ／どなた",
+        "ここ／そこ／あそこ／どこ",
+        "～の"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q17",
+      "id": "bunpou-2.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「When - pairs with から / まで / ごろ for richer time questions」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "ぐらい / くらい",
+        "〜です／〜ます",
+        "いつ",
+        "これ／それ／あれ／どれ"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q18",
+      "id": "bunpou-2.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「から ～ まで - from X to Y (paired range marker)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "から～まで",
+        "なに／なん",
+        "いつ",
+        "〜の"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q19",
+      "id": "bunpou-2.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Sentence-final question marker」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "で",
+        "が",
+        "だけ",
+        "か"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q20",
+      "id": "bunpou-2.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Or (between alternatives)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "か",
+        "で",
+        "から",
+        "だけ"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q21",
+      "id": "bunpou-2.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「ね - sentence-final confirmation / agreement particle」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "は",
+        "ね",
+        "だけ",
+        "へ"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q22",
+      "id": "bunpou-2.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「よ - sentence-final assertion / new-information particle」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "よ",
+        "で",
+        "に",
+        "を"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q23",
+      "id": "bunpou-2.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「よね - combined: assertion + seeking agreement (\"...right?\")」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "から～まで",
+        "なに／なん",
+        "よね",
+        "しか～ない"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q24",
+      "id": "bunpou-2.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「～の (possessive / noun-modifier)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "〜の",
+        "〜です／〜ます",
+        "～の",
+        "nominalizer in basic use"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q25",
+      "id": "bunpou-2.10"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Possessive / noun-modifier」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "possessive / noun-modifier",
+        "なに／なん",
+        "〜です／〜ます",
+        "よね"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q26",
+      "id": "bunpou-2.11"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「～の (nominalizer - turns a verb/adj clause into a noun)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "ぐらい / くらい",
+        "だれ／どなた",
+        "ここ／そこ／あそこ／どこ",
+        "nominalizer in basic use"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q27",
+      "id": "bunpou-2.12"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Sentence-final の as informal question marker (plain-form + の?)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "ぐらい / くらい",
+        "よね",
+        "〜の",
+        "しか～ない"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q28",
+      "id": "bunpou-2.13"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「だけ - only / just (limiting particle)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "も",
+        "まで",
+        "と",
+        "だけ"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q29",
+      "id": "bunpou-2.14"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「しか〜ない - only (with negative verb)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "～の",
+        "しか～ない",
+        "〜です／〜ます",
+        "よね"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q30",
+      "id": "bunpou-2.15"
+    }
+  ]
+}

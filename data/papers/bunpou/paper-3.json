@@ -1,0 +1,221 @@
+{
+  "id": "bunpou-3",
+  "category": "bunpou",
+  "paperNumber": 3,
+  "name": "Bunpou Paper 3",
+  "source_file": "KnowledgeBank/bunpou_questions_n4.md",
+  "source_question_range": "Q31-Q45",
+  "questionCount": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "「ぐらい / くらい - about, approximately (used with quantities)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "possessive / noun-modifier",
+        "ぐらい / くらい",
+        "nominalizer in basic use",
+        "～の"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q31",
+      "id": "bunpou-3.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「ごろ - around, approximately (used with time points)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "か",
+        "から",
+        "ごろ",
+        "へ"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q32",
+      "id": "bunpou-3.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「など - etc. (and so on)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "だけ",
+        "など",
+        "ね",
+        "と"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q33",
+      "id": "bunpou-3.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「ずつ - each / per (distributive amount)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "いつ",
+        "ずつ",
+        "から～まで",
+        "なに／なん"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q34",
+      "id": "bunpou-3.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Pronouns: this / that / which one」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "ここ／そこ／あそこ／どこ",
+        "しか～ない",
+        "よね",
+        "これ / それ / あれ / どれ"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q35",
+      "id": "bunpou-3.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Adjectival demonstratives + noun」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "なに／なん",
+        "この / その / あの / どの + Noun",
+        "この／その／あの／どの ＋ N (noun)",
+        "nominalizer in basic use"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q36",
+      "id": "bunpou-3.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Location words」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "なに／なん",
+        "ここ / そこ / あそこ / どこ",
+        "これ／それ／あれ／どれ",
+        "いつ"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q37",
+      "id": "bunpou-3.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「こちら / そちら / あちら / どちら - polite directions / options」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "だれ／どなた",
+        "～の",
+        "いつ",
+        "こちら / そちら / あちら / どちら"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q38",
+      "id": "bunpou-3.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「こんな / そんな / あんな / どんな + Noun - 'this/that kind of'」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "nominalizer in basic use",
+        "～の",
+        "なに／なん",
+        "こんな / そんな / あんな / どんな + Noun"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q39",
+      "id": "bunpou-3.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「こう / そう / ああ / どう - 'this way / that way / how'」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "〜の",
+        "いつ",
+        "こう / そう / ああ / どう",
+        "〜です／〜ます"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q40",
+      "id": "bunpou-3.10"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「What」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "だれ／どなた",
+        "nominalizer in basic use",
+        "possessive / noun-modifier",
+        "なん / なに"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q41",
+      "id": "bunpou-3.11"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Who」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "しか～ない",
+        "nominalizer in basic use",
+        "〜です／〜ます",
+        "だれ / どなた"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q42",
+      "id": "bunpou-3.12"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Where (covered by ここ-series)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "どこ",
+        "から～まで",
+        "これ／それ／あれ／どれ",
+        "nominalizer in basic use"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q43",
+      "id": "bunpou-3.13"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「どれ / どの / どちら - 'which' (selection from options)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "〜の",
+        "どれ / どの / どちら",
+        "ここ／そこ／あそこ／どこ",
+        "いつ"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q44",
+      "id": "bunpou-3.14"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「どう / いかが - 'how / how about' (state, opinion, polite offer)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "いつ",
+        "どう / いかが",
+        "だれ／どなた",
+        "ここ／そこ／あそこ／どこ"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q45",
+      "id": "bunpou-3.15"
+    }
+  ]
+}

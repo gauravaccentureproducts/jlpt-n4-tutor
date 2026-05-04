@@ -1,0 +1,221 @@
+{
+  "id": "moji-5",
+  "category": "moji",
+  "paperNumber": 5,
+  "name": "Moji Paper 5",
+  "source_file": "KnowledgeBank/moji_questions_n4.md",
+  "source_question_range": "Q61-Q75",
+  "questionCount": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "分",
+        "大事",
+        "読む",
+        "写す"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q61",
+      "id": "moji-5.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "空く",
+        "買う",
+        "八つ",
+        "分"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q62",
+      "id": "moji-5.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "動く",
+        "飲む",
+        "九日",
+        "工場"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q63",
+      "id": "moji-5.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "花",
+        "会社",
+        "女",
+        "言う"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q64",
+      "id": "moji-5.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "三日",
+        "昼間",
+        "電話する",
+        "私たち"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q65",
+      "id": "moji-5.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "色んな",
+        "三月",
+        "医学",
+        "電話"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q66",
+      "id": "moji-5.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "会社員",
+        "気持ち",
+        "分",
+        "九月"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q67",
+      "id": "moji-5.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "止める",
+        "急行する",
+        "知らせる",
+        "計画する"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q68",
+      "id": "moji-5.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "お店",
+        "川",
+        "会社",
+        "一日"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q69",
+      "id": "moji-5.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "六月",
+        "空気",
+        "大学生",
+        "天ぷら"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q70",
+      "id": "moji-5.10"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "今月",
+        "高校生",
+        "考える",
+        "四月"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q71",
+      "id": "moji-5.11"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "急",
+        "人口",
+        "今月",
+        "十分"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q72",
+      "id": "moji-5.12"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "発音する",
+        "二十日",
+        "中国語",
+        "私たち"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q73",
+      "id": "moji-5.13"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "六月",
+        "女",
+        "急ぐ",
+        "外国"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q74",
+      "id": "moji-5.14"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "行く",
+        "計画",
+        "力",
+        "五日"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q75",
+      "id": "moji-5.15"
+    }
+  ]
+}

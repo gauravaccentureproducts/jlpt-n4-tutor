@@ -22,10 +22,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Polite copula / polite verb ending」を あらわす ぶんぽうは どれですか。
 
-1. なに／なん
+1. この／その／あの／どの ＋ N (noun)
 2. 〜です／〜ます
-3. ～の
-4. ここ／そこ／あそこ／どこ
+3. から～まで
+4. よね
 
 **Answer: 2**
 
@@ -33,9 +33,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Topic marker - introduces what the sentence is about (already-known information)」を あらわす ぶんぽうは どれですか。
 
-1. も
-2. に
-3. を
+1. に
+2. で
+3. から
 4. は
 
 **Answer: 4**
@@ -44,9 +44,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Subject marker - marks new information, focus, or the subject of certain stative verbs/adjectives」を あらわす ぶんぽうは どれですか。
 
-1. で
-2. へ
-3. か
+1. は
+2. に
+3. も
 4. が
 
 **Answer: 4**
@@ -55,9 +55,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Direct object marker - marks the noun receiving the action of a transitive verb」を あらわす ぶんぽうは どれですか。
 
-1. や
-2. は
-3. が
+1. が
+2. だけ
+3. は
 4. を
 
 **Answer: 4**
@@ -66,10 +66,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Multi-purpose: location of existence / specific time / direction-destination / indirect object (recipient)」を あらわす ぶんぽうは どれですか。
 
-1. よ
+1. が
 2. に
-3. ね
-4. へ
+3. と
+4. や
 
 **Answer: 2**
 
@@ -78,9 +78,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「Direction marker - toward (used with movement verbs)」を あらわす ぶんぽうは どれですか。
 
 1. へ
-2. を
-3. か
-4. まで
+2. だけ
+3. まで
+4. を
 
 **Answer: 1**
 
@@ -88,10 +88,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Location of action / means / instrument - where action takes place, by what means, with what tool」を あらわす ぶんぽうは どれですか。
 
-1. が
+1. も
 2. で
-3. だけ
-4. と
+3. は
+4. を
 
 **Answer: 2**
 
@@ -99,9 +99,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「With (companion) / and (exhaustive listing) / quotation marker」を あらわす ぶんぽうは どれですか。
 
-1. に
+1. を
 2. と
-3. や
+3. まで
 4. よ
 
 **Answer: 2**
@@ -110,9 +110,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「From (starting point in time / place) / because (reason)」を あらわす ぶんぽうは どれですか。
 
-1. を
-2. で
-3. も
+1. や
+2. に
+3. が
 4. から
 
 **Answer: 4**
@@ -121,10 +121,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Until / up to (a point in time or place)」を あらわす ぶんぽうは どれですか。
 
-1. や
-2. で
+1. は
+2. か
 3. まで
-4. だけ
+4. から
 
 **Answer: 3**
 
@@ -132,10 +132,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「And - non-exhaustive listing (these and others)」を あらわす ぶんぽうは どれですか。
 
-1. まで
-2. も
+1. だけ
+2. よ
 3. や
-4. か
+4. に
 
 **Answer: 3**
 
@@ -143,9 +143,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Also / too / even (with negation: 'not even / no one / nothing')」を あらわす ぶんぽうは どれですか。
 
-1. を
-2. だけ
-3. に
+1. と
+2. を
+3. まで
 4. も
 
 **Answer: 4**
@@ -155,9 +155,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「Pronouns: this / that-near-listener / that-far / which-one (standalone, no noun follows)」を あらわす ぶんぽうは どれですか。
 
 1. これ／それ／あれ／どれ
-2. この／その／あの／どの ＋ N (noun)
-3. ～の
-4. 〜です／〜ます
+2. から～まで
+3. この／その／あの／どの ＋ N (noun)
+4. ここ／そこ／あそこ／どこ
 
 **Answer: 1**
 
@@ -165,10 +165,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Adjective form: this / that / which + Noun (always followed by a noun)」を あらわす ぶんぽうは どれですか。
 
-1. nominalizer in basic use
+1. ここ／そこ／あそこ／どこ
 2. この／その／あの／どの ＋ N (noun)
 3. ぐらい / くらい
-4. よね
+4. possessive / noun-modifier
 
 **Answer: 2**
 
@@ -177,9 +177,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「Location words: here / there-near-listener / over-there / where」を あらわす ぶんぽうは どれですか。
 
 1. ここ／そこ／あそこ／どこ
-2. から～まで
-3. いつ
-4. 〜です／〜ます
+2. いつ
+3. なに／なん
+4. だれ／どなた
 
 **Answer: 1**
 
@@ -189,8 +189,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 1. 〜です／〜ます
 2. なに／なん
-3. possessive / noun-modifier
-4. この／その／あの／どの ＋ N (noun)
+3. nominalizer in basic use
+4. ～の
 
 **Answer: 2**
 
@@ -198,10 +198,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Who - だれ casual」を あらわす ぶんぽうは どれですか。
 
-1. なに／なん
+1. nominalizer in basic use
 2. だれ／どなた
-3. nominalizer in basic use
-4. この／その／あの／どの ＋ N (noun)
+3. ここ／そこ／あそこ／どこ
+4. ～の
 
 **Answer: 2**
 
@@ -209,8 +209,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「When - pairs with から / まで / ごろ for richer time questions」を あらわす ぶんぽうは どれですか。
 
-1. なに／なん
-2. から～まで
+1. ぐらい / くらい
+2. 〜です／〜ます
 3. いつ
 4. これ／それ／あれ／どれ
 
@@ -221,9 +221,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「から ～ まで - from X to Y (paired range marker)」を あらわす ぶんぽうは どれですか。
 
 1. から～まで
-2. ～の
-3. 〜です／〜ます
-4. ぐらい / くらい
+2. なに／なん
+3. いつ
+4. 〜の
 
 **Answer: 1**
 
@@ -231,9 +231,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Sentence-final question marker」を あらわす ぶんぽうは どれですか。
 
-1. も
-2. は
-3. ね
+1. で
+2. が
+3. だけ
 4. か
 
 **Answer: 4**
@@ -244,8 +244,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 1. か
 2. で
-3. を
-4. に
+3. から
+4. だけ
 
 **Answer: 1**
 
@@ -253,10 +253,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「ね - sentence-final confirmation / agreement particle」を あらわす ぶんぽうは どれですか。
 
-1. か
+1. は
 2. ね
-3. を
-4. が
+3. だけ
+4. へ
 
 **Answer: 2**
 
@@ -265,9 +265,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「よ - sentence-final assertion / new-information particle」を あらわす ぶんぽうは どれですか。
 
 1. よ
-2. や
-3. が
-4. へ
+2. で
+3. に
+4. を
 
 **Answer: 1**
 
@@ -275,10 +275,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「よね - combined: assertion + seeking agreement ("...right?")」を あらわす ぶんぽうは どれですか。
 
-1. なに／なん
-2. いつ
+1. から～まで
+2. なに／なん
 3. よね
-4. から～まで
+4. しか～ない
 
 **Answer: 3**
 
@@ -286,10 +286,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「～の (possessive / noun-modifier)」を あらわす ぶんぽうは どれですか。
 
-1. よね
-2. だれ／どなた
+1. 〜の
+2. 〜です／〜ます
 3. ～の
-4. いつ
+4. nominalizer in basic use
 
 **Answer: 3**
 
@@ -299,8 +299,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 1. possessive / noun-modifier
 2. なに／なん
-3. いつ
-4. ～の
+3. 〜です／〜ます
+4. よね
 
 **Answer: 1**
 
@@ -308,9 +308,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「～の (nominalizer - turns a verb/adj clause into a noun)」を あらわす ぶんぽうは どれですか。
 
-1. よね
-2. なに／なん
-3. しか～ない
+1. ぐらい / くらい
+2. だれ／どなた
+3. ここ／そこ／あそこ／どこ
 4. nominalizer in basic use
 
 **Answer: 4**
@@ -319,10 +319,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Sentence-final の as informal question marker (plain-form + の?)」を あらわす ぶんぽうは どれですか。
 
-1. から～まで
-2. nominalizer in basic use
+1. ぐらい / くらい
+2. よね
 3. 〜の
-4. 〜です／〜ます
+4. しか～ない
 
 **Answer: 3**
 
@@ -330,9 +330,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「だけ - only / just (limiting particle)」を あらわす ぶんぽうは どれですか。
 
-1. か
-2. ね
-3. を
+1. も
+2. まで
+3. と
 4. だけ
 
 **Answer: 4**
@@ -341,10 +341,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「しか〜ない - only (with negative verb)」を あらわす ぶんぽうは どれですか。
 
-1. possessive / noun-modifier
+1. ～の
 2. しか～ない
 3. 〜です／〜ます
-4. この／その／あの／どの ＋ N (noun)
+4. よね
 
 **Answer: 2**
 
@@ -352,10 +352,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「ぐらい / くらい - about, approximately (used with quantities)」を あらわす ぶんぽうは どれですか。
 
-1. だれ／どなた
+1. possessive / noun-modifier
 2. ぐらい / くらい
-3. から～まで
-4. 〜です／〜ます
+3. nominalizer in basic use
+4. ～の
 
 **Answer: 2**
 
@@ -363,10 +363,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「ごろ - around, approximately (used with time points)」を あらわす ぶんぽうは どれですか。
 
-1. だけ
-2. を
+1. か
+2. から
 3. ごろ
-4. から
+4. へ
 
 **Answer: 3**
 
@@ -374,10 +374,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「など - etc. (and so on)」を あらわす ぶんぽうは どれですか。
 
-1. や
+1. だけ
 2. など
-3. も
-4. か
+3. ね
+4. と
 
 **Answer: 2**
 
@@ -387,8 +387,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 1. いつ
 2. ずつ
-3. nominalizer in basic use
-4. これ／それ／あれ／どれ
+3. から～まで
+4. なに／なん
 
 **Answer: 2**
 
@@ -396,9 +396,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Pronouns: this / that / which one」を あらわす ぶんぽうは どれですか。
 
-1. しか～ない
-2. から～まで
-3. nominalizer in basic use
+1. ここ／そこ／あそこ／どこ
+2. しか～ない
+3. よね
 4. これ / それ / あれ / どれ
 
 **Answer: 4**
@@ -407,10 +407,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Adjectival demonstratives + noun」を あらわす ぶんぽうは どれですか。
 
-1. しか～ない
+1. なに／なん
 2. この / その / あの / どの + Noun
-3. いつ
-4. だれ／どなた
+3. この／その／あの／どの ＋ N (noun)
+4. nominalizer in basic use
 
 **Answer: 2**
 
@@ -418,9 +418,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Location words」を あらわす ぶんぽうは どれですか。
 
-1. ～の
+1. なに／なん
 2. ここ / そこ / あそこ / どこ
-3. ここ／そこ／あそこ／どこ
+3. これ／それ／あれ／どれ
 4. いつ
 
 **Answer: 2**
@@ -429,9 +429,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「こちら / そちら / あちら / どちら - polite directions / options」を あらわす ぶんぽうは どれですか。
 
-1. nominalizer in basic use
-2. この／その／あの／どの ＋ N (noun)
-3. ～の
+1. だれ／どなた
+2. ～の
+3. いつ
 4. こちら / そちら / あちら / どちら
 
 **Answer: 4**
@@ -440,9 +440,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「こんな / そんな / あんな / どんな + Noun - 'this/that kind of'」を あらわす ぶんぽうは どれですか。
 
-1. だれ／どなた
-2. この／その／あの／どの ＋ N (noun)
-3. nominalizer in basic use
+1. nominalizer in basic use
+2. ～の
+3. なに／なん
 4. こんな / そんな / あんな / どんな + Noun
 
 **Answer: 4**
@@ -451,10 +451,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「こう / そう / ああ / どう - 'this way / that way / how'」を あらわす ぶんぽうは どれですか。
 
-1. possessive / noun-modifier
-2. これ／それ／あれ／どれ
+1. 〜の
+2. いつ
 3. こう / そう / ああ / どう
-4. 〜の
+4. 〜です／〜ます
 
 **Answer: 3**
 
@@ -462,9 +462,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「What」を あらわす ぶんぽうは どれですか。
 
-1. なに／なん
-2. だれ／どなた
-3. から～まで
+1. だれ／どなた
+2. nominalizer in basic use
+3. possessive / noun-modifier
 4. なん / なに
 
 **Answer: 4**
@@ -473,9 +473,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Who」を あらわす ぶんぽうは どれですか。
 
-1. 〜の
-2. この／その／あの／どの ＋ N (noun)
-3. だれ／どなた
+1. しか～ない
+2. nominalizer in basic use
+3. 〜です／〜ます
 4. だれ / どなた
 
 **Answer: 4**
@@ -485,9 +485,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「Where (covered by ここ-series)」を あらわす ぶんぽうは どれですか。
 
 1. どこ
-2. 〜です／〜ます
-3. いつ
-4. から～まで
+2. から～まで
+3. これ／それ／あれ／どれ
+4. nominalizer in basic use
 
 **Answer: 1**
 
@@ -495,10 +495,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「どれ / どの / どちら - 'which' (selection from options)」を あらわす ぶんぽうは どれですか。
 
-1. 〜です／〜ます
+1. 〜の
 2. どれ / どの / どちら
-3. これ／それ／あれ／どれ
-4. nominalizer in basic use
+3. ここ／そこ／あそこ／どこ
+4. いつ
 
 **Answer: 2**
 
@@ -506,10 +506,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「どう / いかが - 'how / how about' (state, opinion, polite offer)」を あらわす ぶんぽうは どれですか。
 
-1. ～の
+1. いつ
 2. どう / いかが
-3. いつ
-4. から～まで
+3. だれ／どなた
+4. ここ／そこ／あそこ／どこ
 
 **Answer: 2**
 
@@ -518,9 +518,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「どうして / なぜ - 'why'」を あらわす ぶんぽうは どれですか。
 
 1. どうして / なぜ
-2. これ／それ／あれ／どれ
-3. から～まで
-4. いつ
+2. よね
+3. nominalizer in basic use
+4. possessive / noun-modifier
 
 **Answer: 1**
 
@@ -528,10 +528,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「どうやって - 'how / by what means'」を あらわす ぶんぽうは どれですか。
 
-1. 〜の
-2. いつ
+1. しか～ない
+2. 〜です／〜ます
 3. どうやって
-4. possessive / noun-modifier
+4. ここ／そこ／あそこ／どこ
 
 **Answer: 3**
 
@@ -539,9 +539,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「いくら - 'how much' (price)」を あらわす ぶんぽうは どれですか。
 
-1. possessive / noun-modifier
-2. 〜です／〜ます
-3. この／その／あの／どの ＋ N (noun)
+1. 〜の
+2. よね
+3. ～の
 4. いくら
 
 **Answer: 4**
@@ -550,9 +550,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「いくつ - 'how many' (general counter / age)」を あらわす ぶんぽうは どれですか。
 
-1. から～まで
-2. nominalizer in basic use
-3. しか～ない
+1. possessive / noun-modifier
+2. 〜です／〜ます
+3. から～まで
 4. いくつ
 
 **Answer: 4**
@@ -561,10 +561,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「なんじ - 'what time'」を あらわす ぶんぽうは どれですか。
 
-1. いつ
+1. この／その／あの／どの ＋ N (noun)
 2. なんじ
-3. ～の
-4. 〜です／〜ます
+3. しか～ない
+4. 〜の
 
 **Answer: 2**
 
@@ -575,9 +575,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「なんようび - 'what day of the week'」を あらわす ぶんぽうは どれですか。
 
 1. なんようび
-2. possessive / noun-modifier
+2. この／その／あの／どの ＋ N (noun)
 3. ここ／そこ／あそこ／どこ
-4. しか～ない
+4. よね
 
 **Answer: 1**
 
@@ -586,9 +586,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「なんがつ / なんにち - 'what month / what day'」を あらわす ぶんぽうは どれですか。
 
 1. なんがつ なんにち
-2. この／その／あの／どの ＋ N (noun)
-3. 〜の
-4. これ／それ／あれ／どれ
+2. ～の
+3. 〜です／〜ます
+4. 〜の
 
 **Answer: 1**
 
@@ -597,9 +597,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「Polite non-past affirmative verb ending」を あらわす ぶんぽうは どれですか。
 
 1. Verb-ます
-2. 〜です／〜ます
-3. この／その／あの／どの ＋ N (noun)
-4. 〜の
+2. ～の
+3. ここ／そこ／あそこ／どこ
+4. 〜です／〜ます
 
 **Answer: 1**
 
@@ -608,9 +608,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「Polite non-past negative verb ending」を あらわす ぶんぽうは どれですか。
 
 1. Verb-ません
-2. だれ／どなた
-3. ここ／そこ／あそこ／どこ
-4. possessive / noun-modifier
+2. なに／なん
+3. nominalizer in basic use
+4. 〜の
 
 **Answer: 1**
 
@@ -618,10 +618,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Polite past affirmative verb ending」を あらわす ぶんぽうは どれですか。
 
-1. よね
+1. から～まで
 2. Verb-ました
-3. なに／なん
-4. nominalizer in basic use
+3. possessive / noun-modifier
+4. だれ／どなた
 
 **Answer: 2**
 
@@ -629,9 +629,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Polite past negative verb ending」を あらわす ぶんぽうは どれですか。
 
-1. ここ／そこ／あそこ／どこ
-2. 〜の
-3. nominalizer in basic use
+1. これ／それ／あれ／どれ
+2. 〜です／〜ます
+3. possessive / noun-modifier
 4. Verb-ませんでした
 
 **Answer: 4**
@@ -640,8 +640,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Let's / shall we (volitional / suggestion)」を あらわす ぶんぽうは どれですか。
 
-1. 〜の
-2. から～まで
+1. 〜です／〜ます
+2. しか～ない
 3. ～の
 4. Verb-ましょう
 
@@ -652,9 +652,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「Verb-ましょうか - 'shall I / shall we (offer/suggestion)?'」を あらわす ぶんぽうは どれですか。
 
 1. Verb-ましょうか
-2. よね
-3. 〜です／〜ます
-4. しか～ない
+2. しか～ない
+3. よね
+4. ここ／そこ／あそこ／どこ
 
 **Answer: 1**
 
@@ -662,10 +662,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Won't you...? (polite invitation)」を あらわす ぶんぽうは どれですか。
 
-1. nominalizer in basic use
-2. 〜の
+1. possessive / noun-modifier
+2. 〜です／〜ます
 3. Verb-ませんか
-4. から～まで
+4. 〜の
 
 **Answer: 3**
 
@@ -673,10 +673,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Plain (dictionary) form - non-past affirmative, casual / written」を あらわす ぶんぽうは どれですか。
 
-1. いつ
-2. だれ／どなた
+1. ここ／そこ／あそこ／どこ
+2. nominalizer in basic use
 3. Verb-る / Verb-う
-4. この／その／あの／どの ＋ N (noun)
+4. ～の
 
 **Answer: 3**
 
@@ -685,9 +685,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「Plain non-past negative」を あらわす ぶんぽうは どれですか。
 
 1. Verb-ない
-2. なに／なん
+2. ここ／そこ／あそこ／どこ
 3. から～まで
-4. nominalizer in basic use
+4. なに／なん
 
 **Answer: 1**
 
@@ -695,9 +695,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Plain past affirmative (た-form)」を あらわす ぶんぽうは どれですか。
 
-1. ここ／そこ／あそこ／どこ
-2. なに／なん
-3. nominalizer in basic use
+1. これ／それ／あれ／どれ
+2. possessive / noun-modifier
+3. ここ／そこ／あそこ／どこ
 4. Verb-た
 
 **Answer: 4**
@@ -706,9 +706,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Plain past negative (-なかった)」を あらわす ぶんぽうは どれですか。
 
-1. possessive / noun-modifier
-2. これ／それ／あれ／どれ
-3. しか～ない
+1. 〜の
+2. ここ／そこ／あそこ／どこ
+3. よね
 4. Verb-なかった
 
 **Answer: 4**
@@ -717,10 +717,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Verb-て (te-form) - connector / sequence / request base」を あらわす ぶんぽうは どれですか。
 
-1. 〜です／〜ます
+1. 〜の
 2. Verb-て
 3. しか～ない
-4. よね
+4. ここ／そこ／あそこ／どこ
 
 **Answer: 2**
 
@@ -728,9 +728,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Verb-て、Verb-て、… - sequential / chained actions」を あらわす ぶんぽうは どれですか。
 
-1. possessive / noun-modifier
-2. だれ／どなた
-3. いつ
+1. しか～ない
+2. いつ
+3. だれ／どなた
 4. Verb-て、Verb-て、…
 
 **Answer: 4**
@@ -739,9 +739,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Verb-てください - please do (polite request / instruction)」を あらわす ぶんぽうは どれですか。
 
-1. nominalizer in basic use
-2. だれ／どなた
-3. いつ
+1. しか～ない
+2. nominalizer in basic use
+3. これ／それ／あれ／どれ
 4. Verb-てください
 
 **Answer: 4**
@@ -751,9 +751,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「Verb-ています - progressive / current state / habitual」を あらわす ぶんぽうは どれですか。
 
 1. Verb-ています
-2. ここ／そこ／あそこ／どこ
-3. 〜です／〜ます
-4. ～の
+2. この／その／あの／どの ＋ N (noun)
+3. ～の
+4. これ／それ／あれ／どれ
 
 **Answer: 1**
 
@@ -761,10 +761,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Verb-ていません - currently NOT doing / NOT in state」を あらわす ぶんぽうは どれですか。
 
-1. から～まで
+1. しか～ない
 2. Verb-ていません
-3. 〜です／〜ます
-4. だれ／どなた
+3. いつ
+4. nominalizer in basic use
 
 **Answer: 2**
 
@@ -773,9 +773,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「Verb-てもいいです - may / it's OK to do (permission)」を あらわす ぶんぽうは どれですか。
 
 1. Verb-てもいいです
-2. ～の
-3. nominalizer in basic use
-4. なに／なん
+2. この／その／あの／どの ＋ N (noun)
+3. しか～ない
+4. だれ／どなた
 
 **Answer: 1**
 
@@ -783,10 +783,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Verb-てはいけません - must not / it's forbidden」を あらわす ぶんぽうは どれですか。
 
-1. しか～ない
-2. 〜の
+1. ここ／そこ／あそこ／どこ
+2. 〜です／〜ます
 3. Verb-てはいけません
-4. から～まで
+4. しか～ない
 
 **Answer: 3**
 
@@ -794,10 +794,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Verb-てから - 'after doing X'」を あらわす ぶんぽうは どれですか。
 
-1. よね
-2. これ／それ／あれ／どれ
+1. しか～ない
+2. possessive / noun-modifier
 3. Verb-てから
-4. なに／なん
+4. ここ／そこ／あそこ／どこ
 
 **Answer: 3**
 
@@ -805,10 +805,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Verb-ないでください - please don't do」を あらわす ぶんぽうは どれですか。
 
-1. いつ
+1. これ／それ／あれ／どれ
 2. Verb-ないでください
-3. これ／それ／あれ／どれ
-4. possessive / noun-modifier
+3. いつ
+4. 〜の
 
 **Answer: 2**
 
@@ -817,8 +817,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「い-Adjective + Noun - adjective directly before noun」を あらわす ぶんぽうは どれですか。
 
 1. い-Adjective + Noun
-2. possessive / noun-modifier
-3. しか～ない
+2. 〜の
+3. いつ
 4. nominalizer in basic use
 
 **Answer: 1**
@@ -828,9 +828,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「い-Adjective + です - polite present affirmative」を あらわす ぶんぽうは どれですか。
 
 1. い-Adjective + です
-2. possessive / noun-modifier
-3. ここ／そこ／あそこ／どこ
-4. この／その／あの／どの ＋ N (noun)
+2. 〜の
+3. これ／それ／あれ／どれ
+4. ～の
 
 **Answer: 1**
 
@@ -838,10 +838,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「い-Adjective negative - present polite」を あらわす ぶんぽうは どれですか。
 
-1. 〜の
+1. 〜です／〜ます
 2. い-Adjective negative: ～くないです / ～くありません
-3. nominalizer in basic use
-4. 〜です／〜ます
+3. だれ／どなた
+4. なに／なん
 
 **Answer: 2**
 
@@ -849,10 +849,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「い-Adjective past - was [adjective]」を あらわす ぶんぽうは どれですか。
 
-1. これ／それ／あれ／どれ
-2. なに／なん
+1. possessive / noun-modifier
+2. から～まで
 3. い-Adjective past: ～かったです
-4. いつ
+4. だれ／どなた
 
 **Answer: 3**
 
@@ -860,10 +860,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「い-Adjective past negative」を あらわす ぶんぽうは どれですか。
 
-1. nominalizer in basic use
+1. この／その／あの／どの ＋ N (noun)
 2. い-Adjective past negative: ～くなかったです / ～くありませんでした
-3. この／その／あの／どの ＋ N (noun)
-4. ～の
+3. ～の
+4. から～まで
 
 **Answer: 2**
 
@@ -871,10 +871,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「い-Adjective て-form (-くて) - connector」を あらわす ぶんぽうは どれですか。
 
-1. これ／それ／あれ／どれ
+1. いつ
 2. い-Adjective て-form: ～くて
-3. nominalizer in basic use
-4. なに／なん
+3. ここ／そこ／あそこ／どこ
+4. possessive / noun-modifier
 
 **Answer: 2**
 
@@ -882,9 +882,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「な-Adjective + な + Noun」を あらわす ぶんぽうは どれですか。
 
-1. これ／それ／あれ／どれ
-2. しか～ない
-3. いつ
+1. ここ／そこ／あそこ／どこ
+2. この／その／あの／どの ＋ N (noun)
+3. だれ／どなた
 4. な-Adjective + な + Noun
 
 **Answer: 4**
@@ -894,9 +894,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「な-Adjective + です - polite present affirmative」を あらわす ぶんぽうは どれですか。
 
 1. な-Adjective + です
-2. から～まで
-3. ここ／そこ／あそこ／どこ
-4. なに／なん
+2. これ／それ／あれ／どれ
+3. この／その／あの／どの ＋ N (noun)
+4. だれ／どなた
 
 **Answer: 1**
 
@@ -906,8 +906,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「な-Adjective negative - polite present」を あらわす ぶんぽうは どれですか。
 
-1. possessive / noun-modifier
-2. これ／それ／あれ／どれ
+1. これ／それ／あれ／どれ
+2. 〜の
 3. な-Adjective negative: ～じゃありません / ～ではありません
 4. しか～ない
 
@@ -918,9 +918,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「な-Adjective past - was [adjective] (uses でした)」を あらわす ぶんぽうは どれですか。
 
 1. な-Adjective past: ～でした
-2. しか～ない
-3. ここ／そこ／あそこ／どこ
-4. から～まで
+2. ～の
+3. いつ
+4. これ／それ／あれ／どれ
 
 **Answer: 1**
 
@@ -929,9 +929,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「な-Adjective past negative」を あらわす ぶんぽうは どれですか。
 
 1. な-Adjective past negative: ～じゃありませんでした
-2. しか～ない
-3. から～まで
-4. よね
+2. ここ／そこ／あそこ／どこ
+3. 〜です／〜ます
+4. から～まで
 
 **Answer: 1**
 
@@ -939,10 +939,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「な-Adjective て-form (~で) - connector」を あらわす ぶんぽうは どれですか。
 
-1. これ／それ／あれ／どれ
+1. よね
 2. な-Adjective て-form: ～で
-3. よね
-4. 〜の
+3. 〜です／〜ます
+4. だれ／どなた
 
 **Answer: 2**
 
@@ -950,10 +950,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「あります - there is / exists (inanimate things)」を あらわす ぶんぽうは どれですか。
 
-1. だれ／どなた
+1. 〜です／〜ます
 2. あります
-3. ここ／そこ／あそこ／どこ
-4. 〜の
+3. これ／それ／あれ／どれ
+4. ここ／そこ／あそこ／どこ
 
 **Answer: 2**
 
@@ -961,9 +961,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「います - there is / exists (animate things - people, animals)」を あらわす ぶんぽうは どれですか。
 
-1. nominalizer in basic use
-2. なに／なん
-3. から～まで
+1. だれ／どなた
+2. possessive / noun-modifier
+3. 〜の
 4. います
 
 **Answer: 4**
@@ -972,9 +972,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「～に～が あります／います - 'there is X at Y' (location-first existence)」を あらわす ぶんぽうは どれですか。
 
-1. よね
-2. 〜です／〜ます
-3. いつ
+1. なに／なん
+2. から～まで
+3. よね
 4. ～に～があります / います
 
 **Answer: 4**
@@ -983,9 +983,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「～は～にあります／います - 'X is at Y' (already-known X)」を あらわす ぶんぽうは どれですか。
 
-1. ～の
-2. よね
-3. nominalizer in basic use
+1. この／その／あの／どの ＋ N (noun)
+2. なに／なん
+3. しか～ない
 4. ～は～にあります / います
 
 **Answer: 4**
@@ -995,9 +995,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「～が あります - 'have / there is' (events, skills, possessions)」を あらわす ぶんぽうは どれですか。
 
 1. ～があります
-2. から～まで
-3. しか～ない
-4. possessive / noun-modifier
+2. この／その／あの／どの ＋ N (noun)
+3. 〜の
+4. から～まで
 
 **Answer: 1**
 
@@ -1007,8 +1007,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 1. いつ
 2. ～は～より～です
-3. ～の
-4. nominalizer in basic use
+3. この／その／あの／どの ＋ N (noun)
+4. だれ／どなた
 
 **Answer: 2**
 
@@ -1017,9 +1017,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「～より～のほうが [adj] です - '~ is more [adj] than ~' (focuses on the bigger one)」を あらわす ぶんぽうは どれですか。
 
 1. ～より～のほうが～です
-2. だれ／どなた
-3. 〜の
-4. これ／それ／あれ／どれ
+2. なに／なん
+3. から～まで
+4. 〜です／〜ます
 
 **Answer: 1**
 
@@ -1027,10 +1027,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「AとBと、どちらが ～ですか - 'which is more ~, A or B?' (2-way question)」を あらわす ぶんぽうは どれですか。
 
-1. しか～ない
+1. 〜です／〜ます
 2. ～と～と、どちらが～ですか
-3. なに／なん
-4. 〜の
+3. いつ
+4. この／その／あの／どの ＋ N (noun)
 
 **Answer: 2**
 
@@ -1038,9 +1038,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Most ~ of all (covered by superlative pattern)」を あらわす ぶんぽうは どれですか。
 
-1. だれ／どなた
-2. から～まで
-3. いつ
+1. nominalizer in basic use
+2. よね
+3. ～の
 4. ～
 
 **Answer: 4**
@@ -1049,9 +1049,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「～が すきです / きらいです - like / dislike」を あらわす ぶんぽうは どれですか。
 
-1. 〜の
-2. だれ／どなた
-3. possessive / noun-modifier
+1. nominalizer in basic use
+2. ここ／そこ／あそこ／どこ
+3. だれ／どなた
 4. ～がすきです / きらいです
 
 **Answer: 4**
@@ -1060,9 +1060,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「～が じょうずです / へたです - good at / bad at」を あらわす ぶんぽうは どれですか。
 
-1. ～の
+1. なに／なん
 2. いつ
-3. だれ／どなた
+3. nominalizer in basic use
 4. ～がじょうずです / へたです
 
 **Answer: 4**
@@ -1071,9 +1071,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「～が ほしいです - want (an object)」を あらわす ぶんぽうは どれですか。
 
-1. よね
-2. いつ
-3. から～まで
+1. だれ／どなた
+2. なに／なん
+3. この／その／あの／どの ＋ N (noun)
 4. ～がほしいです
 
 **Answer: 4**
@@ -1082,10 +1082,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「～が わかります - understand / know」を あらわす ぶんぽうは どれですか。
 
-1. だれ／どなた
-2. よね
+1. この／その／あの／どの ＋ N (noun)
+2. ～の
 3. ～がわかります
-4. 〜です／〜ます
+4. nominalizer in basic use
 
 **Answer: 3**
 
@@ -1093,10 +1093,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「～が できます - can do / be able to / have ability in」を あらわす ぶんぽうは どれですか。
 
-1. possessive / noun-modifier
-2. いつ
+1. この／その／あの／どの ＋ N (noun)
+2. nominalizer in basic use
 3. ～ができます
-4. だれ／どなた
+4. 〜の
 
 **Answer: 3**
 
@@ -1104,10 +1104,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Verb-stem + たいです - want to do」を あらわす ぶんぽうは どれですか。
 
-1. しか～ない
-2. だれ／どなた
+1. いつ
+2. なに／なん
 3. Verb-stem + たいです
-4. よね
+4. ここ／そこ／あそこ／どこ
 
 **Answer: 3**
 
@@ -1115,9 +1115,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「Verb-stem + たくないです - don't want to」を あらわす ぶんぽうは どれですか。
 
-1. しか～ない
-2. から～まで
-3. nominalizer in basic use
+1. nominalizer in basic use
+2. よね
+3. これ／それ／あれ／どれ
 4. Verb-stem + たくないです
 
 **Answer: 4**

@@ -1,0 +1,221 @@
+{
+  "id": "goi-2",
+  "category": "goi",
+  "paperNumber": 2,
+  "name": "Goi Paper 2",
+  "source_file": "KnowledgeBank/goi_questions_n4.md",
+  "source_question_range": "Q16-Q30",
+  "questionCount": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "「お母さん」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "grandfather (own)",
+        "mother (someone else's / address form)",
+        "older sister (polite)",
+        "grandfather, elderly man"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q16",
+      "id": "goi-2.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「あに」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "older brother (own)",
+        "parents",
+        "student",
+        "pupil, schoolchild"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q17",
+      "id": "goi-2.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「あね」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "friend",
+        "older sister (own)",
+        "family",
+        "boy"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q18",
+      "id": "goi-2.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「おとうと」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "younger brother",
+        "child (often written こども in everyday text)",
+        "younger sister",
+        "uncle, middle-aged man"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q19",
+      "id": "goi-2.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「いもうと」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "woman",
+        "friend",
+        "everyone (polite)",
+        "younger sister"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q20",
+      "id": "goi-2.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「おにいさん」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "older brother (polite)",
+        "father (someone else's / address form)",
+        "father (own)",
+        "older brother (own)"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q21",
+      "id": "goi-2.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「おねえさん」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "older brother (polite)",
+        "older sister (polite)",
+        "grandmother (own)",
+        "woman"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q22",
+      "id": "goi-2.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「きょうだい」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "aunt, middle-aged woman",
+        "older sister (polite)",
+        "siblings",
+        "older brother (polite)"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q23",
+      "id": "goi-2.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「りょうしん」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "grandmother, elderly woman",
+        "grandfather, elderly man",
+        "parents",
+        "person"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q24",
+      "id": "goi-2.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「そふ」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "mother (own)",
+        "younger brother",
+        "grandfather (own)",
+        "person (polite)"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q25",
+      "id": "goi-2.10"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「そぼ」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "grandmother (own)",
+        "everyone (polite)",
+        "grandfather (own)",
+        "person"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q26",
+      "id": "goi-2.11"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「おじいさん」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "grandmother (own)",
+        "student",
+        "grandfather, elderly man",
+        "man"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q27",
+      "id": "goi-2.12"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「おばあさん」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "father (own)",
+        "grandmother, elderly woman",
+        "family",
+        "older sister (polite)"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q28",
+      "id": "goi-2.13"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「おじさん」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "father (someone else's / address form)",
+        "adult",
+        "person",
+        "uncle, middle-aged man"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q29",
+      "id": "goi-2.14"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「おばさん」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "mother (own)",
+        "older brother (polite)",
+        "grandfather (own)",
+        "aunt, middle-aged woman"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q30",
+      "id": "goi-2.15"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "bunpou-6",
+  "category": "bunpou",
+  "paperNumber": 6,
+  "name": "Bunpou Paper 6",
+  "source_file": "KnowledgeBank/bunpou_questions_n4.md",
+  "source_question_range": "Q76-Q90",
+  "questionCount": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "「い-Adjective past - was [adjective]」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "possessive / noun-modifier",
+        "から～まで",
+        "い-Adjective past: ～かったです",
+        "だれ／どなた"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q76",
+      "id": "bunpou-6.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「い-Adjective past negative」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "この／その／あの／どの ＋ N (noun)",
+        "い-Adjective past negative: ～くなかったです / ～くありませんでした",
+        "～の",
+        "から～まで"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q77",
+      "id": "bunpou-6.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「い-Adjective て-form (-くて) - connector」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "いつ",
+        "い-Adjective て-form: ～くて",
+        "ここ／そこ／あそこ／どこ",
+        "possessive / noun-modifier"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q78",
+      "id": "bunpou-6.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「な-Adjective + な + Noun」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "ここ／そこ／あそこ／どこ",
+        "この／その／あの／どの ＋ N (noun)",
+        "だれ／どなた",
+        "な-Adjective + な + Noun"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q79",
+      "id": "bunpou-6.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「な-Adjective + です - polite present affirmative」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "な-Adjective + です",
+        "これ／それ／あれ／どれ",
+        "この／その／あの／どの ＋ N (noun)",
+        "だれ／どなた"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q80",
+      "id": "bunpou-6.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「な-Adjective negative - polite present」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "これ／それ／あれ／どれ",
+        "〜の",
+        "な-Adjective negative: ～じゃありません / ～ではありません",
+        "しか～ない"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q81",
+      "id": "bunpou-6.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「な-Adjective past - was [adjective] (uses でした)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "な-Adjective past: ～でした",
+        "～の",
+        "いつ",
+        "これ／それ／あれ／どれ"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q82",
+      "id": "bunpou-6.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「な-Adjective past negative」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "な-Adjective past negative: ～じゃありませんでした",
+        "ここ／そこ／あそこ／どこ",
+        "〜です／〜ます",
+        "から～まで"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q83",
+      "id": "bunpou-6.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「な-Adjective て-form (~で) - connector」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "よね",
+        "な-Adjective て-form: ～で",
+        "〜です／〜ます",
+        "だれ／どなた"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q84",
+      "id": "bunpou-6.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「あります - there is / exists (inanimate things)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "〜です／〜ます",
+        "あります",
+        "これ／それ／あれ／どれ",
+        "ここ／そこ／あそこ／どこ"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q85",
+      "id": "bunpou-6.10"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「います - there is / exists (animate things - people, animals)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "だれ／どなた",
+        "possessive / noun-modifier",
+        "〜の",
+        "います"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q86",
+      "id": "bunpou-6.11"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「～に～が あります／います - 'there is X at Y' (location-first existence)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "なに／なん",
+        "から～まで",
+        "よね",
+        "～に～があります / います"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q87",
+      "id": "bunpou-6.12"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「～は～にあります／います - 'X is at Y' (already-known X)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "この／その／あの／どの ＋ N (noun)",
+        "なに／なん",
+        "しか～ない",
+        "～は～にあります / います"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q88",
+      "id": "bunpou-6.13"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「～が あります - 'have / there is' (events, skills, possessions)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "～があります",
+        "この／その／あの／どの ＋ N (noun)",
+        "〜の",
+        "から～まで"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q89",
+      "id": "bunpou-6.14"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「AはBより [adj] です - 'A is more [adj] than B'」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "いつ",
+        "～は～より～です",
+        "この／その／あの／どの ＋ N (noun)",
+        "だれ／どなた"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q90",
+      "id": "bunpou-6.15"
+    }
+  ]
+}

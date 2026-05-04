@@ -272,15 +272,18 @@ def gen_bunpou_questions(n=100):
 
 
 def gen_dokkai_questions(n=102, n_passages=30):
-    """Reading questions tied to short passages. ~3 questions per passage."""
-    questions = []
+    """Reading questions tied to short passages. ~3-4 questions per passage.
+
+    Returns a list of pre-formatted blocks where each passage starts with
+    `### Passage <N>` and questions use `#### Q<N>` (4-hash) so the runtime
+    parser tools/build_papers.py can group them.
+    """
+    blocks = []
     qid = 0
-    # Generate simple passages by combining 3-4 N4 grammar patterns + vocab
     qs_per_pass = max(1, n // n_passages)
 
-    for pi in range(n_passages):
-        # Build a simple passage stub
-        topic_vocab = all_vocab[(pi * 3) % len(all_vocab):(pi * 3 + 5) % len(all_vocab) + 5][:5]
+    for pi in range(1, n_passages + 1):
+        topic_vocab = all_vocab[(pi * 5) % len(all_vocab):(pi * 5 + 5) % len(all_vocab) + 5][:5]
         if len(topic_vocab) < 3:
             topic_vocab = all_vocab[:5]
         passage_words = [v['form'] for v in topic_vocab[:4]]
@@ -288,6 +291,9 @@ def gen_dokkai_questions(n=102, n_passages=30):
                    f'まいにち {passage_words[1]} を します。'
                    f'たまに {passage_words[2]} に いきます。')
 
+        # Passage header (### Passage N), then passage text, then questions (#### Q<N>)
+        passage_q_start = qid + 1
+        passage_qs = []
         for q_in_passage in range(qs_per_pass):
             qid += 1
             if qid > n:
@@ -298,23 +304,43 @@ def gen_dokkai_questions(n=102, n_passages=30):
                           for v in all_vocab[:30] if v.get('gloss')
                           and v.get('form') != target.get('form')]
             opts, ans = shuffle_with_correct(correct, candidates)
-            stem = f'文章\n\n> {passage}\n\n問: 「{target["form"]}」とは どのような いみですか。'
-            questions.append(fmt_question(qid, stem, opts, ans))
+            stem = f'問: 「{target["form"]}」とは どのような いみですか。'
+            # Use #### (4-hash) for dokkai questions per build_papers.py expectation
+            q_block = f'#### Q{qid}\n\n{stem}\n\n'
+            for i, opt in enumerate(opts, 1):
+                q_block += f'{i}. {opt}\n'
+            q_block += f'\n**Answer: {ans}**\n'
+            passage_qs.append(q_block)
+        if not passage_qs:
+            break
+        passage_q_end = qid
+        passage_block = (
+            f'### Passage {pi} (Q{passage_q_start}-Q{passage_q_end})\n\n'
+            f'> {passage}\n\n' + '\n'.join(passage_qs)
+        )
+        blocks.append(passage_block)
         if qid >= n:
             break
 
-    # Pad
-    while len(questions) < n:
+    # Pad with simple short-passage stand-alones if needed
+    while qid < n:
         qid += 1
-        v = all_vocab[len(questions) % len(all_vocab)]
+        v = all_vocab[qid % len(all_vocab)]
         correct = v['gloss'].split(';')[0].strip() if v.get('gloss') else v.get('form', '')
         candidates = [w['gloss'].split(';')[0].strip()
                       for w in all_vocab[:20] if w.get('gloss') and w.get('form') != v.get('form')]
         opts, ans = shuffle_with_correct(correct, candidates)
-        stem = f'文章を よんで, 「{v["form"]}」の いみを えらんでください。'
-        questions.append(fmt_question(qid, stem, opts, ans))
+        passage_block = (
+            f'### Passage {n_passages + (qid - n + 1)} (Q{qid})\n\n'
+            f'> {v.get("form", "")}は とても {v.get("gloss", "")[:20]}です。\n\n'
+            f'#### Q{qid}\n\n問: 「{v["form"]}」の いみは どれですか。\n\n'
+        )
+        for i, opt in enumerate(opts, 1):
+            passage_block += f'{i}. {opt}\n'
+        passage_block += f'\n**Answer: {ans}**\n'
+        blocks.append(passage_block)
 
-    return questions[:n]
+    return blocks  # list of pre-formatted passage blocks; each has 1+ Qs
 
 
 def gen_externally_sourced(n=189):
@@ -379,14 +405,17 @@ bunpou = gen_bunpou_questions(100)
 print(f'  -> {len(bunpou)} questions')
 
 print('Generating dokkai (102 questions)...')
-dokkai = gen_dokkai_questions(102, n_passages=30)
-print(f'  -> {len(dokkai)} questions')
+dokkai_blocks = gen_dokkai_questions(102, n_passages=30)
+# Count actual Qs inside the passage blocks for reporting
+dokkai_q_count = sum(b.count('#### Q') for b in dokkai_blocks)
+print(f'  -> {dokkai_q_count} questions in {len(dokkai_blocks)} passages')
+dokkai = dokkai_blocks  # legacy variable for downstream
 
 print('Generating externally_sourced (189 questions)...')
 ext = gen_externally_sourced(189)
 print(f'  -> {len(ext)} questions')
 
-total = len(moji) + len(goi) + len(bunpou) + len(dokkai) + len(ext)
+total = len(moji) + len(goi) + len(bunpou) + dokkai_q_count + len(ext)
 print(f'\nTotal: {total} questions across 5 banks')
 
 # Write files
@@ -439,24 +468,44 @@ write_question_file(
                    ('Mondai 3 - 文章の文法 (Cloze)', 20)]
 )
 
-write_question_file(
-    ROOT / 'KnowledgeBank' / 'dokkai_questions_n4.md',
-    'Dokkai', [
-        '## Subtypes covered',
-        '',
-        '| Mondai | Subtype | Count |',
-        '|---|---|---|',
-        '| Mondai 4 | 短文 (short passage) | 40 |',
-        '| Mondai 5 | 中文 (medium passage) | 30 |',
-        '| Mondai 6 | 長文 (long passage) | 20 |',
-        '| Mondai 7 | 情報検索 (info search) | 12 |',
-    ],
-    dokkai,
-    mondai_groups=[('Mondai 4 - 短文 (Short Passage)', 40),
-                   ('Mondai 5 - 中文 (Medium Passage)', 30),
-                   ('Mondai 6 - 長文 (Long Passage)', 20),
-                   ('Mondai 7 - 情報検索 (Information Search)', 12)]
-)
+# Dokkai uses pre-formatted passage blocks (### Passage N + #### Q<N>),
+# not individual Q-blocks. Write directly without the per-Q mondai grouping.
+dokkai_path = ROOT / 'KnowledgeBank' / 'dokkai_questions_n4.md'
+dokkai_out = ['# JLPT N4 Dokkai Questions', '',
+              f'{dokkai_q_count} questions across {len(dokkai_blocks)} passages.',
+              '',
+              '## Subtypes covered',
+              '',
+              '| Mondai | Subtype | Count |',
+              '|---|---|---|',
+              '| Mondai 4 | 短文 (short passage) | 40 |',
+              '| Mondai 5 | 中文 (medium passage) | 30 |',
+              '| Mondai 6 | 長文 (long passage) | 20 |',
+              '| Mondai 7 | 情報検索 (info search) | 12 |',
+              '',
+              '## Engine display note',
+              '',
+              "For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and rationale until the student commits an answer.",
+              '',
+              '---', '']
+# Distribute passages across the 4 mondai groups
+target_counts = [40, 30, 20, 12]
+labels = ['Mondai 4 - 短文 (Short Passage)',
+          'Mondai 5 - 中文 (Medium Passage)',
+          'Mondai 6 - 長文 (Long Passage)',
+          'Mondai 7 - 情報検索 (Information Search)']
+block_idx = 0
+for mlbl, mcount in zip(labels, target_counts):
+    dokkai_out.append(f'## {mlbl}')
+    dokkai_out.append('')
+    in_mondai = 0
+    while block_idx < len(dokkai_blocks) and in_mondai < mcount:
+        block = dokkai_blocks[block_idx]
+        block_q_count = block.count('#### Q')
+        dokkai_out.append(block)
+        in_mondai += block_q_count
+        block_idx += 1
+dokkai_path.write_text('\n'.join(dokkai_out) + '\n', encoding='utf-8')
 
 write_question_file(
     ROOT / 'KnowledgeBank' / 'externally_sourced_n5.md',

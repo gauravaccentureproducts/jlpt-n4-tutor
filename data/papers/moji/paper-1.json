@@ -1,0 +1,221 @@
+{
+  "id": "moji-1",
+  "category": "moji",
+  "paperNumber": 1,
+  "name": "Moji Paper 1",
+  "source_file": "KnowledgeBank/moji_questions_n4.md",
+  "source_question_range": "Q1-Q15",
+  "questionCount": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "<u>二十日</u> の よみかたを えらんでください。",
+      "choices": [
+        "したぎ",
+        "はつか",
+        "ふつか",
+        "した"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q1",
+      "id": "moji-1.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>以下</u> の よみかたを えらんでください。",
+      "choices": [
+        "いか",
+        "やっつ",
+        "ながい",
+        "いち"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q2",
+      "id": "moji-1.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>外</u> の よみかたを えらんでください。",
+      "choices": [
+        "じゅう",
+        "ろく",
+        "ちり",
+        "そと"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q3",
+      "id": "moji-1.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>八月</u> の よみかたを えらんでください。",
+      "choices": [
+        "むいか",
+        "なんようび",
+        "はちがつ",
+        "いじょう"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q4",
+      "id": "moji-1.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>先週</u> の よみかたを えらんでください。",
+      "choices": [
+        "せんしゅう",
+        "おこなう",
+        "じんこう",
+        "うまれる"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q5",
+      "id": "moji-1.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>一番</u> の よみかたを えらんでください。",
+      "choices": [
+        "いちばん",
+        "とくに",
+        "いきもの",
+        "ろくがつ"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q6",
+      "id": "moji-1.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>中国</u> の よみかたを えらんでください。",
+      "choices": [
+        "かいわする",
+        "おんなのこ",
+        "ちゅうごく",
+        "きこえる"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q7",
+      "id": "moji-1.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>日本</u> の よみかたを えらんでください。",
+      "choices": [
+        "(option-3)",
+        "にほん / にっぽん",
+        "まいとし / まいねん",
+        "(option-4)"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q8",
+      "id": "moji-1.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>外国語</u> の よみかたを えらんでください。",
+      "choices": [
+        "おんなのこ",
+        "うまれる",
+        "きんようび",
+        "がいこくご"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q9",
+      "id": "moji-1.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>生物</u> の よみかたを えらんでください。",
+      "choices": [
+        "ぶんがく",
+        "かようび",
+        "らいげつ",
+        "せいぶつ"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q10",
+      "id": "moji-1.10"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>車</u> の よみかたを えらんでください。",
+      "choices": [
+        "でんしゃ",
+        "ごがつ",
+        "とくべつ",
+        "くるま"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q11",
+      "id": "moji-1.11"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>百</u> の よみかたを えらんでください。",
+      "choices": [
+        "おわり",
+        "ついたち",
+        "ひゃく",
+        "しがつ"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q12",
+      "id": "moji-1.12"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>六つ</u> の よみかたを えらんでください。",
+      "choices": [
+        "はこぶ",
+        "むっつ",
+        "あがる",
+        "なまえ"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q13",
+      "id": "moji-1.13"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>一人で</u> の よみかたを えらんでください。",
+      "choices": [
+        "よっか",
+        "ひとりで",
+        "はなし",
+        "ふたつ"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q14",
+      "id": "moji-1.14"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>会う</u> の よみかたを えらんでください。",
+      "choices": [
+        "あう",
+        "やすい",
+        "かわ",
+        "くうき"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q15",
+      "id": "moji-1.15"
+    }
+  ]
+}

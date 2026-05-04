@@ -1,0 +1,151 @@
+{
+  "id": "moji-7",
+  "category": "moji",
+  "paperNumber": 7,
+  "name": "Moji Paper 7",
+  "source_file": "KnowledgeBank/moji_questions_n4.md",
+  "source_question_range": "Q91-Q100",
+  "questionCount": 10,
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "十一",
+        "中学校",
+        "色んな",
+        "気持ち"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q91",
+      "id": "moji-7.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "一人で",
+        "見つかる",
+        "お父さん",
+        "花見する"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q92",
+      "id": "moji-7.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "急",
+        "四",
+        "二日",
+        "下着"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q93",
+      "id": "moji-7.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "西",
+        "水道",
+        "今",
+        "十一"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q94",
+      "id": "moji-7.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "入る",
+        "日曜日",
+        "生まれ",
+        "生じる"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q95",
+      "id": "moji-7.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "急行する",
+        "十一月",
+        "医学",
+        "電気"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q96",
+      "id": "moji-7.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "下りる",
+        "代わり",
+        "見える",
+        "花見する"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q97",
+      "id": "moji-7.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "以上",
+        "楽しみ",
+        "木",
+        "何で"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q98",
+      "id": "moji-7.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "今月",
+        "古い",
+        "動く",
+        "送る"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q99",
+      "id": "moji-7.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "水曜日",
+        "外国語",
+        "聞こえる",
+        "会話する"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q100",
+      "id": "moji-7.10"
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "id": "dokkai-4",
+  "category": "dokkai",
+  "paperNumber": 4,
+  "name": "Dokkai Paper 4",
+  "source_file": "KnowledgeBank/dokkai_questions_n4.md",
+  "source_question_range": "Q46-Q60",
+  "questionCount": 15,
+  "passages": [
+    {
+      "label": "Passage 16 (Q46-Q48)",
+      "text": "> わたしの いえの ちかくに こんな が あります。まいにち そんな を します。たまに あんな に いきます。",
+      "question_ids": [
+        "dokkai-4.1",
+        "dokkai-4.2",
+        "dokkai-4.3"
+      ]
+    },
+    {
+      "label": "Passage 17 (Q49-Q51)",
+      "text": "> わたしの いえの ちかくに そう が あります。まいにち ああ を します。たまに どう に いきます。",
+      "question_ids": [
+        "dokkai-4.4",
+        "dokkai-4.5",
+        "dokkai-4.6"
+      ]
+    },
+    {
+      "label": "Passage 18 (Q52-Q54)",
+      "text": "> わたしの いえの ちかくに いくら が あります。まいにち いくつ を します。たまに 何時 に いきます。",
+      "question_ids": [
+        "dokkai-4.7",
+        "dokkai-4.8",
+        "dokkai-4.9"
+      ]
+    },
+    {
+      "label": "Passage 19 (Q55-Q57)",
+      "text": "> わたしの いえの ちかくに 何日 が あります。まいにち なぜ を します。たまに どうして に いきます。",
+      "question_ids": [
+        "dokkai-4.10",
+        "dokkai-4.11",
+        "dokkai-4.12"
+      ]
+    },
+    {
+      "label": "Passage 20 (Q58-Q60)",
+      "text": "> わたしの いえの ちかくに 二 が あります。まいにち 三 を します。たまに 四 に いきます。",
+      "question_ids": [
+        "dokkai-4.13",
+        "dokkai-4.14",
+        "dokkai-4.15"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "問: 「こんな」とは どのような いみですか。",
+      "choices": [
+        "who (polite)",
+        "we",
+        "this kind of",
+        "father (someone else's / address form)"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q46",
+      "passage_text": "> わたしの いえの ちかくに こんな が あります。まいにち そんな を します。たまに あんな に いきます。",
+      "passage_label": "Passage 16 (Q46-Q48)",
+      "id": "dokkai-4.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「そんな」とは どのような いみですか。",
+      "choices": [
+        "grandfather (own)",
+        "that kind of",
+        "everyone (polite)",
+        "person"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q47",
+      "passage_text": "> わたしの いえの ちかくに こんな が あります。まいにち そんな を します。たまに あんな に いきます。",
+      "passage_label": "Passage 16 (Q46-Q48)",
+      "id": "dokkai-4.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「あんな」とは どのような いみですか。",
+      "choices": [
+        "father (own)",
+        "that kind of (over there)",
+        "grandfather, elderly man",
+        "she, her (girlfriend - more advanced sense)"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q48",
+      "passage_text": "> わたしの いえの ちかくに こんな が あります。まいにち そんな を します。たまに あんな に いきます。",
+      "passage_label": "Passage 16 (Q46-Q48)",
+      "id": "dokkai-4.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「そう」とは どのような いみですか。",
+      "choices": [
+        "I, me",
+        "grandfather (own)",
+        "we",
+        "like that"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q49",
+      "passage_text": "> わたしの いえの ちかくに そう が あります。まいにち ああ を します。たまに どう に いきます。",
+      "passage_label": "Passage 17 (Q49-Q51)",
+      "id": "dokkai-4.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「ああ」とは どのような いみですか。",
+      "choices": [
+        "father (someone else's / address form)",
+        "older brother (polite)",
+        "like that (over there)",
+        "older sister (own)"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q50",
+      "passage_text": "> わたしの いえの ちかくに そう が あります。まいにち ああ を します。たまに どう に いきます。",
+      "passage_label": "Passage 17 (Q49-Q51)",
+      "id": "dokkai-4.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「どう」とは どのような いみですか。",
+      "choices": [
+        "who",
+        "younger brother",
+        "aunt, middle-aged woman",
+        "how"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q51",
+      "passage_text": "> わたしの いえの ちかくに そう が あります。まいにち ああ を します。たまに どう に いきます。",
+      "passage_label": "Passage 17 (Q49-Q51)",
+      "id": "dokkai-4.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「いくら」とは どのような いみですか。",
+      "choices": [
+        "father (someone else's / address form)",
+        "older sister (own)",
+        "aunt, middle-aged woman",
+        "how much (price)"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q52",
+      "passage_text": "> わたしの いえの ちかくに いくら が あります。まいにち いくつ を します。たまに 何時 に いきます。",
+      "passage_label": "Passage 18 (Q52-Q54)",
+      "id": "dokkai-4.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「いくつ」とは どのような いみですか。",
+      "choices": [
+        "you",
+        "how many, how old",
+        "father (own)",
+        "grandmother, elderly woman"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q53",
+      "passage_text": "> わたしの いえの ちかくに いくら が あります。まいにち いくつ を します。たまに 何時 に いきます。",
+      "passage_label": "Passage 18 (Q52-Q54)",
+      "id": "dokkai-4.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「何時」とは どのような いみですか。",
+      "choices": [
+        "uncle, middle-aged man",
+        "younger sister",
+        "what time",
+        "you"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q54",
+      "passage_text": "> わたしの いえの ちかくに いくら が あります。まいにち いくつ を します。たまに 何時 に いきます。",
+      "passage_label": "Passage 18 (Q52-Q54)",
+      "id": "dokkai-4.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「何日」とは どのような いみですか。",
+      "choices": [
+        "father (own)",
+        "younger sister",
+        "what day",
+        "she, her (girlfriend - more advanced sense)"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q55",
+      "passage_text": "> わたしの いえの ちかくに 何日 が あります。まいにち なぜ を します。たまに どうして に いきます。",
+      "passage_label": "Passage 19 (Q55-Q57)",
+      "id": "dokkai-4.10"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「なぜ」とは どのような いみですか。",
+      "choices": [
+        "younger brother",
+        "uncle, middle-aged man",
+        "mother (someone else's / address form)",
+        "why"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q56",
+      "passage_text": "> わたしの いえの ちかくに 何日 が あります。まいにち なぜ を します。たまに どうして に いきます。",
+      "passage_label": "Passage 19 (Q55-Q57)",
+      "id": "dokkai-4.11"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「どうして」とは どのような いみですか。",
+      "choices": [
+        "person",
+        "he, him (boyfriend - more advanced sense)",
+        "why",
+        "mother (own)"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q57",
+      "passage_text": "> わたしの いえの ちかくに 何日 が あります。まいにち なぜ を します。たまに どうして に いきます。",
+      "passage_label": "Passage 19 (Q55-Q57)",
+      "id": "dokkai-4.12"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「二」とは どのような いみですか。",
+      "choices": [
+        "younger sister",
+        "two",
+        "younger brother",
+        "grandfather (own)"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q58",
+      "passage_text": "> わたしの いえの ちかくに 二 が あります。まいにち 三 を します。たまに 四 に いきます。",
+      "passage_label": "Passage 20 (Q58-Q60)",
+      "id": "dokkai-4.13"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「三」とは どのような いみですか。",
+      "choices": [
+        "who (polite)",
+        "grandmother, elderly woman",
+        "three",
+        "person"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q59",
+      "passage_text": "> わたしの いえの ちかくに 二 が あります。まいにち 三 を します。たまに 四 に いきます。",
+      "passage_label": "Passage 20 (Q58-Q60)",
+      "id": "dokkai-4.14"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「四」とは どのような いみですか。",
+      "choices": [
+        "family",
+        "four",
+        "you",
+        "everyone (polite)"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q60",
+      "passage_text": "> わたしの いえの ちかくに 二 が あります。まいにち 三 を します。たまに 四 に いきます。",
+      "passage_label": "Passage 20 (Q58-Q60)",
+      "id": "dokkai-4.15"
+    }
+  ]
+}

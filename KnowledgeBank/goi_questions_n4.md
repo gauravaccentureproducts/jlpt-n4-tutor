@@ -22,8 +22,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「私」と おなじ いみの ことばを えらんでください。
 
-1. we
-2. oneself
+1. oneself
+2. we
 3. she, her (girlfriend - more advanced sense)
 4. I, me
 
@@ -33,10 +33,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「私たち」と おなじ いみの ことばを えらんでください。
 
-1. you
-2. I, me
+1. he, him (boyfriend - more advanced sense)
+2. she, her (girlfriend - more advanced sense)
 3. we
-4. she, her (girlfriend - more advanced sense)
+4. oneself
 
 **Answer: 3**
 
@@ -45,9 +45,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「あなた」と おなじ いみの ことばを えらんでください。
 
 1. you
-2. oneself
-3. she, her (girlfriend - more advanced sense)
-4. we
+2. he, him (boyfriend - more advanced sense)
+3. we
+4. I, me
 
 **Answer: 1**
 
@@ -55,9 +55,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「かれ」と おなじ いみの ことばを えらんでください。
 
-1. I, me
+1. you
 2. we
-3. oneself
+3. I, me
 4. he, him (boyfriend - more advanced sense)
 
 **Answer: 4**
@@ -66,9 +66,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「かのじょ」と おなじ いみの ことばを えらんでください。
 
-1. oneself
+1. I, me
 2. we
-3. you
+3. he, him (boyfriend - more advanced sense)
 4. she, her (girlfriend - more advanced sense)
 
 **Answer: 4**
@@ -77,9 +77,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「かた」と おなじ いみの ことばを えらんでください。
 
-1. older sister (own)
-2. child (often written こども in everyday text)
-3. older sister (polite)
+1. older brother (polite)
+2. person
+3. grandfather, elderly man
 4. person (polite)
 
 **Answer: 4**
@@ -88,9 +88,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「人」と おなじ いみの ことばを えらんでください。
 
-1. older sister (own)
-2. person (polite)
-3. girl
+1. parents
+2. father (own)
+3. older brother (polite)
 4. person
 
 **Answer: 4**
@@ -99,10 +99,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「みなさん」と おなじ いみの ことばを えらんでください。
 
-1. family
+1. grandfather, elderly man
 2. everyone (polite)
-3. man
-4. younger brother
+3. siblings
+4. older sister (polite)
 
 **Answer: 2**
 
@@ -111,9 +111,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「だれ」と おなじ いみの ことばを えらんでください。
 
 1. who
-2. what day
-3. who (polite)
-4. what month
+2. how many, how old
+3. why, by what means
+4. how much (price)
 
 **Answer: 1**
 
@@ -121,10 +121,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「どなた」と おなじ いみの ことばを えらんでください。
 
-1. what day of the week
-2. what
+1. who
+2. when
 3. who (polite)
-4. what month
+4. how much (price)
 
 **Answer: 3**
 
@@ -132,9 +132,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「じぶん」と おなじ いみの ことばを えらんでください。
 
-1. I, me
-2. she, her (girlfriend - more advanced sense)
-3. we
+1. she, her (girlfriend - more advanced sense)
+2. we
+3. I, me
 4. oneself
 
 **Answer: 4**
@@ -143,10 +143,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「かぞく」と おなじ いみの ことばを えらんでください。
 
-1. person
-2. mother (own)
+1. grandmother (own)
+2. person
 3. family
-4. father (own)
+4. everyone (polite)
 
 **Answer: 3**
 
@@ -154,9 +154,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「父」と おなじ いみの ことばを えらんでください。
 
-1. older brother (polite)
+1. adult
 2. father (own)
-3. boy
+3. older brother (own)
 4. younger brother
 
 **Answer: 2**
@@ -165,10 +165,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「母」と おなじ いみの ことばを えらんでください。
 
-1. person (polite)
+1. father (own)
 2. mother (own)
-3. aunt, middle-aged woman
-4. grandfather (own)
+3. family
+4. uncle, middle-aged man
 
 **Answer: 2**
 
@@ -176,10 +176,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「お父さん」と おなじ いみの ことばを えらんでください。
 
-1. woman
+1. siblings
 2. father (someone else's / address form)
-3. uncle, middle-aged man
-4. mother (someone else's / address form)
+3. aunt, middle-aged woman
+4. father (own)
 
 **Answer: 2**
 
@@ -187,10 +187,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「お母さん」と おなじ いみの ことばを えらんでください。
 
-1. everyone (polite)
+1. grandfather (own)
 2. mother (someone else's / address form)
-3. student
-4. older sister (polite)
+3. older sister (polite)
+4. grandfather, elderly man
 
 **Answer: 2**
 
@@ -199,9 +199,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「あに」と おなじ いみの ことばを えらんでください。
 
 1. older brother (own)
-2. pupil, schoolchild
-3. parents
-4. siblings
+2. parents
+3. student
+4. pupil, schoolchild
 
 **Answer: 1**
 
@@ -209,10 +209,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「あね」と おなじ いみの ことばを えらんでください。
 
-1. grandmother, elderly woman
+1. friend
 2. older sister (own)
-3. aunt, middle-aged woman
-4. everyone (polite)
+3. family
+4. boy
 
 **Answer: 2**
 
@@ -221,9 +221,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「おとうと」と おなじ いみの ことばを えらんでください。
 
 1. younger brother
-2. woman
-3. father (someone else's / address form)
-4. grandfather (own)
+2. child (often written こども in everyday text)
+3. younger sister
+4. uncle, middle-aged man
 
 **Answer: 1**
 
@@ -231,9 +231,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「いもうと」と おなじ いみの ことばを えらんでください。
 
-1. friend
-2. older sister (polite)
-3. father (own)
+1. woman
+2. friend
+3. everyone (polite)
 4. younger sister
 
 **Answer: 4**
@@ -243,9 +243,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「おにいさん」と おなじ いみの ことばを えらんでください。
 
 1. older brother (polite)
-2. younger sister
-3. person (polite)
-4. boy
+2. father (someone else's / address form)
+3. father (own)
+4. older brother (own)
 
 **Answer: 1**
 
@@ -253,10 +253,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「おねえさん」と おなじ いみの ことばを えらんでください。
 
-1. older sister (own)
+1. older brother (polite)
 2. older sister (polite)
-3. person
-4. friend
+3. grandmother (own)
+4. woman
 
 **Answer: 2**
 
@@ -264,10 +264,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「きょうだい」と おなじ いみの ことばを えらんでください。
 
-1. man
-2. younger brother
+1. aunt, middle-aged woman
+2. older sister (polite)
 3. siblings
-4. older sister (own)
+4. older brother (polite)
 
 **Answer: 3**
 
@@ -275,10 +275,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「りょうしん」と おなじ いみの ことばを えらんでください。
 
-1. father (someone else's / address form)
-2. older sister (polite)
+1. grandmother, elderly woman
+2. grandfather, elderly man
 3. parents
-4. child (often written こども in everyday text)
+4. person
 
 **Answer: 3**
 
@@ -286,10 +286,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「そふ」と おなじ いみの ことばを えらんでください。
 
-1. adult
-2. student
+1. mother (own)
+2. younger brother
 3. grandfather (own)
-4. grandmother (own)
+4. person (polite)
 
 **Answer: 3**
 
@@ -298,9 +298,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「そぼ」と おなじ いみの ことばを えらんでください。
 
 1. grandmother (own)
-2. girl
-3. person
-4. mother (own)
+2. everyone (polite)
+3. grandfather (own)
+4. person
 
 **Answer: 1**
 
@@ -308,10 +308,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「おじいさん」と おなじ いみの ことばを えらんでください。
 
-1. everyone (polite)
-2. parents
+1. grandmother (own)
+2. student
 3. grandfather, elderly man
-4. family
+4. man
 
 **Answer: 3**
 
@@ -319,10 +319,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「おばあさん」と おなじ いみの ことばを えらんでください。
 
-1. person (polite)
+1. father (own)
 2. grandmother, elderly woman
-3. siblings
-4. younger brother
+3. family
+4. older sister (polite)
 
 **Answer: 2**
 
@@ -330,9 +330,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「おじさん」と おなじ いみの ことばを えらんでください。
 
-1. adult
-2. grandfather (own)
-3. child (often written こども in everyday text)
+1. father (someone else's / address form)
+2. adult
+3. person
 4. uncle, middle-aged man
 
 **Answer: 4**
@@ -341,9 +341,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「おばさん」と おなじ いみの ことばを えらんでください。
 
-1. adult
-2. older sister (own)
-3. everyone (polite)
+1. mother (own)
+2. older brother (polite)
+3. grandfather (own)
 4. aunt, middle-aged woman
 
 **Answer: 4**
@@ -352,10 +352,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「子ども」と おなじ いみの ことばを えらんでください。
 
-1. father (someone else's / address form)
-2. older sister (own)
+1. pupil, schoolchild
+2. older brother (polite)
 3. child (often written こども in everyday text)
-4. siblings
+4. family
 
 **Answer: 3**
 
@@ -364,9 +364,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「男の子」と おなじ いみの ことばを えらんでください。
 
 1. boy
-2. father (own)
-3. woman
-4. grandfather (own)
+2. everyone (polite)
+3. child (often written こども in everyday text)
+4. uncle, middle-aged man
 
 **Answer: 1**
 
@@ -375,9 +375,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「女の子」と おなじ いみの ことばを えらんでください。
 
 1. girl
-2. adult
-3. uncle, middle-aged man
-4. aunt, middle-aged woman
+2. mother (own)
+3. aunt, middle-aged woman
+4. family
 
 **Answer: 1**
 
@@ -386,9 +386,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「男」と おなじ いみの ことばを えらんでください。
 
 1. man
-2. siblings
-3. pupil, schoolchild
-4. child (often written こども in everyday text)
+2. younger sister
+3. parents
+4. mother (someone else's / address form)
 
 **Answer: 1**
 
@@ -396,9 +396,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「女」と おなじ いみの ことばを えらんでください。
 
-1. mother (someone else's / address form)
+1. grandmother, elderly woman
 2. girl
-3. father (own)
+3. everyone (polite)
 4. woman
 
 **Answer: 4**
@@ -408,9 +408,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「大人」と おなじ いみの ことばを えらんでください。
 
 1. adult
-2. person (polite)
-3. younger sister
-4. woman
+2. father (own)
+3. father (someone else's / address form)
+4. child (often written こども in everyday text)
 
 **Answer: 1**
 
@@ -419,9 +419,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「ともだち」と おなじ いみの ことばを えらんでください。
 
 1. friend
-2. aunt, middle-aged woman
-3. person (polite)
-4. man
+2. pupil, schoolchild
+3. aunt, middle-aged woman
+4. student
 
 **Answer: 1**
 
@@ -429,10 +429,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「学生」と おなじ いみの ことばを えらんでください。
 
-1. younger sister
-2. parents
+1. father (someone else's / address form)
+2. siblings
 3. student
-4. woman
+4. aunt, middle-aged woman
 
 **Answer: 3**
 
@@ -441,8 +441,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「せいと」と おなじ いみの ことばを えらんでください。
 
 1. younger brother
-2. person (polite)
-3. grandfather, elderly man
+2. father (own)
+3. older sister (own)
 4. pupil, schoolchild
 
 **Answer: 4**
@@ -451,10 +451,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「先生」と おなじ いみの ことばを えらんでください。
 
-1. person
-2. parents
+1. grandmother (own)
+2. student
 3. teacher, doctor
-4. girl
+4. older brother (polite)
 
 **Answer: 3**
 
@@ -464,9 +464,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「doctor」を あらわす ことばは どれですか。
 
-1. お父さん
-2. おじいさん
-3. そぼ
+1. あね
+2. いもうと
+3. 父
 4. いしゃ
 
 **Answer: 4**
@@ -475,10 +475,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「company employee」を あらわす ことばは どれですか。
 
-1. 女の子
-2. お父さん
+1. 母
+2. あね
 3. 会社員
-4. 子ども
+4. おばあさん
 
 **Answer: 3**
 
@@ -487,9 +487,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「station staff」を あらわす ことばは どれですか。
 
 1. 駅員
-2. 男の子
-3. 女
-4. 学生
+2. そふ
+3. おじいさん
+4. 大人
 
 **Answer: 1**
 
@@ -497,10 +497,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「shop clerk」を あらわす ことばは どれですか。
 
-1. 母
-2. 女
+1. おとうと
+2. おじいさん
 3. 店員
-4. おじいさん
+4. いもうと
 
 **Answer: 3**
 
@@ -508,9 +508,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「police officer」を あらわす ことばは どれですか。
 
-1. 女
-2. かた
-3. あね
+1. おじいさん
+2. おじさん
+3. お父さん
 4. けいかん
 
 **Answer: 4**
@@ -519,10 +519,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「police officer (friendly)」を あらわす ことばは どれですか。
 
-1. 男
-2. 父
+1. かぞく
+2. ともだち
 3. おまわりさん
-4. 学生
+4. 大人
 
 **Answer: 3**
 
@@ -530,10 +530,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「international student」を あらわす ことばは どれですか。
 
-1. ともだち
+1. 男
 2. りゅうがくせい
-3. あね
-4. あに
+3. お父さん
+4. おねえさん
 
 **Answer: 2**
 
@@ -541,10 +541,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「foreigner」を あらわす ことばは どれですか。
 
-1. かぞく
+1. 女の子
 2. 外国人
-3. あね
-4. みなさん
+3. お父さん
+4. おにいさん
 
 **Answer: 2**
 
@@ -552,9 +552,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「body」を あらわす ことばは どれですか。
 
-1. ともだち
-2. 女
-3. おばさん
+1. 男
+2. おじいさん
+3. 人
 4. からだ
 
 **Answer: 4**
@@ -563,10 +563,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「head」を あらわす ことばは どれですか。
 
-1. おじいさん
+1. いもうと
 2. あたま
-3. そぼ
-4. お母さん
+3. 父
+4. 子ども
 
 **Answer: 2**
 
@@ -575,9 +575,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「face」を あらわす ことばは どれですか。
 
 1. かお
-2. おばさん
-3. 大人
-4. いもうと
+2. 人
+3. きょうだい
+4. りょうしん
 
 **Answer: 1**
 
@@ -585,10 +585,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「eye」を あらわす ことばは どれですか。
 
-1. 女
+1. おじいさん
 2. め
-3. 父
-4. お母さん
+3. ともだち
+4. 子ども
 
 **Answer: 2**
 
@@ -596,9 +596,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「ear」を あらわす ことばは どれですか。
 
-1. 男
-2. 女の子
-3. 女
+1. かぞく
+2. 母
+3. おじいさん
 4. みみ
 
 **Answer: 4**
@@ -608,9 +608,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「nose」を あらわす ことばは どれですか。
 
 1. はな
-2. 子ども
-3. きょうだい
-4. 女
+2. おばあさん
+3. かた
+4. おじいさん
 
 **Answer: 1**
 
@@ -618,9 +618,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「mouth」を あらわす ことばは どれですか。
 
-1. ともだち
-2. おじさん
-3. おばさん
+1. 男
+2. そぼ
+3. 人
 4. くち
 
 **Answer: 4**
@@ -630,9 +630,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「tooth」を あらわす ことばは どれですか。
 
 1. は
-2. あね
-3. そふ
-4. ともだち
+2. お父さん
+3. あに
+4. 男
 
 **Answer: 1**
 
@@ -641,9 +641,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「hand」を あらわす ことばは どれですか。
 
 1. て
-2. おねえさん
-3. あね
-4. おとうと
+2. お母さん
+3. お父さん
+4. 男の子
 
 **Answer: 1**
 
@@ -651,10 +651,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「leg, foot」を あらわす ことばは どれですか。
 
-1. おとうと
-2. 人
+1. 男の子
+2. みなさん
 3. あし
-4. 男の子
+4. そふ
 
 **Answer: 3**
 
@@ -662,10 +662,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「stomach, belly」を あらわす ことばは どれですか。
 
-1. みなさん
-2. あね
+1. おにいさん
+2. お父さん
 3. おなか
-4. おばさん
+4. 人
 
 **Answer: 3**
 
@@ -674,9 +674,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「back, height」を あらわす ことばは どれですか。
 
 1. せ
-2. おばあさん
-3. そぼ
-4. 女
+2. おばさん
+3. 父
+4. おじいさん
 
 **Answer: 1**
 
@@ -685,9 +685,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「I, me」を あらわす ことばは どれですか。
 
 1. 私
-2. かのじょ
+2. かれ
 3. 私たち
-4. じぶん
+4. かのじょ
 
 **Answer: 1**
 
@@ -695,9 +695,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「we」を あらわす ことばは どれですか。
 
-1. かのじょ
+1. 私
 2. 私たち
-3. じぶん
+3. あなた
 4. かれ
 
 **Answer: 2**
@@ -707,8 +707,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「you」を あらわす ことばは どれですか。
 
 1. あなた
-2. かのじょ
-3. 私
+2. 私
+3. かのじょ
 4. じぶん
 
 **Answer: 1**
@@ -717,10 +717,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「he, him (boyfriend - more advanced sense)」を あらわす ことばは どれですか。
 
-1. かのじょ
+1. 私
 2. かれ
 3. 私たち
-4. あなた
+4. じぶん
 
 **Answer: 2**
 
@@ -729,8 +729,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「she, her (girlfriend - more advanced sense)」を あらわす ことばは どれですか。
 
 1. かのじょ
-2. あなた
-3. 私
+2. 私たち
+3. あなた
 4. かれ
 
 **Answer: 1**
@@ -739,10 +739,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「person (polite)」を あらわす ことばは どれですか。
 
-1. そふ
-2. あに
+1. あに
+2. いもうと
 3. かた
-4. おねえさん
+4. お母さん
 
 **Answer: 3**
 
@@ -752,8 +752,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 1. おばさん
 2. 人
-3. あに
-4. おにいさん
+3. かぞく
+4. おばあさん
 
 **Answer: 2**
 
@@ -761,10 +761,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「everyone (polite)」を あらわす ことばは どれですか。
 
-1. あね
+1. 母
 2. みなさん
-3. 男の子
-4. あに
+3. 女の子
+4. いもうと
 
 **Answer: 2**
 
@@ -772,10 +772,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「who」を あらわす ことばは どれですか。
 
-1. 何日
+1. なぜ
 2. だれ
-3. 何時
-4. 何月
+3. 何
+4. いくつ
 
 **Answer: 2**
 
@@ -783,8 +783,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「who (polite)」を あらわす ことばは どれですか。
 
-1. だれ
-2. なぜ
+1. 何で
+2. だれ
 3. いくら
 4. どなた
 
@@ -794,8 +794,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「oneself」を あらわす ことばは どれですか。
 
-1. 私たち
-2. 私
+1. かれ
+2. かのじょ
 3. じぶん
 4. あなた
 
@@ -805,10 +805,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「family」を あらわす ことばは どれですか。
 
-1. そぼ
+1. 父
 2. せいと
 3. かぞく
-4. いもうと
+4. りょうしん
 
 **Answer: 3**
 
@@ -816,10 +816,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「father (own)」を あらわす ことばは どれですか。
 
-1. ともだち
+1. 男の子
 2. 父
-3. おじいさん
-4. 男の子
+3. そぼ
+4. そふ
 
 **Answer: 2**
 
@@ -829,8 +829,8 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 1. 母
 2. おばさん
-3. りょうしん
-4. おねえさん
+3. 女
+4. お母さん
 
 **Answer: 1**
 
@@ -838,10 +838,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「father (someone else's / address form)」を あらわす ことばは どれですか。
 
-1. 大人
+1. ともだち
 2. お父さん
-3. あに
-4. 学生
+3. かぞく
+4. 男の子
 
 **Answer: 2**
 
@@ -850,9 +850,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「mother (someone else's / address form)」を あらわす ことばは どれですか。
 
 1. お母さん
-2. 大人
-3. 学生
-4. 子ども
+2. きょうだい
+3. 大人
+4. りょうしん
 
 **Answer: 1**
 
@@ -860,10 +860,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「older brother (own)」を あらわす ことばは どれですか。
 
-1. 学生
+1. 大人
 2. あに
-3. おじさん
-4. 男の子
+3. いもうと
+4. せいと
 
 **Answer: 2**
 
@@ -871,9 +871,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「older sister (own)」を あらわす ことばは どれですか。
 
-1. お母さん
-2. おじさん
-3. 女
+1. ともだち
+2. 子ども
+3. おじいさん
 4. あね
 
 **Answer: 4**
@@ -883,9 +883,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「younger brother」を あらわす ことばは どれですか。
 
 1. おとうと
-2. お母さん
-3. 父
-4. きょうだい
+2. 子ども
+3. ともだち
+4. かた
 
 **Answer: 1**
 
@@ -894,9 +894,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「younger sister」を あらわす ことばは どれですか。
 
 1. いもうと
-2. そぼ
-3. おばさん
-4. おねえさん
+2. 父
+3. 人
+4. お母さん
 
 **Answer: 1**
 
@@ -906,10 +906,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「こんな」と もっとも ちかい いみは どれですか。
 
-1. here
-2. which way
+1. that (over there)
+2. various
 3. this kind of
-4. like that (over there)
+4. which (one)
 
 **Answer: 3**
 
@@ -917,10 +917,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「そんな」と もっとも ちかい いみは どれですか。
 
-1. over there
+1. that way (over there)
 2. that kind of
-3. which (one)
-4. such
+3. that kind of (over there)
+4. like that
 
 **Answer: 2**
 
@@ -929,9 +929,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「あんな」と もっとも ちかい いみは どれですか。
 
 1. that kind of (over there)
-2. this (modifier)
-3. over there
-4. like that (over there)
+2. where
+3. that way (over there)
+4. which (one)
 
 **Answer: 1**
 
@@ -940,9 +940,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「どんな」と もっとも ちかい いみは どれですか。
 
 1. what kind of
-2. that (over there)
-3. which (modifier)
-4. that (thing near listener)
+2. how
+3. that kind of
+4. that way over there (casual)
 
 **Answer: 1**
 
@@ -950,9 +950,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「こう」と もっとも ちかい いみは どれですか。
 
-1. that (thing near listener)
-2. here
-3. which (modifier)
+1. that way over there (casual)
+2. this way (casual)
+3. that kind of
 4. like this
 
 **Answer: 4**
@@ -961,10 +961,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「そう」と もっとも ちかい いみは どれですか。
 
-1. that (over there)
-2. how
+1. that way (casual)
+2. which (modifier)
 3. like that
-4. that (thing near listener)
+4. how
 
 **Answer: 3**
 
@@ -972,10 +972,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「ああ」と もっとも ちかい いみは どれですか。
 
-1. that way over there (casual)
-2. various
+1. this way / this person (polite)
+2. over there
 3. like that (over there)
-4. that kind of (over there)
+4. which (one)
 
 **Answer: 3**
 
@@ -983,9 +983,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「どう」と もっとも ちかい いみは どれですか。
 
-1. there
-2. this kind of
-3. this way (casual)
+1. that over there (modifier)
+2. like this
+3. what kind of
 4. how
 
 **Answer: 4**
@@ -995,9 +995,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「何」と もっとも ちかい いみは どれですか。
 
 1. what
-2. why
-3. who
-4. when
+2. how many, how old
+3. what day
+4. what day of the week
 
 **Answer: 1**
 
@@ -1005,10 +1005,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「いつ」と もっとも ちかい いみは どれですか。
 
-1. what day of the week
+1. who
 2. what day
 3. when
-4. why, by what means
+4. what day of the week
 
 **Answer: 3**
 
@@ -1017,9 +1017,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「いくら」と もっとも ちかい いみは どれですか。
 
 1. how much (price)
-2. why
+2. what
 3. what day
-4. who (polite)
+4. why, by what means
 
 **Answer: 1**
 
@@ -1027,9 +1027,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「いくつ」と もっとも ちかい いみは どれですか。
 
-1. what time
-2. why
-3. when
+1. what month
+2. what
+3. what day of the week
 4. how many, how old
 
 **Answer: 4**
@@ -1039,9 +1039,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「何時」と もっとも ちかい いみは どれですか。
 
 1. what time
-2. who (polite)
-3. what month
-4. why
+2. what month
+3. who (polite)
+4. why, by what means
 
 **Answer: 1**
 
@@ -1049,10 +1049,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「何曜日」と もっとも ちかい いみは どれですか。
 
-1. what time
-2. who (polite)
+1. what month
+2. why, by what means
 3. what day of the week
-4. what
+4. when
 
 **Answer: 3**
 
@@ -1061,9 +1061,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「何月」と もっとも ちかい いみは どれですか。
 
 1. what month
-2. how much (price)
-3. how many, how old
-4. what time
+2. why
+3. what time
+4. why, by what means
 
 **Answer: 1**
 
@@ -1071,9 +1071,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「何日」と もっとも ちかい いみは どれですか。
 
-1. how many, how old
-2. when
-3. why, by what means
+1. what time
+2. who
+3. who (polite)
 4. what day
 
 **Answer: 4**
@@ -1082,10 +1082,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「なぜ」と もっとも ちかい いみは どれですか。
 
-1. what day of the week
-2. who
+1. who
+2. what
 3. why
-4. what
+4. when
 
 **Answer: 3**
 
@@ -1094,9 +1094,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「どうして」と もっとも ちかい いみは どれですか。
 
 1. why
-2. what month
-3. what day
-4. what day of the week
+2. who (polite)
+3. how many, how old
+4. who
 
 **Answer: 1**
 
@@ -1105,9 +1105,9 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 「何で」と もっとも ちかい いみは どれですか。
 
 1. why, by what means
-2. what day of the week
-3. why
-4. how many, how old
+2. who (polite)
+3. how many, how old
+4. what time
 
 **Answer: 1**
 
@@ -1115,10 +1115,10 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 「一」と もっとも ちかい いみは どれですか。
 
-1. thousand
-2. ten
+1. eight
+2. six
 3. one
-4. hundred
+4. twenty
 
 **Answer: 3**
 

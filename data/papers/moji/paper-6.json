@@ -1,0 +1,221 @@
+{
+  "id": "moji-6",
+  "category": "moji",
+  "paperNumber": 6,
+  "name": "Moji Paper 6",
+  "source_file": "KnowledgeBank/moji_questions_n4.md",
+  "source_question_range": "Q76-Q90",
+  "questionCount": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "生物",
+        "木",
+        "東",
+        "前"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q76",
+      "id": "moji-6.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "答え",
+        "時々",
+        "計画",
+        "五つ"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q77",
+      "id": "moji-6.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "半分",
+        "来る",
+        "食料品",
+        "日本人"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q78",
+      "id": "moji-6.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "出る",
+        "地理",
+        "三日",
+        "四つ"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q79",
+      "id": "moji-6.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "四",
+        "天ぷら",
+        "来月",
+        "田"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q80",
+      "id": "moji-6.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "お母さん",
+        "八つ",
+        "楽しみ",
+        "大体"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q81",
+      "id": "moji-6.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "集める",
+        "日本",
+        "三つ",
+        "天ぷら"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q82",
+      "id": "moji-6.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "番号",
+        "一つ",
+        "火事",
+        "集める"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q83",
+      "id": "moji-6.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "上",
+        "会話",
+        "急ぐ",
+        "八日"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q84",
+      "id": "moji-6.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "建てる",
+        "四",
+        "意見",
+        "出口"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q85",
+      "id": "moji-6.10"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "毎日",
+        "止める",
+        "飲む",
+        "仕方"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q86",
+      "id": "moji-6.11"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "今日",
+        "校長",
+        "十分",
+        "本"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q87",
+      "id": "moji-6.12"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "見せる",
+        "出かける",
+        "注意する",
+        "高校生"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q88",
+      "id": "moji-6.13"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "見える",
+        "お母さん",
+        "生き物",
+        "小学校"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q89",
+      "id": "moji-6.14"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "名前",
+        "聞く",
+        "四つ",
+        "半"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q90",
+      "id": "moji-6.15"
+    }
+  ]
+}

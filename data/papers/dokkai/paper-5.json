@@ -1,0 +1,298 @@
+{
+  "id": "dokkai-5",
+  "category": "dokkai",
+  "paperNumber": 5,
+  "name": "Dokkai Paper 5",
+  "source_file": "KnowledgeBank/dokkai_questions_n4.md",
+  "source_question_range": "Q61-Q75",
+  "questionCount": 15,
+  "passages": [
+    {
+      "label": "Passage 21 (Q61-Q63)",
+      "text": "> わたしの いえの ちかくに 七 が あります。まいにち 八 を します。たまに 九 に いきます。",
+      "question_ids": [
+        "dokkai-5.1",
+        "dokkai-5.2",
+        "dokkai-5.3"
+      ]
+    },
+    {
+      "label": "Passage 22 (Q64-Q66)",
+      "text": "> わたしの いえの ちかくに 二十 が あります。まいにち 百 を します。たまに 千 に いきます。",
+      "question_ids": [
+        "dokkai-5.4",
+        "dokkai-5.5",
+        "dokkai-5.6"
+      ]
+    },
+    {
+      "label": "Passage 23 (Q67-Q69)",
+      "text": "> わたしの いえの ちかくに おく が あります。まいにち 一つ を します。たまに 二つ に いきます。",
+      "question_ids": [
+        "dokkai-5.7",
+        "dokkai-5.8",
+        "dokkai-5.9"
+      ]
+    },
+    {
+      "label": "Passage 24 (Q70-Q72)",
+      "text": "> わたしの いえの ちかくに 五つ が あります。まいにち 六つ を します。たまに 七つ に いきます。",
+      "question_ids": [
+        "dokkai-5.10",
+        "dokkai-5.11",
+        "dokkai-5.12"
+      ]
+    },
+    {
+      "label": "Passage 25 (Q73-Q75)",
+      "text": "> わたしの いえの ちかくに 十 が あります。まいにち いくつ を します。たまに 人 に いきます。",
+      "question_ids": [
+        "dokkai-5.13",
+        "dokkai-5.14",
+        "dokkai-5.15"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "問: 「七」とは どのような いみですか。",
+      "choices": [
+        "person",
+        "he, him (boyfriend - more advanced sense)",
+        "mother (own)",
+        "seven"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q61",
+      "passage_text": "> わたしの いえの ちかくに 七 が あります。まいにち 八 を します。たまに 九 に いきます。",
+      "passage_label": "Passage 21 (Q61-Q63)",
+      "id": "dokkai-5.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「八」とは どのような いみですか。",
+      "choices": [
+        "siblings",
+        "father (someone else's / address form)",
+        "eight",
+        "he, him (boyfriend - more advanced sense)"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q62",
+      "passage_text": "> わたしの いえの ちかくに 七 が あります。まいにち 八 を します。たまに 九 に いきます。",
+      "passage_label": "Passage 21 (Q61-Q63)",
+      "id": "dokkai-5.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「九」とは どのような いみですか。",
+      "choices": [
+        "he, him (boyfriend - more advanced sense)",
+        "mother (own)",
+        "nine",
+        "father (someone else's / address form)"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q63",
+      "passage_text": "> わたしの いえの ちかくに 七 が あります。まいにち 八 を します。たまに 九 に いきます。",
+      "passage_label": "Passage 21 (Q61-Q63)",
+      "id": "dokkai-5.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「二十」とは どのような いみですか。",
+      "choices": [
+        "we",
+        "mother (own)",
+        "twenty",
+        "father (someone else's / address form)"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q64",
+      "passage_text": "> わたしの いえの ちかくに 二十 が あります。まいにち 百 を します。たまに 千 に いきます。",
+      "passage_label": "Passage 22 (Q64-Q66)",
+      "id": "dokkai-5.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「百」とは どのような いみですか。",
+      "choices": [
+        "hundred",
+        "younger sister",
+        "mother (own)",
+        "older sister (own)"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q65",
+      "passage_text": "> わたしの いえの ちかくに 二十 が あります。まいにち 百 を します。たまに 千 に いきます。",
+      "passage_label": "Passage 22 (Q64-Q66)",
+      "id": "dokkai-5.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「千」とは どのような いみですか。",
+      "choices": [
+        "mother (someone else's / address form)",
+        "thousand",
+        "who (polite)",
+        "siblings"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q66",
+      "passage_text": "> わたしの いえの ちかくに 二十 が あります。まいにち 百 を します。たまに 千 に いきます。",
+      "passage_label": "Passage 22 (Q64-Q66)",
+      "id": "dokkai-5.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「おく」とは どのような いみですか。",
+      "choices": [
+        "mother (own)",
+        "person",
+        "older brother (own)",
+        "hundred million"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q67",
+      "passage_text": "> わたしの いえの ちかくに おく が あります。まいにち 一つ を します。たまに 二つ に いきます。",
+      "passage_label": "Passage 23 (Q67-Q69)",
+      "id": "dokkai-5.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「一つ」とは どのような いみですか。",
+      "choices": [
+        "she, her (girlfriend - more advanced sense)",
+        "younger sister",
+        "older sister (own)",
+        "one (thing)"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q68",
+      "passage_text": "> わたしの いえの ちかくに おく が あります。まいにち 一つ を します。たまに 二つ に いきます。",
+      "passage_label": "Passage 23 (Q67-Q69)",
+      "id": "dokkai-5.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「二つ」とは どのような いみですか。",
+      "choices": [
+        "oneself",
+        "aunt, middle-aged woman",
+        "grandfather, elderly man",
+        "two"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q69",
+      "passage_text": "> わたしの いえの ちかくに おく が あります。まいにち 一つ を します。たまに 二つ に いきます。",
+      "passage_label": "Passage 23 (Q67-Q69)",
+      "id": "dokkai-5.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「五つ」とは どのような いみですか。",
+      "choices": [
+        "she, her (girlfriend - more advanced sense)",
+        "siblings",
+        "five",
+        "uncle, middle-aged man"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q70",
+      "passage_text": "> わたしの いえの ちかくに 五つ が あります。まいにち 六つ を します。たまに 七つ に いきます。",
+      "passage_label": "Passage 24 (Q70-Q72)",
+      "id": "dokkai-5.10"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「六つ」とは どのような いみですか。",
+      "choices": [
+        "younger brother",
+        "mother (someone else's / address form)",
+        "six",
+        "siblings"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q71",
+      "passage_text": "> わたしの いえの ちかくに 五つ が あります。まいにち 六つ を します。たまに 七つ に いきます。",
+      "passage_label": "Passage 24 (Q70-Q72)",
+      "id": "dokkai-5.11"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「七つ」とは どのような いみですか。",
+      "choices": [
+        "older brother (own)",
+        "seven",
+        "father (own)",
+        "older sister (polite)"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q72",
+      "passage_text": "> わたしの いえの ちかくに 五つ が あります。まいにち 六つ を します。たまに 七つ に いきます。",
+      "passage_label": "Passage 24 (Q70-Q72)",
+      "id": "dokkai-5.12"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「十」とは どのような いみですか。",
+      "choices": [
+        "family",
+        "ten",
+        "aunt, middle-aged woman",
+        "who"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q73",
+      "passage_text": "> わたしの いえの ちかくに 十 が あります。まいにち いくつ を します。たまに 人 に いきます。",
+      "passage_label": "Passage 25 (Q73-Q75)",
+      "id": "dokkai-5.13"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「いくつ」とは どのような いみですか。",
+      "choices": [
+        "how many",
+        "who (polite)",
+        "younger brother",
+        "everyone (polite)"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q74",
+      "passage_text": "> わたしの いえの ちかくに 十 が あります。まいにち いくつ を します。たまに 人 に いきます。",
+      "passage_label": "Passage 25 (Q73-Q75)",
+      "id": "dokkai-5.14"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "問: 「人」とは どのような いみですか。",
+      "choices": [
+        "father (someone else's / address form)",
+        "counter for people",
+        "you",
+        "younger brother"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q75",
+      "passage_text": "> わたしの いえの ちかくに 十 が あります。まいにち いくつ を します。たまに 人 に いきます。",
+      "passage_label": "Passage 25 (Q73-Q75)",
+      "id": "dokkai-5.15"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "goi-4",
+  "category": "goi",
+  "paperNumber": 4,
+  "name": "Goi Paper 4",
+  "source_file": "KnowledgeBank/goi_questions_n4.md",
+  "source_question_range": "Q46-Q60",
+  "questionCount": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "「police officer (friendly)」を あらわす ことばは どれですか。",
+      "choices": [
+        "かぞく",
+        "ともだち",
+        "おまわりさん",
+        "大人"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q46",
+      "id": "goi-4.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「international student」を あらわす ことばは どれですか。",
+      "choices": [
+        "男",
+        "りゅうがくせい",
+        "お父さん",
+        "おねえさん"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q47",
+      "id": "goi-4.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「foreigner」を あらわす ことばは どれですか。",
+      "choices": [
+        "女の子",
+        "外国人",
+        "お父さん",
+        "おにいさん"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q48",
+      "id": "goi-4.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「body」を あらわす ことばは どれですか。",
+      "choices": [
+        "男",
+        "おじいさん",
+        "人",
+        "からだ"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q49",
+      "id": "goi-4.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「head」を あらわす ことばは どれですか。",
+      "choices": [
+        "いもうと",
+        "あたま",
+        "父",
+        "子ども"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q50",
+      "id": "goi-4.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「face」を あらわす ことばは どれですか。",
+      "choices": [
+        "かお",
+        "人",
+        "きょうだい",
+        "りょうしん"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q51",
+      "id": "goi-4.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「eye」を あらわす ことばは どれですか。",
+      "choices": [
+        "おじいさん",
+        "め",
+        "ともだち",
+        "子ども"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q52",
+      "id": "goi-4.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「ear」を あらわす ことばは どれですか。",
+      "choices": [
+        "かぞく",
+        "母",
+        "おじいさん",
+        "みみ"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q53",
+      "id": "goi-4.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「nose」を あらわす ことばは どれですか。",
+      "choices": [
+        "はな",
+        "おばあさん",
+        "かた",
+        "おじいさん"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q54",
+      "id": "goi-4.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「mouth」を あらわす ことばは どれですか。",
+      "choices": [
+        "男",
+        "そぼ",
+        "人",
+        "くち"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q55",
+      "id": "goi-4.10"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「tooth」を あらわす ことばは どれですか。",
+      "choices": [
+        "は",
+        "お父さん",
+        "あに",
+        "男"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q56",
+      "id": "goi-4.11"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「hand」を あらわす ことばは どれですか。",
+      "choices": [
+        "て",
+        "お母さん",
+        "お父さん",
+        "男の子"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q57",
+      "id": "goi-4.12"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「leg, foot」を あらわす ことばは どれですか。",
+      "choices": [
+        "男の子",
+        "みなさん",
+        "あし",
+        "そふ"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q58",
+      "id": "goi-4.13"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「stomach, belly」を あらわす ことばは どれですか。",
+      "choices": [
+        "おにいさん",
+        "お父さん",
+        "おなか",
+        "人"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q59",
+      "id": "goi-4.14"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「back, height」を あらわす ことばは どれですか。",
+      "choices": [
+        "せ",
+        "おばさん",
+        "父",
+        "おじいさん"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q60",
+      "id": "goi-4.15"
+    }
+  ]
+}

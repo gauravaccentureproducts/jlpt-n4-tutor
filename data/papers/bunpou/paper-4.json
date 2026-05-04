@@ -1,0 +1,221 @@
+{
+  "id": "bunpou-4",
+  "category": "bunpou",
+  "paperNumber": 4,
+  "name": "Bunpou Paper 4",
+  "source_file": "KnowledgeBank/bunpou_questions_n4.md",
+  "source_question_range": "Q46-Q60",
+  "questionCount": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "「どうして / なぜ - 'why'」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "どうして / なぜ",
+        "よね",
+        "nominalizer in basic use",
+        "possessive / noun-modifier"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q46",
+      "id": "bunpou-4.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「どうやって - 'how / by what means'」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "しか～ない",
+        "〜です／〜ます",
+        "どうやって",
+        "ここ／そこ／あそこ／どこ"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q47",
+      "id": "bunpou-4.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「いくら - 'how much' (price)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "〜の",
+        "よね",
+        "～の",
+        "いくら"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q48",
+      "id": "bunpou-4.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「いくつ - 'how many' (general counter / age)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "possessive / noun-modifier",
+        "〜です／〜ます",
+        "から～まで",
+        "いくつ"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q49",
+      "id": "bunpou-4.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「なんじ - 'what time'」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "この／その／あの／どの ＋ N (noun)",
+        "なんじ",
+        "しか～ない",
+        "〜の"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q50",
+      "id": "bunpou-4.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「なんようび - 'what day of the week'」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "なんようび",
+        "この／その／あの／どの ＋ N (noun)",
+        "ここ／そこ／あそこ／どこ",
+        "よね"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q51",
+      "id": "bunpou-4.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「なんがつ / なんにち - 'what month / what day'」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "なんがつ なんにち",
+        "～の",
+        "〜です／〜ます",
+        "〜の"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q52",
+      "id": "bunpou-4.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Polite non-past affirmative verb ending」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "Verb-ます",
+        "～の",
+        "ここ／そこ／あそこ／どこ",
+        "〜です／〜ます"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q53",
+      "id": "bunpou-4.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Polite non-past negative verb ending」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "Verb-ません",
+        "なに／なん",
+        "nominalizer in basic use",
+        "〜の"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q54",
+      "id": "bunpou-4.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Polite past affirmative verb ending」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "から～まで",
+        "Verb-ました",
+        "possessive / noun-modifier",
+        "だれ／どなた"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q55",
+      "id": "bunpou-4.10"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Polite past negative verb ending」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "これ／それ／あれ／どれ",
+        "〜です／〜ます",
+        "possessive / noun-modifier",
+        "Verb-ませんでした"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q56",
+      "id": "bunpou-4.11"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Let's / shall we (volitional / suggestion)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "〜です／〜ます",
+        "しか～ない",
+        "～の",
+        "Verb-ましょう"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q57",
+      "id": "bunpou-4.12"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Verb-ましょうか - 'shall I / shall we (offer/suggestion)?'」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "Verb-ましょうか",
+        "しか～ない",
+        "よね",
+        "ここ／そこ／あそこ／どこ"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q58",
+      "id": "bunpou-4.13"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Won't you...? (polite invitation)」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "possessive / noun-modifier",
+        "〜です／〜ます",
+        "Verb-ませんか",
+        "〜の"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q59",
+      "id": "bunpou-4.14"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「Plain (dictionary) form - non-past affirmative, casual / written」を あらわす ぶんぽうは どれですか。",
+      "choices": [
+        "ここ／そこ／あそこ／どこ",
+        "nominalizer in basic use",
+        "Verb-る / Verb-う",
+        "～の"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q60",
+      "id": "bunpou-4.15"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "moji-4",
+  "category": "moji",
+  "paperNumber": 4,
+  "name": "Moji Paper 4",
+  "source_file": "KnowledgeBank/moji_questions_n4.md",
+  "source_question_range": "Q46-Q60",
+  "questionCount": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "<u>外国人</u> の よみかたを えらんでください。",
+      "choices": [
+        "このあいだ",
+        "がいこくじん",
+        "にゅういんする",
+        "もくようび"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q46",
+      "id": "moji-4.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>気分</u> の よみかたを えらんでください。",
+      "choices": [
+        "にほんご",
+        "さげる",
+        "けいかく",
+        "きぶん"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q47",
+      "id": "moji-4.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>毎年</u> の よみかたを えらんでください。",
+      "choices": [
+        "(option-4)",
+        "(option-3)",
+        "まいとし / まいねん",
+        "にほん / にっぽん"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q48",
+      "id": "moji-4.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>出る</u> の よみかたを えらんでください。",
+      "choices": [
+        "おとこ",
+        "たかい",
+        "じかん",
+        "でる"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q49",
+      "id": "moji-4.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "<u>今度</u> の よみかたを えらんでください。",
+      "choices": [
+        "こんど",
+        "おや",
+        "せん",
+        "くださる"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q50",
+      "id": "moji-4.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "毎週",
+        "会社員",
+        "天気",
+        "一万"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q51",
+      "id": "moji-4.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "中学校",
+        "火事",
+        "半分",
+        "会社員"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q52",
+      "id": "moji-4.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "電話する",
+        "新しい",
+        "中国語",
+        "知らせる"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q53",
+      "id": "moji-4.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "工場",
+        "中国",
+        "一",
+        "電車"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q54",
+      "id": "moji-4.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "運ぶ",
+        "社会",
+        "校長",
+        "屋上"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q55",
+      "id": "moji-4.10"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "急行",
+        "日曜日",
+        "男の子",
+        "火"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q56",
+      "id": "moji-4.11"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "毎日",
+        "火曜日",
+        "大学",
+        "大分"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q57",
+      "id": "moji-4.12"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "親切",
+        "会話",
+        "中国",
+        "二"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q58",
+      "id": "moji-4.13"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "一万",
+        "男",
+        "先週",
+        "大人"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q59",
+      "id": "moji-4.14"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "",
+      "choices": [
+        "月",
+        "女の子",
+        "出る",
+        "特に"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q60",
+      "id": "moji-4.15"
+    }
+  ]
+}

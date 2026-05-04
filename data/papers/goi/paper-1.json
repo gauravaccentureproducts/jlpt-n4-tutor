@@ -1,0 +1,221 @@
+{
+  "id": "goi-1",
+  "category": "goi",
+  "paperNumber": 1,
+  "name": "Goi Paper 1",
+  "source_file": "KnowledgeBank/goi_questions_n4.md",
+  "source_question_range": "Q1-Q15",
+  "questionCount": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "stem_html": "「私」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "oneself",
+        "we",
+        "she, her (girlfriend - more advanced sense)",
+        "I, me"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q1",
+      "id": "goi-1.1"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「私たち」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "he, him (boyfriend - more advanced sense)",
+        "she, her (girlfriend - more advanced sense)",
+        "we",
+        "oneself"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q2",
+      "id": "goi-1.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「あなた」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "you",
+        "he, him (boyfriend - more advanced sense)",
+        "we",
+        "I, me"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q3",
+      "id": "goi-1.3"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「かれ」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "you",
+        "we",
+        "I, me",
+        "he, him (boyfriend - more advanced sense)"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q4",
+      "id": "goi-1.4"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「かのじょ」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "I, me",
+        "we",
+        "he, him (boyfriend - more advanced sense)",
+        "she, her (girlfriend - more advanced sense)"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q5",
+      "id": "goi-1.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「かた」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "older brother (polite)",
+        "person",
+        "grandfather, elderly man",
+        "person (polite)"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q6",
+      "id": "goi-1.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「人」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "parents",
+        "father (own)",
+        "older brother (polite)",
+        "person"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q7",
+      "id": "goi-1.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「みなさん」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "grandfather, elderly man",
+        "everyone (polite)",
+        "siblings",
+        "older sister (polite)"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q8",
+      "id": "goi-1.8"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「だれ」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "who",
+        "how many, how old",
+        "why, by what means",
+        "how much (price)"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q9",
+      "id": "goi-1.9"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「どなた」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "who",
+        "when",
+        "who (polite)",
+        "how much (price)"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q10",
+      "id": "goi-1.10"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「じぶん」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "she, her (girlfriend - more advanced sense)",
+        "we",
+        "I, me",
+        "oneself"
+      ],
+      "correctIndex": 3,
+      "rationale": "",
+      "kbSourceId": "Q11",
+      "id": "goi-1.11"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「かぞく」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "grandmother (own)",
+        "person",
+        "family",
+        "everyone (polite)"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q12",
+      "id": "goi-1.12"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「父」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "adult",
+        "father (own)",
+        "older brother (own)",
+        "younger brother"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q13",
+      "id": "goi-1.13"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「母」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "father (own)",
+        "mother (own)",
+        "family",
+        "uncle, middle-aged man"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q14",
+      "id": "goi-1.14"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「お父さん」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "siblings",
+        "father (someone else's / address form)",
+        "aunt, middle-aged woman",
+        "father (own)"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q15",
+      "id": "goi-1.15"
+    }
+  ]
+}
