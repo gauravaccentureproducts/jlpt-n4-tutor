@@ -162,10 +162,10 @@ function renderRecommendation(masteredIds, weakIds, untestedIds, patternMap) {
     const p = patternMap.get(pid);
     if (p) recs.push({ pid, label: p.pattern, why: 'Needs practice (≥ 50% errors)' });
   }
-  // 2. If room, recommend untested foundational patterns (n5-001 through n5-019)
+  // 2. If room, recommend untested foundational patterns (n4-001 through n4-019)
   if (recs.length < 5) {
     const slots = 5 - recs.length;
-    const untestedFoundations = untestedIds.filter(id => /^n5-0(0[1-9]|1[0-9])$/.test(id)).slice(0, slots);
+    const untestedFoundations = untestedIds.filter(id => /^n4-0(0[1-9]|1[0-9])$/.test(id)).slice(0, slots);
     for (const pid of untestedFoundations) {
       const p = patternMap.get(pid);
       if (p) recs.push({ pid, label: p.pattern, why: 'Foundational - not yet practiced' });

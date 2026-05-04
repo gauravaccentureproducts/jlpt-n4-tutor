@@ -242,7 +242,7 @@ function renderVocabList(container, data) {
     <article class="vocab-toc">
       <a class="back-link" href="#/learn">← Back to Learn</a>
       <h2>Vocabulary</h2>
-      <p class="page-lede">${entries.length} N5 words in ${VOCAB_SUPERSECTS.length} sections.</p>
+      <p class="page-lede">${entries.length} N4 words in ${VOCAB_SUPERSECTS.length} sections.</p>
       <div class="toc-controls">
         <button type="button" class="btn-secondary toc-expand-all">Expand all</button>
         <button type="button" class="btn-secondary toc-collapse-all">Collapse all</button>
@@ -406,10 +406,25 @@ const GRAMMAR_SUPERCATS = [
     'Additional Upper N5 / Borderline Patterns - Intention',
     'Additional Upper N5 / Borderline Patterns - Way of Doing',
     'Additional Upper N5 / Borderline Patterns - Prohibitive (Casual)',
+    // N4 categories
+    'Verb forms (overview)',
+    'Te-form patterns',
+    'Nai-form patterns',
+    'Ta-form patterns',
+    'Dictionary-form patterns',
+    'Potential form',
+    'Volitional form',
+    'Conditionals (たら / ば / なら / と)',
+    'Giving and receiving (あげる / くれる / もらう)',
+    'Requests and permission',
+    'Obligation and prohibition',
+    'Experience and plans',
   ]],
   ['Adjectives and Comparison', [
     'Adjectives',
     'Comparison and Preference',
+    // N4 categories
+    'Comparison and degree',
   ]],
   ['Time, Counters, Connectives', [
     'Counters and Quantity',
@@ -417,6 +432,10 @@ const GRAMMAR_SUPERCATS = [
     'Conjunctions and Connectives',
     'Asking and Stating with から / ので (basic causation)',
     'Existence-of-Plans and Frequency',
+    // N4 categories
+    'Conjunctions and sentence connectors',
+    'Time expressions',
+    'Frequency and adverbs',
   ]],
   ['Set Phrases and Discourse', [
     'Nominalization and Modification',
@@ -427,6 +446,9 @@ const GRAMMAR_SUPERCATS = [
     'Additional Upper N5 / Borderline Patterns - Explanation and Emphasis',
     'Additional Upper N5 / Borderline Patterns - Quotation (Casual)',
     'Additional Upper N5 / Borderline Patterns - Sentence-Final Exclamation',
+    // N4 categories
+    'Quotation and thought',
+    'Explanation and reason',
   ]],
 ];
 

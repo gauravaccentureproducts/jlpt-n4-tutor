@@ -1,16 +1,24 @@
 {
-  "step": 6,
-  "completed": [1, 2, 3, 4, 5, 6],
+  "step": 9,
+  "completed": [1, 2, 3, 4, 5, 6, 9],
   "in_progress": null,
-  "next": 7,
-  "buildVersion": "v0.1.0",
+  "next": 14,
+  "buildVersion": "v0.1.0-alpha",
   "lastCommit": "pending",
   "startedAt": "2026-05-04T10:30:00Z",
+  "deferred": {
+    "7": "Reading + Listening corpora (~30 + ~30 items, ~6-10 hr authoring) - empty stubs in place",
+    "8": "Question banks (~530 questions, ~12-24 hr authoring) - empty stubs in place; JA-8 fails",
+    "10": "Audio pipeline (synthetic gtts) - empty manifest in place; runs in next pass against authored content",
+    "11": "LLM audit - defer to next pass",
+    "12": "Coverage comparison - defer to next pass",
+    "13": "Browser smoke test - requires live server, defer to next pass"
+  },
   "stepNotes": {
     "3": "kanji whitelist (249 glyphs)",
-    "4": "kanji catalogue structurally complete; per-glyph examples deferred",
-    "5": "vocab seed (1159 entries = 1041 N5 prereq + 118 N4 from sample)",
-    "6": "grammar catalogue (307 patterns = 178 N5 prereq + 129 N4 from inventory). Meta-topics dropped (意向形, 受身形, etc.). Out-of-scope-kanji patterns kana-folded (場合は -> ばあいは, etc.).",
-    "integrity_state_after_step_6": "35/41 invariants PASS. 6 FAIL all in JA-8 (Q-count, expects 591 questions, has 0). Question banks deferred to step 8."
+    "4": "kanji catalogue structurally complete",
+    "5": "vocab seed (1159 entries)",
+    "6": "grammar catalogue (307 patterns)",
+    "9": "UI N4 wiring: feedback placeholder, home.js pillar desc, learn.js page lede, settings.js export filename, summary.js foundational regex, learn.js GRAMMAR_SUPERCATS extended with 18 N4 categories"
   }
 }

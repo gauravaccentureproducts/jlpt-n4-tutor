@@ -18,7 +18,7 @@
 // 0/30 until that feature lands.
 //
 // Copy register: describe contents, no marketing language. No "Master JLPT
-// N5" / "Your ultimate study companion" / "Start your journey." Counts are
+// N4" / "Your ultimate study companion" / "Start your journey." Counts are
 // bare numerals + nouns. (Spec §5.1.1, mandatory.)
 import * as storage from './storage.js';
 
@@ -127,7 +127,7 @@ function syllabusCards(counts) {
       idx: '01', id: 'grammar',
       title: 'Grammar',
       count: `${fmt(counts.grammar)} patterns`,
-      desc: 'Basic sentence structure, particles, verb forms, adjectives, comparison, requests, and common N5 expressions.',
+      desc: 'Verb conjugations (te, ta, nai, potential, volitional), conditionals, giving/receiving, requests, obligation, and common N4 expressions.',
       href: '#/learn/grammar',
       action: 'Open Grammar Syllabus',
     },

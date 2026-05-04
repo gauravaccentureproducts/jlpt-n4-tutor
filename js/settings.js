@@ -187,7 +187,7 @@ export async function renderSettings(container) {
     const payload = storage.exportProgress();
     const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
     const url = URL.createObjectURL(blob);
-    const filename = `jlpt-n5-progress-${new Date().toISOString().slice(0,10)}.json`;
+    const filename = `jlpt-n4-progress-${new Date().toISOString().slice(0,10)}.json`;
     const a = document.createElement('a');
     a.href = url;
     a.download = filename;

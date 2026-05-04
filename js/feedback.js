@@ -104,7 +104,7 @@ export function renderFeedback(container) {
         <label class="feedback-field">
           <span class="feedback-label">Message <span class="feedback-required" aria-hidden="true">*</span></span>
           <textarea id="fb-body" required rows="8" maxlength="4000"
-                    placeholder="What happened? If it's a content issue, please cite the entry ID (e.g., n5-001, n5.kanji.私, n5.read.012)."></textarea>
+                    placeholder="What happened? If it's a content issue, please cite the entry ID (e.g., n4-001, n4.kanji.私, n4.read.012)."></textarea>
           <span class="feedback-help">For bugs: include the steps to reproduce + your browser. For content corrections: cite the entry ID.</span>
         </label>
 
