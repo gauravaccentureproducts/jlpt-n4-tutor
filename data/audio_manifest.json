@@ -1,8 +1,411 @@
 {
-  "_meta": {
-    "schema_version": 1,
-    "total_files": 0,
-    "voice_default": "synthetic"
-  },
-  "files": {}
+  "backend": "gtts",
+  "voice_default": "synthetic-gtts",
+  "items": [
+    {
+      "id": "grammar.n4-prereq-001.0",
+      "path": "audio/grammar/n4-prereq-001.0.mp3",
+      "voice": "synthetic-gtts",
+      "skipped": true
+    },
+    {
+      "id": "grammar.n4-prereq-001.1",
+      "path": "audio/grammar/n4-prereq-001.1.mp3",
+      "voice": "synthetic-gtts",
+      "skipped": true
+    },
+    {
+      "id": "grammar.n4-prereq-001.2",
+      "path": "audio/grammar/n4-prereq-001.2.mp3",
+      "voice": "synthetic-gtts",
+      "skipped": true
+    },
+    {
+      "id": "grammar.n4-prereq-001.3",
+      "path": "audio/grammar/n4-prereq-001.3.mp3",
+      "voice": "synthetic-gtts",
+      "skipped": true
+    },
+    {
+      "id": "grammar.n4-prereq-001.4",
+      "path": "audio/grammar/n4-prereq-001.4.mp3",
+      "voice": "synthetic-gtts",
+      "skipped": true
+    },
+    {
+      "id": "grammar.n4-prereq-002.0",
+      "path": "audio/grammar/n4-prereq-002.0.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-002.1",
+      "path": "audio/grammar/n4-prereq-002.1.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-002.2",
+      "path": "audio/grammar/n4-prereq-002.2.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-002.3",
+      "path": "audio/grammar/n4-prereq-002.3.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-002.4",
+      "path": "audio/grammar/n4-prereq-002.4.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-002.5",
+      "path": "audio/grammar/n4-prereq-002.5.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-003.0",
+      "path": "audio/grammar/n4-prereq-003.0.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-003.1",
+      "path": "audio/grammar/n4-prereq-003.1.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-003.2",
+      "path": "audio/grammar/n4-prereq-003.2.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-003.3",
+      "path": "audio/grammar/n4-prereq-003.3.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-003.4",
+      "path": "audio/grammar/n4-prereq-003.4.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-004.0",
+      "path": "audio/grammar/n4-prereq-004.0.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-004.1",
+      "path": "audio/grammar/n4-prereq-004.1.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-004.2",
+      "path": "audio/grammar/n4-prereq-004.2.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-004.3",
+      "path": "audio/grammar/n4-prereq-004.3.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-004.4",
+      "path": "audio/grammar/n4-prereq-004.4.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-005.0",
+      "path": "audio/grammar/n4-prereq-005.0.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-005.1",
+      "path": "audio/grammar/n4-prereq-005.1.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-005.2",
+      "path": "audio/grammar/n4-prereq-005.2.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-005.3",
+      "path": "audio/grammar/n4-prereq-005.3.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-005.4",
+      "path": "audio/grammar/n4-prereq-005.4.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-006.0",
+      "path": "audio/grammar/n4-prereq-006.0.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-006.1",
+      "path": "audio/grammar/n4-prereq-006.1.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-006.2",
+      "path": "audio/grammar/n4-prereq-006.2.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-006.3",
+      "path": "audio/grammar/n4-prereq-006.3.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-007.0",
+      "path": "audio/grammar/n4-prereq-007.0.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-007.1",
+      "path": "audio/grammar/n4-prereq-007.1.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-007.2",
+      "path": "audio/grammar/n4-prereq-007.2.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-007.3",
+      "path": "audio/grammar/n4-prereq-007.3.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-007.4",
+      "path": "audio/grammar/n4-prereq-007.4.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-008.0",
+      "path": "audio/grammar/n4-prereq-008.0.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-008.1",
+      "path": "audio/grammar/n4-prereq-008.1.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-008.2",
+      "path": "audio/grammar/n4-prereq-008.2.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-008.3",
+      "path": "audio/grammar/n4-prereq-008.3.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-008.4",
+      "path": "audio/grammar/n4-prereq-008.4.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-009.0",
+      "path": "audio/grammar/n4-prereq-009.0.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-009.1",
+      "path": "audio/grammar/n4-prereq-009.1.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-009.2",
+      "path": "audio/grammar/n4-prereq-009.2.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-009.3",
+      "path": "audio/grammar/n4-prereq-009.3.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-009.4",
+      "path": "audio/grammar/n4-prereq-009.4.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-010.0",
+      "path": "audio/grammar/n4-prereq-010.0.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-010.1",
+      "path": "audio/grammar/n4-prereq-010.1.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-010.2",
+      "path": "audio/grammar/n4-prereq-010.2.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-010.3",
+      "path": "audio/grammar/n4-prereq-010.3.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "grammar.n4-prereq-010.4",
+      "path": "audio/grammar/n4-prereq-010.4.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.001",
+      "path": "audio/listening/n4.listen.001.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.002",
+      "path": "audio/listening/n4.listen.002.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.003",
+      "path": "audio/listening/n4.listen.003.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.004",
+      "path": "audio/listening/n4.listen.004.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.005",
+      "path": "audio/listening/n4.listen.005.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.006",
+      "path": "audio/listening/n4.listen.006.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.007",
+      "path": "audio/listening/n4.listen.007.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.008",
+      "path": "audio/listening/n4.listen.008.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.009",
+      "path": "audio/listening/n4.listen.009.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.010",
+      "path": "audio/listening/n4.listen.010.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.011",
+      "path": "audio/listening/n4.listen.011.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.012",
+      "path": "audio/listening/n4.listen.012.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.013",
+      "path": "audio/listening/n4.listen.013.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.014",
+      "path": "audio/listening/n4.listen.014.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.015",
+      "path": "audio/listening/n4.listen.015.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.016",
+      "path": "audio/listening/n4.listen.016.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.017",
+      "path": "audio/listening/n4.listen.017.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.018",
+      "path": "audio/listening/n4.listen.018.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.019",
+      "path": "audio/listening/n4.listen.019.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.020",
+      "path": "audio/listening/n4.listen.020.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.021",
+      "path": "audio/listening/n4.listen.021.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.022",
+      "path": "audio/listening/n4.listen.022.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.023",
+      "path": "audio/listening/n4.listen.023.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.024",
+      "path": "audio/listening/n4.listen.024.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.025",
+      "path": "audio/listening/n4.listen.025.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.026",
+      "path": "audio/listening/n4.listen.026.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.027",
+      "path": "audio/listening/n4.listen.027.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.028",
+      "path": "audio/listening/n4.listen.028.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.029",
+      "path": "audio/listening/n4.listen.029.mp3",
+      "voice": "synthetic-gtts"
+    },
+    {
+      "id": "listening.n4.listen.030",
+      "path": "audio/listening/n4.listen.030.mp3",
+      "voice": "synthetic-gtts"
+    }
+  ]
 }
