@@ -12,9 +12,9 @@ name: playwright-p0-smoke
 
 on:
   push:
-    branches: [main]
+    branches: [main, master]
   pull_request:
-    branches: [main]
+    branches: [main, master]
   workflow_dispatch:
 
 jobs:
