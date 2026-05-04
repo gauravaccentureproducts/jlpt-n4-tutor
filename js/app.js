@@ -50,11 +50,11 @@ const ROUTES = {
   papers:     renderPapers,
   changelog:  renderChangelog,
   feedback:   renderFeedback,
-  // Level-1 hierarchy: picker + 4 placeholder pages for N4-N1.
-  // The actual N5 content stays at all the routes above (home, learn,
-  // test, etc.) — clicking N5 on the picker navigates to #/home.
+  // Level-1 hierarchy: picker + 3 placeholder pages for N3-N1.
+  // The actual N4 content stays at all the routes above (home, learn,
+  // test, etc.) — clicking N4 on the picker navigates to #/home.
+  // N5 is a sibling deploy (cross-origin), routed by levels.js itself.
   levels:     renderLevels,
-  n4:         renderLevelPlaceholder,
   n3:         renderLevelPlaceholder,
   n2:         renderLevelPlaceholder,
   n1:         renderLevelPlaceholder,
