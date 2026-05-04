@@ -3936,7 +3936,23 @@
       ],
       "stroke_order_svg": "svg/kanji/事.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "大事",
+          "reading": "だいじ",
+          "gloss": "important"
+        },
+        {
+          "form": "火事",
+          "reading": "かじ",
+          "gloss": "fire"
+        },
+        {
+          "form": "用事",
+          "reading": "ようじ",
+          "gloss": "tasks"
+        }
+      ],
       "notes": ""
     },
     {
@@ -3985,7 +4001,18 @@
       ],
       "stroke_order_svg": "svg/kanji/発.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "発音",
+          "reading": "はつおん",
+          "gloss": "pronunciation"
+        },
+        {
+          "form": "発音する",
+          "reading": "はつおんする",
+          "gloss": "to pronunciation"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4032,7 +4059,13 @@
       ],
       "stroke_order_svg": "svg/kanji/地.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "地理",
+          "reading": "ちり",
+          "gloss": "geography"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4058,7 +4091,13 @@
       ],
       "stroke_order_svg": "svg/kanji/業.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "工業",
+          "reading": "こうぎょう",
+          "gloss": "industry"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4083,7 +4122,13 @@
       ],
       "stroke_order_svg": "svg/kanji/方.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "仕方",
+          "reading": "しかた",
+          "gloss": "way"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4107,7 +4152,23 @@
       ],
       "stroke_order_svg": "svg/kanji/場.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "会場",
+          "reading": "かいじょう",
+          "gloss": "assembly hall"
+        },
+        {
+          "form": "工場",
+          "reading": "こうじょう",
+          "gloss": "factory"
+        },
+        {
+          "form": "売り場",
+          "reading": "うりば",
+          "gloss": "selling area"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4133,7 +4194,13 @@
       ],
       "stroke_order_svg": "svg/kanji/開.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "開く",
+          "reading": "ひらく",
+          "gloss": "to open"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4184,7 +4251,18 @@
       ],
       "stroke_order_svg": "svg/kanji/代.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "時代",
+          "reading": "じだい",
+          "gloss": "period"
+        },
+        {
+          "form": "代わり",
+          "reading": "かわり",
+          "gloss": "instead"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4234,7 +4312,13 @@
       ],
       "stroke_order_svg": "svg/kanji/動.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "動く",
+          "reading": "うごく",
+          "gloss": "to move"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4286,7 +4370,18 @@
       ],
       "stroke_order_svg": "svg/kanji/通.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "通う",
+          "reading": "かよう",
+          "gloss": "to commute"
+        },
+        {
+          "form": "通る",
+          "reading": "とおる",
+          "gloss": "to go through"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4311,7 +4406,18 @@
       ],
       "stroke_order_svg": "svg/kanji/理.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "地理",
+          "reading": "ちり",
+          "gloss": "geography"
+        },
+        {
+          "form": "無理",
+          "reading": "むり",
+          "gloss": "impossible"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4337,7 +4443,13 @@
       ],
       "stroke_order_svg": "svg/kanji/体.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "大体",
+          "reading": "だいたい",
+          "gloss": "roughly"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4365,7 +4477,13 @@
       ],
       "stroke_order_svg": "svg/kanji/主.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "ご主人",
+          "reading": "ごしゅじん",
+          "gloss": "your husband"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4412,7 +4530,33 @@
       ],
       "stroke_order_svg": "svg/kanji/意.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "注意",
+          "reading": "ちゅうい",
+          "gloss": "caution"
+        },
+        {
+          "form": "注意する",
+          "reading": "ちゅういする",
+          "gloss": "to caution"
+        },
+        {
+          "form": "意見",
+          "reading": "いけん",
+          "gloss": "opinion"
+        },
+        {
+          "form": "意見する",
+          "reading": "いけんする",
+          "gloss": "to opinion"
+        },
+        {
+          "form": "用意",
+          "reading": "ようい",
+          "gloss": "preparation"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4490,7 +4634,28 @@
       ],
       "stroke_order_svg": "svg/kanji/用.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "用",
+          "reading": "よう",
+          "gloss": "business"
+        },
+        {
+          "form": "用意",
+          "reading": "ようい",
+          "gloss": "preparation"
+        },
+        {
+          "form": "用意する",
+          "reading": "よういする",
+          "gloss": "to preparation"
+        },
+        {
+          "form": "用事",
+          "reading": "ようじ",
+          "gloss": "tasks"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4518,7 +4683,18 @@
       ],
       "stroke_order_svg": "svg/kanji/度.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "一度",
+          "reading": "いちど",
+          "gloss": "once"
+        },
+        {
+          "form": "今度",
+          "reading": "こんど",
+          "gloss": "this time"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4590,7 +4766,13 @@
       ],
       "stroke_order_svg": "svg/kanji/持.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "気持ち",
+          "reading": "きもち",
+          "gloss": "feeling"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4641,7 +4823,23 @@
       ],
       "stroke_order_svg": "svg/kanji/以.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "以外",
+          "reading": "いがい",
+          "gloss": "with the exception of"
+        },
+        {
+          "form": "以上",
+          "reading": "いじょう",
+          "gloss": "... and more"
+        },
+        {
+          "form": "以下",
+          "reading": "いか",
+          "gloss": "not exceeding"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4664,7 +4862,13 @@
       ],
       "stroke_order_svg": "svg/kanji/思.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "思い出す",
+          "reading": "おもいだす",
+          "gloss": "to remember"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4720,7 +4924,13 @@
       ],
       "stroke_order_svg": "svg/kanji/世.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "世界",
+          "reading": "せかい",
+          "gloss": "the world"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4772,7 +4982,13 @@
       ],
       "stroke_order_svg": "svg/kanji/正.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "正しい",
+          "reading": "ただしい",
+          "gloss": "right"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4796,7 +5012,18 @@
       ],
       "stroke_order_svg": "svg/kanji/院.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "入院",
+          "reading": "にゅういん",
+          "gloss": "hospitalization"
+        },
+        {
+          "form": "入院する",
+          "reading": "にゅういんする",
+          "gloss": "to hospitalization"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4821,7 +5048,18 @@
       ],
       "stroke_order_svg": "svg/kanji/心.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "安心",
+          "reading": "あんしん",
+          "gloss": "peace of mind"
+        },
+        {
+          "form": "心",
+          "reading": "こころ",
+          "gloss": "heart"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4843,7 +5081,13 @@
       ],
       "stroke_order_svg": "svg/kanji/界.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "世界",
+          "reading": "せかい",
+          "gloss": "the world"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4869,7 +5113,13 @@
       ],
       "stroke_order_svg": "svg/kanji/教.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "教会",
+          "reading": "きょうかい",
+          "gloss": "church"
+        }
+      ],
       "notes": ""
     },
     {
@@ -4896,7 +5146,13 @@
       ],
       "stroke_order_svg": "svg/kanji/文.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "文学",
+          "reading": "ぶんがく",
+          "gloss": "literature"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5000,7 +5256,13 @@
       ],
       "stroke_order_svg": "svg/kanji/考.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "考える",
+          "reading": "かんがえる",
+          "gloss": "to think"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5025,7 +5287,18 @@
       ],
       "stroke_order_svg": "svg/kanji/画.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "計画",
+          "reading": "けいかく",
+          "gloss": "to plan"
+        },
+        {
+          "form": "計画する",
+          "reading": "けいかくする",
+          "gloss": "to plan"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5072,7 +5345,13 @@
       ],
       "stroke_order_svg": "svg/kanji/売.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "売り場",
+          "reading": "うりば",
+          "gloss": "selling area"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5096,7 +5375,13 @@
       ],
       "stroke_order_svg": "svg/kanji/知.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "知らせる",
+          "reading": "しらせる",
+          "gloss": "to notify"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5120,7 +5405,18 @@
       ],
       "stroke_order_svg": "svg/kanji/集.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "集まる",
+          "reading": "あつまる",
+          "gloss": "to gather"
+        },
+        {
+          "form": "集める",
+          "reading": "あつめる",
+          "gloss": "to collect"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5146,7 +5442,18 @@
       ],
       "stroke_order_svg": "svg/kanji/別.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "特別",
+          "reading": "とくべつ",
+          "gloss": "special"
+        },
+        {
+          "form": "別れる",
+          "reading": "わかれる",
+          "gloss": "to separate"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5172,7 +5479,33 @@
       ],
       "stroke_order_svg": "svg/kanji/物.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "生き物",
+          "reading": "いきもの",
+          "gloss": "living thing"
+        },
+        {
+          "form": "見物",
+          "reading": "けんぶつ",
+          "gloss": "sightseeing"
+        },
+        {
+          "form": "見物する",
+          "reading": "けんぶつする",
+          "gloss": "to sightseeing"
+        },
+        {
+          "form": "着物",
+          "reading": "きもの",
+          "gloss": "kimono"
+        },
+        {
+          "form": "生物",
+          "reading": "せいぶつ",
+          "gloss": "living thing"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5224,7 +5557,18 @@
       ],
       "stroke_order_svg": "svg/kanji/品.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "品物",
+          "reading": "しなもの",
+          "gloss": "goods"
+        },
+        {
+          "form": "食料品",
+          "reading": "しょくりょうひん",
+          "gloss": "food"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5250,7 +5594,18 @@
       ],
       "stroke_order_svg": "svg/kanji/計.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "計画",
+          "reading": "けいかく",
+          "gloss": "to plan"
+        },
+        {
+          "form": "計画する",
+          "reading": "けいかくする",
+          "gloss": "to plan"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5295,7 +5650,23 @@
       ],
       "stroke_order_svg": "svg/kanji/特.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "特急",
+          "reading": "とっきゅう",
+          "gloss": "limited express (train)"
+        },
+        {
+          "form": "特別",
+          "reading": "とくべつ",
+          "gloss": "special"
+        },
+        {
+          "form": "特に",
+          "reading": "とくに",
+          "gloss": "especially"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5369,7 +5740,18 @@
       ],
       "stroke_order_svg": "svg/kanji/運.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "運ぶ",
+          "reading": "はこぶ",
+          "gloss": "to carry"
+        },
+        {
+          "form": "運転手",
+          "reading": "うんてんしゅ",
+          "gloss": "driver"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5393,7 +5775,13 @@
       ],
       "stroke_order_svg": "svg/kanji/終.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "終わり",
+          "reading": "おわり",
+          "gloss": "the end"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5419,7 +5807,13 @@
       ],
       "stroke_order_svg": "svg/kanji/台.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "台風",
+          "reading": "たいふう",
+          "gloss": "typhoon"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5499,7 +5893,18 @@
       ],
       "stroke_order_svg": "svg/kanji/無.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "無理",
+          "reading": "むり",
+          "gloss": "impossible"
+        },
+        {
+          "form": "無くなる",
+          "reading": "なくなる",
+          "gloss": "to disappear"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5525,7 +5930,13 @@
       ],
       "stroke_order_svg": "svg/kanji/真.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "真ん中",
+          "reading": "まんなか",
+          "gloss": "middle"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5625,7 +6036,13 @@
       ],
       "stroke_order_svg": "svg/kanji/料.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "食料品",
+          "reading": "しょくりょうひん",
+          "gloss": "food"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5649,7 +6066,18 @@
       ],
       "stroke_order_svg": "svg/kanji/工.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "工業",
+          "reading": "こうぎょう",
+          "gloss": "industry"
+        },
+        {
+          "form": "工場",
+          "reading": "こうじょう",
+          "gloss": "factory"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5673,7 +6101,13 @@
       ],
       "stroke_order_svg": "svg/kanji/建.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "建てる",
+          "reading": "たてる",
+          "gloss": "to build"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5699,7 +6133,33 @@
       ],
       "stroke_order_svg": "svg/kanji/急.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "急ぐ",
+          "reading": "いそぐ",
+          "gloss": "to hurry"
+        },
+        {
+          "form": "急",
+          "reading": "きゅう",
+          "gloss": "sudden"
+        },
+        {
+          "form": "急行",
+          "reading": "きゅうこう",
+          "gloss": "hurrying"
+        },
+        {
+          "form": "急行する",
+          "reading": "きゅうこうする",
+          "gloss": "to hurrying"
+        },
+        {
+          "form": "特急",
+          "reading": "とっきゅう",
+          "gloss": "limited express (train)"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5726,7 +6186,18 @@
       ],
       "stroke_order_svg": "svg/kanji/止.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "止める",
+          "reading": "とめる",
+          "gloss": "to stop something"
+        },
+        {
+          "form": "止む",
+          "reading": "やむ",
+          "gloss": "to stop"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5750,7 +6221,13 @@
       ],
       "stroke_order_svg": "svg/kanji/送.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "送る",
+          "reading": "おくる",
+          "gloss": "to send"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5776,7 +6253,13 @@
       ],
       "stroke_order_svg": "svg/kanji/切.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "親切",
+          "reading": "しんせつ",
+          "gloss": "kindness"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5801,7 +6284,13 @@
       ],
       "stroke_order_svg": "svg/kanji/転.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "運転手",
+          "reading": "うんてんしゅ",
+          "gloss": "driver"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5826,7 +6315,23 @@
       ],
       "stroke_order_svg": "svg/kanji/研.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "研究",
+          "reading": "けんきゅう",
+          "gloss": "research"
+        },
+        {
+          "form": "研究する",
+          "reading": "けんきゅうする",
+          "gloss": "to research"
+        },
+        {
+          "form": "研究室",
+          "reading": "けんきゅうしつ",
+          "gloss": "laboratory"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5848,7 +6353,23 @@
       ],
       "stroke_order_svg": "svg/kanji/究.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "研究",
+          "reading": "けんきゅう",
+          "gloss": "research"
+        },
+        {
+          "form": "研究する",
+          "reading": "けんきゅうする",
+          "gloss": "to research"
+        },
+        {
+          "form": "研究室",
+          "reading": "けんきゅうしつ",
+          "gloss": "laboratory"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5874,7 +6395,13 @@
       ],
       "stroke_order_svg": "svg/kanji/楽.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "楽しみ",
+          "reading": "たのしみ",
+          "gloss": "looking forward to"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5900,7 +6427,13 @@
       ],
       "stroke_order_svg": "svg/kanji/起.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "起こす",
+          "reading": "おこす",
+          "gloss": "to wake"
+        }
+      ],
       "notes": ""
     },
     {
@@ -5926,7 +6459,18 @@
       ],
       "stroke_order_svg": "svg/kanji/着.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "着物",
+          "reading": "きもの",
+          "gloss": "kimono"
+        },
+        {
+          "form": "下着",
+          "reading": "したぎ",
+          "gloss": "underwear"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6029,7 +6573,18 @@
       ],
       "stroke_order_svg": "svg/kanji/試.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "試験",
+          "reading": "しけん",
+          "gloss": "examination"
+        },
+        {
+          "form": "試験する",
+          "reading": "しけんする",
+          "gloss": "to examination"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6150,7 +6705,18 @@
       ],
       "stroke_order_svg": "svg/kanji/親.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "親",
+          "reading": "おや",
+          "gloss": "parents"
+        },
+        {
+          "form": "親切",
+          "reading": "しんせつ",
+          "gloss": "kindness"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6173,7 +6739,18 @@
       ],
       "stroke_order_svg": "svg/kanji/験.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "試験",
+          "reading": "しけん",
+          "gloss": "examination"
+        },
+        {
+          "form": "試験する",
+          "reading": "しけんする",
+          "gloss": "to examination"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6219,7 +6796,13 @@
       ],
       "stroke_order_svg": "svg/kanji/医.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "医学",
+          "reading": "いがく",
+          "gloss": "medical science"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6243,7 +6826,13 @@
       ],
       "stroke_order_svg": "svg/kanji/仕.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "仕方",
+          "reading": "しかた",
+          "gloss": "way"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6295,7 +6884,13 @@
       ],
       "stroke_order_svg": "svg/kanji/味.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "味",
+          "reading": "あじ",
+          "gloss": "flavor"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6320,7 +6915,13 @@
       ],
       "stroke_order_svg": "svg/kanji/写.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "写す",
+          "reading": "うつす",
+          "gloss": "to copy or photograph"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6343,7 +6944,13 @@
       ],
       "stroke_order_svg": "svg/kanji/字.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "字",
+          "reading": "じ",
+          "gloss": "character"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6367,7 +6974,13 @@
       ],
       "stroke_order_svg": "svg/kanji/答.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "答え",
+          "reading": "こたえ",
+          "gloss": "response"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6392,7 +7005,13 @@
       ],
       "stroke_order_svg": "svg/kanji/夜.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "今夜",
+          "reading": "こにゃ",
+          "gloss": "this evening"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6417,7 +7036,23 @@
       ],
       "stroke_order_svg": "svg/kanji/音.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "発音",
+          "reading": "はつおん",
+          "gloss": "pronunciation"
+        },
+        {
+          "form": "発音する",
+          "reading": "はつおんする",
+          "gloss": "to pronunciation"
+        },
+        {
+          "form": "音",
+          "reading": "おと",
+          "gloss": "sound"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6446,7 +7081,18 @@
       ],
       "stroke_order_svg": "svg/kanji/注.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "注意",
+          "reading": "ちゅうい",
+          "gloss": "caution"
+        },
+        {
+          "form": "注意する",
+          "reading": "ちゅういする",
+          "gloss": "to caution"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6473,7 +7119,13 @@
       ],
       "stroke_order_svg": "svg/kanji/帰.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "帰り",
+          "reading": "かえり",
+          "gloss": "return"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6577,7 +7229,13 @@
       ],
       "stroke_order_svg": "svg/kanji/室.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "研究室",
+          "reading": "けんきゅうしつ",
+          "gloss": "laboratory"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6631,7 +7289,13 @@
       ],
       "stroke_order_svg": "svg/kanji/風.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "台風",
+          "reading": "たいふう",
+          "gloss": "typhoon"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6724,7 +7388,13 @@
       ],
       "stroke_order_svg": "svg/kanji/赤.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "赤ちゃん",
+          "reading": "あかちゃん",
+          "gloss": "baby"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6774,7 +7444,13 @@
       ],
       "stroke_order_svg": "svg/kanji/館.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "旅館",
+          "reading": "りょかん",
+          "gloss": "traditional inn"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6801,7 +7477,13 @@
       ],
       "stroke_order_svg": "svg/kanji/屋.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "屋上",
+          "reading": "おくじょう",
+          "gloss": "rooftop"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6825,7 +7507,13 @@
       ],
       "stroke_order_svg": "svg/kanji/色.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "色んな",
+          "reading": "いろんな",
+          "gloss": "various"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6943,7 +7631,13 @@
       ],
       "stroke_order_svg": "svg/kanji/洋.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "西洋",
+          "reading": "せいよう",
+          "gloss": "the west"
+        }
+      ],
       "notes": ""
     },
     {
@@ -6967,7 +7661,13 @@
       ],
       "stroke_order_svg": "svg/kanji/旅.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "旅館",
+          "reading": "りょかん",
+          "gloss": "traditional inn"
+        }
+      ],
       "notes": ""
     },
     {
@@ -7126,7 +7826,13 @@
       ],
       "stroke_order_svg": "svg/kanji/鳥.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "小鳥",
+          "reading": "ことり",
+          "gloss": "small bird"
+        }
+      ],
       "notes": ""
     },
     {
@@ -7222,7 +7928,18 @@
       ],
       "stroke_order_svg": "svg/kanji/昼.svg",
       "recognition_priority": 2,
-      "examples": [],
+      "examples": [
+        {
+          "form": "昼間",
+          "reading": "ひるま",
+          "gloss": "daytime"
+        },
+        {
+          "form": "昼休み",
+          "reading": "ひるやすみ",
+          "gloss": "lunch break"
+        }
+      ],
       "notes": ""
     },
     {
