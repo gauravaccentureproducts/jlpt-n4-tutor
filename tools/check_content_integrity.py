@@ -816,7 +816,43 @@ CHECKS: list[tuple[str, str, callable]] = [
     ("JA-30", "No past-paper provenance signatures in question text (2026-05-02)", lambda: _check_ja_30_provenance()),
     ("JA-31", "Vocab PoS tags in vocabulary_n4.md agree with data/vocab.json (2026-05-02)", lambda: _check_ja_31_vocab_pos_parity()),
     ("JA-32", "Paper-JSON rationales appear verbatim in source MD (2026-05-04)", lambda: _check_ja_32_paper_rationale_md_parity()),
+    ("JA-33", "No seed-template literals in grammar examples (2026-05-04 LLM audit closure)", lambda: _check_ja_33_no_seed_template_literals()),
 ]
+
+
+def _check_ja_33_no_seed_template_literals() -> list[str]:
+    """No grammar example carries the literal "(Seed example" prefix or the
+    "to be authored by native reviewer" placeholder. Closes the regression
+    surface from the 2026-05-04 LLM-audit pass: the prior enrichment script
+    produced template-only content that flagged PATTERN_MISMATCH on every
+    entry. After native-teacher review lands, this invariant ensures the
+    seed templates never silently re-appear via a build-tool regression."""
+    failures: list[str] = []
+    grammar_path = ROOT / "data" / "grammar.json"
+    if not grammar_path.exists():
+        return failures
+    try:
+        d = json.loads(grammar_path.read_text(encoding="utf-8"))
+    except Exception as e:
+        return [f"JA-33: could not parse grammar.json: {e}"]
+    for p in d.get("patterns", []):
+        pid = p.get("id", "?")
+        for i, ex in enumerate(p.get("examples", []) or []):
+            tr = ex.get("translation_en", "") or ""
+            if tr.startswith("(Seed example"):
+                failures.append(
+                    f"JA-33 grammar.json pattern '{pid}' examples[{i}].translation_en is "
+                    f"a seed-template literal (starts with '(Seed example'). "
+                    f"Replace with native-teacher content or empty the examples array."
+                )
+        for i, cm in enumerate(p.get("common_mistakes", []) or []):
+            wrong = cm.get("wrong", "") or ""
+            if "to be authored by native reviewer" in wrong:
+                failures.append(
+                    f"JA-33 grammar.json pattern '{pid}' common_mistakes[{i}].wrong is "
+                    f"a seed-template placeholder. Replace or empty the array."
+                )
+    return failures
 
 
 # ---------------------------------------------------------------------------

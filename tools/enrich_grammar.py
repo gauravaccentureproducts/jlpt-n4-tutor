@@ -114,7 +114,18 @@ def make_common_mistakes(pattern_obj):
         'why': 'Pass-4 native-teacher review will populate the specific common mistake here.',
     }]
 
-# Enrich
+# Enrich.
+#
+# IMPORTANT (2026-05-04 LLM audit closure): we no longer auto-generate
+# `examples` or `common_mistakes` because the prior templates produced
+# ungrammatical Japanese that PATTERN_MISMATCH-flagged on every entry
+# (see feedback/llm-audit-n4.md). It is better to ship empty arrays —
+# the runtime UI handles them as "Native review pending" — than to ship
+# wrong content that teaches incorrect Japanese.
+#
+# We still auto-generate `explanation_en` and `form_rules.attaches_to`
+# because those are derivable from meaning_en + pattern shape and don't
+# carry the same risk (they're metadata, not learner-visible Japanese).
 enriched = 0
 for p in grammar_data['patterns']:
     if p.get('tier') != 'core_n4':
@@ -129,16 +140,24 @@ for p in grammar_data['patterns']:
             'conjugations': [],
         }
         changed = True
-    if not p.get('examples'):
-        p['examples'] = make_examples(p)
+    # Wipe any prior seed-template examples + common_mistakes so the
+    # runtime gets empty arrays to render as "review pending."
+    if p.get('examples') and any(
+        (e.get('translation_en', '').startswith('(Seed example'))
+        for e in p['examples']
+    ):
+        p['examples'] = []
         changed = True
-    if not p.get('common_mistakes'):
-        p['common_mistakes'] = make_common_mistakes(p)
+    if p.get('common_mistakes') and any(
+        ('to be authored by native reviewer' in (cm.get('wrong', '') or ''))
+        for cm in p['common_mistakes']
+    ):
+        p['common_mistakes'] = []
         changed = True
     if changed:
         enriched += 1
 
-print(f'Enriched {enriched} N4 grammar patterns with seed content')
+print(f'Enriched {enriched} N4 grammar patterns (examples/common_mistakes wiped if seed-template; explanation_en + form_rules retained)')
 
 (ROOT / 'data' / 'grammar.json').write_text(
     json.dumps(grammar_data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')

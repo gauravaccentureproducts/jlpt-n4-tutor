@@ -30,31 +30,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: while; during; between. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは 間（あいだ）です。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for 間（あいだ）: while.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると 間（あいだ）言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: while.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving 間（あいだ） — to be authored by native reviewer)",
-          "right": "間（あいだ） (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -76,31 +53,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: while; during (something happened). See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは 間に（あいだに）です。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for 間に（あいだに）: while.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると 間に（あいだに）言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: while.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving 間に（あいだに） — to be authored by native reviewer)",
-          "right": "間に（あいだに） (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -122,31 +76,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: not very; not much. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを あまり〜ない。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for あまり〜ない: not very.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると あまり〜ない言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: not very.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving あまり〜ない — to be authored by native reviewer)",
-          "right": "あまり〜ない (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -168,31 +99,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: after; later. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは 後で（あとで）です。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for 後で（あとで）: after.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると 後で（あとで）言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: after.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving 後で（あとで） — to be authored by native reviewer)",
-          "right": "後で（あとで） (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -212,31 +120,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: conditional form (if-then). See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ばです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ば: conditional form (if-then).)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえるば。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: conditional form (if-then).)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ば — to be authored by native reviewer)",
-          "right": "ば (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -256,31 +141,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: in the event of; in case that. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ばあいはです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ばあいは: in the event of.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえるばあいは。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: in the event of.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ばあいは — to be authored by native reviewer)",
-          "right": "ばあいは (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -300,31 +162,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: only; nothing but. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ばかりです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ばかり: only.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえるばかり。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: only.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ばかり — to be authored by native reviewer)",
-          "right": "ばかり (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -346,31 +185,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: just by; by doing alone. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは だけでです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for だけで: just by.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると だけで言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: just by.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving だけで — to be authored by native reviewer)",
-          "right": "だけで (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -392,31 +208,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to begin to; start to; burst into. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは 出す（だす）です。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for 出す（だす）: to begin to.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると 出す（だす）言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to begin to.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving 出す（だす） — to be authored by native reviewer)",
-          "right": "出す（だす） (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -437,31 +230,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to be (honorific). See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは でございますです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for でございます: to be (honorific).)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると でございます言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to be (honorific).)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving でございます — to be authored by native reviewer)",
-          "right": "でございます (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -483,31 +253,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: or something; how about. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは でもです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for でも: or something.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると でも言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: or something.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving でも — to be authored by native reviewer)",
-          "right": "でも (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -529,31 +276,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: right?; isn't it?. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ではないかです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ではないか: right?.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ではないか言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: right?.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ではないか — to be authored by native reviewer)",
-          "right": "ではないか (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -574,31 +298,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to smell; hear; taste. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを がする。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for がする: to smell.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると がする言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to smell.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving がする — to be authored by native reviewer)",
-          "right": "がする (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -620,31 +321,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: personality/tendency. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは がりです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for がり: personality/tendency.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると がり言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: personality/tendency.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving がり — to be authored by native reviewer)",
-          "right": "がり (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -665,31 +343,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to show signs of; appear; feel. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを がる / がっている。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for がる / がっている: to show signs of.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると がる / がっている言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to show signs of.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving がる / がっている — to be authored by native reviewer)",
-          "right": "がる / がっている (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -710,31 +365,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to be; to exist (polite). See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ございますです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ございます: to be.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ございます言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to be.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ございます — to be authored by native reviewer)",
-          "right": "ございます (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -756,31 +388,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to start; to begin to. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは 始める（はじめる）です。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for 始める（はじめる）: to start.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると 始める（はじめる）言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to start.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving 始める（はじめる） — to be authored by native reviewer)",
-          "right": "始める（はじめる） (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -802,31 +411,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: it must be; should be. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは はずだです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for はずだ: it must be.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると はずだ言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: it must be.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving はずだ — to be authored by native reviewer)",
-          "right": "はずだ (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -848,31 +434,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: cannot be (impossible). See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを はずがない。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for はずがない: cannot be (impossible).)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると はずがない言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: cannot be (impossible).)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving はずがない — to be authored by native reviewer)",
-          "right": "はずがない (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -893,31 +456,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: need to; it is necessary. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを ひつようがある。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ひつようがある: need to.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ひつようがある言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: need to.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ひつようがある — to be authored by native reviewer)",
-          "right": "ひつようがある (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -938,31 +478,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to be; come; go (polite). See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを いらっしゃる。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for いらっしゃる: to be.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると いらっしゃる言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to be.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving いらっしゃる — to be authored by native reviewer)",
-          "right": "いらっしゃる (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -983,31 +500,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to do (polite form). See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは いたしますです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for いたします: to do (polite form).)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると いたします言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to do (polite form).)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving いたします — to be authored by native reviewer)",
-          "right": "いたします (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1029,31 +523,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: right?; isn't it?; let's. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは じゃないかです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for じゃないか: right?.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると じゃないか言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: right?.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving じゃないか — to be authored by native reviewer)",
-          "right": "じゃないか (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1075,31 +546,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: whether or not. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは かどうかです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for かどうか: whether or not.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると かどうか言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: whether or not.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving かどうか — to be authored by native reviewer)",
-          "right": "かどうか (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1121,31 +569,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: I wonder (feminine). See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは かしらです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for かしら: I wonder (feminine).)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると かしら言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: I wonder (feminine).)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving かしら — to be authored by native reviewer)",
-          "right": "かしら (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1167,31 +592,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: turns sentence into yes/no question. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを かい。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for かい: turns sentence into yes/no question.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると かい言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: turns sentence into yes/no question.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving かい — to be authored by native reviewer)",
-          "right": "かい (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1213,31 +615,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: might; perhaps; possibly. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを かもしれない。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for かもしれない: might.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると かもしれない言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: might.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving かもしれない — to be authored by native reviewer)",
-          "right": "かもしれない (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1259,31 +638,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: I wonder; should I?. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは かなです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for かな: I wonder.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると かな言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: I wonder.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving かな — to be authored by native reviewer)",
-          "right": "かな (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1304,31 +660,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: made from; made with. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを から作る。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for から作る: made from.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると から作る言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: made from.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving から作る — to be authored by native reviewer)",
-          "right": "から作る (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1350,31 +683,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: surely; undoubtedly; most likely. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは きっとです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for きっと: surely.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると きっと言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: surely.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving きっと — to be authored by native reviewer)",
-          "right": "きっと (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1396,31 +706,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: around; about; when. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ころです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ころ: around.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ころ言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: around.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ころ — to be authored by native reviewer)",
-          "right": "ころ (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1442,31 +729,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: verb nominalizer. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ことです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for こと: verb nominalizer.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると こと言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: verb nominalizer.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving こと — to be authored by native reviewer)",
-          "right": "こと (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1487,31 +751,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: there are times when. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを ことがある。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ことがある: there are times when.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ことがある言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: there are times when.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ことがある — to be authored by native reviewer)",
-          "right": "ことがある (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1532,31 +773,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: can; able to. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを ことができる。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ことができる: can.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ことができる言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: can.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ことができる — to be authored by native reviewer)",
-          "right": "ことができる (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1577,31 +795,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: it has been decided; turns out. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを ことになる。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ことになる: it has been decided.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ことになる言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: it has been decided.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ことになる — to be authored by native reviewer)",
-          "right": "ことになる (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1622,31 +817,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to decide on. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを ことにする。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ことにする: to decide on.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ことにする言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to decide on.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ことにする — to be authored by native reviewer)",
-          "right": "ことにする (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1667,31 +839,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to make something. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを くする。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for くする: to make something.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると くする言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to make something.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving くする — to be authored by native reviewer)",
-          "right": "くする (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1713,31 +862,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: quickly; suddenly; abruptly. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは 急に（きゅうに）です。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for 急に（きゅうに）: quickly.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると 急に（きゅうに）言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: quickly.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving 急に（きゅうに） — to be authored by native reviewer)",
-          "right": "急に（きゅうに） (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1759,31 +885,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: by; by the time; indicates time limit. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは までにです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for までに: by.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると までに言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: by.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving までに — to be authored by native reviewer)",
-          "right": "までに (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1805,31 +908,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: as it is; current state; without changing. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ままです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for まま: as it is.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると まま言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: as it is.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving まま — to be authored by native reviewer)",
-          "right": "まま (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1851,31 +931,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: both; or; otherwise; choice between [A] or [B]. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは またはです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for または: both.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると または言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: both.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving または — to be authored by native reviewer)",
-          "right": "または (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1897,31 +954,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: like; similar to; resembling. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは みたいだです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for みたいだ: like.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると みたいだ言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: like.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving みたいだ — to be authored by native reviewer)",
-          "right": "みたいだ (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1943,31 +977,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: like, similar to. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは みたいなです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for みたいな: like, similar to.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると みたいな言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: like, similar to.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving みたいな — to be authored by native reviewer)",
-          "right": "みたいな (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -1989,31 +1000,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: like; similar to. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは みたいにです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for みたいに: like.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると みたいに言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: like.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving みたいに — to be authored by native reviewer)",
-          "right": "みたいに (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2035,31 +1023,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: as many as; as much as; up to; nearly. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは もです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for も: as many as.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると も言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: as many as.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving も — to be authored by native reviewer)",
-          "right": "も (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2081,31 +1046,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: don't ~ (order somebody to not do something). See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは なです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for な: don't ~ (order somebody to not do something).)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると な言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: don't ~ (order somebody to not do something).)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving な — to be authored by native reviewer)",
-          "right": "な (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2127,31 +1069,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: such as; things like. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは などです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for など: such as.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると など言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: such as.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving など — to be authored by native reviewer)",
-          "right": "など (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2173,31 +1092,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: while; during; as; simultaneously. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ながらです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ながら: while.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ながら言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: while.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ながら — to be authored by native reviewer)",
-          "right": "ながら (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2219,31 +1115,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: not easy to; struggling to; not able to. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを なかなか〜ない。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for なかなか〜ない: not easy to.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると なかなか〜ない言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: not easy to.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving なかなか〜ない — to be authored by native reviewer)",
-          "right": "なかなか〜ない (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2265,31 +1138,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: must do something; have to do something. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを なければいけない。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for なければいけない: must do something.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると なければいけない言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: must do something.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving なければいけない — to be authored by native reviewer)",
-          "right": "なければいけない (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2311,31 +1161,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: must do something; have to do something. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを なければならない。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for なければならない: must do something.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると なければならない言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: must do something.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving なければならない — to be authored by native reviewer)",
-          "right": "なければならない (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2357,31 +1184,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: if; in the case that. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ならです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for なら: if.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると なら言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: if.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving なら — to be authored by native reviewer)",
-          "right": "なら (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2403,31 +1207,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: do this (soft/firm command). See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを なさい。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for なさい: do this (soft/firm command).)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると なさい言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: do this (soft/firm command).)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving なさい — to be authored by native reviewer)",
-          "right": "なさい (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2448,31 +1229,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to do (honorific). See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを なさる。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for なさる: to do (honorific).)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると なさる言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to do (honorific).)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving なさる — to be authored by native reviewer)",
-          "right": "なさる (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2494,31 +1252,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to notice; to realize. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは に気がつく（にきがつく）です。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for に気がつく（にきがつく）: to notice.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると に気がつく（にきがつく）言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to notice.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving に気がつく（にきがつく） — to be authored by native reviewer)",
-          "right": "に気がつく（にきがつく） (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2540,31 +1275,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to look; to seem; to appear. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは に見える（にみえる）です。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for に見える（にみえる）: to look.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると に見える（にみえる）言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to look.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving に見える（にみえる） — to be authored by native reviewer)",
-          "right": "に見える（にみえる） (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2585,31 +1297,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to make something. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを にする。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for にする: to make something.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると にする言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to make something.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving にする — to be authored by native reviewer)",
-          "right": "にする (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2631,31 +1320,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: difficult to do. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを にくい。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for にくい: difficult to do.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると にくい言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: difficult to do.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving にくい — to be authored by native reviewer)",
-          "right": "にくい (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2677,31 +1343,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: in; among. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは の中で（のなかで）です。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for の中で（のなかで）: in.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると の中で（のなかで）言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: in.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving の中で（のなかで） — to be authored by native reviewer)",
-          "right": "の中で（のなかで） (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2723,31 +1366,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: although, in spite of, even though. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは のにです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for のに: although, in spite of, even though.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると のに言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: although, in spite of, even though.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving のに — to be authored by native reviewer)",
-          "right": "のに (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2769,31 +1389,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to (do something); in order to. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは のに (alt.)です。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for のに (alt.): to (do something).)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると のに (alt.)言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to (do something).)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving のに (alt.) — to be authored by native reviewer)",
-          "right": "のに (alt.) (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2815,31 +1412,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: [A] is [B]; the reason for [A] is [B]. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは のは〜だです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for のは〜だ: [A] is [B].)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると のは〜だ言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: [A] is [B].)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving のは〜だ — to be authored by native reviewer)",
-          "right": "のは〜だ (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2861,31 +1435,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: please do ~ (honorific). See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを お〜ください。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for お〜ください: please do ~ (honorific).)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると お〜ください言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: please do ~ (honorific).)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving お〜ください — to be authored by native reviewer)",
-          "right": "お〜ください (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2906,31 +1457,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to do (honorific). See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを お〜になる。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for お〜になる: to do (honorific).)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると お〜になる言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to do (honorific).)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving お〜になる — to be authored by native reviewer)",
-          "right": "お〜になる (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2952,31 +1480,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: repeated at intervals, every. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは おきにです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for おきに: repeated at intervals, every.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると おきに言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: repeated at intervals, every.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving おきに — to be authored by native reviewer)",
-          "right": "おきに (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -2998,31 +1503,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to finish; to end. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは 終わる（おわる）です。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for 終わる（おわる）: to finish.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると 終わる（おわる）言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to finish.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving 終わる（おわる） — to be authored by native reviewer)",
-          "right": "終わる（おわる） (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3043,31 +1525,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: potential form; ability or inability to do something. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを られる。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for られる: potential form.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると られる言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: potential form.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving られる — to be authored by native reviewer)",
-          "right": "られる (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3089,31 +1548,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: it seems like; I heard; apparently. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを らしい。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for らしい: it seems like.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると らしい言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: it seems like.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving らしい — to be authored by native reviewer)",
-          "right": "らしい (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3135,31 +1571,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: -ness; nominalizer for adjective. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは さです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for さ: -ness.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると さ言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: -ness.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving さ — to be authored by native reviewer)",
-          "right": "さ (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3181,31 +1594,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: some time ago; just now. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは さっきです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for さっき: some time ago.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると さっき言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: some time ago.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving さっき — to be authored by native reviewer)",
-          "right": "さっき (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3226,31 +1616,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: causative-passive; to be made to do something. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを させられる。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for させられる: causative-passive.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると させられる言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: causative-passive.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving させられる — to be authored by native reviewer)",
-          "right": "させられる (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3271,31 +1638,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: causative form; to make/let somebody do something. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを させる。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for させる: causative form.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると させる言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: causative form.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving させる — to be authored by native reviewer)",
-          "right": "させる (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3317,31 +1661,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: please let me do. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを させてください。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for させてください: please let me do.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると させてください言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: please let me do.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving させてください — to be authored by native reviewer)",
-          "right": "させてください (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3363,31 +1684,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: as one would expect; even. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは さすがです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for さすが: as one would expect.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると さすが言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: as one would expect.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving さすが — to be authored by native reviewer)",
-          "right": "さすが (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3409,31 +1707,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: and; and what's more (emphasis). See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは しです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for し: and.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると し言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: and.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving し — to be authored by native reviewer)",
-          "right": "し (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3455,31 +1730,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: so much; so; like that. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは そんなにです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for そんなに: so much.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると そんなに言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: so much.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving そんなに — to be authored by native reviewer)",
-          "right": "そんなに (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3501,31 +1753,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: but still; and yet; even so. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは それでもです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for それでも: but still.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると それでも言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: but still.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving それでも — to be authored by native reviewer)",
-          "right": "それでも (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3547,31 +1776,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: besides; in addition; also; moreover. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは それにです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for それに: besides.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると それに言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: besides.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving それに — to be authored by native reviewer)",
-          "right": "それに (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3593,31 +1799,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: I heard that; it is said that ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは そうだ [1]です。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for そうだ [1]: I heard that.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると そうだ [1]言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: I heard that.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving そうだ [1] — to be authored by native reviewer)",
-          "right": "そうだ [1] (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3639,31 +1822,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: looks like; appears like; seeming ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは そうだ [2]です。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for そうだ [2]: looks like.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると そうだ [2]言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: looks like.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving そうだ [2] — to be authored by native reviewer)",
-          "right": "そうだ [2] (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3685,31 +1845,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: seems like; looks like ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは そうに / そうなです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for そうに / そうな: seems like.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると そうに / そうな言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: seems like.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving そうに / そうな — to be authored by native reviewer)",
-          "right": "そうに / そうな (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3729,31 +1866,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: just finished; something just occurred. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは たばかりです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for たばかり: just finished.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると たばかり言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: just finished.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving たばかり — to be authored by native reviewer)",
-          "right": "たばかり (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3773,31 +1887,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: just finished doing, was just doing. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは たところです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for たところ: just finished doing, was just doing.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると たところ言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: just finished doing, was just doing.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving たところ — to be authored by native reviewer)",
-          "right": "たところ (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3818,31 +1909,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: wants to do ~ (third person). See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを たがる。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for たがる: wants to do ~ (third person).)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると たがる言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: wants to do ~ (third person).)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving たがる — to be authored by native reviewer)",
-          "right": "たがる (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3862,31 +1930,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: if; after; when ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは たらです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for たら: if.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると たら言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: if.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving たら — to be authored by native reviewer)",
-          "right": "たら (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3907,31 +1952,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: why don't you; how about ~ (used to give advice). See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを たらどう。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for たらどう: why don't you.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると たらどう言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: why don't you.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving たらどう — to be authored by native reviewer)",
-          "right": "たらどう (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3951,31 +1973,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: what should I do?; speaker seeking instructions. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは たらいいですかです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for たらいいですか: what should I do?.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると たらいいですか言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: what should I do?.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving たらいいですか — to be authored by native reviewer)",
-          "right": "たらいいですか (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -3995,31 +1994,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: conjunctive particle; so; because of. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは て / でです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for て / で: conjunctive particle.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると て / で言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: conjunctive particle.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving て / で — to be authored by native reviewer)",
-          "right": "て / で (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4040,31 +2016,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to do for; to do a favor. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを てあげる。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for てあげる: to do for.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると てあげる言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to do for.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving てあげる — to be authored by native reviewer)",
-          "right": "てあげる (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4084,31 +2037,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: I want you to; need you to ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを てほしい。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for てほしい: I want you to.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると てほしい言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: I want you to.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving てほしい — to be authored by native reviewer)",
-          "right": "てほしい (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4129,31 +2059,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to start; to continue; to go on. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ていくです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ていく: to start.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ていく言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to start.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ていく — to be authored by native reviewer)",
-          "right": "ていく (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4173,31 +2080,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: was doing something (past continuous). See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ていたです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ていた: was doing something (past continuous).)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ていた言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: was doing something (past continuous).)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ていた — to be authored by native reviewer)",
-          "right": "ていた (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4217,31 +2101,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: could you please ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ていただけませんかです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ていただけませんか: could you please ~.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ていただけませんか言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: could you please ~.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ていただけませんか — to be authored by native reviewer)",
-          "right": "ていただけませんか (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4262,31 +2123,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to do a favor; do something for someone. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを てくれる。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for てくれる: to do a favor.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると てくれる言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to do a favor.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving てくれる — to be authored by native reviewer)",
-          "right": "てくれる (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4307,31 +2145,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to do and come back; to become; to continue; to start. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを てくる。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for てくる: to do and come back.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると てくる言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to do and come back.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving てくる — to be authored by native reviewer)",
-          "right": "てくる (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4352,31 +2167,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: try doing. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを てみる。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for てみる: try doing.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると てみる言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: try doing.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving てみる — to be authored by native reviewer)",
-          "right": "てみる (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4397,31 +2189,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to get somebody to do something. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを てもらう。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for てもらう: to get somebody to do something.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると てもらう言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to get somebody to do something.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving てもらう — to be authored by native reviewer)",
-          "right": "てもらう (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4442,31 +2211,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to do something in advance. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ておくです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ておく: to do something in advance.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ておく言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to do something in advance.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ておく — to be authored by native reviewer)",
-          "right": "ておく (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4487,31 +2233,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to do by accident, to finish completely. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを てしまう / ちゃう。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for てしまう / ちゃう: to do by accident, to finish completely.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると てしまう / ちゃう言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to do by accident, to finish completely.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving てしまう / ちゃう — to be authored by native reviewer)",
-          "right": "てしまう / ちゃう (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4531,31 +2254,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: I'm sorry for. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは てすみませんです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for てすみません: I'm sorry for.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると てすみません言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: I'm sorry for.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving てすみません — to be authored by native reviewer)",
-          "right": "てすみません (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4576,31 +2276,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to do for; to do a favor (casual). See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを てやる。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for てやる: to do for.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると てやる言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to do for.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving てやる — to be authored by native reviewer)",
-          "right": "てやる (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4620,31 +2297,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: I'm glad that ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは てよかったです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for てよかった: I'm glad that ~.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると てよかった言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: I'm glad that ~.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving てよかった — to be authored by native reviewer)",
-          "right": "てよかった (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4664,31 +2318,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: in the process of doing. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ているところです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ているところ: in the process of doing.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ているところ言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: in the process of doing.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ているところ — to be authored by native reviewer)",
-          "right": "ているところ (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4708,31 +2339,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: even; even if; even though ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは てもです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ても: even.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ても言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: even.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ても — to be authored by native reviewer)",
-          "right": "ても (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4754,31 +2362,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: whenever [A] happens, [B] also happens. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは とです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for と: whenever [A] happens, [B] also happens.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: whenever [A] happens, [B] also happens.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving と — to be authored by native reviewer)",
-          "right": "と (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4800,31 +2385,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: you could say; one might say; I'd say ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは と言ってもいい（といってもいい）です。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for と言ってもいい（といってもいい）: you could say.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると言ってもいい（といってもいい）。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: you could say.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving と言ってもいい（といってもいい） — to be authored by native reviewer)",
-          "right": "と言ってもいい（といってもいい） (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4845,31 +2407,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: called; named; that ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを という。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for という: called.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえるという。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: called.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving という — to be authored by native reviewer)",
-          "right": "という (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4891,31 +2430,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: convert phrase into noun. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ということです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ということ: convert phrase into noun.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえるということ。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: convert phrase into noun.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ということ — to be authored by native reviewer)",
-          "right": "ということ (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4937,31 +2453,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: it is said that ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは と言われている（といわれている）です。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for と言われている（といわれている）: it is said that ~.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると言われている（といわれている）。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: it is said that ~.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving と言われている（といわれている） — to be authored by native reviewer)",
-          "right": "と言われている（といわれている） (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -4983,31 +2476,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: I heard. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは と聞いた（ときいた）です。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for と聞いた（ときいた）: I heard....)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると聞いた（ときいた）。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: I heard....)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving と聞いた（ときいた） — to be authored by native reviewer)",
-          "right": "と聞いた（ときいた） (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -5027,31 +2497,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to think…; I think…; you think…. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは と思う（とおもう）です。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for と思う（とおもう）: to think….)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると思う（とおもう）。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to think….)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving と思う（とおもう） — to be authored by native reviewer)",
-          "right": "と思う（とおもう） (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -5073,31 +2520,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: among other things; such as; like ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは とか〜とかです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for とか〜とか: among other things.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえるとか〜とか。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: among other things.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving とか〜とか — to be authored by native reviewer)",
-          "right": "とか〜とか (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -5119,31 +2543,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: just about to; on the verge of doing something. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ところです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ところ: just about to.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえるところ。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: just about to.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ところ — to be authored by native reviewer)",
-          "right": "ところ (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -5164,31 +2565,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: continue to; keen on ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを つづける。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for つづける: continue to.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると つづける言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: continue to.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving つづける — to be authored by native reviewer)",
-          "right": "つづける (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -5210,31 +2588,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: named; called ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ってです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for って: named.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると って言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: named.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving って — to be authored by native reviewer)",
-          "right": "って (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -5256,31 +2611,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: [A] but [B]; however; comparison. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは は〜が...はです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for は〜が...は: [A] but [B].)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると は〜が...は言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: [A] but [B].)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving は〜が...は — to be authored by native reviewer)",
-          "right": "は〜が...は (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -5302,31 +2634,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: easy to; likely to; prone to; have a tendency to ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを やすい。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for やすい: easy to.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると やすい言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: easy to.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving やすい — to be authored by native reviewer)",
-          "right": "やすい (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -5348,31 +2657,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: at last; finally; barely; narrowly ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは やっとです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for やっと: at last.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると やっと言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: at last.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving やっと — to be authored by native reviewer)",
-          "right": "やっと (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -5394,31 +2680,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: than; rather than; more than ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは よりです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for より: than.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると より言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: than.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving より — to be authored by native reviewer)",
-          "right": "より (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -5440,31 +2703,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: plan to, intend to. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは よていだです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for よていだ: plan to, intend to.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると よていだ言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: plan to, intend to.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving よていだ — to be authored by native reviewer)",
-          "right": "よていだ (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -5484,31 +2724,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: appears; seems; looks as if ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ようだです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ようだ: appears.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ようだ言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: appears.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ようだ — to be authored by native reviewer)",
-          "right": "ようだ (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -5528,31 +2745,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: like; as; similar to ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ように / ようなです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ように / ような: like.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ように / ような言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: like.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ように / ような — to be authored by native reviewer)",
-          "right": "ように / ような (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -5573,31 +2767,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to reach the point that; to come to be that; to turn into ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを ようになる。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ようになる: to reach the point that.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ようになる言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to reach the point that.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ようになる — to be authored by native reviewer)",
-          "right": "ようになる (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -5618,31 +2789,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: to try to; to make sure that ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを ようにする。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ようにする: to try to.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ようにする言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: to try to.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ようにする — to be authored by native reviewer)",
-          "right": "ようにする (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -5662,31 +2810,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: thinking of doing; planning to ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ようと思う（ようとおもう）です。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ようと思う（ようとおもう）: thinking of doing.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ようと思う（ようとおもう）言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: thinking of doing.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ようと思う（ようとおもう） — to be authored by native reviewer)",
-          "right": "ようと思う（ようとおもう） (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -5708,31 +2833,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: by all means; certainly; definitely ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカは ぜひです。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ぜひ: by all means.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ぜひ言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: by all means.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ぜひ — to be authored by native reviewer)",
-          "right": "ぜひ (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -5754,31 +2856,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: (not) at all. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを ぜんぜん〜ない。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for ぜんぜん〜ない: (not) at all.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると ぜんぜん〜ない言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: (not) at all.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving ぜんぜん〜ない — to be authored by native reviewer)",
-          "right": "ぜんぜん〜ない (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     },
@@ -5800,31 +2879,8 @@
         "conjugations": []
       },
       "explanation_en": "Used to express: difficult to do ~. See native-teacher review for nuance and register notes.",
-      "examples": [
-        {
-          "ja": "アフリカを づらい。",
-          "form": "affirmative",
-          "translation_en": "(Seed example for づらい: difficult to do ~.)",
-          "vocab_ids": [
-            "n4.vocab.5-travel-and-transportation.アフリカ"
-          ]
-        },
-        {
-          "ja": "かえると づらい言います。",
-          "form": "affirmative",
-          "translation_en": "(Seed example using かえる: difficult to do ~.)",
-          "vocab_ids": [
-            "n4.vocab.0-group1-exceptions.かえる"
-          ]
-        }
-      ],
-      "common_mistakes": [
-        {
-          "wrong": "(common N4 mistake involving づらい — to be authored by native reviewer)",
-          "right": "づらい (correct usage)",
-          "why": "Pass-4 native-teacher review will populate the specific common mistake here."
-        }
-      ],
+      "examples": [],
+      "common_mistakes": [],
       "contrasts": [],
       "notes": ""
     }
