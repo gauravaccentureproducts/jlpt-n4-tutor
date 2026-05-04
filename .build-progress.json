@@ -1,12 +1,15 @@
 {
-  "step": 3,
-  "completed": [1, 2, 3],
+  "step": 5,
+  "completed": [1, 2, 3, 4, 5],
   "in_progress": null,
-  "next": 4,
+  "next": 6,
   "buildVersion": "v0.1.0",
   "lastCommit": "pending",
   "startedAt": "2026-05-04T10:30:00Z",
   "stepNotes": {
-    "3": "kanji whitelist (249 glyphs = 106 N5 prerequisite + 143 N4 new). Builder at tools/build_n4_kanji.py. Inventory had 167 N4 entries; 24 overlapped with N5 (borderline kanji per source notes). All kanji invariants PASS (X-6.9, JA-12, JA-13, JA-22, JA-24)."
+    "3": "kanji whitelist (249 glyphs = 106 N5 prerequisite + 143 N4 new). Builder at tools/build_n4_kanji.py.",
+    "4": "kanji catalogue structurally complete (KnowledgeBank/kanji_n4.md format matches JA-12 expectations). Per-glyph examples deferred to post-vocab pass.",
+    "5": "vocab corpus SEED (1159 entries = 1041 N5 prerequisite + 118 N4 from a-h sample). Builder at tools/build_n4_vocab.py. Full ~600 N4 corpus from Tanos N4 CSV deferred to next authoring pass.",
+    "integrity_state_after_step_5": "35/41 invariants PASS. 6 FAIL all in JA-8 (Q-count integrity, expects 591 questions, has 0). Question banks deferred to step 8."
   }
 }

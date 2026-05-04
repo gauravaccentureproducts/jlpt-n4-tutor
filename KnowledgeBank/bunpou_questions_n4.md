@@ -17,6 +17,11 @@ Question format:
 - <wrong choice>: <why wrong, contrast with correct>
 ```
 
+
+## Engine display note
+
+For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and rationale until the student commits an answer. The visible-by-default format here is for self-study reference; runtime test rendering is the engine's responsibility.
+
 ---
 
 ## Mondai 1
