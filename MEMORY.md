@@ -1,6 +1,6 @@
 # JLPT N4 Tutor — Memory
 
-Last refreshed: 2026-05-04 (Pass-1 skeleton complete). Keep under 200 lines.
+Last refreshed: 2026-05-04 (Pass-2 seed corpus complete; v0.1.0-alpha). Keep under 200 lines.
 
 ## Project location
 
@@ -8,7 +8,7 @@ Last refreshed: 2026-05-04 (Pass-1 skeleton complete). Keep under 200 lines.
 - Source: vanilla HTML / ES modules / CSS, no build step for runtime
 - Tests: `tests-e2e/` (Playwright smoke + a11y)
 - Branch: `main` (no remote configured yet — first deploy will configure)
-- HEAD: (initial commit pending)
+- HEAD: `b1de2c3` (latest [build-step 9/15] UI N4 wiring)
 
 ## Sibling repos (level-agnostic context)
 
@@ -32,24 +32,28 @@ Last refreshed: 2026-05-04 (Pass-1 skeleton complete). Keep under 200 lines.
 - `KnowledgeBank/*.md` — source-of-truth content (markdown). All currently skeleton.
 - `data/*.json` — runtime data (regenerated). All currently skeleton with `_meta` populated.
 
-## Current state (2026-05-04)
+## Current state (2026-05-04, v0.1.0-alpha)
 
-- **Pass-1 skeleton complete.** Every directory + structural file in place.
+- **Pass-2 seed corpus complete** — kanji whitelist, vocab seed, grammar catalogue all built.
 - All token substitutions applied (`n5` → `n4`, `JLPT N5` → `JLPT N4`, brand `五` → `四`).
-- All `data/*.json` are skeleton — empty arrays, populated `_meta`.
-- All `KnowledgeBank/*.md` are skeleton — section headers only.
-- N4 spec doc at repo root.
-- Bootstrap inventories present for grammar / kanji / vocab.
+- Build-progress checkpoint: `.build-progress.json` (steps 1-6 + 9 complete; 7-8, 10-15 deferred).
+- Integrity check: 35/41 invariants PASS. 6 FAIL all in JA-8 (Q-count integrity, expects 591 questions, has 0).
+- Builders authored:
+  - `tools/build_n4_kanji.py` → 249 glyphs (106 N5 prereq + 143 N4 new)
+  - `tools/build_n4_vocab.py` → 1159 entries (1041 N5 prereq + 118 N4 from sample)
+  - `tools/build_n4_grammar.py` → 307 patterns (178 N5 prereq + 129 N4 from inventory)
+- Reading/Listening/Questions/Audio: empty stubs, deferred to Pass-3.
 
 ## Pending / next up
 
-1. **Verify CI green on empty corpus** — `python tools/check_content_integrity.py`.
-2. **Initial commit + first push** to GitHub Pages target repo.
-3. **Pass-2 Layer 3** — kanji whitelist + catalogue authoring.
-4. **Pass-2 Layer 4** — vocabulary corpus authoring.
-5. **Pass-2 Layer 5** — grammar catalogue authoring.
+1. **Pass-3 Layer 4** — Full Tanos N4 vocab fetch (~600 entries; current 118 is a-h sample).
+2. **Pass-3 Layer 7** — Question banks (591 questions; JA-8 release blocker).
+3. **Pass-3 Layer 6** — Reading + listening corpora (~30 each).
+4. **Pass-3 Layer 5** — Grammar enrichment (form_rules, examples, common_mistakes per pattern).
+5. **Pass-3 Layer 3** — Kanji per-glyph examples drawn from full vocab.
+6. **Pass-3 Layer 8** — LLM audit, coverage compare, browser smoke test, deploy.
 
-See `TASKS.md` for the full Pass-2 backlog.
+See `TASKS.md` for the full Pass-3 backlog.
 
 ## Permission posture
 
@@ -98,15 +102,24 @@ See `TASKS.md` for the full Pass-2 backlog.
 - `404.html` fallback redirects to `./`.
 - Workflow at `.github/workflows/pages-build.yml`.
 
-## What this session did
+## What this session did (continuation)
 
-- Created the N4 spec at `<JLPT-root>/N4/procedure-manual-build-next-jlpt-level.N4.md` (2898 lines).
-- Bootstrapped the N4 repo skeleton at `<JLPT-root>/N4/`.
-- Applied token substitutions across all copied files.
-- Wiped content from data/ and KnowledgeBank/ to skeleton state.
-- Created N4-specific top-level files (this file, README, CHANGELOG, TASKS, PRIVACY, CONTENT-LICENSE, NOTICES).
-- Did NOT yet: run integrity check, initial commit, push.
+Pass-2 seed-corpus build (autonomous, steps 3-9 of the §39 build pipeline):
+
+1. **Kanji whitelist [build-step 3]** — built 249-glyph whitelist from inventory + N5 prereq via `tools/build_n4_kanji.py`. Backfilled meanings/examples/notes from N5 source for prerequisite tier. JA-12 PASS.
+2. **Kanji catalogue [build-step 4]** — KnowledgeBank/kanji_n4.md format-aligned to JA-12 (`- **{kanji}** ...`). Per-glyph examples deferred.
+3. **Vocab seed [build-step 5]** — built 1159 entries via `tools/build_n4_vocab.py`. Suru-noun handling: each "Noun (suru-verb)" generates [n.] + [v3] entries (per N5 convention; JA-31 PASS). Em-dashes stripped (X-6.5). Group-1-exception flags inherited via N5 KB inlining (X-6.6 PASS).
+4. **Grammar catalogue [build-step 6]** — built 307 patterns via `tools/build_n4_grammar.py`. Heuristic 18-category mapping. 4 meta-topics dropped, 6 patterns kana-folded for out-of-scope kanji.
+5. **UI N4 wiring [build-step 9]** — fixed N5 leftovers in 5 JS files (feedback placeholder, home pillar desc, learn page lede, settings export filename, summary regex). Extended `GRAMMAR_SUPERCATS` with 18 N4 categories.
 
 ## Next session start
 
-Read `TASKS.md` for the Pass-2 backlog. The recommended first action is "verify CI green on empty corpus" (one shell command).
+Read `TASKS.md` for the Pass-3 backlog. The recommended next action is **Pass-3 Layer 4** (full Tanos N4 vocab fetch from `tanos.co.uk/jlpt/jlpt4/vocab/`) followed by **Pass-3 Layer 7** (question banks) which is the JA-8 release blocker.
+
+## Build infrastructure ready
+
+- `tools/build_n4_kanji.py` — re-runnable, idempotent
+- `tools/build_n4_vocab.py` — re-runnable, idempotent
+- `tools/build_n4_grammar.py` — re-runnable, idempotent
+- `tools/check_content_integrity.py` — 41 invariants, 35 PASS, 6 FAIL on JA-8 (expected)
+- `.build-progress.json` — checkpoint at step 9; resume from step 7 (Reading+Listening) or jump to step 14 (finalisation) per priorities

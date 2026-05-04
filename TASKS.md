@@ -1,28 +1,29 @@
 # JLPT N4 Tutor — Tasks
 
-**Last updated:** 2026-05-04 (Pass-1 skeleton complete)
+**Last updated:** 2026-05-04 (Pass-2 seed corpus complete; v0.1.0-alpha)
 
 ## Live site
 
 - Repo: `https://github.com/<org>/jlpt-n4-tutor` (configure on first deploy)
 - Live URL: `https://<org>.github.io/jlpt-n4-tutor/` (configure)
 - Engine tests: 0/0 (`tests.html` ported; needs N4-specific test data)
-- CI invariants: 33/33 expected green on empty corpus (verify after first build)
+- CI invariants: 35/41 PASS (Q-count failures expected for empty question banks)
 
 ## Status snapshot
 
-- **Version:** v0.1.0 (Pass-1 skeleton)
+- **Version:** v0.1.0-alpha (Pass-2 seed)
 - **SW version:** `jlpt-n4-tutor-v1`
-- **Grammar:** 0 patterns (target ~210)
-- **Vocab:** 0 entries (target ~1500)
-- **Kanji:** 0 glyphs (target 280 = 106 N5 prerequisite + 174 N4 new)
-- **Reading:** 0 passages (target ~30)
-- **Listening:** 0 items (target ~30)
-- **Questions:** 0 total (target ~530)
-- **Mock-test papers:** 0 (target ~32)
-- **Audio:** 0 MP3s (target ~600 synthetic)
+- **Grammar:** 307 patterns (178 N5 prerequisite + 129 N4 from inventory) — target +full Bunpro/Tanos pass
+- **Vocab:** 1159 entries (1041 N5 prerequisite + 118 N4 from a-h sample) — target ~1500 from Tanos N4 CSV
+- **Kanji:** 249 glyphs (106 N5 prerequisite + 143 N4 new from inventory) — target 280 (24 inventory entries overlap with N5)
+- **Reading:** 0 passages (target ~30) — Pass-3 authoring
+- **Listening:** 0 items (target ~30) — Pass-3 authoring
+- **Questions:** 0 total (target ~530) — Pass-3 authoring; JA-8 fails until authored
+- **Mock-test papers:** 0 (target ~32) — Pass-3
+- **Audio:** 0 MP3s (target ~600 synthetic) — Pass-3 (runs against authored content)
 - **Locales:** 5 (en/vi/id/ne/zh) — shell ported, N4 strings TBD
-- **Routes:** 21 routes wired in router (most render empty until content lands)
+- **Routes:** 21 routes wired in router (Grammar/Vocab/Kanji render seed; Reading/Listening/Test render empty until Pass-3)
+- **Build progress checkpoint:** `.build-progress.json` (steps 1-6 + 9 complete; 7-8, 10-15 deferred)
 
 ## External-blocked backlog
 
@@ -62,37 +63,41 @@
 - **Reading-comprehension speed test** → defer to v2.
 - **Mock test mode timing** → use JLPT.jp official N4 timing (125 min total: 30/60/35).
 
-## Pass-2 (content authoring, target 2026-08-04)
+## Pass-2 (seed corpus complete, 2026-05-04)
 
-### Layer 0 — verify CI (must ship first)
+### Layer 0 — verify CI (DONE)
 
-- [ ] Run `python tools/check_content_integrity.py` and confirm green on empty corpus.
-- [ ] Fix any invariants that fail on empty content (these would be tooling bugs, not data issues).
-- [ ] Run `python tools/test_build_data.py` and confirm green.
+- [x] Run `python tools/check_content_integrity.py`: 35/41 invariants PASS.
+- [x] 6 FAIL all in JA-8 (Q-count, expected for empty question banks).
 
-### Layer 3 — Kanji whitelist + catalogue (~3-6 hr)
+### Layer 3 — Kanji whitelist + catalogue (DONE)
 
-- [ ] Build `data/n4_kanji_whitelist.json` from `n4-kanji-inventory.md` + N5 prerequisites = 280 glyphs.
-- [ ] Build `data/n4_kanji_readings.json` per glyph: on/kun/primary.
-- [ ] Author `KnowledgeBank/kanji_n4.md`: per-glyph entry per spec §14.2.
-- [ ] Run X-6.9 invariant; fix primary-reading issues.
-- [ ] Fetch 280 KanjiVG SVGs into `svg/kanji/`.
+- [x] Built `data/n4_kanji_whitelist.json` from `n4-kanji-inventory.md` + N5 prerequisites = 249 glyphs (24 inventory entries overlapped with N5).
+- [x] Built `data/n4_kanji_readings.json` per glyph: on/kun/primary.
+- [x] Authored `KnowledgeBank/kanji_n4.md`: structured catalogue (JA-12 PASS, all 249 entries).
+- [x] X-6.9 PASS (primary-reading sanity).
+- [ ] Fetch KanjiVG SVGs into `svg/kanji/` — Pass-3.
+- [ ] Per-glyph examples from full vocab corpus — Pass-3.
 
-### Layer 4 — Vocabulary corpus (~6-12 hr)
+### Layer 4 — Vocabulary corpus (SEED done; full corpus deferred to Pass-3)
 
-- [ ] Author `KnowledgeBank/vocabulary_n4.md` ~1500 entries grouped by 18 thematic sections (per spec §13.2).
-- [ ] Apply per-WORD PoS rule (anti-pattern AP-1).
-- [ ] `tools/build_data.py` derives `data/vocab.json`.
-- [ ] `tools/tag_vocab_pos.py` verifies PoS coverage.
-- [ ] JA-31 invariant: vocab PoS parity (KB ↔ JSON, homograph-aware).
+- [x] Authored `KnowledgeBank/vocabulary_n4.md` SEED: 1159 entries (1041 N5 prerequisite + 118 N4 from a-h sample).
+- [x] Per-WORD PoS rule applied (suru-nouns generate two entries: [n.] + [v3]).
+- [x] `tools/build_n4_vocab.py` derives `data/vocab.json`.
+- [x] JA-31 PASS (vocab PoS parity, homograph-aware).
+- [ ] Extend to full ~600 N4 entries from Tanos N4 CSV — Pass-3.
 
-### Layer 5 — Grammar catalogue (~8-16 hr)
+### Layer 5 — Grammar catalogue (SEED done; examples + form_rules deferred to Pass-3)
 
-- [ ] Cross-reference Bunpro N4 + Tanos N4 + Genki II + Minna II.
-- [ ] Tier per pattern (per spec §12.3).
-- [ ] Author `KnowledgeBank/grammar_n4.md` ~210 patterns across 18 categories (per §12.2).
-- [ ] 2-5 examples each + common-mistakes block per pattern.
-- [ ] `tools/link_grammar_examples_to_vocab.py` for vocab_ids homograph-aware linkage.
+- [x] Authored `KnowledgeBank/grammar_n4.md`: 307 patterns (178 N5 prerequisite + 129 N4 from inventory).
+- [x] 18-category structure per spec.
+- [x] Out-of-scope kanji kana-folded (場合は -> ばあいは, 必要 -> ひつよう, 頃 -> ころ).
+- [x] Meta-topics dropped (意向形, 受身形, 他動詞 & 自動詞).
+- [x] `tools/build_n4_grammar.py` derives `data/grammar.json`.
+- [ ] form_rules + examples + common_mistakes per pattern — Pass-3.
+- [ ] Cross-reference Bunpro N4 / Genki II / Minna II — Pass-3.
+
+## Pass-3 (post-seed content authoring, target 2026-08-04)
 
 ### Layer 6 — Reading + Listening (~6-10 hr)
 
@@ -100,11 +105,14 @@
 - [ ] Author `KnowledgeBank/chokai_questions_n4.md`: ~30 listening items per §16.
 - [ ] `tools/build_audio.py` synthetic TTS pass.
 
-### Layer 7 — Question banks (~12-24 hr)
+### Layer 7 — Question banks (~12-24 hr) — JA-8 RELEASE BLOCKER
 
-- [ ] `moji_questions_n4.md` ~150 questions per Mondai 1/2/3.
-- [ ] `goi_questions_n4.md` ~150 questions per Mondai 4/5/6.
-- [ ] `bunpou_questions_n4.md` ~100 questions per Mondai 1/2/3.
+- [ ] `moji_questions_n4.md` 100 questions per Mondai 1/2/3.
+- [ ] `goi_questions_n4.md` 100 questions per Mondai 4/5/6.
+- [ ] `bunpou_questions_n4.md` 100 questions per Mondai 1/2/3.
+- [ ] `dokkai_questions_n4.md` 102 questions linked to ~30 passages.
+- [ ] `externally_sourced_n5.md` 189 third-party-sourced questions (filename per integrity check).
+- [ ] Total target: 591 questions.
 - [ ] `tools/scan_multi_correct.py` — fix every flag.
 - [ ] `tools/heuristic_audit.py` — apply auto-fixes.
 - [ ] `tools/build_papers.py` — slice into 15-question papers.
@@ -119,20 +127,22 @@
 - [ ] First deploy to `<org>.github.io/jlpt-n4-tutor/`.
 - [ ] Tag `v1.0.0`.
 
-## Pass-3 (post-launch, target 2026-09-04)
+## Pass-4 (post-launch, target 2026-09-04)
 
 - [ ] Native-teacher review of grammar patterns (commission reviewer).
 - [ ] Native-recorded listening audio for top-priority items.
-- [ ] Coverage gap fixes from Pass-2 §coverage_compare.
+- [ ] Coverage gap fixes from Pass-3 §coverage_compare.
 - [ ] FSRS-4 SRS migration.
 
-## Known limitations (v0.1.0)
+## Known limitations (v0.1.0-alpha)
 
-- Skeleton only — every content array is empty.
-- Pages will render but show "no content" empty states until Pass-2 lands.
-- Audio pipeline ported but no MP3s rendered (no content to render against).
+- Question banks empty (591 expected) — JA-8 release blocker; Pass-3 deliverable.
+- Reading / Listening corpora empty — Pass-3 deliverable.
+- Vocab corpus is SEED (118 N4 entries) — full Tanos fetch in Pass-3.
+- Grammar form_rules / examples / common_mistakes are placeholders — Pass-3 enrichment.
+- No audio MP3s — synthetic gtts runs in Pass-3 against authored content.
 - No N4-specific Playwright tests yet.
 
 ## Recommended next action
 
-Run `python tools/check_content_integrity.py` and verify it exits 0 on empty corpus. If any invariant fails, fix the tooling (the empty-corpus state should be valid). Then start Pass-2 Layer 3 (kanji whitelist).
+Pass-3 Layer 7 (question banks) is the JA-8 release-blocker. Authoring 591 questions across moji/goi/bunpou/dokkai/externally_sourced is ~12-24 hr of focused content work. Recommend doing it after the full Tanos N4 vocab fetch (Pass-3 Layer 4) so questions can use the full vocab pool for distractor generation.
