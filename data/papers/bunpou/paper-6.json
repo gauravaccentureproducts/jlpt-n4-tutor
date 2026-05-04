@@ -9,12 +9,12 @@
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "「い-Adjective past - was [adjective]」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「and」(n4-076) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "possessive / noun-modifier",
-        "から～まで",
-        "い-Adjective past: ～かったです",
-        "だれ／どなた"
+        "かどうか",
+        "がする",
+        "し",
+        "だけで"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -23,12 +23,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「い-Adjective past negative」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「so much」(n4-077) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "この／その／あの／どの ＋ N (noun)",
-        "い-Adjective past negative: ～くなかったです / ～くありませんでした",
-        "～の",
-        "から～まで"
+        "いたします",
+        "そんなに",
+        "あまり〜ない",
+        "いらっしゃる"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -37,12 +37,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「い-Adjective て-form (-くて) - connector」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「but still」(n4-078) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "いつ",
-        "い-Adjective て-form: ～くて",
-        "ここ／そこ／あそこ／どこ",
-        "possessive / noun-modifier"
+        "はずがない",
+        "それでも",
+        "かどうか",
+        "かい"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -51,82 +51,82 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「な-Adjective + な + Noun」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「besides」(n4-079) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "ここ／そこ／あそこ／どこ",
-        "この／その／あの／どの ＋ N (noun)",
-        "だれ／どなた",
-        "な-Adjective + な + Noun"
+        "間に（あいだに）",
+        "から作る",
+        "それに",
+        "かもしれない"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q79",
       "id": "bunpou-6.4"
     },
     {
       "type": "mcq",
-      "stem_html": "「な-Adjective + です - polite present affirmative」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「I heard that」(n4-080) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "な-Adjective + です",
-        "これ／それ／あれ／どれ",
-        "この／その／あの／どの ＋ N (noun)",
-        "だれ／どなた"
+        "から作る",
+        "かい",
+        "そうだ [1]",
+        "ではないか"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q80",
       "id": "bunpou-6.5"
     },
     {
       "type": "mcq",
-      "stem_html": "「な-Adjective negative - polite present」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「looks like」(n4-081) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "これ／それ／あれ／どれ",
-        "〜の",
-        "な-Adjective negative: ～じゃありません / ～ではありません",
-        "しか～ない"
+        "そうだ [2]",
+        "かい",
+        "後で（あとで）",
+        "間（あいだ）"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q81",
       "id": "bunpou-6.6"
     },
     {
       "type": "mcq",
-      "stem_html": "「な-Adjective past - was [adjective] (uses でした)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「seems like」(n4-082) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "な-Adjective past: ～でした",
-        "～の",
-        "いつ",
-        "これ／それ／あれ／どれ"
+        "がる / がっている",
+        "ばあいは",
+        "出す（だす）",
+        "そうに / そうな"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q82",
       "id": "bunpou-6.7"
     },
     {
       "type": "mcq",
-      "stem_html": "「な-Adjective past negative」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「just finished」(n4-083) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "な-Adjective past negative: ～じゃありませんでした",
-        "ここ／そこ／あそこ／どこ",
-        "〜です／〜ます",
-        "から～まで"
+        "はずがない",
+        "Format: `PATTERN",
+        "たばかり",
+        "後で（あとで）"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q83",
       "id": "bunpou-6.8"
     },
     {
       "type": "mcq",
-      "stem_html": "「な-Adjective て-form (~で) - connector」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「just finished doing, was just doing」(n4-084) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "よね",
-        "な-Adjective て-form: ～で",
-        "〜です／〜ます",
-        "だれ／どなた"
+        "間に（あいだに）",
+        "たところ",
+        "かい",
+        "ば"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -135,26 +135,26 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「あります - there is / exists (inanimate things)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「wants to do ~ (third person)」(n4-085) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "〜です／〜ます",
-        "あります",
-        "これ／それ／あれ／どれ",
-        "ここ／そこ／あそこ／どこ"
+        "たがる",
+        "はずだ",
+        "間に（あいだに）",
+        "から作る"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q85",
       "id": "bunpou-6.10"
     },
     {
       "type": "mcq",
-      "stem_html": "「います - there is / exists (animate things - people, animals)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「if」(n4-086) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "だれ／どなた",
-        "possessive / noun-modifier",
-        "〜の",
-        "います"
+        "だけで",
+        "いらっしゃる",
+        "はずがない",
+        "たら"
       ],
       "correctIndex": 3,
       "rationale": "",
@@ -163,26 +163,26 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「～に～が あります／います - 'there is X at Y' (location-first existence)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「why don't you」(n4-087) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "なに／なん",
-        "から～まで",
-        "よね",
-        "～に～があります / います"
+        "たらどう",
+        "ございます",
+        "かな",
+        "後で（あとで）"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q87",
       "id": "bunpou-6.12"
     },
     {
       "type": "mcq",
-      "stem_html": "「～は～にあります／います - 'X is at Y' (already-known X)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「what should I do?」(n4-088) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "この／その／あの／どの ＋ N (noun)",
-        "なに／なん",
-        "しか～ない",
-        "～は～にあります / います"
+        "あまり〜ない",
+        "がする",
+        "かどうか",
+        "たらいいですか"
       ],
       "correctIndex": 3,
       "rationale": "",
@@ -191,28 +191,28 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「～が あります - 'have / there is' (events, skills, possessions)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「conjunctive particle」(n4-089) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "～があります",
-        "この／その／あの／どの ＋ N (noun)",
-        "〜の",
-        "から～まで"
+        "あまり〜ない",
+        "間に（あいだに）",
+        "間（あいだ）",
+        "て / で"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q89",
       "id": "bunpou-6.14"
     },
     {
       "type": "mcq",
-      "stem_html": "「AはBより [adj] です - 'A is more [adj] than B'」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to do for」(n4-090) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "いつ",
-        "～は～より～です",
-        "この／その／あの／どの ＋ N (noun)",
-        "だれ／どなた"
+        "出す（だす）",
+        "がる / がっている",
+        "かどうか",
+        "てあげる"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q90",
       "id": "bunpou-6.15"

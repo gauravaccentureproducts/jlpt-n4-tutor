@@ -9,12 +9,12 @@
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "<u>外国人</u> の よみかたを えらんでください。",
+      "stem_html": "<u>社会</u> の よみかたを えらんでください。",
       "choices": [
-        "このあいだ",
-        "がいこくじん",
-        "にゅういんする",
-        "もくようび"
+        "はこぶ",
+        "しゃかい",
+        "りょかん",
+        "いきもの"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -23,12 +23,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "<u>気分</u> の よみかたを えらんでください。",
+      "stem_html": "<u>安心</u> の よみかたを えらんでください。",
       "choices": [
-        "にほんご",
-        "さげる",
         "けいかく",
-        "きぶん"
+        "かいじょう",
+        "はなみする",
+        "あんしん"
       ],
       "correctIndex": 3,
       "rationale": "",
@@ -37,42 +37,42 @@
     },
     {
       "type": "mcq",
-      "stem_html": "<u>毎年</u> の よみかたを えらんでください。",
+      "stem_html": "<u>ご主人</u> の よみかたを えらんでください。",
       "choices": [
-        "(option-4)",
-        "(option-3)",
-        "まいとし / まいねん",
-        "にほん / にっぽん"
+        "とくべつ",
+        "ごしゅじん",
+        "まんなか",
+        "おいでになる"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q48",
       "id": "moji-4.3"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>出る</u> の よみかたを えらんでください。",
+      "stem_html": "<u>昼間</u> の よみかたを えらんでください。",
       "choices": [
-        "おとこ",
-        "たかい",
-        "じかん",
-        "でる"
+        "ひるま",
+        "いがい",
+        "せいぶつ",
+        "たのしみ"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q49",
       "id": "moji-4.4"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>今度</u> の よみかたを えらんでください。",
+      "stem_html": "<u>足す</u> の よみかたを えらんでください。",
       "choices": [
-        "こんど",
-        "おや",
-        "せん",
-        "くださる"
+        "いか",
+        "いがく",
+        "さげる",
+        "たす"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q50",
       "id": "moji-4.5"
@@ -81,12 +81,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "毎週",
-        "会社員",
-        "天気",
-        "一万"
+        "以上",
+        "味",
+        "通う",
+        "大分"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q51",
       "id": "moji-4.6"
@@ -95,12 +95,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "中学校",
-        "火事",
-        "半分",
-        "会社員"
+        "花見",
+        "時代",
+        "写す",
+        "小学校"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q52",
       "id": "moji-4.7"
@@ -109,12 +109,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "電話する",
-        "新しい",
-        "中国語",
-        "知らせる"
+        "赤ちゃん",
+        "集める",
+        "用意する",
+        "運転手"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q53",
       "id": "moji-4.8"
@@ -123,10 +123,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "工場",
-        "中国",
-        "一",
-        "電車"
+        "色んな",
+        "入院する",
+        "知らせる",
+        "生じる"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -137,12 +137,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "運ぶ",
-        "社会",
-        "校長",
-        "屋上"
+        "集まる",
+        "代わり",
+        "工業",
+        "注意"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q55",
       "id": "moji-4.10"
@@ -151,12 +151,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "急行",
-        "日曜日",
-        "男の子",
-        "火"
+        "入学",
+        "下着",
+        "帰り",
+        "見物"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q56",
       "id": "moji-4.11"
@@ -165,12 +165,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "毎日",
-        "火曜日",
-        "大学",
-        "大分"
+        "時代",
+        "知らせる",
+        "入院する",
+        "この間"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q57",
       "id": "moji-4.12"
@@ -179,12 +179,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "親切",
-        "会話",
-        "中国",
-        "二"
+        "西洋",
+        "仕方",
+        "入学",
+        "新聞社"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q58",
       "id": "moji-4.13"
@@ -193,10 +193,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "一万",
-        "男",
-        "先週",
-        "大人"
+        "見つかる",
+        "大学生",
+        "下さる",
+        "空気"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -207,10 +207,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "月",
-        "女の子",
-        "出る",
-        "特に"
+        "答え",
+        "研究",
+        "工業",
+        "急"
       ],
       "correctIndex": 3,
       "rationale": "",

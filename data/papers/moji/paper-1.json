@@ -9,12 +9,12 @@
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "<u>二十日</u> の よみかたを えらんでください。",
+      "stem_html": "<u>運転手</u> の よみかたを えらんでください。",
       "choices": [
-        "したぎ",
-        "はつか",
-        "ふつか",
-        "した"
+        "しけんする",
+        "うんてんしゅ",
+        "きゅうこうする",
+        "にゅうがく"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -23,26 +23,26 @@
     },
     {
       "type": "mcq",
-      "stem_html": "<u>以下</u> の よみかたを えらんでください。",
+      "stem_html": "<u>運ぶ</u> の よみかたを えらんでください。",
       "choices": [
-        "いか",
-        "やっつ",
-        "ながい",
-        "いち"
+        "ことり",
+        "くださる",
+        "さがる",
+        "はこぶ"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q2",
       "id": "moji-1.2"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>外</u> の よみかたを えらんでください。",
+      "stem_html": "<u>見える</u> の よみかたを えらんでください。",
       "choices": [
-        "じゅう",
-        "ろく",
-        "ちり",
-        "そと"
+        "きぶん",
+        "じだい",
+        "ただしい",
+        "みえる"
       ],
       "correctIndex": 3,
       "rationale": "",
@@ -51,26 +51,26 @@
     },
     {
       "type": "mcq",
-      "stem_html": "<u>八月</u> の よみかたを えらんでください。",
+      "stem_html": "<u>計画</u> の よみかたを えらんでください。",
       "choices": [
-        "むいか",
-        "なんようび",
-        "はちがつ",
-        "いじょう"
+        "いじょう",
+        "けいかく",
+        "みつける",
+        "あんしん"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q4",
       "id": "moji-1.4"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>先週</u> の よみかたを えらんでください。",
+      "stem_html": "<u>高校生</u> の よみかたを えらんでください。",
       "choices": [
-        "せんしゅう",
-        "おこなう",
-        "じんこう",
-        "うまれる"
+        "こうこうせい",
+        "きゅうこうする",
+        "ごしゅじん",
+        "にゅうがく"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -79,40 +79,40 @@
     },
     {
       "type": "mcq",
-      "stem_html": "<u>一番</u> の よみかたを えらんでください。",
+      "stem_html": "<u>品物</u> の よみかたを えらんでください。",
       "choices": [
-        "いちばん",
-        "とくに",
-        "いきもの",
-        "ろくがつ"
+        "こうじょう",
+        "かよう",
+        "しょうじる",
+        "しなもの"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q6",
       "id": "moji-1.6"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>中国</u> の よみかたを えらんでください。",
+      "stem_html": "<u>特急</u> の よみかたを えらんでください。",
       "choices": [
-        "かいわする",
-        "おんなのこ",
-        "ちゅうごく",
-        "きこえる"
+        "こうこうせい",
+        "とっきゅう",
+        "じんこう",
+        "こうちょう"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q7",
       "id": "moji-1.7"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>日本</u> の よみかたを えらんでください。",
+      "stem_html": "<u>以上</u> の よみかたを えらんでください。",
       "choices": [
-        "(option-3)",
-        "にほん / にっぽん",
-        "まいとし / まいねん",
-        "(option-4)"
+        "したぎ",
+        "いじょう",
+        "しんせつ",
+        "きょうかい"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -121,12 +121,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "<u>外国語</u> の よみかたを えらんでください。",
+      "stem_html": "<u>通る</u> の よみかたを えらんでください。",
       "choices": [
-        "おんなのこ",
-        "うまれる",
-        "きんようび",
-        "がいこくご"
+        "みつかる",
+        "いか",
+        "しゃかい",
+        "とおる"
       ],
       "correctIndex": 3,
       "rationale": "",
@@ -135,12 +135,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "<u>生物</u> の よみかたを えらんでください。",
+      "stem_html": "<u>水道</u> の よみかたを えらんでください。",
       "choices": [
-        "ぶんがく",
-        "かようび",
-        "らいげつ",
-        "せいぶつ"
+        "きぶん",
+        "はつおん",
+        "ようじ",
+        "すいどう"
       ],
       "correctIndex": 3,
       "rationale": "",
@@ -149,70 +149,70 @@
     },
     {
       "type": "mcq",
-      "stem_html": "<u>車</u> の よみかたを えらんでください。",
+      "stem_html": "<u>工場</u> の よみかたを えらんでください。",
       "choices": [
-        "でんしゃ",
-        "ごがつ",
-        "とくべつ",
-        "くるま"
+        "まんなか",
+        "こうじょう",
+        "にゅういん",
+        "けいかくする"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q11",
       "id": "moji-1.11"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>百</u> の よみかたを えらんでください。",
+      "stem_html": "<u>小鳥</u> の よみかたを えらんでください。",
       "choices": [
-        "おわり",
-        "ついたち",
-        "ひゃく",
-        "しがつ"
+        "ことり",
+        "ちから",
+        "あがる",
+        "みつかる"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q12",
       "id": "moji-1.12"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>六つ</u> の よみかたを えらんでください。",
+      "stem_html": "<u>用</u> の よみかたを えらんでください。",
       "choices": [
-        "はこぶ",
-        "むっつ",
-        "あがる",
-        "なまえ"
+        "じ",
+        "あじ",
+        "よう",
+        "とくに"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q13",
       "id": "moji-1.13"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>一人で</u> の よみかたを えらんでください。",
+      "stem_html": "<u>字</u> の よみかたを えらんでください。",
       "choices": [
-        "よっか",
-        "ひとりで",
-        "はなし",
-        "ふたつ"
+        "じ",
+        "かじ",
+        "やむ",
+        "き"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q14",
       "id": "moji-1.14"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>会う</u> の よみかたを えらんでください。",
+      "stem_html": "<u>見つかる</u> の よみかたを えらんでください。",
       "choices": [
-        "あう",
-        "やすい",
-        "かわ",
-        "くうき"
+        "とくべつ",
+        "みつかる",
+        "ようい",
+        "とっきゅう"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q15",
       "id": "moji-1.15"

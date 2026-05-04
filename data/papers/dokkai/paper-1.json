@@ -9,7 +9,7 @@
   "passages": [
     {
       "label": "Passage 1 (Q1-Q3)",
-      "text": "> わたしの いえの ちかくに かた が あります。まいにち 人 を します。たまに みなさん に いきます。",
+      "text": "> わたしの いえの ちかくに いる が あります。まいにち あ を します。たまに ああ に いきます。",
       "question_ids": [
         "dokkai-1.1",
         "dokkai-1.2",
@@ -18,7 +18,7 @@
     },
     {
       "label": "Passage 2 (Q4-Q6)",
-      "text": "> わたしの いえの ちかくに じぶん が あります。まいにち かぞく を します。たまに 父 に いきます。",
+      "text": "> わたしの いえの ちかくに 味 が あります。まいにち アジア を します。たまに 赤ちゃん に いきます。",
       "question_ids": [
         "dokkai-1.4",
         "dokkai-1.5",
@@ -27,7 +27,7 @@
     },
     {
       "label": "Passage 3 (Q7-Q9)",
-      "text": "> わたしの いえの ちかくに お母さん が あります。まいにち あに を します。たまに あね に いきます。",
+      "text": "> わたしの いえの ちかくに アナウンサー が あります。まいにち あんな を します。たまに 安心 に いきます。",
       "question_ids": [
         "dokkai-1.7",
         "dokkai-1.8",
@@ -36,7 +36,7 @@
     },
     {
       "label": "Passage 4 (Q10-Q12)",
-      "text": "> わたしの いえの ちかくに おにいさん が あります。まいにち おねえさん を します。たまに きょうだい に いきます。",
+      "text": "> わたしの いえの ちかくに アルコール が あります。まいにち 集まる を します。たまに 集める に いきます。",
       "question_ids": [
         "dokkai-1.10",
         "dokkai-1.11",
@@ -45,7 +45,7 @@
     },
     {
       "label": "Passage 5 (Q13-Q15)",
-      "text": "> わたしの いえの ちかくに そぼ が あります。まいにち おじいさん を します。たまに おばあさん に いきます。",
+      "text": "> わたしの いえの ちかくに ビル が あります。まいにち ぶどう を します。たまに 文学 に いきます。",
       "question_ids": [
         "dokkai-1.13",
         "dokkai-1.14",
@@ -56,241 +56,241 @@
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "問: 「かた」とは どのような いみですか。",
+      "stem_html": "問: 「いる」とは どのような いみですか。",
       "choices": [
-        "person (polite)",
-        "grandfather (own)",
-        "older sister (own)",
-        "who (polite)"
+        "accessory",
+        "to need (Group 1 exception - looks like Group 2",
+        "Africa",
+        "to part-time job"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q1",
-      "passage_text": "> わたしの いえの ちかくに かた が あります。まいにち 人 を します。たまに みなさん に いきます。",
+      "passage_text": "> わたしの いえの ちかくに いる が あります。まいにち あ を します。たまに ああ に いきます。",
       "passage_label": "Passage 1 (Q1-Q3)",
       "id": "dokkai-1.1"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「人」とは どのような いみですか。",
+      "stem_html": "問: 「あ」とは どのような いみですか。",
       "choices": [
-        "grandmother, elderly woman",
-        "I, me",
-        "person",
-        "grandfather, elderly man"
+        "part-time job",
+        "building",
+        "Ah",
+        "bell"
       ],
       "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q2",
-      "passage_text": "> わたしの いえの ちかくに かた が あります。まいにち 人 を します。たまに みなさん に いきます。",
+      "passage_text": "> わたしの いえの ちかくに いる が あります。まいにち あ を します。たまに ああ に いきます。",
       "passage_label": "Passage 1 (Q1-Q3)",
       "id": "dokkai-1.2"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「みなさん」とは どのような いみですか。",
+      "stem_html": "問: 「ああ」とは どのような いみですか。",
       "choices": [
-        "siblings",
-        "parents",
-        "everyone (polite)",
-        "younger sister"
+        "to cut (Group 1 exception - looks like Group 2",
+        "ah",
+        "Asia",
+        "to be surprised"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q3",
-      "passage_text": "> わたしの いえの ちかくに かた が あります。まいにち 人 を します。たまに みなさん に いきます。",
+      "passage_text": "> わたしの いえの ちかくに いる が あります。まいにち あ を します。たまに ああ に いきます。",
       "passage_label": "Passage 1 (Q1-Q3)",
       "id": "dokkai-1.3"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「じぶん」とは どのような いみですか。",
+      "stem_html": "問: 「味」とは どのような いみですか。",
       "choices": [
-        "oneself",
-        "older brother (polite)",
-        "father (someone else's / address form)",
-        "parents"
+        "building",
+        "flavor",
+        "America",
+        "to rise"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q4",
-      "passage_text": "> わたしの いえの ちかくに じぶん が あります。まいにち かぞく を します。たまに 父 に いきます。",
+      "passage_text": "> わたしの いえの ちかくに 味 が あります。まいにち アジア を します。たまに 赤ちゃん に いきます。",
       "passage_label": "Passage 2 (Q4-Q6)",
       "id": "dokkai-1.4"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「かぞく」とは どのような いみですか。",
+      "stem_html": "問: 「アジア」とは どのような いみですか。",
       "choices": [
-        "mother (own)",
-        "grandfather (own)",
-        "aunt, middle-aged woman",
-        "family"
+        "such",
+        "to be surprised",
+        "Asia",
+        "to run (Group 1 exception - looks like Group 2)"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q5",
-      "passage_text": "> わたしの いえの ちかくに じぶん が あります。まいにち かぞく を します。たまに 父 に いきます。",
+      "passage_text": "> わたしの いえの ちかくに 味 が あります。まいにち アジア を します。たまに 赤ちゃん に いきます。",
       "passage_label": "Passage 2 (Q4-Q6)",
       "id": "dokkai-1.5"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「父」とは どのような いみですか。",
+      "stem_html": "問: 「赤ちゃん」とは どのような いみですか。",
       "choices": [
-        "grandmother (own)",
-        "mother (own)",
-        "we",
-        "father (own)"
+        "America",
+        "suffix for familiar female person",
+        "baby",
+        "to be surprised"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q6",
-      "passage_text": "> わたしの いえの ちかくに じぶん が あります。まいにち かぞく を します。たまに 父 に いきます。",
+      "passage_text": "> わたしの いえの ちかくに 味 が あります。まいにち アジア を します。たまに 赤ちゃん に いきます。",
       "passage_label": "Passage 2 (Q4-Q6)",
       "id": "dokkai-1.6"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「お母さん」とは どのような いみですか。",
+      "stem_html": "問: 「アナウンサー」とは どのような いみですか。",
       "choices": [
-        "mother (someone else's / address form)",
-        "older sister (polite)",
-        "father (someone else's / address form)",
-        "she, her (girlfriend - more advanced sense)"
+        "to return home (Group 1 exception - looks like Group 2)",
+        "announcer",
+        "to check",
+        "America"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q7",
-      "passage_text": "> わたしの いえの ちかくに お母さん が あります。まいにち あに を します。たまに あね に いきます。",
+      "passage_text": "> わたしの いえの ちかくに アナウンサー が あります。まいにち あんな を します。たまに 安心 に いきます。",
       "passage_label": "Passage 3 (Q7-Q9)",
       "id": "dokkai-1.7"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「あに」とは どのような いみですか。",
+      "stem_html": "問: 「あんな」とは どのような いみですか。",
       "choices": [
-        "person",
-        "older brother (own)",
-        "mother (someone else's / address form)",
-        "younger sister"
+        "to run (Group 1 exception - looks like Group 2)",
+        "such",
+        "suffix for familiar female person",
+        "grapes"
       ],
       "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q8",
-      "passage_text": "> わたしの いえの ちかくに お母さん が あります。まいにち あに を します。たまに あね に いきます。",
+      "passage_text": "> わたしの いえの ちかくに アナウンサー が あります。まいにち あんな を します。たまに 安心 に いきます。",
       "passage_label": "Passage 3 (Q7-Q9)",
       "id": "dokkai-1.8"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「あね」とは どのような いみですか。",
+      "stem_html": "問: 「安心」とは どのような いみですか。",
       "choices": [
-        "older sister (own)",
-        "you",
-        "older sister (polite)",
-        "older brother (polite)"
+        "to return home (Group 1 exception - looks like Group 2)",
+        "to need (Group 1 exception - looks like Group 2",
+        "peace of mind",
+        "Ah"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q9",
-      "passage_text": "> わたしの いえの ちかくに お母さん が あります。まいにち あに を します。たまに あね に いきます。",
+      "passage_text": "> わたしの いえの ちかくに アナウンサー が あります。まいにち あんな を します。たまに 安心 に いきます。",
       "passage_label": "Passage 3 (Q7-Q9)",
       "id": "dokkai-1.9"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「おにいさん」とは どのような いみですか。",
+      "stem_html": "問: 「アルコール」とは どのような いみですか。",
       "choices": [
-        "siblings",
-        "he, him (boyfriend - more advanced sense)",
-        "younger sister",
-        "older brother (polite)"
+        "to collect",
+        "to rise",
+        "alcohol",
+        "to know (Group 1 exception - looks like Group 2)"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q10",
-      "passage_text": "> わたしの いえの ちかくに おにいさん が あります。まいにち おねえさん を します。たまに きょうだい に いきます。",
+      "passage_text": "> わたしの いえの ちかくに アルコール が あります。まいにち 集まる を します。たまに 集める に いきます。",
       "passage_label": "Passage 4 (Q10-Q12)",
       "id": "dokkai-1.10"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「おねえさん」とは どのような いみですか。",
+      "stem_html": "問: 「集まる」とは どのような いみですか。",
       "choices": [
-        "parents",
-        "father (someone else's / address form)",
-        "older sister (polite)",
-        "mother (own)"
+        "flavor",
+        "ah",
+        "to gather",
+        "suffix for familiar female person"
       ],
       "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q11",
-      "passage_text": "> わたしの いえの ちかくに おにいさん が あります。まいにち おねえさん を します。たまに きょうだい に いきます。",
+      "passage_text": "> わたしの いえの ちかくに アルコール が あります。まいにち 集まる を します。たまに 集める に いきます。",
       "passage_label": "Passage 4 (Q10-Q12)",
       "id": "dokkai-1.11"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「きょうだい」とは どのような いみですか。",
+      "stem_html": "問: 「集める」とは どのような いみですか。",
       "choices": [
-        "grandmother, elderly woman",
-        "person",
-        "siblings",
-        "grandfather, elderly man"
+        "America",
+        "to collect",
+        "baby",
+        "to return home (Group 1 exception - looks like Group 2)"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q12",
-      "passage_text": "> わたしの いえの ちかくに おにいさん が あります。まいにち おねえさん を します。たまに きょうだい に いきます。",
+      "passage_text": "> わたしの いえの ちかくに アルコール が あります。まいにち 集まる を します。たまに 集める に いきます。",
       "passage_label": "Passage 4 (Q10-Q12)",
       "id": "dokkai-1.12"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「そぼ」とは どのような いみですか。",
+      "stem_html": "問: 「ビル」とは どのような いみですか。",
       "choices": [
-        "grandmother (own)",
-        "person",
-        "she, her (girlfriend - more advanced sense)",
-        "grandfather, elderly man"
+        "to part-time job",
+        "America",
+        "to collect",
+        "building"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q13",
-      "passage_text": "> わたしの いえの ちかくに そぼ が あります。まいにち おじいさん を します。たまに おばあさん に いきます。",
+      "passage_text": "> わたしの いえの ちかくに ビル が あります。まいにち ぶどう を します。たまに 文学 に いきます。",
       "passage_label": "Passage 5 (Q13-Q15)",
       "id": "dokkai-1.13"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「おじいさん」とは どのような いみですか。",
+      "stem_html": "問: 「ぶどう」とは どのような いみですか。",
       "choices": [
-        "grandfather, elderly man",
-        "older brother (polite)",
-        "person (polite)",
-        "everyone (polite)"
+        "to check",
+        "such",
+        "bell",
+        "grapes"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q14",
-      "passage_text": "> わたしの いえの ちかくに そぼ が あります。まいにち おじいさん を します。たまに おばあさん に いきます。",
+      "passage_text": "> わたしの いえの ちかくに ビル が あります。まいにち ぶどう を します。たまに 文学 に いきます。",
       "passage_label": "Passage 5 (Q13-Q15)",
       "id": "dokkai-1.14"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「おばあさん」とは どのような いみですか。",
+      "stem_html": "問: 「文学」とは どのような いみですか。",
       "choices": [
-        "uncle, middle-aged man",
-        "mother (own)",
-        "grandmother, elderly woman",
-        "she, her (girlfriend - more advanced sense)"
+        "announcer",
+        "Asia",
+        "part-time job",
+        "literature"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q15",
-      "passage_text": "> わたしの いえの ちかくに そぼ が あります。まいにち おじいさん を します。たまに おばあさん に いきます。",
+      "passage_text": "> わたしの いえの ちかくに ビル が あります。まいにち ぶどう を します。たまに 文学 に いきます。",
       "passage_label": "Passage 5 (Q13-Q15)",
       "id": "dokkai-1.15"
     }

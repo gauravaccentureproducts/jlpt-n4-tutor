@@ -9,96 +9,96 @@
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "「Plain non-past negative」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「although, in spite of, even though」(n4-061) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "Verb-ない",
-        "ここ／そこ／あそこ／どこ",
-        "から～まで",
-        "なに／なん"
+        "かどうか",
+        "ございます",
+        "ひつようがある",
+        "のに"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q61",
       "id": "bunpou-5.1"
     },
     {
       "type": "mcq",
-      "stem_html": "「Plain past affirmative (た-form)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to (do something)」(n4-062) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "これ／それ／あれ／どれ",
-        "possessive / noun-modifier",
-        "ここ／そこ／あそこ／どこ",
-        "Verb-た"
+        "のに (alt.)",
+        "いたします",
+        "かしら",
+        "はずがない"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q62",
       "id": "bunpou-5.2"
     },
     {
       "type": "mcq",
-      "stem_html": "「Plain past negative (-なかった)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「[A] is [B]」(n4-063) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "〜の",
-        "ここ／そこ／あそこ／どこ",
-        "よね",
-        "Verb-なかった"
+        "ひつようがある",
+        "から作る",
+        "のは〜だ",
+        "かしら"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q63",
       "id": "bunpou-5.3"
     },
     {
       "type": "mcq",
-      "stem_html": "「Verb-て (te-form) - connector / sequence / request base」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「please do ~ (honorific)」(n4-064) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "〜の",
-        "Verb-て",
-        "しか～ない",
-        "ここ／そこ／あそこ／どこ"
+        "がり",
+        "はずだ",
+        "お〜ください",
+        "かい"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q64",
       "id": "bunpou-5.4"
     },
     {
       "type": "mcq",
-      "stem_html": "「Verb-て、Verb-て、… - sequential / chained actions」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to do (honorific)」(n4-065) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "しか～ない",
-        "いつ",
-        "だれ／どなた",
-        "Verb-て、Verb-て、…"
+        "あまり〜ない",
+        "いたします",
+        "お〜になる",
+        "ございます"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q65",
       "id": "bunpou-5.5"
     },
     {
       "type": "mcq",
-      "stem_html": "「Verb-てください - please do (polite request / instruction)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「repeated at intervals, every」(n4-066) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "しか～ない",
-        "nominalizer in basic use",
-        "これ／それ／あれ／どれ",
-        "Verb-てください"
+        "あまり〜ない",
+        "おきに",
+        "いたします",
+        "だけで"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q66",
       "id": "bunpou-5.6"
     },
     {
       "type": "mcq",
-      "stem_html": "「Verb-ています - progressive / current state / habitual」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to finish」(n4-067) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "Verb-ています",
-        "この／その／あの／どの ＋ N (noun)",
-        "～の",
-        "これ／それ／あれ／どれ"
+        "終わる（おわる）",
+        "ばあいは",
+        "ば",
+        "ひつようがある"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -107,12 +107,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「Verb-ていません - currently NOT doing / NOT in state」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「potential form」(n4-068) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "しか～ない",
-        "Verb-ていません",
-        "いつ",
-        "nominalizer in basic use"
+        "出す（だす）",
+        "られる",
+        "あまり〜ない",
+        "いたします"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -121,40 +121,40 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「Verb-てもいいです - may / it's OK to do (permission)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「it seems like」(n4-069) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "Verb-てもいいです",
-        "この／その／あの／どの ＋ N (noun)",
-        "しか～ない",
-        "だれ／どなた"
+        "がり",
+        "らしい",
+        "あまり〜ない",
+        "ばあいは"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q69",
       "id": "bunpou-5.9"
     },
     {
       "type": "mcq",
-      "stem_html": "「Verb-てはいけません - must not / it's forbidden」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「-ness」(n4-070) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "ここ／そこ／あそこ／どこ",
-        "〜です／〜ます",
-        "Verb-てはいけません",
-        "しか～ない"
+        "あまり〜ない",
+        "さ",
+        "ばあいは",
+        "間（あいだ）"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q70",
       "id": "bunpou-5.10"
     },
     {
       "type": "mcq",
-      "stem_html": "「Verb-てから - 'after doing X'」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「some time ago」(n4-071) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "しか～ない",
-        "possessive / noun-modifier",
-        "Verb-てから",
-        "ここ／そこ／あそこ／どこ"
+        "かどうか",
+        "ひつようがある",
+        "さっき",
+        "かい"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -163,40 +163,40 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「Verb-ないでください - please don't do」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「causative-passive」(n4-072) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "これ／それ／あれ／どれ",
-        "Verb-ないでください",
-        "いつ",
-        "〜の"
+        "させられる",
+        "いたします",
+        "から作る",
+        "始める（はじめる）"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q72",
       "id": "bunpou-5.12"
     },
     {
       "type": "mcq",
-      "stem_html": "「い-Adjective + Noun - adjective directly before noun」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「causative form」(n4-073) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "い-Adjective + Noun",
-        "〜の",
-        "いつ",
-        "nominalizer in basic use"
+        "だけで",
+        "ひつようがある",
+        "させる",
+        "いたします"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q73",
       "id": "bunpou-5.13"
     },
     {
       "type": "mcq",
-      "stem_html": "「い-Adjective + です - polite present affirmative」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「please let me do」(n4-074) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "い-Adjective + です",
-        "〜の",
-        "これ／それ／あれ／どれ",
-        "～の"
+        "させてください",
+        "はずだ",
+        "ば",
+        "がる / がっている"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -205,14 +205,14 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「い-Adjective negative - present polite」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「as one would expect」(n4-075) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "〜です／〜ます",
-        "い-Adjective negative: ～くないです / ～くありません",
-        "だれ／どなた",
-        "なに／なん"
+        "いたします",
+        "ございます",
+        "ばあいは",
+        "さすが"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q75",
       "id": "bunpou-5.15"

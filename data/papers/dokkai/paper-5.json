@@ -9,7 +9,7 @@
   "passages": [
     {
       "label": "Passage 21 (Q61-Q63)",
-      "text": "> わたしの いえの ちかくに 七 が あります。まいにち 八 を します。たまに 九 に いきます。",
+      "text": "> わたしの いえの ちかくに 着物 が あります。まいにち 子 を します。たまに 心 に いきます。",
       "question_ids": [
         "dokkai-5.1",
         "dokkai-5.2",
@@ -18,7 +18,7 @@
     },
     {
       "label": "Passage 22 (Q64-Q66)",
-      "text": "> わたしの いえの ちかくに 二十 が あります。まいにち 百 を します。たまに 千 に いきます。",
+      "text": "> わたしの いえの ちかくに このごろ が あります。まいにち コンピュータ を します。たまに コンサート に いきます。",
       "question_ids": [
         "dokkai-5.4",
         "dokkai-5.5",
@@ -27,7 +27,7 @@
     },
     {
       "label": "Passage 23 (Q67-Q69)",
-      "text": "> わたしの いえの ちかくに おく が あります。まいにち 一つ を します。たまに 二つ に いきます。",
+      "text": "> わたしの いえの ちかくに 答え が あります。まいにち 小鳥 を します。たまに こう に いきます。",
       "question_ids": [
         "dokkai-5.7",
         "dokkai-5.8",
@@ -36,7 +36,7 @@
     },
     {
       "label": "Passage 24 (Q70-Q72)",
-      "text": "> わたしの いえの ちかくに 五つ が あります。まいにち 六つ を します。たまに 七つ に いきます。",
+      "text": "> わたしの いえの ちかくに 工場 が あります。まいにち 高校 を します。たまに 高校生 に いきます。",
       "question_ids": [
         "dokkai-5.10",
         "dokkai-5.11",
@@ -45,7 +45,7 @@
     },
     {
       "label": "Passage 25 (Q73-Q75)",
-      "text": "> わたしの いえの ちかくに 十 が あります。まいにち いくつ を します。たまに 人 に いきます。",
+      "text": "> わたしの いえの ちかくに 教会 が あります。まいにち 急 を します。たまに 急行 に いきます。",
       "question_ids": [
         "dokkai-5.13",
         "dokkai-5.14",
@@ -56,241 +56,241 @@
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "問: 「七」とは どのような いみですか。",
+      "stem_html": "問: 「着物」とは どのような いみですか。",
       "choices": [
-        "person",
-        "he, him (boyfriend - more advanced sense)",
-        "mother (own)",
-        "seven"
+        "kimono",
+        "suffix for familiar female person",
+        "flavor",
+        "to run (Group 1 exception - looks like Group 2)"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q61",
-      "passage_text": "> わたしの いえの ちかくに 七 が あります。まいにち 八 を します。たまに 九 に いきます。",
+      "passage_text": "> わたしの いえの ちかくに 着物 が あります。まいにち 子 を します。たまに 心 に いきます。",
       "passage_label": "Passage 21 (Q61-Q63)",
       "id": "dokkai-5.1"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「八」とは どのような いみですか。",
+      "stem_html": "問: 「子」とは どのような いみですか。",
       "choices": [
-        "siblings",
-        "father (someone else's / address form)",
-        "eight",
-        "he, him (boyfriend - more advanced sense)"
+        "to need (Group 1 exception - looks like Group 2",
+        "Ah",
+        "flavor",
+        "child"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q62",
-      "passage_text": "> わたしの いえの ちかくに 七 が あります。まいにち 八 を します。たまに 九 に いきます。",
+      "passage_text": "> わたしの いえの ちかくに 着物 が あります。まいにち 子 を します。たまに 心 に いきます。",
       "passage_label": "Passage 21 (Q61-Q63)",
       "id": "dokkai-5.2"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「九」とは どのような いみですか。",
+      "stem_html": "問: 「心」とは どのような いみですか。",
       "choices": [
-        "he, him (boyfriend - more advanced sense)",
-        "mother (own)",
-        "nine",
-        "father (someone else's / address form)"
+        "flavor",
+        "heart",
+        "bell",
+        "to return home (Group 1 exception - looks like Group 2)"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q63",
-      "passage_text": "> わたしの いえの ちかくに 七 が あります。まいにち 八 を します。たまに 九 に いきます。",
+      "passage_text": "> わたしの いえの ちかくに 着物 が あります。まいにち 子 を します。たまに 心 に いきます。",
       "passage_label": "Passage 21 (Q61-Q63)",
       "id": "dokkai-5.3"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「二十」とは どのような いみですか。",
+      "stem_html": "問: 「このごろ」とは どのような いみですか。",
       "choices": [
-        "we",
-        "mother (own)",
-        "twenty",
-        "father (someone else's / address form)"
+        "bell",
+        "literature",
+        "Ah",
+        "these days"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q64",
-      "passage_text": "> わたしの いえの ちかくに 二十 が あります。まいにち 百 を します。たまに 千 に いきます。",
+      "passage_text": "> わたしの いえの ちかくに このごろ が あります。まいにち コンピュータ を します。たまに コンサート に いきます。",
       "passage_label": "Passage 22 (Q64-Q66)",
       "id": "dokkai-5.4"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「百」とは どのような いみですか。",
+      "stem_html": "問: 「コンピュータ」とは どのような いみですか。",
       "choices": [
-        "hundred",
-        "younger sister",
-        "mother (own)",
-        "older sister (own)"
+        "alcohol",
+        "America",
+        "flavor",
+        "computer"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q65",
-      "passage_text": "> わたしの いえの ちかくに 二十 が あります。まいにち 百 を します。たまに 千 に いきます。",
+      "passage_text": "> わたしの いえの ちかくに このごろ が あります。まいにち コンピュータ を します。たまに コンサート に いきます。",
       "passage_label": "Passage 22 (Q64-Q66)",
       "id": "dokkai-5.5"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「千」とは どのような いみですか。",
+      "stem_html": "問: 「コンサート」とは どのような いみですか。",
       "choices": [
-        "mother (someone else's / address form)",
-        "thousand",
-        "who (polite)",
-        "siblings"
+        "to rise",
+        "concert",
+        "literature",
+        "to cut (Group 1 exception - looks like Group 2"
       ],
       "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q66",
-      "passage_text": "> わたしの いえの ちかくに 二十 が あります。まいにち 百 を します。たまに 千 に いきます。",
+      "passage_text": "> わたしの いえの ちかくに このごろ が あります。まいにち コンピュータ を します。たまに コンサート に いきます。",
       "passage_label": "Passage 22 (Q64-Q66)",
       "id": "dokkai-5.6"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「おく」とは どのような いみですか。",
+      "stem_html": "問: 「答え」とは どのような いみですか。",
       "choices": [
-        "mother (own)",
-        "person",
-        "older brother (own)",
-        "hundred million"
+        "response",
+        "accessory",
+        "to run (Group 1 exception - looks like Group 2)",
+        "bell"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q67",
-      "passage_text": "> わたしの いえの ちかくに おく が あります。まいにち 一つ を します。たまに 二つ に いきます。",
+      "passage_text": "> わたしの いえの ちかくに 答え が あります。まいにち 小鳥 を します。たまに こう に いきます。",
       "passage_label": "Passage 23 (Q67-Q69)",
       "id": "dokkai-5.7"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「一つ」とは どのような いみですか。",
+      "stem_html": "問: 「小鳥」とは どのような いみですか。",
       "choices": [
-        "she, her (girlfriend - more advanced sense)",
-        "younger sister",
-        "older sister (own)",
-        "one (thing)"
+        "baby",
+        "to rise",
+        "small bird",
+        "ah"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q68",
-      "passage_text": "> わたしの いえの ちかくに おく が あります。まいにち 一つ を します。たまに 二つ に いきます。",
+      "passage_text": "> わたしの いえの ちかくに 答え が あります。まいにち 小鳥 を します。たまに こう に いきます。",
       "passage_label": "Passage 23 (Q67-Q69)",
       "id": "dokkai-5.8"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「二つ」とは どのような いみですか。",
+      "stem_html": "問: 「こう」とは どのような いみですか。",
       "choices": [
-        "oneself",
-        "aunt, middle-aged woman",
-        "grandfather, elderly man",
-        "two"
+        "this way",
+        "Asia",
+        "accessory",
+        "to collect"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q69",
-      "passage_text": "> わたしの いえの ちかくに おく が あります。まいにち 一つ を します。たまに 二つ に いきます。",
+      "passage_text": "> わたしの いえの ちかくに 答え が あります。まいにち 小鳥 を します。たまに こう に いきます。",
       "passage_label": "Passage 23 (Q67-Q69)",
       "id": "dokkai-5.9"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「五つ」とは どのような いみですか。",
+      "stem_html": "問: 「工場」とは どのような いみですか。",
       "choices": [
-        "she, her (girlfriend - more advanced sense)",
-        "siblings",
-        "five",
-        "uncle, middle-aged man"
+        "factory",
+        "alcohol",
+        "to run (Group 1 exception - looks like Group 2)",
+        "part-time job"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q70",
-      "passage_text": "> わたしの いえの ちかくに 五つ が あります。まいにち 六つ を します。たまに 七つ に いきます。",
+      "passage_text": "> わたしの いえの ちかくに 工場 が あります。まいにち 高校 を します。たまに 高校生 に いきます。",
       "passage_label": "Passage 24 (Q70-Q72)",
       "id": "dokkai-5.10"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「六つ」とは どのような いみですか。",
+      "stem_html": "問: 「高校」とは どのような いみですか。",
       "choices": [
-        "younger brother",
-        "mother (someone else's / address form)",
-        "six",
-        "siblings"
+        "accessory",
+        "peace of mind",
+        "senior high school",
+        "alcohol"
       ],
       "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q71",
-      "passage_text": "> わたしの いえの ちかくに 五つ が あります。まいにち 六つ を します。たまに 七つ に いきます。",
+      "passage_text": "> わたしの いえの ちかくに 工場 が あります。まいにち 高校 を します。たまに 高校生 に いきます。",
       "passage_label": "Passage 24 (Q70-Q72)",
       "id": "dokkai-5.11"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「七つ」とは どのような いみですか。",
+      "stem_html": "問: 「高校生」とは どのような いみですか。",
       "choices": [
-        "older brother (own)",
-        "seven",
-        "father (own)",
-        "older sister (polite)"
+        "such",
+        "high school student",
+        "baby",
+        "to part-time job"
       ],
       "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q72",
-      "passage_text": "> わたしの いえの ちかくに 五つ が あります。まいにち 六つ を します。たまに 七つ に いきます。",
+      "passage_text": "> わたしの いえの ちかくに 工場 が あります。まいにち 高校 を します。たまに 高校生 に いきます。",
       "passage_label": "Passage 24 (Q70-Q72)",
       "id": "dokkai-5.12"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「十」とは どのような いみですか。",
+      "stem_html": "問: 「教会」とは どのような いみですか。",
       "choices": [
-        "family",
-        "ten",
-        "aunt, middle-aged woman",
-        "who"
+        "ah",
+        "to run (Group 1 exception - looks like Group 2)",
+        "church",
+        "America"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q73",
-      "passage_text": "> わたしの いえの ちかくに 十 が あります。まいにち いくつ を します。たまに 人 に いきます。",
+      "passage_text": "> わたしの いえの ちかくに 教会 が あります。まいにち 急 を します。たまに 急行 に いきます。",
       "passage_label": "Passage 25 (Q73-Q75)",
       "id": "dokkai-5.13"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「いくつ」とは どのような いみですか。",
+      "stem_html": "問: 「急」とは どのような いみですか。",
       "choices": [
-        "how many",
-        "who (polite)",
-        "younger brother",
-        "everyone (polite)"
+        "such",
+        "sudden",
+        "to check",
+        "to return home (Group 1 exception - looks like Group 2)"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q74",
-      "passage_text": "> わたしの いえの ちかくに 十 が あります。まいにち いくつ を します。たまに 人 に いきます。",
+      "passage_text": "> わたしの いえの ちかくに 教会 が あります。まいにち 急 を します。たまに 急行 に いきます。",
       "passage_label": "Passage 25 (Q73-Q75)",
       "id": "dokkai-5.14"
     },
     {
       "type": "mcq",
-      "stem_html": "問: 「人」とは どのような いみですか。",
+      "stem_html": "問: 「急行」とは どのような いみですか。",
       "choices": [
-        "father (someone else's / address form)",
-        "counter for people",
-        "you",
-        "younger brother"
+        "peace of mind",
+        "hurrying",
+        "to need (Group 1 exception - looks like Group 2",
+        "to gather"
       ],
       "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q75",
-      "passage_text": "> わたしの いえの ちかくに 十 が あります。まいにち いくつ を します。たまに 人 に いきます。",
+      "passage_text": "> わたしの いえの ちかくに 教会 が あります。まいにち 急 を します。たまに 急行 に いきます。",
       "passage_label": "Passage 25 (Q73-Q75)",
       "id": "dokkai-5.15"
     }

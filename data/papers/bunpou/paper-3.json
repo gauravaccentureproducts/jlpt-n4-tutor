@@ -9,40 +9,40 @@
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "「ぐらい / くらい - about, approximately (used with quantities)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「surely」(n4-031) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "possessive / noun-modifier",
-        "ぐらい / くらい",
-        "nominalizer in basic use",
-        "～の"
+        "ひつようがある",
+        "始める（はじめる）",
+        "ではないか",
+        "きっと"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q31",
       "id": "bunpou-3.1"
     },
     {
       "type": "mcq",
-      "stem_html": "「ごろ - around, approximately (used with time points)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「around」(n4-032) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "か",
-        "から",
-        "ごろ",
-        "へ"
+        "がる / がっている",
+        "ころ",
+        "ございます",
+        "はずだ"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q32",
       "id": "bunpou-3.2"
     },
     {
       "type": "mcq",
-      "stem_html": "「など - etc. (and so on)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「verb nominalizer」(n4-033) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "だけ",
-        "など",
-        "ね",
-        "と"
+        "だけで",
+        "こと",
+        "あまり〜ない",
+        "から作る"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -51,26 +51,26 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「ずつ - each / per (distributive amount)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「there are times when」(n4-034) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "いつ",
-        "ずつ",
-        "から～まで",
-        "なに／なん"
+        "ことがある",
+        "かい",
+        "がり",
+        "かもしれない"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q34",
       "id": "bunpou-3.4"
     },
     {
       "type": "mcq",
-      "stem_html": "「Pronouns: this / that / which one」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「can」(n4-035) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "ここ／そこ／あそこ／どこ",
-        "しか～ない",
-        "よね",
-        "これ / それ / あれ / どれ"
+        "ございます",
+        "ではないか",
+        "かどうか",
+        "ことができる"
       ],
       "correctIndex": 3,
       "rationale": "",
@@ -79,26 +79,26 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「Adjectival demonstratives + noun」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「it has been decided」(n4-036) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "なに／なん",
-        "この / その / あの / どの + Noun",
-        "この／その／あの／どの ＋ N (noun)",
-        "nominalizer in basic use"
+        "でございます",
+        "がする",
+        "ことになる",
+        "ひつようがある"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q36",
       "id": "bunpou-3.6"
     },
     {
       "type": "mcq",
-      "stem_html": "「Location words」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to decide on」(n4-037) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "なに／なん",
-        "ここ / そこ / あそこ / どこ",
-        "これ／それ／あれ／どれ",
-        "いつ"
+        "後で（あとで）",
+        "ことにする",
+        "でございます",
+        "はずがない"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -107,12 +107,12 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「こちら / そちら / あちら / どちら - polite directions / options」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to make something」(n4-038) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "だれ／どなた",
-        "～の",
-        "いつ",
-        "こちら / そちら / あちら / どちら"
+        "ひつようがある",
+        "あまり〜ない",
+        "間（あいだ）",
+        "くする"
       ],
       "correctIndex": 3,
       "rationale": "",
@@ -121,54 +121,54 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「こんな / そんな / あんな / どんな + Noun - 'this/that kind of'」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「quickly」(n4-039) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "nominalizer in basic use",
-        "～の",
-        "なに／なん",
-        "こんな / そんな / あんな / どんな + Noun"
+        "急に（きゅうに）",
+        "だけで",
+        "ではないか",
+        "間に（あいだに）"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q39",
       "id": "bunpou-3.9"
     },
     {
       "type": "mcq",
-      "stem_html": "「こう / そう / ああ / どう - 'this way / that way / how'」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「by」(n4-040) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "〜の",
-        "いつ",
-        "こう / そう / ああ / どう",
-        "〜です／〜ます"
+        "ばあいは",
+        "がり",
+        "かもしれない",
+        "までに"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q40",
       "id": "bunpou-3.10"
     },
     {
       "type": "mcq",
-      "stem_html": "「What」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「as it is」(n4-041) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "だれ／どなた",
-        "nominalizer in basic use",
-        "possessive / noun-modifier",
-        "なん / なに"
+        "まま",
+        "かな",
+        "だけで",
+        "間（あいだ）"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q41",
       "id": "bunpou-3.11"
     },
     {
       "type": "mcq",
-      "stem_html": "「Who」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「both」(n4-042) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "しか～ない",
-        "nominalizer in basic use",
-        "〜です／〜ます",
-        "だれ / どなた"
+        "はずがない",
+        "Format: `PATTERN",
+        "いらっしゃる",
+        "または"
       ],
       "correctIndex": 3,
       "rationale": "",
@@ -177,42 +177,42 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「Where (covered by ここ-series)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「like」(n4-043) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "どこ",
-        "から～まで",
-        "これ／それ／あれ／どれ",
-        "nominalizer in basic use"
+        "はずだ",
+        "ば",
+        "あまり〜ない",
+        "みたいだ"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q43",
       "id": "bunpou-3.13"
     },
     {
       "type": "mcq",
-      "stem_html": "「どれ / どの / どちら - 'which' (selection from options)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「like, similar to」(n4-044) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "〜の",
-        "どれ / どの / どちら",
-        "ここ／そこ／あそこ／どこ",
-        "いつ"
+        "いたします",
+        "出す（だす）",
+        "みたいな",
+        "間に（あいだに）"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q44",
       "id": "bunpou-3.14"
     },
     {
       "type": "mcq",
-      "stem_html": "「どう / いかが - 'how / how about' (state, opinion, polite offer)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「like」(n4-045) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "いつ",
-        "どう / いかが",
-        "だれ／どなた",
-        "ここ／そこ／あそこ／どこ"
+        "みたいに",
+        "始める（はじめる）",
+        "ひつようがある",
+        "がり"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q45",
       "id": "bunpou-3.15"

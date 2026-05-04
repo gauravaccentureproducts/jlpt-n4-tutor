@@ -4,217 +4,217 @@
   "paperNumber": 4,
   "name": "Goi Paper 4",
   "source_file": "KnowledgeBank/goi_questions_n4.md",
-  "source_question_range": "Q46-Q60",
+  "source_question_range": "Q47-Q61",
   "questionCount": 15,
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "「police officer (friendly)」を あらわす ことばは どれですか。",
+      "stem_html": "「gasoline」を あらわす ことばは どれですか。",
       "choices": [
-        "かぞく",
-        "ともだち",
-        "おまわりさん",
-        "大人"
-      ],
-      "correctIndex": 2,
-      "rationale": "",
-      "kbSourceId": "Q46",
-      "id": "goi-4.1"
-    },
-    {
-      "type": "mcq",
-      "stem_html": "「international student」を あらわす ことばは どれですか。",
-      "choices": [
-        "男",
-        "りゅうがくせい",
-        "お父さん",
-        "おねえさん"
+        "赤ちゃん",
+        "ガソリン",
+        "大体",
+        "文学"
       ],
       "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q47",
-      "id": "goi-4.2"
+      "id": "goi-4.1"
     },
     {
       "type": "mcq",
-      "stem_html": "「foreigner」を あらわす ことばは どれですか。",
+      "stem_html": "「petrol station」を あらわす ことばは どれですか。",
       "choices": [
-        "女の子",
-        "外国人",
-        "お父さん",
-        "おにいさん"
+        "アルコール",
+        "ガソリンスタンド",
+        "注意",
+        "中学校"
       ],
       "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q48",
+      "id": "goi-4.2"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「petrol」を あらわす ことばは どれですか。",
+      "choices": [
+        "アナウンサー",
+        "ガス",
+        "ガラス",
+        "文学"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q49",
       "id": "goi-4.3"
     },
     {
       "type": "mcq",
-      "stem_html": "「body」を あらわす ことばは どれですか。",
+      "stem_html": "「a feast」を あらわす ことばは どれですか。",
       "choices": [
-        "男",
-        "おじいさん",
-        "人",
-        "からだ"
+        "アルコール",
+        "ごみ",
+        "ガソリンスタンド",
+        "ごちそう"
       ],
       "correctIndex": 3,
       "rationale": "",
-      "kbSourceId": "Q49",
+      "kbSourceId": "Q50",
       "id": "goi-4.4"
     },
     {
       "type": "mcq",
-      "stem_html": "「head」を あらわす ことばは どれですか。",
+      "stem_html": "「to a feast」を あらわす ことばは どれですか。",
       "choices": [
-        "いもうと",
-        "あたま",
-        "父",
-        "子ども"
+        "アルバイトする",
+        "研究する",
+        "ごちそうする",
+        "入院する"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "rationale": "",
-      "kbSourceId": "Q50",
+      "kbSourceId": "Q51",
       "id": "goi-4.5"
     },
     {
       "type": "mcq",
-      "stem_html": "「face」を あらわす ことばは どれですか。",
+      "stem_html": "「rubbish」を あらわす ことばは どれですか。",
       "choices": [
-        "かお",
-        "人",
-        "きょうだい",
-        "りょうしん"
-      ],
-      "correctIndex": 0,
-      "rationale": "",
-      "kbSourceId": "Q51",
-      "id": "goi-4.6"
-    },
-    {
-      "type": "mcq",
-      "stem_html": "「eye」を あらわす ことばは どれですか。",
-      "choices": [
-        "おじいさん",
-        "め",
-        "ともだち",
-        "子ども"
+        "味",
+        "ごみ",
+        "文学",
+        "チェック"
       ],
       "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q52",
-      "id": "goi-4.7"
+      "id": "goi-4.6"
     },
     {
       "type": "mcq",
-      "stem_html": "「ear」を あらわす ことばは どれですか。",
+      "stem_html": "「your husband」を あらわす ことばは どれですか。",
       "choices": [
-        "かぞく",
-        "母",
-        "おじいさん",
-        "みみ"
+        "赤ちゃん",
+        "ちゃん",
+        "力",
+        "ご主人"
       ],
       "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q53",
+      "id": "goi-4.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「clearly」を あらわす ことばは どれですか。",
+      "choices": [
+        "たいてい",
+        "はっきり",
+        "やっぱり",
+        "どんどん"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q54",
       "id": "goi-4.8"
     },
     {
       "type": "mcq",
-      "stem_html": "「nose」を あらわす ことばは どれですか。",
+      "stem_html": "「to carry」を あらわす ことばは どれですか。",
       "choices": [
-        "はな",
-        "おばあさん",
-        "かた",
-        "おじいさん"
+        "下がる",
+        "運ぶ",
+        "いる",
+        "思い出す"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "rationale": "",
-      "kbSourceId": "Q54",
+      "kbSourceId": "Q55",
       "id": "goi-4.9"
     },
     {
       "type": "mcq",
-      "stem_html": "「mouth」を あらわす ことばは どれですか。",
+      "stem_html": "「cherry blossom viewing」を あらわす ことばは どれですか。",
       "choices": [
-        "男",
-        "そぼ",
-        "人",
-        "くち"
+        "アフリカ",
+        "文学",
+        "アメリカ",
+        "花見"
       ],
       "correctIndex": 3,
       "rationale": "",
-      "kbSourceId": "Q55",
+      "kbSourceId": "Q56",
       "id": "goi-4.10"
     },
     {
       "type": "mcq",
-      "stem_html": "「tooth」を あらわす ことばは どれですか。",
+      "stem_html": "「to cherry blossom viewing」を あらわす ことばは どれですか。",
       "choices": [
-        "は",
-        "お父さん",
-        "あに",
-        "男"
+        "入院する",
+        "花見する",
+        "ファックスする",
+        "アルバイトする"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "rationale": "",
-      "kbSourceId": "Q56",
+      "kbSourceId": "Q57",
       "id": "goi-4.11"
     },
     {
       "type": "mcq",
-      "stem_html": "「hand」を あらわす ことばは どれですか。",
+      "stem_html": "「handbag」を あらわす ことばは どれですか。",
       "choices": [
-        "て",
-        "お母さん",
-        "お父さん",
-        "男の子"
+        "アメリカ",
+        "大学生",
+        "文学",
+        "ハンドバッグ"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
-      "kbSourceId": "Q57",
+      "kbSourceId": "Q58",
       "id": "goi-4.12"
     },
     {
       "type": "mcq",
-      "stem_html": "「leg, foot」を あらわす ことばは どれですか。",
+      "stem_html": "「pronunciation」を あらわす ことばは どれですか。",
       "choices": [
-        "男の子",
-        "みなさん",
-        "あし",
-        "そふ"
+        "アルバイト",
+        "エスカレーター",
+        "ガソリンスタンド",
+        "発音"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "rationale": "",
-      "kbSourceId": "Q58",
+      "kbSourceId": "Q59",
       "id": "goi-4.13"
     },
     {
       "type": "mcq",
-      "stem_html": "「stomach, belly」を あらわす ことばは どれですか。",
+      "stem_html": "「to pronunciation」を あらわす ことばは どれですか。",
       "choices": [
-        "おにいさん",
-        "お父さん",
-        "おなか",
-        "人"
+        "試験する",
+        "急行する",
+        "花見する",
+        "発音する"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "rationale": "",
-      "kbSourceId": "Q59",
+      "kbSourceId": "Q60",
       "id": "goi-4.14"
     },
     {
       "type": "mcq",
-      "stem_html": "「back, height」を あらわす ことばは どれですか。",
+      "stem_html": "「to enter (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。",
       "choices": [
-        "せ",
-        "おばさん",
-        "父",
-        "おじいさん"
+        "運ぶ",
+        "入る",
+        "無くなる",
+        "写す"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "rationale": "",
-      "kbSourceId": "Q60",
+      "kbSourceId": "Q61",
       "id": "goi-4.15"
     }
   ]

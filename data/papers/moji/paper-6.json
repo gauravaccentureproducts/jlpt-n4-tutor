@@ -11,12 +11,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "生物",
-        "木",
-        "東",
-        "前"
+        "食料品",
+        "通う",
+        "見つかる",
+        "気分"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q76",
       "id": "moji-6.1"
@@ -25,12 +25,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "答え",
-        "時々",
-        "計画",
-        "五つ"
+        "大体",
+        "入院",
+        "特別",
+        "教会"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q77",
       "id": "moji-6.2"
@@ -39,12 +39,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "半分",
-        "来る",
-        "食料品",
-        "日本人"
+        "試験",
+        "計画",
+        "行う",
+        "音"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q78",
       "id": "moji-6.3"
@@ -53,10 +53,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "出る",
-        "地理",
-        "三日",
-        "四つ"
+        "旅館",
+        "新聞社",
+        "用事",
+        "研究"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -67,10 +67,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "四",
-        "天ぷら",
-        "来月",
-        "田"
+        "発音",
+        "医学",
+        "送る",
+        "入学"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -81,12 +81,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "お母さん",
-        "八つ",
-        "楽しみ",
-        "大体"
+        "西洋",
+        "力",
+        "入る",
+        "研究"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q81",
       "id": "moji-6.6"
@@ -95,12 +95,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "集める",
-        "日本",
-        "三つ",
-        "天ぷら"
+        "会場",
+        "運ぶ",
+        "通う",
+        "無理"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q82",
       "id": "moji-6.7"
@@ -109,12 +109,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "番号",
-        "一つ",
-        "火事",
-        "集める"
+        "生まれ",
+        "空く",
+        "この間",
+        "屋上"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q83",
       "id": "moji-6.8"
@@ -123,12 +123,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "上",
-        "会話",
-        "急ぐ",
-        "八日"
+        "思い出す",
+        "赤ちゃん",
+        "起こす",
+        "終わり"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q84",
       "id": "moji-6.9"
@@ -137,12 +137,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "建てる",
-        "四",
-        "意見",
-        "出口"
+        "医学",
+        "仕方",
+        "以上",
+        "起こす"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q85",
       "id": "moji-6.10"
@@ -151,12 +151,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "毎日",
-        "止める",
-        "飲む",
-        "仕方"
+        "聞こえる",
+        "花見する",
+        "意見する",
+        "見つける"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q86",
       "id": "moji-6.11"
@@ -165,10 +165,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "今日",
-        "校長",
-        "十分",
-        "本"
+        "特別",
+        "親",
+        "火事",
+        "生物"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -179,10 +179,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "見せる",
-        "出かける",
-        "注意する",
-        "高校生"
+        "生きる",
+        "動く",
+        "計画",
+        "考える"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -193,12 +193,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "見える",
-        "お母さん",
-        "生き物",
-        "小学校"
+        "運ぶ",
+        "着物",
+        "見物",
+        "開く"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q89",
       "id": "moji-6.14"
@@ -207,10 +207,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "名前",
-        "聞く",
-        "四つ",
-        "半"
+        "店員",
+        "生き物",
+        "ご主人",
+        "高校"
       ],
       "correctIndex": 3,
       "rationale": "",

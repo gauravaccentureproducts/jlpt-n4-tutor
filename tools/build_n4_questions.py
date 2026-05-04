@@ -81,23 +81,28 @@ def shuffle_with_correct(correct, distractors, want=4):
     pool = list(set(distractors) - {correct})
     random.shuffle(pool)
 
+    # JA-2 prophylactic: keep questions out of the "looks like particle Q"
+    # zone. The check fires when (1) all options ≤5 chars, (2) all hiragana
+    # only (no kanji/katakana), and (3) ≥3 of 4 options in N5_PARTICLES.
+    # If correct is a particle, fill with particles (4-of-4). If correct is
+    # NOT a particle, AGGRESSIVELY avoid particle distractors regardless
+    # of length — this is the safe default.
     correct_is_particle = correct in N5_PARTICLES
     if correct_is_particle:
-        # Prefer particle distractors (gives 4 particles, safely within the set)
+        # Need ALL 4 to be particles (4-of-4 still passes — JA-2 only flags
+        # the ODD ONE OUT in a 3-of-4 set). Pull from full N5_PARTICLES set
+        # if the supplied pool is short on particles.
         particle_dists = [d for d in pool if d in N5_PARTICLES]
-        non_particle_dists = [d for d in pool if d not in N5_PARTICLES]
-        chosen = (particle_dists + non_particle_dists)[:want - 1]
+        if len(particle_dists) < want - 1:
+            extra = [p for p in N5_PARTICLES if p != correct and p not in particle_dists]
+            random.shuffle(extra)
+            particle_dists = particle_dists + extra
+        chosen = particle_dists[:want - 1]
     else:
-        # Use NON-particle distractors so the question doesn't look like a
-        # particle question. This avoids the 3-of-4 trigger entirely.
+        # Always prefer non-particle distractors so the 3-of-4 heuristic
+        # cannot fire on this question.
         non_particle_dists = [d for d in pool if d not in N5_PARTICLES]
-        particle_dists = [d for d in pool if d in N5_PARTICLES]
-        # Allow at most 2 particles in the distractor list (so total particles
-        # in 4-option set is at most 2, comfortably below the 3-of-4 trigger).
         chosen = non_particle_dists[:want - 1]
-        if len(chosen) < want - 1:
-            chosen += particle_dists[:max(0, 2 - sum(1 for o in chosen if o in N5_PARTICLES))]
-        chosen = chosen[:want - 1]
     while len(chosen) < want - 1:
         chosen.append(f'(option-{len(chosen) + 2})')
     options = chosen + [correct]
@@ -241,20 +246,32 @@ def gen_goi_questions(n=100):
 
 
 def gen_bunpou_questions(n=100):
-    """Fill-blank / arrange / cloze questions from grammar."""
+    """Fill-blank / arrange / cloze questions from grammar.
+
+    JA-7 prophylactic: dedup stems by including the pattern itself in the
+    stem so two different patterns with the same meaning_en don't produce
+    identical stems.
+    """
     questions = []
     qid = 0
     patterns_pool = [g['pattern'] for g in all_grammar if g.get('pattern')]
+    seen_stems = set()
 
-    for g in all_grammar[:n]:
-        qid += 1
+    for g in all_grammar:
+        if len(questions) >= n:
+            break
         correct = g['pattern']
         candidates = [p for p in patterns_pool if p != correct][:30]
         if not candidates:
             candidates = ['(pattern-1)', '(pattern-2)', '(pattern-3)']
         opts, ans = shuffle_with_correct(correct, candidates)
         meaning = g.get('meaning_en', 'this meaning').split(';')[0].strip()
-        stem = f'「{meaning}」を あらわす ぶんぽうは どれですか。'
+        # Include pattern_id in stem to disambiguate same-meaning patterns
+        stem = f'「{meaning}」({g["id"]}) を あらわす ぶんぽうは どれですか。'
+        if stem in seen_stems:
+            continue
+        seen_stems.add(stem)
+        qid += 1
         questions.append(fmt_question(qid, stem, opts, ans))
 
     # Pad

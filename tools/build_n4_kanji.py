@@ -89,16 +89,20 @@ for entry in n4_entries:
     json.dumps(combined_readings, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 print(f'[4-5] data/n4_kanji_whitelist.json + data/n4_kanji_readings.json written')
 
-# 6. Build data/kanji.json with full entries
+# 6. Build data/kanji.json — N4-NEW ONLY (per user directive 2026-05-04:
+# "make sure N5 content is not repeated in N4"). Whitelist still includes
+# N5 kanji (so N4 content can use N5 kanji in compounds), but the
+# CATALOGUE only teaches the 143 N4-new glyphs. N5 review lives in the
+# sibling app.
+n4_new_glyphs = [e['glyph'] for e in n4_entries]  # only N4-new
 kanji_entries = []
-for i, g in enumerate(combined_whitelist):
+for i, g in enumerate(n4_new_glyphs):
     r = combined_readings.get(g, {})
-    is_n5 = (r.get('tier') == 'n5_prerequisite')
     entry = {
         'id': f'n4.kanji.{g}',
         'glyph': g,
-        'tier': 'n5_prerequisite' if is_n5 else 'core_n4',
-        'n5_prerequisite': is_n5,
+        'tier': 'core_n4',
+        'n5_prerequisite': False,
         'lesson_order': i + 1,
         'frequency_rank': i + 1,  # placeholder; refine in Pass-3
         'on': r.get('on', []),
@@ -107,7 +111,7 @@ for i, g in enumerate(combined_whitelist):
         'primary_kind': r.get('primary_kind', 'on'),
         'meanings': [],  # filled below for N4
         'stroke_order_svg': f'svg/kanji/{g}.svg',
-        'recognition_priority': 1 if i < 50 else (3 if i >= 250 else 2),
+        'recognition_priority': 1 if i < 30 else (3 if i >= 130 else 2),
         'examples': [],  # Pass-3 authoring
         'notes': '',
     }
@@ -117,23 +121,8 @@ for i, g in enumerate(combined_whitelist):
 n4_meaning_map = {e['glyph']: e['meanings'][0] for e in n4_entries}
 for entry in kanji_entries:
     if entry['glyph'] in n4_meaning_map:
-        # Split on common separators and clean
         m = n4_meaning_map[entry['glyph']]
         entry['meanings'] = [s.strip() for s in re.split(r'[;,]', m) if s.strip()][:5]
-
-# Backfill from N5 source for prerequisite kanji
-n5_kanji_data = json.loads((N5 / 'data' / 'kanji.json').read_text(encoding='utf-8'))
-n5_lookup = {e['glyph']: e for e in n5_kanji_data.get('entries', [])}
-for entry in kanji_entries:
-    if entry['n5_prerequisite'] and entry['glyph'] in n5_lookup:
-        src = n5_lookup[entry['glyph']]
-        # Inherit meanings + examples + notes from N5 verbatim
-        if not entry['meanings'] and src.get('meanings'):
-            entry['meanings'] = src['meanings']
-        if src.get('examples'):
-            entry['examples'] = src['examples']
-        if src.get('notes'):
-            entry['notes'] = src['notes']
 
 kanji_payload = {
     '_meta': {
@@ -143,36 +132,29 @@ kanji_payload = {
         'id_gap_policy': 'ID is the literal glyph; never gappy.',
         'history': [
             {'date': '2026-05-04',
-             'delta': f'+{len(kanji_entries)} kanji ({sum(1 for e in kanji_entries if e["n5_prerequisite"])} N5 prerequisite + {sum(1 for e in kanji_entries if not e["n5_prerequisite"])} N4 new)'}
+             'delta': f'+{len(kanji_entries)} N4-new kanji (N5 prereqs not repeated; whitelist union retained for content scope)'}
         ],
     },
     'entries': kanji_entries,
 }
 (ROOT / 'data' / 'kanji.json').write_text(
     json.dumps(kanji_payload, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-print(f'[6] data/kanji.json written ({len(kanji_entries)} entries)')
+print(f'[6] data/kanji.json written ({len(kanji_entries)} N4-new entries)')
 
 # 7. Build KnowledgeBank/kanji_n4.md
 md = ['# JLPT N4 Kanji', '',
-      'Source-of-truth catalogue. Whitelist = N5 ∪ N4 = ' + str(len(combined_whitelist)) + ' glyphs.',
+      'Source-of-truth catalogue for N4-new kanji only.',
+      f'Whitelist = N5 ∪ N4 = {len(combined_whitelist)} glyphs (kept as a UNION so N4 content can use N5 kanji in compounds).',
+      f'Catalogue (this file) = N4 only = {len(n4_entries)} glyphs. N5 review lives in the sibling app.',
       'Build pipeline parses into `data/kanji.json`. Schema per spec §14.',
       '',
-      '## N5 prerequisite kanji (' + str(len(n5_whitelist)) + ')', '']
-for g in n5_whitelist:
-    r = combined_readings[g]
-    on_str = '、'.join(r.get('on', []))
-    kun_str = '、'.join(r.get('kun', []))
-    src_meanings = n5_lookup.get(g, {}).get('meanings', [])
-    meaning = ', '.join(src_meanings[:3]) if src_meanings else '(meaning TBD)'
-    # JA-12 expects format: `- **{kanji}** ...`
-    md.append(f'- **{g}**  (tier: n5_prerequisite)')
-    md.append(f'  - on: {on_str if on_str else "(none)"}')
-    md.append(f'  - kun: {kun_str if kun_str else "(none)"}')
-    md.append(f'  - primary: {r.get("primary", "")}  (kind: {r.get("primary_kind", "on")})')
-    md.append(f'  - meanings: {meaning}')
-    md.append('')
-
-md.extend(['', '## N4 new kanji (' + str(len(n4_entries)) + ')', ''])
+      '## N5 prerequisites',
+      '',
+      'N5 kanji are NOT taught in this app. Review them via the N5 sibling app at',
+      'https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.',
+      '',
+      f'## N4 kanji ({len(n4_entries)})',
+      '']
 for e in n4_entries:
     g = e['glyph']
     r = combined_readings[g]
@@ -189,6 +171,6 @@ for e in n4_entries:
 
 (ROOT / 'KnowledgeBank' / 'kanji_n4.md').write_text(
     '\n'.join(md) + '\n', encoding='utf-8')
-print(f'[7] KnowledgeBank/kanji_n4.md written ({len(combined_whitelist)} entries with N5 prerequisites + N4 new)')
+print(f'[7] KnowledgeBank/kanji_n4.md written ({len(n4_entries)} N4-new entries; N5 prereqs not included)')
 
 print('\nDone. Run python tools/check_content_integrity.py to verify.')

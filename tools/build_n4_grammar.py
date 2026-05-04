@@ -219,20 +219,13 @@ for i, e in enumerate(n4_inv):
     n4_built.append(entry)
 print(f'[2] N4 patterns built: {len(n4_built)}')
 
-# 4. Inherit N5 grammar as prerequisite tier
+# 4. N5 grammar is NOT inherited (per user directive 2026-05-04: "make sure
+# N5 content is not repeated in N4"). N5 patterns are prerequisites; review
+# them via the N5 sibling app.
 n5_inherited = []
-for n5_p in n5_patterns:
-    n4_p = dict(n5_p)
-    # Re-id with n4 prefix
-    old_id = n4_p.get('id', '')
-    if old_id.startswith('n5-'):
-        n4_p['id'] = 'n4-prereq-' + old_id[3:]
-    n4_p['tier'] = 'n5_prerequisite'
-    n5_inherited.append(n4_p)
-print(f'[3] N5 patterns inherited: {len(n5_inherited)}')
-
-all_patterns = n5_inherited + n4_built
-print(f'[4] Total: {len(all_patterns)} patterns')
+all_patterns = n4_built
+print(f'[3] N5 patterns NOT inherited (sibling-app convention)')
+print(f'[4] Total: {len(all_patterns)} N4 patterns')
 
 # 5. Write data/grammar.json
 payload = {
@@ -294,20 +287,11 @@ for cat_idx in sorted(CATEGORIES.keys()):
         md.append(f"**Notes:**")
         md.append('')
 
-md.extend(['', '---', '', '## N5 PREREQUISITE PATTERNS', '',
-           f'{len(n5_inherited)} N5 patterns inherited verbatim. Tier: n5_prerequisite. Reference catalogue only - questions for these are scoped to N5 review materials, not N4 evaluation.', ''])
-
-# Group N5 by category and append (compact format)
-n5_by_cat = {}
-for p in n5_inherited:
-    cat = p.get('category', 'Other')
-    n5_by_cat.setdefault(cat, []).append(p)
-
-for cat in sorted(n5_by_cat.keys()):
-    md.append(f"### [N5] {cat}")
-    for p in n5_by_cat[cat]:
-        md.append(f"- {p['pattern']} ({p['id']}): {p.get('meaning_en', '')}")
-    md.append('')
+md.extend(['', '---', '', '## N5 prerequisites',
+           '',
+           'N5 grammar is a hard prerequisite. Review it via the N5 sibling app at',
+           'https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.',
+           ''])
 
 (ROOT / 'KnowledgeBank' / 'grammar_n4.md').write_text(
     '\n'.join(md) + '\n', encoding='utf-8')

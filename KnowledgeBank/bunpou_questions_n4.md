@@ -20,551 +20,551 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 ### Q1
 
-「Polite copula / polite verb ending」を あらわす ぶんぽうは どれですか。
+「MEANING-BRIEF`」(n4-001) を あらわす ぶんぽうは どれですか。
 
-1. この／その／あの／どの ＋ N (noun)
-2. 〜です／〜ます
-3. から～まで
-4. よね
+1. いたします
+2. 間（あいだ）
+3. Format: `PATTERN
+4. はずだ
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q2
 
-「Topic marker - introduces what the sentence is about (already-known information)」を あらわす ぶんぽうは どれですか。
+「while」(n4-002) を あらわす ぶんぽうは どれですか。
 
-1. に
-2. で
-3. から
-4. は
+1. だけで
+2. Format: `PATTERN
+3. ございます
+4. 間（あいだ）
 
 **Answer: 4**
 
 ### Q3
 
-「Subject marker - marks new information, focus, or the subject of certain stative verbs/adjectives」を あらわす ぶんぽうは どれですか。
+「while」(n4-003) を あらわす ぶんぽうは どれですか。
 
-1. は
-2. に
-3. も
-4. が
+1. 出す（だす）
+2. 間に（あいだに）
+3. じゃないか
+4. いたします
 
-**Answer: 4**
+**Answer: 2**
 
 ### Q4
 
-「Direct object marker - marks the noun receiving the action of a transitive verb」を あらわす ぶんぽうは どれですか。
+「not very」(n4-004) を あらわす ぶんぽうは どれですか。
 
-1. が
-2. だけ
-3. は
-4. を
-
-**Answer: 4**
-
-### Q5
-
-「Multi-purpose: location of existence / specific time / direction-destination / indirect object (recipient)」を あらわす ぶんぽうは どれですか。
-
-1. が
-2. に
-3. と
-4. や
-
-**Answer: 2**
-
-### Q6
-
-「Direction marker - toward (used with movement verbs)」を あらわす ぶんぽうは どれですか。
-
-1. へ
-2. だけ
-3. まで
-4. を
-
-**Answer: 1**
-
-### Q7
-
-「Location of action / means / instrument - where action takes place, by what means, with what tool」を あらわす ぶんぽうは どれですか。
-
-1. も
-2. で
-3. は
-4. を
-
-**Answer: 2**
-
-### Q8
-
-「With (companion) / and (exhaustive listing) / quotation marker」を あらわす ぶんぽうは どれですか。
-
-1. を
-2. と
-3. まで
-4. よ
-
-**Answer: 2**
-
-### Q9
-
-「From (starting point in time / place) / because (reason)」を あらわす ぶんぽうは どれですか。
-
-1. や
-2. に
-3. が
-4. から
-
-**Answer: 4**
-
-### Q10
-
-「Until / up to (a point in time or place)」を あらわす ぶんぽうは どれですか。
-
-1. は
-2. か
-3. まで
-4. から
+1. から作る
+2. いらっしゃる
+3. あまり〜ない
+4. 始める（はじめる）
 
 **Answer: 3**
 
+### Q5
+
+「after」(n4-005) を あらわす ぶんぽうは どれですか。
+
+1. 間（あいだ）
+2. ばあいは
+3. 後で（あとで）
+4. Format: `PATTERN
+
+**Answer: 3**
+
+### Q6
+
+「conditional form (if-then)」(n4-006) を あらわす ぶんぽうは どれですか。
+
+1. だけで
+2. Format: `PATTERN
+3. 後で（あとで）
+4. ば
+
+**Answer: 4**
+
+### Q7
+
+「in the event of」(n4-007) を あらわす ぶんぽうは どれですか。
+
+1. がり
+2. 間（あいだ）
+3. かしら
+4. ばあいは
+
+**Answer: 4**
+
+### Q8
+
+「only」(n4-008) を あらわす ぶんぽうは どれですか。
+
+1. を
+2. でも
+3. ばかり
+4. より
+
+**Answer: 3**
+
+### Q9
+
+「just by」(n4-009) を あらわす ぶんぽうは どれですか。
+
+1. かい
+2. だけで
+3. がり
+4. 間（あいだ）
+
+**Answer: 2**
+
+### Q10
+
+「to begin to」(n4-010) を あらわす ぶんぽうは どれですか。
+
+1. だけで
+2. 出す（だす）
+3. かどうか
+4. ば
+
+**Answer: 2**
+
 ### Q11
 
-「And - non-exhaustive listing (these and others)」を あらわす ぶんぽうは どれですか。
+「to be (honorific)」(n4-011) を あらわす ぶんぽうは どれですか。
 
-1. だけ
-2. よ
-3. や
-4. に
+1. あまり〜ない
+2. 間に（あいだに）
+3. でございます
+4. ば
 
 **Answer: 3**
 
 ### Q12
 
-「Also / too / even (with negation: 'not even / no one / nothing')」を あらわす ぶんぽうは どれですか。
+「or something」(n4-012) を あらわす ぶんぽうは どれですか。
 
 1. と
-2. を
-3. まで
-4. も
+2. ばかり
+3. や
+4. でも
 
 **Answer: 4**
 
 ### Q13
 
-「Pronouns: this / that-near-listener / that-far / which-one (standalone, no noun follows)」を あらわす ぶんぽうは どれですか。
+「right?」(n4-013) を あらわす ぶんぽうは どれですか。
 
-1. これ／それ／あれ／どれ
-2. から～まで
-3. この／その／あの／どの ＋ N (noun)
-4. ここ／そこ／あそこ／どこ
-
-**Answer: 1**
-
-### Q14
-
-「Adjective form: this / that / which + Noun (always followed by a noun)」を あらわす ぶんぽうは どれですか。
-
-1. ここ／そこ／あそこ／どこ
-2. この／その／あの／どの ＋ N (noun)
-3. ぐらい / くらい
-4. possessive / noun-modifier
-
-**Answer: 2**
-
-### Q15
-
-「Location words: here / there-near-listener / over-there / where」を あらわす ぶんぽうは どれですか。
-
-1. ここ／そこ／あそこ／どこ
-2. いつ
-3. なに／なん
-4. だれ／どなた
-
-**Answer: 1**
-
-### Q16
-
-「What - pronounced なに or なん depending on what follows」を あらわす ぶんぽうは どれですか。
-
-1. 〜です／〜ます
-2. なに／なん
-3. nominalizer in basic use
-4. ～の
-
-**Answer: 2**
-
-### Q17
-
-「Who - だれ casual」を あらわす ぶんぽうは どれですか。
-
-1. nominalizer in basic use
-2. だれ／どなた
-3. ここ／そこ／あそこ／どこ
-4. ～の
-
-**Answer: 2**
-
-### Q18
-
-「When - pairs with から / まで / ごろ for richer time questions」を あらわす ぶんぽうは どれですか。
-
-1. ぐらい / くらい
-2. 〜です／〜ます
-3. いつ
-4. これ／それ／あれ／どれ
+1. かどうか
+2. じゃないか
+3. ではないか
+4. 後で（あとで）
 
 **Answer: 3**
 
+### Q14
+
+「to smell」(n4-014) を あらわす ぶんぽうは どれですか。
+
+1. 間に（あいだに）
+2. だけで
+3. がする
+4. かしら
+
+**Answer: 3**
+
+### Q15
+
+「personality/tendency」(n4-015) を あらわす ぶんぽうは どれですか。
+
+1. でございます
+2. 出す（だす）
+3. かしら
+4. がり
+
+**Answer: 4**
+
+### Q16
+
+「to show signs of」(n4-016) を あらわす ぶんぽうは どれですか。
+
+1. がる / がっている
+2. ば
+3. から作る
+4. かい
+
+**Answer: 1**
+
+### Q17
+
+「to be」(n4-017) を あらわす ぶんぽうは どれですか。
+
+1. かもしれない
+2. でございます
+3. ございます
+4. あまり〜ない
+
+**Answer: 3**
+
+### Q18
+
+「to start」(n4-018) を あらわす ぶんぽうは どれですか。
+
+1. 始める（はじめる）
+2. がする
+3. かな
+4. 後で（あとで）
+
+**Answer: 1**
+
 ### Q19
 
-「から ～ まで - from X to Y (paired range marker)」を あらわす ぶんぽうは どれですか。
+「it must be」(n4-019) を あらわす ぶんぽうは どれですか。
 
-1. から～まで
-2. なに／なん
-3. いつ
-4. 〜の
+1. はずだ
+2. きっと
+3. 間に（あいだに）
+4. Format: `PATTERN
 
 **Answer: 1**
 
 ### Q20
 
-「Sentence-final question marker」を あらわす ぶんぽうは どれですか。
+「cannot be (impossible)」(n4-020) を あらわす ぶんぽうは どれですか。
 
-1. で
-2. が
-3. だけ
-4. か
+1. Format: `PATTERN
+2. はずがない
+3. かい
+4. はずだ
 
-**Answer: 4**
+**Answer: 2**
 
 ### Q21
 
-「Or (between alternatives)」を あらわす ぶんぽうは どれですか。
+「need to」(n4-021) を あらわす ぶんぽうは どれですか。
 
-1. か
-2. で
-3. から
-4. だけ
+1. ひつようがある
+2. から作る
+3. はずがない
+4. かしら
 
 **Answer: 1**
 
 ### Q22
 
-「ね - sentence-final confirmation / agreement particle」を あらわす ぶんぽうは どれですか。
+「to be」(n4-022) を あらわす ぶんぽうは どれですか。
 
-1. は
-2. ね
-3. だけ
-4. へ
+1. かもしれない
+2. Format: `PATTERN
+3. いらっしゃる
+4. でございます
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q23
 
-「よ - sentence-final assertion / new-information particle」を あらわす ぶんぽうは どれですか。
+「to do (polite form)」(n4-023) を あらわす ぶんぽうは どれですか。
 
-1. よ
-2. で
-3. に
-4. を
+1. がる / がっている
+2. きっと
+3. いたします
+4. かもしれない
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q24
 
-「よね - combined: assertion + seeking agreement ("...right?")」を あらわす ぶんぽうは どれですか。
+「right?」(n4-024) を あらわす ぶんぽうは どれですか。
 
-1. から～まで
-2. なに／なん
-3. よね
-4. しか～ない
-
-**Answer: 3**
-
-### Q25
-
-「～の (possessive / noun-modifier)」を あらわす ぶんぽうは どれですか。
-
-1. 〜の
-2. 〜です／〜ます
-3. ～の
-4. nominalizer in basic use
-
-**Answer: 3**
-
-### Q26
-
-「Possessive / noun-modifier」を あらわす ぶんぽうは どれですか。
-
-1. possessive / noun-modifier
-2. なに／なん
-3. 〜です／〜ます
-4. よね
+1. じゃないか
+2. あまり〜ない
+3. がする
+4. かな
 
 **Answer: 1**
 
-### Q27
+### Q25
 
-「～の (nominalizer - turns a verb/adj clause into a noun)」を あらわす ぶんぽうは どれですか。
+「whether or not」(n4-025) を あらわす ぶんぽうは どれですか。
 
-1. ぐらい / くらい
-2. だれ／どなた
-3. ここ／そこ／あそこ／どこ
-4. nominalizer in basic use
+1. がる / がっている
+2. かどうか
+3. ひつようがある
+4. 間に（あいだに）
+
+**Answer: 2**
+
+### Q26
+
+「I wonder (feminine)」(n4-026) を あらわす ぶんぽうは どれですか。
+
+1. ば
+2. がする
+3. かもしれない
+4. かしら
 
 **Answer: 4**
 
-### Q28
+### Q27
 
-「Sentence-final の as informal question marker (plain-form + の?)」を あらわす ぶんぽうは どれですか。
+「turns sentence into yes/no question」(n4-027) を あらわす ぶんぽうは どれですか。
 
-1. ぐらい / くらい
-2. よね
-3. 〜の
-4. しか～ない
+1. 間（あいだ）
+2. 間に（あいだに）
+3. かい
+4. いらっしゃる
 
 **Answer: 3**
 
+### Q28
+
+「might」(n4-028) を あらわす ぶんぽうは どれですか。
+
+1. きっと
+2. かもしれない
+3. あまり〜ない
+4. がする
+
+**Answer: 2**
+
 ### Q29
 
-「だけ - only / just (limiting particle)」を あらわす ぶんぽうは どれですか。
+「I wonder」(n4-029) を あらわす ぶんぽうは どれですか。
 
-1. も
-2. まで
-3. と
-4. だけ
+1. がる / がっている
+2. かな
+3. から作る
+4. かい
 
-**Answer: 4**
+**Answer: 2**
 
 ### Q30
 
-「しか〜ない - only (with negative verb)」を あらわす ぶんぽうは どれですか。
+「made from」(n4-030) を あらわす ぶんぽうは どれですか。
 
-1. ～の
-2. しか～ない
-3. 〜です／〜ます
-4. よね
+1. ございます
+2. から作る
+3. だけで
+4. ひつようがある
 
 **Answer: 2**
 
 ### Q31
 
-「ぐらい / くらい - about, approximately (used with quantities)」を あらわす ぶんぽうは どれですか。
+「surely」(n4-031) を あらわす ぶんぽうは どれですか。
 
-1. possessive / noun-modifier
-2. ぐらい / くらい
-3. nominalizer in basic use
-4. ～の
+1. ひつようがある
+2. 始める（はじめる）
+3. ではないか
+4. きっと
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q32
 
-「ごろ - around, approximately (used with time points)」を あらわす ぶんぽうは どれですか。
+「around」(n4-032) を あらわす ぶんぽうは どれですか。
 
-1. か
-2. から
-3. ごろ
-4. へ
+1. がる / がっている
+2. ころ
+3. ございます
+4. はずだ
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q33
 
-「など - etc. (and so on)」を あらわす ぶんぽうは どれですか。
+「verb nominalizer」(n4-033) を あらわす ぶんぽうは どれですか。
 
-1. だけ
-2. など
-3. ね
-4. と
+1. だけで
+2. こと
+3. あまり〜ない
+4. から作る
 
 **Answer: 2**
 
 ### Q34
 
-「ずつ - each / per (distributive amount)」を あらわす ぶんぽうは どれですか。
+「there are times when」(n4-034) を あらわす ぶんぽうは どれですか。
 
-1. いつ
-2. ずつ
-3. から～まで
-4. なに／なん
+1. ことがある
+2. かい
+3. がり
+4. かもしれない
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q35
 
-「Pronouns: this / that / which one」を あらわす ぶんぽうは どれですか。
+「can」(n4-035) を あらわす ぶんぽうは どれですか。
 
-1. ここ／そこ／あそこ／どこ
-2. しか～ない
-3. よね
-4. これ / それ / あれ / どれ
+1. ございます
+2. ではないか
+3. かどうか
+4. ことができる
 
 **Answer: 4**
 
 ### Q36
 
-「Adjectival demonstratives + noun」を あらわす ぶんぽうは どれですか。
+「it has been decided」(n4-036) を あらわす ぶんぽうは どれですか。
 
-1. なに／なん
-2. この / その / あの / どの + Noun
-3. この／その／あの／どの ＋ N (noun)
-4. nominalizer in basic use
+1. でございます
+2. がする
+3. ことになる
+4. ひつようがある
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q37
 
-「Location words」を あらわす ぶんぽうは どれですか。
+「to decide on」(n4-037) を あらわす ぶんぽうは どれですか。
 
-1. なに／なん
-2. ここ / そこ / あそこ / どこ
-3. これ／それ／あれ／どれ
-4. いつ
+1. 後で（あとで）
+2. ことにする
+3. でございます
+4. はずがない
 
 **Answer: 2**
 
 ### Q38
 
-「こちら / そちら / あちら / どちら - polite directions / options」を あらわす ぶんぽうは どれですか。
+「to make something」(n4-038) を あらわす ぶんぽうは どれですか。
 
-1. だれ／どなた
-2. ～の
-3. いつ
-4. こちら / そちら / あちら / どちら
+1. ひつようがある
+2. あまり〜ない
+3. 間（あいだ）
+4. くする
 
 **Answer: 4**
 
 ### Q39
 
-「こんな / そんな / あんな / どんな + Noun - 'this/that kind of'」を あらわす ぶんぽうは どれですか。
+「quickly」(n4-039) を あらわす ぶんぽうは どれですか。
 
-1. nominalizer in basic use
-2. ～の
-3. なに／なん
-4. こんな / そんな / あんな / どんな + Noun
+1. 急に（きゅうに）
+2. だけで
+3. ではないか
+4. 間に（あいだに）
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q40
 
-「こう / そう / ああ / どう - 'this way / that way / how'」を あらわす ぶんぽうは どれですか。
+「by」(n4-040) を あらわす ぶんぽうは どれですか。
 
-1. 〜の
-2. いつ
-3. こう / そう / ああ / どう
-4. 〜です／〜ます
-
-**Answer: 3**
-
-### Q41
-
-「What」を あらわす ぶんぽうは どれですか。
-
-1. だれ／どなた
-2. nominalizer in basic use
-3. possessive / noun-modifier
-4. なん / なに
+1. ばあいは
+2. がり
+3. かもしれない
+4. までに
 
 **Answer: 4**
 
+### Q41
+
+「as it is」(n4-041) を あらわす ぶんぽうは どれですか。
+
+1. まま
+2. かな
+3. だけで
+4. 間（あいだ）
+
+**Answer: 1**
+
 ### Q42
 
-「Who」を あらわす ぶんぽうは どれですか。
+「both」(n4-042) を あらわす ぶんぽうは どれですか。
 
-1. しか～ない
-2. nominalizer in basic use
-3. 〜です／〜ます
-4. だれ / どなた
+1. はずがない
+2. Format: `PATTERN
+3. いらっしゃる
+4. または
 
 **Answer: 4**
 
 ### Q43
 
-「Where (covered by ここ-series)」を あらわす ぶんぽうは どれですか。
+「like」(n4-043) を あらわす ぶんぽうは どれですか。
 
-1. どこ
-2. から～まで
-3. これ／それ／あれ／どれ
-4. nominalizer in basic use
+1. はずだ
+2. ば
+3. あまり〜ない
+4. みたいだ
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q44
 
-「どれ / どの / どちら - 'which' (selection from options)」を あらわす ぶんぽうは どれですか。
+「like, similar to」(n4-044) を あらわす ぶんぽうは どれですか。
 
-1. 〜の
-2. どれ / どの / どちら
-3. ここ／そこ／あそこ／どこ
-4. いつ
-
-**Answer: 2**
-
-### Q45
-
-「どう / いかが - 'how / how about' (state, opinion, polite offer)」を あらわす ぶんぽうは どれですか。
-
-1. いつ
-2. どう / いかが
-3. だれ／どなた
-4. ここ／そこ／あそこ／どこ
-
-**Answer: 2**
-
-### Q46
-
-「どうして / なぜ - 'why'」を あらわす ぶんぽうは どれですか。
-
-1. どうして / なぜ
-2. よね
-3. nominalizer in basic use
-4. possessive / noun-modifier
-
-**Answer: 1**
-
-### Q47
-
-「どうやって - 'how / by what means'」を あらわす ぶんぽうは どれですか。
-
-1. しか～ない
-2. 〜です／〜ます
-3. どうやって
-4. ここ／そこ／あそこ／どこ
+1. いたします
+2. 出す（だす）
+3. みたいな
+4. 間に（あいだに）
 
 **Answer: 3**
 
+### Q45
+
+「like」(n4-045) を あらわす ぶんぽうは どれですか。
+
+1. みたいに
+2. 始める（はじめる）
+3. ひつようがある
+4. がり
+
+**Answer: 1**
+
+### Q46
+
+「as many as」(n4-046) を あらわす ぶんぽうは どれですか。
+
+1. でも
+2. から
+3. も
+4. ばかり
+
+**Answer: 3**
+
+### Q47
+
+「don't ~ (order somebody to not do something)」(n4-047) を あらわす ぶんぽうは どれですか。
+
+1. な
+2. ひつようがある
+3. ではないか
+4. かもしれない
+
+**Answer: 1**
+
 ### Q48
 
-「いくら - 'how much' (price)」を あらわす ぶんぽうは どれですか。
+「such as」(n4-048) を あらわす ぶんぽうは どれですか。
 
-1. 〜の
-2. よね
-3. ～の
-4. いくら
+1. でも
+2. ばかり
+3. と
+4. など
 
 **Answer: 4**
 
 ### Q49
 
-「いくつ - 'how many' (general counter / age)」を あらわす ぶんぽうは どれですか。
+「while」(n4-049) を あらわす ぶんぽうは どれですか。
 
-1. possessive / noun-modifier
-2. 〜です／〜ます
-3. から～まで
-4. いくつ
+1. がする
+2. あまり〜ない
+3. じゃないか
+4. ながら
 
 **Answer: 4**
 
 ### Q50
 
-「なんじ - 'what time'」を あらわす ぶんぽうは どれですか。
+「not easy to」(n4-050) を あらわす ぶんぽうは どれですか。
 
-1. この／その／あの／どの ＋ N (noun)
-2. なんじ
-3. しか～ない
-4. 〜の
+1. ばあいは
+2. なかなか〜ない
+3. かどうか
+4. 間に（あいだに）
 
 **Answer: 2**
 
@@ -572,553 +572,553 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 ### Q51
 
-「なんようび - 'what day of the week'」を あらわす ぶんぽうは どれですか。
+「must do something」(n4-051) を あらわす ぶんぽうは どれですか。
 
-1. なんようび
-2. この／その／あの／どの ＋ N (noun)
-3. ここ／そこ／あそこ／どこ
-4. よね
+1. かい
+2. なければいけない
+3. ではないか
+4. かもしれない
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q52
 
-「なんがつ / なんにち - 'what month / what day'」を あらわす ぶんぽうは どれですか。
+「must do something」(n4-052) を あらわす ぶんぽうは どれですか。
 
-1. なんがつ なんにち
-2. ～の
-3. 〜です／〜ます
-4. 〜の
+1. なければならない
+2. いたします
+3. はずだ
+4. 間（あいだ）
 
 **Answer: 1**
 
 ### Q53
 
-「Polite non-past affirmative verb ending」を あらわす ぶんぽうは どれですか。
+「if」(n4-053) を あらわす ぶんぽうは どれですか。
 
-1. Verb-ます
-2. ～の
-3. ここ／そこ／あそこ／どこ
-4. 〜です／〜ます
+1. なら
+2. あまり〜ない
+3. ひつようがある
+4. はずがない
 
 **Answer: 1**
 
 ### Q54
 
-「Polite non-past negative verb ending」を あらわす ぶんぽうは どれですか。
+「do this (soft/firm command)」(n4-054) を あらわす ぶんぽうは どれですか。
 
-1. Verb-ません
-2. なに／なん
-3. nominalizer in basic use
-4. 〜の
+1. ではないか
+2. いらっしゃる
+3. いたします
+4. なさい
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q55
 
-「Polite past affirmative verb ending」を あらわす ぶんぽうは どれですか。
+「to do (honorific)」(n4-055) を あらわす ぶんぽうは どれですか。
 
-1. から～まで
-2. Verb-ました
-3. possessive / noun-modifier
-4. だれ／どなた
+1. かもしれない
+2. いたします
+3. かしら
+4. なさる
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q56
 
-「Polite past negative verb ending」を あらわす ぶんぽうは どれですか。
+「to notice」(n4-056) を あらわす ぶんぽうは どれですか。
 
-1. これ／それ／あれ／どれ
-2. 〜です／〜ます
-3. possessive / noun-modifier
-4. Verb-ませんでした
+1. 後で（あとで）
+2. に気がつく（にきがつく）
+3. はずがない
+4. はずだ
 
-**Answer: 4**
+**Answer: 2**
 
 ### Q57
 
-「Let's / shall we (volitional / suggestion)」を あらわす ぶんぽうは どれですか。
+「to look」(n4-057) を あらわす ぶんぽうは どれですか。
 
-1. 〜です／〜ます
-2. しか～ない
-3. ～の
-4. Verb-ましょう
+1. かしら
+2. に見える（にみえる）
+3. かい
+4. から作る
 
-**Answer: 4**
+**Answer: 2**
 
 ### Q58
 
-「Verb-ましょうか - 'shall I / shall we (offer/suggestion)?'」を あらわす ぶんぽうは どれですか。
+「to make something」(n4-058) を あらわす ぶんぽうは どれですか。
 
-1. Verb-ましょうか
-2. しか～ない
-3. よね
-4. ここ／そこ／あそこ／どこ
+1. にする
+2. 間（あいだ）
+3. ではないか
+4. Format: `PATTERN
 
 **Answer: 1**
 
 ### Q59
 
-「Won't you...? (polite invitation)」を あらわす ぶんぽうは どれですか。
+「difficult to do」(n4-059) を あらわす ぶんぽうは どれですか。
 
-1. possessive / noun-modifier
-2. 〜です／〜ます
-3. Verb-ませんか
-4. 〜の
+1. 間に（あいだに）
+2. にくい
+3. ではないか
+4. かしら
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q60
 
-「Plain (dictionary) form - non-past affirmative, casual / written」を あらわす ぶんぽうは どれですか。
+「in」(n4-060) を あらわす ぶんぽうは どれですか。
 
-1. ここ／そこ／あそこ／どこ
-2. nominalizer in basic use
-3. Verb-る / Verb-う
-4. ～の
+1. じゃないか
+2. ばあいは
+3. の中で（のなかで）
+4. だけで
 
 **Answer: 3**
 
 ### Q61
 
-「Plain non-past negative」を あらわす ぶんぽうは どれですか。
+「although, in spite of, even though」(n4-061) を あらわす ぶんぽうは どれですか。
 
-1. Verb-ない
-2. ここ／そこ／あそこ／どこ
-3. から～まで
-4. なに／なん
+1. かどうか
+2. ございます
+3. ひつようがある
+4. のに
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q62
 
-「Plain past affirmative (た-form)」を あらわす ぶんぽうは どれですか。
+「to (do something)」(n4-062) を あらわす ぶんぽうは どれですか。
 
-1. これ／それ／あれ／どれ
-2. possessive / noun-modifier
-3. ここ／そこ／あそこ／どこ
-4. Verb-た
+1. のに (alt.)
+2. いたします
+3. かしら
+4. はずがない
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q63
 
-「Plain past negative (-なかった)」を あらわす ぶんぽうは どれですか。
+「[A] is [B]」(n4-063) を あらわす ぶんぽうは どれですか。
 
-1. 〜の
-2. ここ／そこ／あそこ／どこ
-3. よね
-4. Verb-なかった
+1. ひつようがある
+2. から作る
+3. のは〜だ
+4. かしら
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q64
 
-「Verb-て (te-form) - connector / sequence / request base」を あらわす ぶんぽうは どれですか。
+「please do ~ (honorific)」(n4-064) を あらわす ぶんぽうは どれですか。
 
-1. 〜の
-2. Verb-て
-3. しか～ない
-4. ここ／そこ／あそこ／どこ
+1. がり
+2. はずだ
+3. お〜ください
+4. かい
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q65
 
-「Verb-て、Verb-て、… - sequential / chained actions」を あらわす ぶんぽうは どれですか。
+「to do (honorific)」(n4-065) を あらわす ぶんぽうは どれですか。
 
-1. しか～ない
-2. いつ
-3. だれ／どなた
-4. Verb-て、Verb-て、…
+1. あまり〜ない
+2. いたします
+3. お〜になる
+4. ございます
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q66
 
-「Verb-てください - please do (polite request / instruction)」を あらわす ぶんぽうは どれですか。
+「repeated at intervals, every」(n4-066) を あらわす ぶんぽうは どれですか。
 
-1. しか～ない
-2. nominalizer in basic use
-3. これ／それ／あれ／どれ
-4. Verb-てください
+1. あまり〜ない
+2. おきに
+3. いたします
+4. だけで
 
-**Answer: 4**
+**Answer: 2**
 
 ### Q67
 
-「Verb-ています - progressive / current state / habitual」を あらわす ぶんぽうは どれですか。
+「to finish」(n4-067) を あらわす ぶんぽうは どれですか。
 
-1. Verb-ています
-2. この／その／あの／どの ＋ N (noun)
-3. ～の
-4. これ／それ／あれ／どれ
+1. 終わる（おわる）
+2. ばあいは
+3. ば
+4. ひつようがある
 
 **Answer: 1**
 
 ### Q68
 
-「Verb-ていません - currently NOT doing / NOT in state」を あらわす ぶんぽうは どれですか。
+「potential form」(n4-068) を あらわす ぶんぽうは どれですか。
 
-1. しか～ない
-2. Verb-ていません
-3. いつ
-4. nominalizer in basic use
+1. 出す（だす）
+2. られる
+3. あまり〜ない
+4. いたします
 
 **Answer: 2**
 
 ### Q69
 
-「Verb-てもいいです - may / it's OK to do (permission)」を あらわす ぶんぽうは どれですか。
+「it seems like」(n4-069) を あらわす ぶんぽうは どれですか。
 
-1. Verb-てもいいです
-2. この／その／あの／どの ＋ N (noun)
-3. しか～ない
-4. だれ／どなた
+1. がり
+2. らしい
+3. あまり〜ない
+4. ばあいは
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q70
 
-「Verb-てはいけません - must not / it's forbidden」を あらわす ぶんぽうは どれですか。
+「-ness」(n4-070) を あらわす ぶんぽうは どれですか。
 
-1. ここ／そこ／あそこ／どこ
-2. 〜です／〜ます
-3. Verb-てはいけません
-4. しか～ない
+1. あまり〜ない
+2. さ
+3. ばあいは
+4. 間（あいだ）
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q71
 
-「Verb-てから - 'after doing X'」を あらわす ぶんぽうは どれですか。
+「some time ago」(n4-071) を あらわす ぶんぽうは どれですか。
 
-1. しか～ない
-2. possessive / noun-modifier
-3. Verb-てから
-4. ここ／そこ／あそこ／どこ
+1. かどうか
+2. ひつようがある
+3. さっき
+4. かい
 
 **Answer: 3**
 
 ### Q72
 
-「Verb-ないでください - please don't do」を あらわす ぶんぽうは どれですか。
+「causative-passive」(n4-072) を あらわす ぶんぽうは どれですか。
 
-1. これ／それ／あれ／どれ
-2. Verb-ないでください
-3. いつ
-4. 〜の
-
-**Answer: 2**
-
-### Q73
-
-「い-Adjective + Noun - adjective directly before noun」を あらわす ぶんぽうは どれですか。
-
-1. い-Adjective + Noun
-2. 〜の
-3. いつ
-4. nominalizer in basic use
+1. させられる
+2. いたします
+3. から作る
+4. 始める（はじめる）
 
 **Answer: 1**
 
+### Q73
+
+「causative form」(n4-073) を あらわす ぶんぽうは どれですか。
+
+1. だけで
+2. ひつようがある
+3. させる
+4. いたします
+
+**Answer: 3**
+
 ### Q74
 
-「い-Adjective + です - polite present affirmative」を あらわす ぶんぽうは どれですか。
+「please let me do」(n4-074) を あらわす ぶんぽうは どれですか。
 
-1. い-Adjective + です
-2. 〜の
-3. これ／それ／あれ／どれ
-4. ～の
+1. させてください
+2. はずだ
+3. ば
+4. がる / がっている
 
 **Answer: 1**
 
 ### Q75
 
-「い-Adjective negative - present polite」を あらわす ぶんぽうは どれですか。
+「as one would expect」(n4-075) を あらわす ぶんぽうは どれですか。
 
-1. 〜です／〜ます
-2. い-Adjective negative: ～くないです / ～くありません
-3. だれ／どなた
-4. なに／なん
+1. いたします
+2. ございます
+3. ばあいは
+4. さすが
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q76
 
-「い-Adjective past - was [adjective]」を あらわす ぶんぽうは どれですか。
+「and」(n4-076) を あらわす ぶんぽうは どれですか。
 
-1. possessive / noun-modifier
-2. から～まで
-3. い-Adjective past: ～かったです
-4. だれ／どなた
+1. かどうか
+2. がする
+3. し
+4. だけで
 
 **Answer: 3**
 
 ### Q77
 
-「い-Adjective past negative」を あらわす ぶんぽうは どれですか。
+「so much」(n4-077) を あらわす ぶんぽうは どれですか。
 
-1. この／その／あの／どの ＋ N (noun)
-2. い-Adjective past negative: ～くなかったです / ～くありませんでした
-3. ～の
-4. から～まで
+1. いたします
+2. そんなに
+3. あまり〜ない
+4. いらっしゃる
 
 **Answer: 2**
 
 ### Q78
 
-「い-Adjective て-form (-くて) - connector」を あらわす ぶんぽうは どれですか。
+「but still」(n4-078) を あらわす ぶんぽうは どれですか。
 
-1. いつ
-2. い-Adjective て-form: ～くて
-3. ここ／そこ／あそこ／どこ
-4. possessive / noun-modifier
+1. はずがない
+2. それでも
+3. かどうか
+4. かい
 
 **Answer: 2**
 
 ### Q79
 
-「な-Adjective + な + Noun」を あらわす ぶんぽうは どれですか。
+「besides」(n4-079) を あらわす ぶんぽうは どれですか。
 
-1. ここ／そこ／あそこ／どこ
-2. この／その／あの／どの ＋ N (noun)
-3. だれ／どなた
-4. な-Adjective + な + Noun
+1. 間に（あいだに）
+2. から作る
+3. それに
+4. かもしれない
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q80
 
-「な-Adjective + です - polite present affirmative」を あらわす ぶんぽうは どれですか。
+「I heard that」(n4-080) を あらわす ぶんぽうは どれですか。
 
-1. な-Adjective + です
-2. これ／それ／あれ／どれ
-3. この／その／あの／どの ＋ N (noun)
-4. だれ／どなた
+1. から作る
+2. かい
+3. そうだ [1]
+4. ではないか
 
-**Answer: 1**
+**Answer: 3**
 
 ## Mondai 3 - 文章の文法 (Cloze)
 
 ### Q81
 
-「な-Adjective negative - polite present」を あらわす ぶんぽうは どれですか。
+「looks like」(n4-081) を あらわす ぶんぽうは どれですか。
 
-1. これ／それ／あれ／どれ
-2. 〜の
-3. な-Adjective negative: ～じゃありません / ～ではありません
-4. しか～ない
+1. そうだ [2]
+2. かい
+3. 後で（あとで）
+4. 間（あいだ）
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q82
 
-「な-Adjective past - was [adjective] (uses でした)」を あらわす ぶんぽうは どれですか。
+「seems like」(n4-082) を あらわす ぶんぽうは どれですか。
 
-1. な-Adjective past: ～でした
-2. ～の
-3. いつ
-4. これ／それ／あれ／どれ
+1. がる / がっている
+2. ばあいは
+3. 出す（だす）
+4. そうに / そうな
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q83
 
-「な-Adjective past negative」を あらわす ぶんぽうは どれですか。
+「just finished」(n4-083) を あらわす ぶんぽうは どれですか。
 
-1. な-Adjective past negative: ～じゃありませんでした
-2. ここ／そこ／あそこ／どこ
-3. 〜です／〜ます
-4. から～まで
+1. はずがない
+2. Format: `PATTERN
+3. たばかり
+4. 後で（あとで）
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q84
 
-「な-Adjective て-form (~で) - connector」を あらわす ぶんぽうは どれですか。
+「just finished doing, was just doing」(n4-084) を あらわす ぶんぽうは どれですか。
 
-1. よね
-2. な-Adjective て-form: ～で
-3. 〜です／〜ます
-4. だれ／どなた
+1. 間に（あいだに）
+2. たところ
+3. かい
+4. ば
 
 **Answer: 2**
 
 ### Q85
 
-「あります - there is / exists (inanimate things)」を あらわす ぶんぽうは どれですか。
+「wants to do ~ (third person)」(n4-085) を あらわす ぶんぽうは どれですか。
 
-1. 〜です／〜ます
-2. あります
-3. これ／それ／あれ／どれ
-4. ここ／そこ／あそこ／どこ
+1. たがる
+2. はずだ
+3. 間に（あいだに）
+4. から作る
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q86
 
-「います - there is / exists (animate things - people, animals)」を あらわす ぶんぽうは どれですか。
+「if」(n4-086) を あらわす ぶんぽうは どれですか。
 
-1. だれ／どなた
-2. possessive / noun-modifier
-3. 〜の
-4. います
+1. だけで
+2. いらっしゃる
+3. はずがない
+4. たら
 
 **Answer: 4**
 
 ### Q87
 
-「～に～が あります／います - 'there is X at Y' (location-first existence)」を あらわす ぶんぽうは どれですか。
+「why don't you」(n4-087) を あらわす ぶんぽうは どれですか。
 
-1. なに／なん
-2. から～まで
-3. よね
-4. ～に～があります / います
+1. たらどう
+2. ございます
+3. かな
+4. 後で（あとで）
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q88
 
-「～は～にあります／います - 'X is at Y' (already-known X)」を あらわす ぶんぽうは どれですか。
+「what should I do?」(n4-088) を あらわす ぶんぽうは どれですか。
 
-1. この／その／あの／どの ＋ N (noun)
-2. なに／なん
-3. しか～ない
-4. ～は～にあります / います
+1. あまり〜ない
+2. がする
+3. かどうか
+4. たらいいですか
 
 **Answer: 4**
 
 ### Q89
 
-「～が あります - 'have / there is' (events, skills, possessions)」を あらわす ぶんぽうは どれですか。
+「conjunctive particle」(n4-089) を あらわす ぶんぽうは どれですか。
 
-1. ～があります
-2. この／その／あの／どの ＋ N (noun)
-3. 〜の
-4. から～まで
+1. あまり〜ない
+2. 間に（あいだに）
+3. 間（あいだ）
+4. て / で
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q90
 
-「AはBより [adj] です - 'A is more [adj] than B'」を あらわす ぶんぽうは どれですか。
+「to do for」(n4-090) を あらわす ぶんぽうは どれですか。
 
-1. いつ
-2. ～は～より～です
-3. この／その／あの／どの ＋ N (noun)
-4. だれ／どなた
+1. 出す（だす）
+2. がる / がっている
+3. かどうか
+4. てあげる
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q91
 
-「～より～のほうが [adj] です - '~ is more [adj] than ~' (focuses on the bigger one)」を あらわす ぶんぽうは どれですか。
+「I want you to」(n4-091) を あらわす ぶんぽうは どれですか。
 
-1. ～より～のほうが～です
-2. なに／なん
-3. から～まで
-4. 〜です／〜ます
+1. てほしい
+2. じゃないか
+3. ばあいは
+4. いらっしゃる
 
 **Answer: 1**
 
 ### Q92
 
-「AとBと、どちらが ～ですか - 'which is more ~, A or B?' (2-way question)」を あらわす ぶんぽうは どれですか。
+「to start」(n4-092) を あらわす ぶんぽうは どれですか。
 
-1. 〜です／〜ます
-2. ～と～と、どちらが～ですか
-3. いつ
-4. この／その／あの／どの ＋ N (noun)
+1. ていく
+2. Format: `PATTERN
+3. だけで
+4. ばあいは
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q93
 
-「Most ~ of all (covered by superlative pattern)」を あらわす ぶんぽうは どれですか。
+「was doing something (past continuous)」(n4-093) を あらわす ぶんぽうは どれですか。
 
-1. nominalizer in basic use
-2. よね
-3. ～の
-4. ～
+1. かどうか
+2. ていた
+3. かしら
+4. がる / がっている
 
-**Answer: 4**
+**Answer: 2**
 
 ### Q94
 
-「～が すきです / きらいです - like / dislike」を あらわす ぶんぽうは どれですか。
+「could you please ~」(n4-094) を あらわす ぶんぽうは どれですか。
 
-1. nominalizer in basic use
-2. ここ／そこ／あそこ／どこ
-3. だれ／どなた
-4. ～がすきです / きらいです
+1. ていただけませんか
+2. 始める（はじめる）
+3. ではないか
+4. ひつようがある
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q95
 
-「～が じょうずです / へたです - good at / bad at」を あらわす ぶんぽうは どれですか。
+「to do a favor」(n4-095) を あらわす ぶんぽうは どれですか。
 
-1. なに／なん
-2. いつ
-3. nominalizer in basic use
-4. ～がじょうずです / へたです
-
-**Answer: 4**
-
-### Q96
-
-「～が ほしいです - want (an object)」を あらわす ぶんぽうは どれですか。
-
-1. だれ／どなた
-2. なに／なん
-3. この／その／あの／どの ＋ N (noun)
-4. ～がほしいです
-
-**Answer: 4**
-
-### Q97
-
-「～が わかります - understand / know」を あらわす ぶんぽうは どれですか。
-
-1. この／その／あの／どの ＋ N (noun)
-2. ～の
-3. ～がわかります
-4. nominalizer in basic use
+1. 始める（はじめる）
+2. 間に（あいだに）
+3. てくれる
+4. 後で（あとで）
 
 **Answer: 3**
 
+### Q96
+
+「to do and come back」(n4-096) を あらわす ぶんぽうは どれですか。
+
+1. でございます
+2. はずだ
+3. てくる
+4. いらっしゃる
+
+**Answer: 3**
+
+### Q97
+
+「try doing」(n4-097) を あらわす ぶんぽうは どれですか。
+
+1. てみる
+2. かしら
+3. ではないか
+4. でございます
+
+**Answer: 1**
+
 ### Q98
 
-「～が できます - can do / be able to / have ability in」を あらわす ぶんぽうは どれですか。
+「to get somebody to do something」(n4-098) を あらわす ぶんぽうは どれですか。
 
-1. この／その／あの／どの ＋ N (noun)
-2. nominalizer in basic use
-3. ～ができます
-4. 〜の
+1. かな
+2. ございます
+3. てもらう
+4. 後で（あとで）
 
 **Answer: 3**
 
 ### Q99
 
-「Verb-stem + たいです - want to do」を あらわす ぶんぽうは どれですか。
+「to do something in advance」(n4-099) を あらわす ぶんぽうは どれですか。
 
-1. いつ
-2. なに／なん
-3. Verb-stem + たいです
-4. ここ／そこ／あそこ／どこ
+1. ば
+2. あまり〜ない
+3. だけで
+4. ておく
 
-**Answer: 3**
+**Answer: 4**
 
 ### Q100
 
-「Verb-stem + たくないです - don't want to」を あらわす ぶんぽうは どれですか。
+「to do by accident, to finish completely」(n4-100) を あらわす ぶんぽうは どれですか。
 
-1. nominalizer in basic use
-2. よね
-3. これ／それ／あれ／どれ
-4. Verb-stem + たくないです
+1. ひつようがある
+2. がする
+3. あまり〜ない
+4. てしまう / ちゃう
 
 **Answer: 4**
 

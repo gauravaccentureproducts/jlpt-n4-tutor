@@ -4,217 +4,217 @@
   "paperNumber": 3,
   "name": "Goi Paper 3",
   "source_file": "KnowledgeBank/goi_questions_n4.md",
-  "source_question_range": "Q31-Q45",
+  "source_question_range": "Q32-Q46",
   "questionCount": 15,
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "「子ども」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「力」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "pupil, schoolchild",
-        "older brother (polite)",
-        "child (often written こども in everyday text)",
-        "family"
+        "flavor",
+        "America",
+        "energy",
+        "suffix for familiar female person"
       ],
       "correctIndex": 2,
       "rationale": "",
-      "kbSourceId": "Q31",
+      "kbSourceId": "Q32",
       "id": "goi-3.1"
     },
     {
       "type": "mcq",
-      "stem_html": "「男の子」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「地理」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "boy",
-        "everyone (polite)",
-        "child (often written こども in everyday text)",
-        "uncle, middle-aged man"
+        "gasoline",
+        "Africa",
+        "cherry blossom viewing",
+        "geography"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
-      "kbSourceId": "Q32",
+      "kbSourceId": "Q33",
       "id": "goi-3.2"
     },
     {
       "type": "mcq",
-      "stem_html": "「女の子」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「中学校」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "girl",
-        "mother (own)",
-        "aunt, middle-aged woman",
-        "family"
+        "building",
+        "junior high school",
+        "part-time job",
+        "a glass"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "rationale": "",
-      "kbSourceId": "Q33",
+      "kbSourceId": "Q34",
       "id": "goi-3.3"
     },
     {
       "type": "mcq",
-      "stem_html": "「男」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「注意」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "man",
-        "younger sister",
-        "parents",
-        "mother (someone else's / address form)"
+        "accessory",
+        "cherry blossom viewing",
+        "caution",
+        "petrol"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "rationale": "",
-      "kbSourceId": "Q34",
+      "kbSourceId": "Q35",
       "id": "goi-3.4"
     },
     {
       "type": "mcq",
-      "stem_html": "「女」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「注意する」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "grandmother, elderly woman",
-        "girl",
-        "everyone (polite)",
-        "woman"
+        "to plan",
+        "to caution",
+        "to pronunciation",
+        "to examination"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "rationale": "",
-      "kbSourceId": "Q35",
+      "kbSourceId": "Q36",
       "id": "goi-3.5"
     },
     {
       "type": "mcq",
-      "stem_html": "「大人」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「大分」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "adult",
-        "father (own)",
-        "father (someone else's / address form)",
-        "child (often written こども in everyday text)"
+        "usually",
+        "considerably",
+        "as I thought",
+        "especially"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "rationale": "",
-      "kbSourceId": "Q36",
+      "kbSourceId": "Q37",
       "id": "goi-3.6"
     },
     {
       "type": "mcq",
-      "stem_html": "「ともだち」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「大学生」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "friend",
-        "pupil, schoolchild",
-        "aunt, middle-aged woman",
-        "student"
+        "America",
+        "rubbish",
+        "petrol",
+        "university student"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
-      "kbSourceId": "Q37",
+      "kbSourceId": "Q38",
       "id": "goi-3.7"
     },
     {
       "type": "mcq",
-      "stem_html": "「学生」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「大事」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "father (someone else's / address form)",
-        "siblings",
-        "student",
-        "aunt, middle-aged woman"
+        "important",
+        "peace of mind",
+        "enough",
+        "special"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "rationale": "",
-      "kbSourceId": "Q38",
+      "kbSourceId": "Q39",
       "id": "goi-3.8"
     },
     {
       "type": "mcq",
-      "stem_html": "「せいと」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「大体」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "younger brother",
-        "father (own)",
-        "older sister (own)",
-        "pupil, schoolchild"
-      ],
-      "correctIndex": 3,
-      "rationale": "",
-      "kbSourceId": "Q39",
-      "id": "goi-3.9"
-    },
-    {
-      "type": "mcq",
-      "stem_html": "「先生」と おなじ いみの ことばを えらんでください。",
-      "choices": [
-        "grandmother (own)",
-        "student",
-        "teacher, doctor",
-        "older brother (polite)"
+        "baby",
+        "gasoline",
+        "roughly",
+        "petrol station"
       ],
       "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q40",
-      "id": "goi-3.10"
+      "id": "goi-3.9"
     },
     {
       "type": "mcq",
-      "stem_html": "「doctor」を あらわす ことばは どれですか。",
+      "stem_html": "「as much as possible」を あらわす ことばは どれですか。",
       "choices": [
-        "あね",
-        "いもうと",
-        "父",
-        "いしゃ"
+        "たまに",
+        "ああ",
+        "びっくり",
+        "できるだけ"
       ],
       "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q41",
+      "id": "goi-3.10"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「rapidly」を あらわす ことばは どれですか。",
+      "choices": [
+        "どんどん",
+        "しっかり",
+        "ああ",
+        "すっかり"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q42",
       "id": "goi-3.11"
     },
     {
       "type": "mcq",
-      "stem_html": "「company employee」を あらわす ことばは どれですか。",
+      "stem_html": "「escalator」を あらわす ことばは どれですか。",
       "choices": [
-        "母",
-        "あね",
-        "会社員",
-        "おばあさん"
+        "ごみ",
+        "力",
+        "アフリカ",
+        "エスカレーター"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "rationale": "",
-      "kbSourceId": "Q42",
+      "kbSourceId": "Q43",
       "id": "goi-3.12"
     },
     {
       "type": "mcq",
-      "stem_html": "「station staff」を あらわす ことばは どれですか。",
+      "stem_html": "「fax」を あらわす ことばは どれですか。",
       "choices": [
-        "駅員",
-        "そふ",
-        "おじいさん",
-        "大人"
+        "ファックス",
+        "ごちそう",
+        "アメリカ",
+        "地理"
       ],
       "correctIndex": 0,
       "rationale": "",
-      "kbSourceId": "Q43",
+      "kbSourceId": "Q44",
       "id": "goi-3.13"
     },
     {
       "type": "mcq",
-      "stem_html": "「shop clerk」を あらわす ことばは どれですか。",
+      "stem_html": "「to fax」を あらわす ことばは どれですか。",
       "choices": [
-        "おとうと",
-        "おじいさん",
-        "店員",
-        "いもうと"
+        "発音する",
+        "花見する",
+        "ファックスする",
+        "注意する"
       ],
       "correctIndex": 2,
       "rationale": "",
-      "kbSourceId": "Q44",
+      "kbSourceId": "Q45",
       "id": "goi-3.14"
     },
     {
       "type": "mcq",
-      "stem_html": "「police officer」を あらわす ことばは どれですか。",
+      "stem_html": "「a glass」を あらわす ことばは どれですか。",
       "choices": [
-        "おじいさん",
-        "おじさん",
-        "お父さん",
-        "けいかん"
+        "ビル",
+        "ガラス",
+        "アジア",
+        "ごみ"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "rationale": "",
-      "kbSourceId": "Q45",
+      "kbSourceId": "Q46",
       "id": "goi-3.15"
     }
   ]

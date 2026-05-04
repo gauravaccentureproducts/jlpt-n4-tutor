@@ -20,1105 +20,1105 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 ### Q1
 
-「私」と おなじ いみの ことばを えらんでください。
+「入る」と おなじ いみの ことばを えらんでください。
 
-1. oneself
-2. we
-3. she, her (girlfriend - more advanced sense)
-4. I, me
-
-**Answer: 4**
-
-### Q2
-
-「私たち」と おなじ いみの ことばを えらんでください。
-
-1. he, him (boyfriend - more advanced sense)
-2. she, her (girlfriend - more advanced sense)
-3. we
-4. oneself
-
-**Answer: 3**
-
-### Q3
-
-「あなた」と おなじ いみの ことばを えらんでください。
-
-1. you
-2. he, him (boyfriend - more advanced sense)
-3. we
-4. I, me
+1. to enter (Group 1 exception - looks like Group 2)
+2. to send
+3. (respectful) to be
+4. to run (Group 1 exception - looks like Group 2)
 
 **Answer: 1**
 
+### Q2
+
+「かえる」と おなじ いみの ことばを えらんでください。
+
+1. to enter (Group 1 exception - looks like Group 2)
+2. to send
+3. to remember
+4. to return home (Group 1 exception - looks like Group 2)
+
+**Answer: 4**
+
+### Q3
+
+「はしる」と おなじ いみの ことばを えらんでください。
+
+1. to be hungry
+2. to go through
+3. to run (Group 1 exception - looks like Group 2)
+4. (respectful) to give
+
+**Answer: 3**
+
 ### Q4
 
-「かれ」と おなじ いみの ことばを えらんでください。
+「しる」と おなじ いみの ことばを えらんでください。
 
-1. you
-2. we
-3. I, me
-4. he, him (boyfriend - more advanced sense)
+1. to go through
+2. to be found
+3. to disappear
+4. to know (Group 1 exception - looks like Group 2)
 
 **Answer: 4**
 
 ### Q5
 
-「かのじょ」と おなじ いみの ことばを えらんでください。
+「きる」と おなじ いみの ことばを えらんでください。
 
-1. I, me
-2. we
-3. he, him (boyfriend - more advanced sense)
-4. she, her (girlfriend - more advanced sense)
+1. to cut (Group 1 exception - looks like Group 2
+2. to copy or photograph
+3. to remember
+4. to enter (Group 1 exception - looks like Group 2)
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q6
 
-「かた」と おなじ いみの ことばを えらんでください。
+「いる」と おなじ いみの ことばを えらんでください。
 
-1. older brother (polite)
-2. person
-3. grandfather, elderly man
-4. person (polite)
+1. to remember
+2. to need (Group 1 exception - looks like Group 2
+3. to perform
+4. to copy or photograph
 
-**Answer: 4**
-
-### Q7
-
-「人」と おなじ いみの ことばを えらんでください。
-
-1. parents
-2. father (own)
-3. older brother (polite)
-4. person
-
-**Answer: 4**
+**Answer: 2**
 
 ### Q8
 
-「みなさん」と おなじ いみの ことばを えらんでください。
+「ああ」と おなじ いみの ことばを えらんでください。
 
-1. grandfather, elderly man
-2. everyone (polite)
-3. siblings
-4. older sister (polite)
+1. clearly
+2. ah
+3. especially
+4. soon
 
 **Answer: 2**
 
 ### Q9
 
-「だれ」と おなじ いみの ことばを えらんでください。
+「アフリカ」と おなじ いみの ことばを えらんでください。
 
-1. who
-2. how many, how old
-3. why, by what means
-4. how much (price)
+1. flavor
+2. petrol station
+3. accessory
+4. Africa
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q10
 
-「どなた」と おなじ いみの ことばを えらんでください。
+「上がる」と おなじ いみの ことばを えらんでください。
 
-1. who
-2. when
-3. who (polite)
-4. how much (price)
+1. to go through
+2. to stop
+3. to rise
+4. to carry
 
 **Answer: 3**
 
 ### Q11
 
-「じぶん」と おなじ いみの ことばを えらんでください。
+「味」と おなじ いみの ことばを えらんでください。
 
-1. she, her (girlfriend - more advanced sense)
-2. we
-3. I, me
-4. oneself
+1. flavor
+2. a feast
+3. your husband
+4. grapes
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q12
 
-「かぞく」と おなじ いみの ことばを えらんでください。
+「アジア」と おなじ いみの ことばを えらんでください。
 
-1. grandmother (own)
-2. person
-3. family
-4. everyone (polite)
+1. caution
+2. announcer
+3. Asia
+4. Africa
 
 **Answer: 3**
 
 ### Q13
 
-「父」と おなじ いみの ことばを えらんでください。
+「赤ちゃん」と おなじ いみの ことばを えらんでください。
 
-1. adult
-2. father (own)
-3. older brother (own)
-4. younger brother
+1. announcer
+2. suffix for familiar female person
+3. baby
+4. fax
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q14
 
-「母」と おなじ いみの ことばを えらんでください。
+「アクセサリー」と おなじ いみの ことばを えらんでください。
 
-1. father (own)
-2. mother (own)
-3. family
-4. uncle, middle-aged man
-
-**Answer: 2**
-
-### Q15
-
-「お父さん」と おなじ いみの ことばを えらんでください。
-
-1. siblings
-2. father (someone else's / address form)
-3. aunt, middle-aged woman
-4. father (own)
-
-**Answer: 2**
-
-### Q16
-
-「お母さん」と おなじ いみの ことばを えらんでください。
-
-1. grandfather (own)
-2. mother (someone else's / address form)
-3. older sister (polite)
-4. grandfather, elderly man
-
-**Answer: 2**
-
-### Q17
-
-「あに」と おなじ いみの ことばを えらんでください。
-
-1. older brother (own)
-2. parents
-3. student
-4. pupil, schoolchild
-
-**Answer: 1**
-
-### Q18
-
-「あね」と おなじ いみの ことばを えらんでください。
-
-1. friend
-2. older sister (own)
-3. family
-4. boy
-
-**Answer: 2**
-
-### Q19
-
-「おとうと」と おなじ いみの ことばを えらんでください。
-
-1. younger brother
-2. child (often written こども in everyday text)
-3. younger sister
-4. uncle, middle-aged man
-
-**Answer: 1**
-
-### Q20
-
-「いもうと」と おなじ いみの ことばを えらんでください。
-
-1. woman
-2. friend
-3. everyone (polite)
-4. younger sister
+1. junior high school
+2. literature
+3. petrol station
+4. accessory
 
 **Answer: 4**
 
+### Q15
+
+「アメリカ」と おなじ いみの ことばを えらんでください。
+
+1. geography
+2. bell
+3. America
+4. Africa
+
+**Answer: 3**
+
+### Q16
+
+「アナウンサー」と おなじ いみの ことばを えらんでください。
+
+1. America
+2. gasoline
+3. university student
+4. announcer
+
+**Answer: 4**
+
+### Q17
+
+「あんな」と おなじ いみの ことばを えらんでください。
+
+1. (option-4)
+2. such
+3. various
+4. that sort of
+
+**Answer: 2**
+
+### Q18
+
+「安心」と おなじ いみの ことばを えらんでください。
+
+1. sudden
+2. important
+3. looking forward to
+4. peace of mind
+
+**Answer: 4**
+
+### Q19
+
+「アルバイト」と おなじ いみの ことばを えらんでください。
+
+1. your husband
+2. part-time job
+3. junior high school
+4. accessory
+
+**Answer: 2**
+
+### Q20
+
+「アルバイトする」と おなじ いみの ことばを えらんでください。
+
+1. to part-time job
+2. to research
+3. to examination
+4. to hurrying
+
+**Answer: 1**
+
 ### Q21
 
-「おにいさん」と おなじ いみの ことばを えらんでください。
+「アルコール」と おなじ いみの ことばを えらんでください。
 
-1. older brother (polite)
-2. father (someone else's / address form)
-3. father (own)
-4. older brother (own)
+1. alcohol
+2. university student
+3. caution
+4. building
 
 **Answer: 1**
 
 ### Q22
 
-「おねえさん」と おなじ いみの ことばを えらんでください。
+「集まる」と おなじ いみの ことばを えらんでください。
 
-1. older brother (polite)
-2. older sister (polite)
-3. grandmother (own)
-4. woman
+1. to gather
+2. to return home (Group 1 exception - looks like Group 2)
+3. to hurry
+4. to carry
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q23
 
-「きょうだい」と おなじ いみの ことばを えらんでください。
+「集める」と おなじ いみの ことばを えらんでください。
 
-1. aunt, middle-aged woman
-2. older sister (polite)
-3. siblings
-4. older brother (polite)
+1. to stop something
+2. to produce
+3. to collect
+4. to notify
 
 **Answer: 3**
 
 ### Q24
 
-「りょうしん」と おなじ いみの ことばを えらんでください。
+「ベル」と おなじ いみの ことばを えらんでください。
 
-1. grandmother, elderly woman
-2. grandfather, elderly man
-3. parents
-4. person
-
-**Answer: 3**
-
-### Q25
-
-「そふ」と おなじ いみの ことばを えらんでください。
-
-1. mother (own)
-2. younger brother
-3. grandfather (own)
-4. person (polite)
-
-**Answer: 3**
-
-### Q26
-
-「そぼ」と おなじ いみの ことばを えらんでください。
-
-1. grandmother (own)
-2. everyone (polite)
-3. grandfather (own)
-4. person
+1. bell
+2. baby
+3. junior high school
+4. announcer
 
 **Answer: 1**
 
-### Q27
+### Q25
 
-「おじいさん」と おなじ いみの ことばを えらんでください。
+「びっくり」と おなじ いみの ことばを えらんでください。
 
-1. grandmother (own)
-2. student
-3. grandfather, elderly man
-4. man
+1. to be surprised
+2. soon
+3. ah
+4. now I understand
+
+**Answer: 1**
+
+### Q26
+
+「ビル」と おなじ いみの ことばを えらんでください。
+
+1. petrol
+2. literature
+3. building
+4. roughly
 
 **Answer: 3**
 
-### Q28
+### Q27
 
-「おばあさん」と おなじ いみの ことばを えらんでください。
+「ぶどう」と おなじ いみの ことばを えらんでください。
 
-1. father (own)
-2. grandmother, elderly woman
-3. family
-4. older sister (polite)
-
-**Answer: 2**
-
-### Q29
-
-「おじさん」と おなじ いみの ことばを えらんでください。
-
-1. father (someone else's / address form)
-2. adult
-3. person
-4. uncle, middle-aged man
+1. petrol
+2. escalator
+3. accessory
+4. grapes
 
 **Answer: 4**
 
+### Q28
+
+「文学」と おなじ いみの ことばを えらんでください。
+
+1. to check
+2. cherry blossom viewing
+3. literature
+4. university student
+
+**Answer: 3**
+
+### Q29
+
+「ちゃん」と おなじ いみの ことばを えらんでください。
+
+1. escalator
+2. suffix for familiar female person
+3. announcer
+4. baby
+
+**Answer: 2**
+
 ### Q30
 
-「おばさん」と おなじ いみの ことばを えらんでください。
+「チェック」と おなじ いみの ことばを えらんでください。
 
-1. mother (own)
-2. older brother (polite)
-3. grandfather (own)
-4. aunt, middle-aged woman
+1. Asia
+2. flavor
+3. petrol station
+4. to check
 
 **Answer: 4**
 
 ### Q31
 
-「子ども」と おなじ いみの ことばを えらんでください。
+「チェックする」と おなじ いみの ことばを えらんでください。
 
-1. pupil, schoolchild
-2. older brother (polite)
-3. child (often written こども in everyday text)
-4. family
+1. to fax
+2. to check
+3. to research
+4. to cherry blossom viewing
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q32
 
-「男の子」と おなじ いみの ことばを えらんでください。
+「力」と おなじ いみの ことばを えらんでください。
 
-1. boy
-2. everyone (polite)
-3. child (often written こども in everyday text)
-4. uncle, middle-aged man
+1. flavor
+2. America
+3. energy
+4. suffix for familiar female person
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q33
 
-「女の子」と おなじ いみの ことばを えらんでください。
+「地理」と おなじ いみの ことばを えらんでください。
 
-1. girl
-2. mother (own)
-3. aunt, middle-aged woman
-4. family
+1. gasoline
+2. Africa
+3. cherry blossom viewing
+4. geography
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q34
 
-「男」と おなじ いみの ことばを えらんでください。
+「中学校」と おなじ いみの ことばを えらんでください。
 
-1. man
-2. younger sister
-3. parents
-4. mother (someone else's / address form)
+1. building
+2. junior high school
+3. part-time job
+4. a glass
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q35
 
-「女」と おなじ いみの ことばを えらんでください。
+「注意」と おなじ いみの ことばを えらんでください。
 
-1. grandmother, elderly woman
-2. girl
-3. everyone (polite)
-4. woman
+1. accessory
+2. cherry blossom viewing
+3. caution
+4. petrol
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q36
 
-「大人」と おなじ いみの ことばを えらんでください。
+「注意する」と おなじ いみの ことばを えらんでください。
 
-1. adult
-2. father (own)
-3. father (someone else's / address form)
-4. child (often written こども in everyday text)
+1. to plan
+2. to caution
+3. to pronunciation
+4. to examination
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q37
 
-「ともだち」と おなじ いみの ことばを えらんでください。
+「大分」と おなじ いみの ことばを えらんでください。
 
-1. friend
-2. pupil, schoolchild
-3. aunt, middle-aged woman
-4. student
+1. usually
+2. considerably
+3. as I thought
+4. especially
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q38
 
-「学生」と おなじ いみの ことばを えらんでください。
+「大学生」と おなじ いみの ことばを えらんでください。
 
-1. father (someone else's / address form)
-2. siblings
-3. student
-4. aunt, middle-aged woman
+1. America
+2. rubbish
+3. petrol
+4. university student
 
-**Answer: 3**
+**Answer: 4**
 
 ### Q39
 
-「せいと」と おなじ いみの ことばを えらんでください。
+「大事」と おなじ いみの ことばを えらんでください。
 
-1. younger brother
-2. father (own)
-3. older sister (own)
-4. pupil, schoolchild
-
-**Answer: 4**
-
-### Q40
-
-「先生」と おなじ いみの ことばを えらんでください。
-
-1. grandmother (own)
-2. student
-3. teacher, doctor
-4. older brother (polite)
-
-**Answer: 3**
-
-## Mondai 5 - 用法 (Usage)
-
-### Q41
-
-「doctor」を あらわす ことばは どれですか。
-
-1. あね
-2. いもうと
-3. 父
-4. いしゃ
-
-**Answer: 4**
-
-### Q42
-
-「company employee」を あらわす ことばは どれですか。
-
-1. 母
-2. あね
-3. 会社員
-4. おばあさん
-
-**Answer: 3**
-
-### Q43
-
-「station staff」を あらわす ことばは どれですか。
-
-1. 駅員
-2. そふ
-3. おじいさん
-4. 大人
+1. important
+2. peace of mind
+3. enough
+4. special
 
 **Answer: 1**
 
-### Q44
+### Q40
 
-「shop clerk」を あらわす ことばは どれですか。
+「大体」と おなじ いみの ことばを えらんでください。
 
-1. おとうと
-2. おじいさん
-3. 店員
-4. いもうと
+1. baby
+2. gasoline
+3. roughly
+4. petrol station
 
 **Answer: 3**
 
-### Q45
+### Q41
 
-「police officer」を あらわす ことばは どれですか。
+「as much as possible」を あらわす ことばは どれですか。
 
-1. おじいさん
-2. おじさん
-3. お父さん
-4. けいかん
+1. たまに
+2. ああ
+3. びっくり
+4. できるだけ
 
 **Answer: 4**
 
-### Q46
+## Mondai 5 - 用法 (Usage)
 
-「police officer (friendly)」を あらわす ことばは どれですか。
+### Q42
 
-1. かぞく
-2. ともだち
-3. おまわりさん
-4. 大人
+「rapidly」を あらわす ことばは どれですか。
+
+1. どんどん
+2. しっかり
+3. ああ
+4. すっかり
+
+**Answer: 1**
+
+### Q43
+
+「escalator」を あらわす ことばは どれですか。
+
+1. ごみ
+2. 力
+3. アフリカ
+4. エスカレーター
+
+**Answer: 4**
+
+### Q44
+
+「fax」を あらわす ことばは どれですか。
+
+1. ファックス
+2. ごちそう
+3. アメリカ
+4. 地理
+
+**Answer: 1**
+
+### Q45
+
+「to fax」を あらわす ことばは どれですか。
+
+1. 発音する
+2. 花見する
+3. ファックスする
+4. 注意する
 
 **Answer: 3**
 
+### Q46
+
+「a glass」を あらわす ことばは どれですか。
+
+1. ビル
+2. ガラス
+3. アジア
+4. ごみ
+
+**Answer: 2**
+
 ### Q47
 
-「international student」を あらわす ことばは どれですか。
+「gasoline」を あらわす ことばは どれですか。
 
-1. 男
-2. りゅうがくせい
-3. お父さん
-4. おねえさん
+1. 赤ちゃん
+2. ガソリン
+3. 大体
+4. 文学
 
 **Answer: 2**
 
 ### Q48
 
-「foreigner」を あらわす ことばは どれですか。
+「petrol station」を あらわす ことばは どれですか。
 
-1. 女の子
-2. 外国人
-3. お父さん
-4. おにいさん
+1. アルコール
+2. ガソリンスタンド
+3. 注意
+4. 中学校
 
 **Answer: 2**
 
 ### Q49
 
-「body」を あらわす ことばは どれですか。
+「petrol」を あらわす ことばは どれですか。
 
-1. 男
-2. おじいさん
-3. 人
-4. からだ
-
-**Answer: 4**
-
-### Q50
-
-「head」を あらわす ことばは どれですか。
-
-1. いもうと
-2. あたま
-3. 父
-4. 子ども
+1. アナウンサー
+2. ガス
+3. ガラス
+4. 文学
 
 **Answer: 2**
 
+### Q50
+
+「a feast」を あらわす ことばは どれですか。
+
+1. アルコール
+2. ごみ
+3. ガソリンスタンド
+4. ごちそう
+
+**Answer: 4**
+
 ### Q51
 
-「face」を あらわす ことばは どれですか。
+「to a feast」を あらわす ことばは どれですか。
 
-1. かお
-2. 人
-3. きょうだい
-4. りょうしん
+1. アルバイトする
+2. 研究する
+3. ごちそうする
+4. 入院する
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q52
 
-「eye」を あらわす ことばは どれですか。
+「rubbish」を あらわす ことばは どれですか。
 
-1. おじいさん
-2. め
-3. ともだち
-4. 子ども
+1. 味
+2. ごみ
+3. 文学
+4. チェック
 
 **Answer: 2**
 
 ### Q53
 
-「ear」を あらわす ことばは どれですか。
+「your husband」を あらわす ことばは どれですか。
 
-1. かぞく
-2. 母
-3. おじいさん
-4. みみ
+1. 赤ちゃん
+2. ちゃん
+3. 力
+4. ご主人
 
 **Answer: 4**
 
 ### Q54
 
-「nose」を あらわす ことばは どれですか。
+「clearly」を あらわす ことばは どれですか。
 
-1. はな
-2. おばあさん
-3. かた
-4. おじいさん
-
-**Answer: 1**
-
-### Q55
-
-「mouth」を あらわす ことばは どれですか。
-
-1. 男
-2. そぼ
-3. 人
-4. くち
-
-**Answer: 4**
-
-### Q56
-
-「tooth」を あらわす ことばは どれですか。
-
-1. は
-2. お父さん
-3. あに
-4. 男
-
-**Answer: 1**
-
-### Q57
-
-「hand」を あらわす ことばは どれですか。
-
-1. て
-2. お母さん
-3. お父さん
-4. 男の子
-
-**Answer: 1**
-
-### Q58
-
-「leg, foot」を あらわす ことばは どれですか。
-
-1. 男の子
-2. みなさん
-3. あし
-4. そふ
-
-**Answer: 3**
-
-### Q59
-
-「stomach, belly」を あらわす ことばは どれですか。
-
-1. おにいさん
-2. お父さん
-3. おなか
-4. 人
-
-**Answer: 3**
-
-### Q60
-
-「back, height」を あらわす ことばは どれですか。
-
-1. せ
-2. おばさん
-3. 父
-4. おじいさん
-
-**Answer: 1**
-
-### Q61
-
-「I, me」を あらわす ことばは どれですか。
-
-1. 私
-2. かれ
-3. 私たち
-4. かのじょ
-
-**Answer: 1**
-
-### Q62
-
-「we」を あらわす ことばは どれですか。
-
-1. 私
-2. 私たち
-3. あなた
-4. かれ
+1. たいてい
+2. はっきり
+3. やっぱり
+4. どんどん
 
 **Answer: 2**
 
-### Q63
+### Q55
 
-「you」を あらわす ことばは どれですか。
+「to carry」を あらわす ことばは どれですか。
 
-1. あなた
-2. 私
-3. かのじょ
-4. じぶん
+1. 下がる
+2. 運ぶ
+3. いる
+4. 思い出す
+
+**Answer: 2**
+
+### Q56
+
+「cherry blossom viewing」を あらわす ことばは どれですか。
+
+1. アフリカ
+2. 文学
+3. アメリカ
+4. 花見
+
+**Answer: 4**
+
+### Q57
+
+「to cherry blossom viewing」を あらわす ことばは どれですか。
+
+1. 入院する
+2. 花見する
+3. ファックスする
+4. アルバイトする
+
+**Answer: 2**
+
+### Q58
+
+「handbag」を あらわす ことばは どれですか。
+
+1. アメリカ
+2. 大学生
+3. 文学
+4. ハンドバッグ
+
+**Answer: 4**
+
+### Q59
+
+「pronunciation」を あらわす ことばは どれですか。
+
+1. アルバイト
+2. エスカレーター
+3. ガソリンスタンド
+4. 発音
+
+**Answer: 4**
+
+### Q60
+
+「to pronunciation」を あらわす ことばは どれですか。
+
+1. 試験する
+2. 急行する
+3. 花見する
+4. 発音する
+
+**Answer: 4**
+
+### Q61
+
+「to enter (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。
+
+1. 運ぶ
+2. 入る
+3. 無くなる
+4. 写す
+
+**Answer: 2**
+
+### Q62
+
+「to return home (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。
+
+1. かえる
+2. 集まる
+3. お出でになる
+4. しる
 
 **Answer: 1**
 
+### Q63
+
+「to run (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。
+
+1. 運ぶ
+2. お出でになる
+3. はしる
+4. 無くなる
+
+**Answer: 3**
+
 ### Q64
 
-「he, him (boyfriend - more advanced sense)」を あらわす ことばは どれですか。
+「to know (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。
 
-1. 私
-2. かれ
-3. 私たち
-4. じぶん
+1. 写す
+2. しる
+3. 止む
+4. 見つかる
 
 **Answer: 2**
 
 ### Q65
 
-「she, her (girlfriend - more advanced sense)」を あらわす ことばは どれですか。
+「to cut (Group 1 exception - looks like Group 2」を あらわす ことばは どれですか。
 
-1. かのじょ
-2. 私たち
-3. あなた
-4. かれ
+1. 上がる
+2. 送る
+3. 見つかる
+4. きる
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q66
 
-「person (polite)」を あらわす ことばは どれですか。
+「to need (Group 1 exception - looks like Group 2」を あらわす ことばは どれですか。
 
-1. あに
-2. いもうと
-3. かた
-4. お母さん
+1. いる
+2. 空く
+3. 思い出す
+4. 無くなる
 
-**Answer: 3**
-
-### Q67
-
-「person」を あらわす ことばは どれですか。
-
-1. おばさん
-2. 人
-3. かぞく
-4. おばあさん
-
-**Answer: 2**
+**Answer: 1**
 
 ### Q68
 
-「everyone (polite)」を あらわす ことばは どれですか。
+「ah」を あらわす ことばは どれですか。
 
-1. 母
-2. みなさん
-3. 女の子
-4. いもうと
+1. しっかり
+2. ああ
+3. たまに
+4. そろそろ
 
 **Answer: 2**
 
 ### Q69
 
-「who」を あらわす ことばは どれですか。
+「Africa」を あらわす ことばは どれですか。
 
-1. なぜ
-2. だれ
-3. 何
-4. いくつ
+1. アルコール
+2. アフリカ
+3. ガラス
+4. 力
 
 **Answer: 2**
 
 ### Q70
 
-「who (polite)」を あらわす ことばは どれですか。
+「to rise」を あらわす ことばは どれですか。
 
-1. 何で
-2. だれ
-3. いくら
-4. どなた
+1. 空く
+2. 上がる
+3. 送る
+4. 足す
 
-**Answer: 4**
+**Answer: 2**
 
 ### Q71
 
-「oneself」を あらわす ことばは どれですか。
+「flavor」を あらわす ことばは どれですか。
 
-1. かれ
-2. かのじょ
-3. じぶん
-4. あなた
+1. ぶどう
+2. 味
+3. アルコール
+4. 文学
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q72
 
-「family」を あらわす ことばは どれですか。
+「Asia」を あらわす ことばは どれですか。
 
-1. 父
-2. せいと
-3. かぞく
-4. りょうしん
+1. 力
+2. アナウンサー
+3. アジア
+4. 味
 
 **Answer: 3**
 
 ### Q73
 
-「father (own)」を あらわす ことばは どれですか。
+「baby」を あらわす ことばは どれですか。
 
-1. 男の子
-2. 父
-3. そぼ
-4. そふ
+1. アジア
+2. 赤ちゃん
+3. ビル
+4. エスカレーター
 
 **Answer: 2**
 
 ### Q74
 
-「mother (own)」を あらわす ことばは どれですか。
+「accessory」を あらわす ことばは どれですか。
 
-1. 母
-2. おばさん
-3. 女
-4. お母さん
+1. ガソリン
+2. ちゃん
+3. アクセサリー
+4. ご主人
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q75
 
-「father (someone else's / address form)」を あらわす ことばは どれですか。
+「America」を あらわす ことばは どれですか。
 
-1. ともだち
-2. お父さん
-3. かぞく
-4. 男の子
-
-**Answer: 2**
-
-### Q76
-
-「mother (someone else's / address form)」を あらわす ことばは どれですか。
-
-1. お母さん
-2. きょうだい
-3. 大人
-4. りょうしん
-
-**Answer: 1**
-
-### Q77
-
-「older brother (own)」を あらわす ことばは どれですか。
-
-1. 大人
-2. あに
-3. いもうと
-4. せいと
-
-**Answer: 2**
-
-### Q78
-
-「older sister (own)」を あらわす ことばは どれですか。
-
-1. ともだち
-2. 子ども
-3. おじいさん
-4. あね
+1. 地理
+2. アナウンサー
+3. 中学校
+4. アメリカ
 
 **Answer: 4**
 
+### Q76
+
+「announcer」を あらわす ことばは どれですか。
+
+1. 文学
+2. 中学校
+3. ベル
+4. アナウンサー
+
+**Answer: 4**
+
+### Q77
+
+「such」を あらわす ことばは どれですか。
+
+1. 色んな
+2. (option-4)
+3. そんな
+4. あんな
+
+**Answer: 4**
+
+### Q78
+
+「peace of mind」を あらわす ことばは どれですか。
+
+1. 特別
+2. 安心
+3. 急
+4. 親切
+
+**Answer: 2**
+
 ### Q79
 
-「younger brother」を あらわす ことばは どれですか。
+「part-time job」を あらわす ことばは どれですか。
 
-1. おとうと
-2. 子ども
-3. ともだち
-4. かた
+1. アルバイト
+2. ガス
+3. ご主人
+4. アナウンサー
 
 **Answer: 1**
 
 ### Q80
 
-「younger sister」を あらわす ことばは どれですか。
+「to part-time job」を あらわす ことばは どれですか。
 
-1. いもうと
-2. 父
-3. 人
-4. お母さん
+1. 入学する
+2. 用意する
+3. 発音する
+4. アルバイトする
 
-**Answer: 1**
-
-## Mondai 6 - 言い換え (Paraphrase)
+**Answer: 4**
 
 ### Q81
 
-「こんな」と もっとも ちかい いみは どれですか。
+「ジャム」と もっとも ちかい いみは どれですか。
 
-1. that (over there)
-2. various
-3. this kind of
-4. which (one)
+1. baby
+2. bell
+3. petrol
+4. jam
 
-**Answer: 3**
+**Answer: 4**
 
 ### Q82
 
-「そんな」と もっとも ちかい いみは どれですか。
+「字」と もっとも ちかい いみは どれですか。
 
-1. that way (over there)
-2. that kind of
-3. that kind of (over there)
-4. like that
+1. literature
+2. your husband
+3. character
+4. to check
 
-**Answer: 2**
+**Answer: 3**
+
+## Mondai 6 - 言い換え (Paraphrase)
 
 ### Q83
 
-「あんな」と もっとも ちかい いみは どれですか。
+「時代」と もっとも ちかい いみは どれですか。
 
-1. that kind of (over there)
-2. where
-3. that way (over there)
-4. which (one)
+1. bell
+2. period
+3. suffix for familiar female person
+4. accessory
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q84
 
-「どんな」と もっとも ちかい いみは どれですか。
+「人口」と もっとも ちかい いみは どれですか。
 
-1. what kind of
-2. how
-3. that kind of
-4. that way over there (casual)
+1. Asia
+2. bell
+3. suffix for familiar female person
+4. population
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q85
 
-「こう」と もっとも ちかい いみは どれですか。
+「人生」と もっとも ちかい いみは どれですか。
 
-1. that way over there (casual)
-2. this way (casual)
-3. that kind of
-4. like this
+1. accessory
+2. your husband
+3. suffix for familiar female person
+4. human life
 
 **Answer: 4**
 
 ### Q86
 
-「そう」と もっとも ちかい いみは どれですか。
+「十分」と もっとも ちかい いみは どれですか。
 
-1. that way (casual)
-2. which (modifier)
-3. like that
-4. how
+1. impossible
+2. looking forward to
+3. enough
+4. full
 
 **Answer: 3**
 
 ### Q87
 
-「ああ」と もっとも ちかい いみは どれですか。
+「カーテン」と もっとも ちかい いみは どれですか。
 
-1. this way / this person (polite)
-2. over there
-3. like that (over there)
-4. which (one)
+1. curtain
+2. petrol station
+3. accessory
+4. America
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q88
 
-「どう」と もっとも ちかい いみは どれですか。
+「帰り」と もっとも ちかい いみは どれですか。
 
-1. that over there (modifier)
-2. like this
-3. what kind of
-4. how
+1. junior high school
+2. petrol station
+3. return
+4. bell
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q89
 
-「何」と もっとも ちかい いみは どれですか。
+「会場」と もっとも ちかい いみは どれですか。
 
-1. what
-2. how many, how old
-3. what day
-4. what day of the week
+1. petrol station
+2. assembly hall
+3. fax
+4. accessory
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q90
 
-「いつ」と もっとも ちかい いみは どれですか。
+「会話」と もっとも ちかい いみは どれですか。
 
-1. who
-2. what day
-3. when
-4. what day of the week
+1. conversation
+2. bell
+3. geography
+4. petrol
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q91
 
-「いくら」と もっとも ちかい いみは どれですか。
+「会話する」と もっとも ちかい いみは どれですか。
 
-1. how much (price)
-2. what
-3. what day
-4. why, by what means
-
-**Answer: 1**
-
-### Q92
-
-「いくつ」と もっとも ちかい いみは どれですか。
-
-1. what month
-2. what
-3. what day of the week
-4. how many, how old
-
-**Answer: 4**
-
-### Q93
-
-「何時」と もっとも ちかい いみは どれですか。
-
-1. what time
-2. what month
-3. who (polite)
-4. why, by what means
-
-**Answer: 1**
-
-### Q94
-
-「何曜日」と もっとも ちかい いみは どれですか。
-
-1. what month
-2. why, by what means
-3. what day of the week
-4. when
+1. to fax
+2. to preparation
+3. to conversation
+4. to plan
 
 **Answer: 3**
 
-### Q95
+### Q92
 
-「何月」と もっとも ちかい いみは どれですか。
+「火事」と もっとも ちかい いみは どれですか。
 
-1. what month
-2. why
-3. what time
-4. why, by what means
+1. fire
+2. junior high school
+3. a feast
+4. building
 
 **Answer: 1**
 
+### Q93
+
+「考える」と もっとも ちかい いみは どれですか。
+
+1. to live
+2. to think
+3. to produce
+4. to collect
+
+**Answer: 2**
+
+### Q94
+
+「代わり」と もっとも ちかい いみは どれですか。
+
+1. instead
+2. university student
+3. junior high school
+4. your husband
+
+**Answer: 1**
+
+### Q95
+
+「通う」と もっとも ちかい いみは どれですか。
+
+1. to return home (Group 1 exception - looks like Group 2)
+2. to cut (Group 1 exception - looks like Group 2
+3. to commute
+4. to know (Group 1 exception - looks like Group 2)
+
+**Answer: 3**
+
 ### Q96
 
-「何日」と もっとも ちかい いみは どれですか。
+「ケーキ」と もっとも ちかい いみは どれですか。
 
-1. what time
-2. who
-3. who (polite)
-4. what day
+1. bell
+2. cake
+3. university student
+4. building
 
-**Answer: 4**
+**Answer: 2**
 
 ### Q97
 
-「なぜ」と もっとも ちかい いみは どれですか。
+「計画」と もっとも ちかい いみは どれですか。
 
-1. who
-2. what
-3. why
-4. when
+1. university student
+2. gasoline
+3. to plan
+4. Africa
 
 **Answer: 3**
 
 ### Q98
 
-「どうして」と もっとも ちかい いみは どれですか。
+「計画する」と もっとも ちかい いみは どれですか。
 
-1. why
-2. who (polite)
-3. how many, how old
-4. who
+1. to part-time job
+2. to plan
+3. to sightseeing
+4. to cherry blossom viewing
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q99
 
-「何で」と もっとも ちかい いみは どれですか。
+「見物」と もっとも ちかい いみは どれですか。
 
-1. why, by what means
-2. who (polite)
-3. how many, how old
-4. what time
+1. petrol station
+2. petrol
+3. sightseeing
+4. a glass
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q100
 
-「一」と もっとも ちかい いみは どれですか。
+「見物する」と もっとも ちかい いみは どれですか。
 
-1. eight
-2. six
-3. one
-4. twenty
+1. to sightseeing
+2. to plan
+3. to part-time job
+4. to hospitalization
+
+**Answer: 1**
+
+### Q101
+
+「研究」と もっとも ちかい いみは どれですか。
+
+1. Asia
+2. research
+3. accessory
+4. fax
+
+**Answer: 2**
+
+### Q102
+
+「研究する」と もっとも ちかい いみは どれですか。
+
+1. to examination
+2. to fax
+3. to research
+4. to sightseeing
 
 **Answer: 3**
 

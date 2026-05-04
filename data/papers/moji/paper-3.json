@@ -9,68 +9,68 @@
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "<u>千</u> の よみかたを えらんでください。",
+      "stem_html": "<u>生まれ</u> の よみかたを えらんでください。",
       "choices": [
-        "いそぐ",
-        "ご",
-        "でぐち",
-        "せん"
+        "せかい",
+        "うまれ",
+        "いろんな",
+        "むり"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q31",
       "id": "moji-3.1"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>以上</u> の よみかたを えらんでください。",
+      "stem_html": "<u>時代</u> の よみかたを えらんでください。",
       "choices": [
-        "いじょう",
-        "おおきな",
-        "ぶんがく",
-        "いちど"
+        "たのしみ",
+        "いきる",
+        "じだい",
+        "よう"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q32",
       "id": "moji-3.2"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>親切</u> の よみかたを えらんでください。",
+      "stem_html": "<u>試験する</u> の よみかたを えらんでください。",
       "choices": [
-        "とおか",
-        "でんしゃ",
-        "しんせつ",
-        "いちばん"
+        "はつおんする",
+        "しけんする",
+        "しょうじる",
+        "すいどう"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q33",
       "id": "moji-3.3"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>後</u> の よみかたを えらんでください。",
+      "stem_html": "<u>聞こえる</u> の よみかたを えらんでください。",
       "choices": [
-        "ななつ",
-        "あと",
-        "じゅう",
-        "いちど"
+        "このあいだ",
+        "みつける",
+        "あかちゃん",
+        "きこえる"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q34",
       "id": "moji-3.4"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>人生</u> の よみかたを えらんでください。",
+      "stem_html": "<u>空く</u> の よみかたを えらんでください。",
       "choices": [
-        "けんぶつ",
-        "じんせい",
-        "かいわする",
-        "らいげつ"
+        "おと",
+        "すく",
+        "さがる",
+        "かじ"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -79,96 +79,96 @@
     },
     {
       "type": "mcq",
-      "stem_html": "<u>十</u> の よみかたを えらんでください。",
+      "stem_html": "<u>生</u> の よみかたを えらんでください。",
       "choices": [
-        "あとで",
-        "ぶんがく",
-        "えき",
-        "じゅう"
+        "よう",
+        "とめる",
+        "なま",
+        "きもの"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q36",
       "id": "moji-3.6"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>後ろ</u> の よみかたを えらんでください。",
+      "stem_html": "<u>大体</u> の よみかたを えらんでください。",
       "choices": [
-        "あとで",
-        "うしろ",
-        "そら",
-        "せんげつ"
+        "ただしい",
+        "かわり",
+        "だいたい",
+        "ひるま"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q37",
       "id": "moji-3.7"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>今月</u> の よみかたを えらんでください。",
+      "stem_html": "<u>起こす</u> の よみかたを えらんでください。",
       "choices": [
-        "むいか",
-        "こんげつ",
-        "ななつ",
-        "あつまる"
+        "はこぶ",
+        "ちゅうい",
+        "おこす",
+        "あがる"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q38",
       "id": "moji-3.8"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>来年</u> の よみかたを えらんでください。",
+      "stem_html": "<u>真ん中</u> の よみかたを えらんでください。",
       "choices": [
-        "しろい",
-        "らいねん",
-        "がいこく",
-        "けいかく"
+        "まんなか",
+        "かいわする",
+        "あかちゃん",
+        "みえる"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q39",
       "id": "moji-3.9"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>五日</u> の よみかたを えらんでください。",
+      "stem_html": "<u>心</u> の よみかたを えらんでください。",
       "choices": [
-        "いつか",
-        "いきもの",
-        "じだい",
-        "おとこ"
+        "きもの",
+        "こころ",
+        "やむ",
+        "いちど"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q40",
       "id": "moji-3.10"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>生まれる</u> の よみかたを えらんでください。",
+      "stem_html": "<u>今夜</u> の よみかたを えらんでください。",
       "choices": [
-        "しょうじる",
-        "あつめる",
-        "ことし",
-        "うまれる"
+        "ようい",
+        "いけん",
+        "こにゃ",
+        "きぶん"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q41",
       "id": "moji-3.11"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>外国</u> の よみかたを えらんでください。",
+      "stem_html": "<u>人生</u> の よみかたを えらんでください。",
       "choices": [
-        "ごぜん",
-        "がいこく",
-        "たかい",
-        "らいげつ"
+        "こころ",
+        "じんせい",
+        "だいたい",
+        "まんなか"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -177,42 +177,42 @@
     },
     {
       "type": "mcq",
-      "stem_html": "<u>別れる</u> の よみかたを えらんでください。",
+      "stem_html": "<u>下着</u> の よみかたを えらんでください。",
       "choices": [
-        "わかれる",
-        "こども",
-        "いつつ",
-        "まいつき"
+        "まんなか",
+        "いきる",
+        "きゅう",
+        "したぎ"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q43",
       "id": "moji-3.13"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>写す</u> の よみかたを えらんでください。",
+      "stem_html": "<u>止める</u> の よみかたを えらんでください。",
       "choices": [
+        "あつめる",
+        "とめる",
         "うまれ",
-        "みっか",
-        "うつす",
-        "やすい"
+        "くださる"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q44",
       "id": "moji-3.14"
     },
     {
       "type": "mcq",
-      "stem_html": "<u>教会</u> の よみかたを えらんでください。",
+      "stem_html": "<u>色んな</u> の よみかたを えらんでください。",
       "choices": [
-        "がいこくじん",
-        "おんなのこ",
-        "きょうかい",
-        "かんがえる"
+        "いきもの",
+        "なくなる",
+        "せかい",
+        "いろんな"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q45",
       "id": "moji-3.15"

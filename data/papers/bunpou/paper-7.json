@@ -9,12 +9,12 @@
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "「～より～のほうが [adj] です - '~ is more [adj] than ~' (focuses on the bigger one)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「I want you to」(n4-091) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "～より～のほうが～です",
-        "なに／なん",
-        "から～まで",
-        "〜です／〜ます"
+        "てほしい",
+        "じゃないか",
+        "ばあいは",
+        "いらっしゃる"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -23,96 +23,96 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「AとBと、どちらが ～ですか - 'which is more ~, A or B?' (2-way question)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to start」(n4-092) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "〜です／〜ます",
-        "～と～と、どちらが～ですか",
-        "いつ",
-        "この／その／あの／どの ＋ N (noun)"
+        "ていく",
+        "Format: `PATTERN",
+        "だけで",
+        "ばあいは"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q92",
       "id": "bunpou-7.2"
     },
     {
       "type": "mcq",
-      "stem_html": "「Most ~ of all (covered by superlative pattern)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「was doing something (past continuous)」(n4-093) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "nominalizer in basic use",
-        "よね",
-        "～の",
-        "～"
+        "かどうか",
+        "ていた",
+        "かしら",
+        "がる / がっている"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q93",
       "id": "bunpou-7.3"
     },
     {
       "type": "mcq",
-      "stem_html": "「～が すきです / きらいです - like / dislike」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「could you please ~」(n4-094) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "nominalizer in basic use",
-        "ここ／そこ／あそこ／どこ",
-        "だれ／どなた",
-        "～がすきです / きらいです"
+        "ていただけませんか",
+        "始める（はじめる）",
+        "ではないか",
+        "ひつようがある"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q94",
       "id": "bunpou-7.4"
     },
     {
       "type": "mcq",
-      "stem_html": "「～が じょうずです / へたです - good at / bad at」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to do a favor」(n4-095) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "なに／なん",
-        "いつ",
-        "nominalizer in basic use",
-        "～がじょうずです / へたです"
+        "始める（はじめる）",
+        "間に（あいだに）",
+        "てくれる",
+        "後で（あとで）"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q95",
       "id": "bunpou-7.5"
     },
     {
       "type": "mcq",
-      "stem_html": "「～が ほしいです - want (an object)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to do and come back」(n4-096) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "だれ／どなた",
-        "なに／なん",
-        "この／その／あの／どの ＋ N (noun)",
-        "～がほしいです"
+        "でございます",
+        "はずだ",
+        "てくる",
+        "いらっしゃる"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q96",
       "id": "bunpou-7.6"
     },
     {
       "type": "mcq",
-      "stem_html": "「～が わかります - understand / know」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「try doing」(n4-097) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "この／その／あの／どの ＋ N (noun)",
-        "～の",
-        "～がわかります",
-        "nominalizer in basic use"
+        "てみる",
+        "かしら",
+        "ではないか",
+        "でございます"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q97",
       "id": "bunpou-7.7"
     },
     {
       "type": "mcq",
-      "stem_html": "「～が できます - can do / be able to / have ability in」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to get somebody to do something」(n4-098) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "この／その／あの／どの ＋ N (noun)",
-        "nominalizer in basic use",
-        "～ができます",
-        "〜の"
+        "かな",
+        "ございます",
+        "てもらう",
+        "後で（あとで）"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -121,26 +121,26 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「Verb-stem + たいです - want to do」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to do something in advance」(n4-099) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "いつ",
-        "なに／なん",
-        "Verb-stem + たいです",
-        "ここ／そこ／あそこ／どこ"
+        "ば",
+        "あまり〜ない",
+        "だけで",
+        "ておく"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q99",
       "id": "bunpou-7.9"
     },
     {
       "type": "mcq",
-      "stem_html": "「Verb-stem + たくないです - don't want to」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to do by accident, to finish completely」(n4-100) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "nominalizer in basic use",
-        "よね",
-        "これ／それ／あれ／どれ",
-        "Verb-stem + たくないです"
+        "ひつようがある",
+        "がする",
+        "あまり〜ない",
+        "てしまう / ちゃう"
       ],
       "correctIndex": 3,
       "rationale": "",

@@ -14,2080 +14,2080 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 ### Q1
 
-<u>水曜日</u> の よみかたを えらんでください。
+<u>旅館</u> の よみかたを えらんでください。
 
-1. もくようび
-2. わたしたち
-3. すいようび
-4. でんわする
+1. ひらく
+2. りょかん
+3. はいる
+4. けんぶつ
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q2
 
-<u>安心</u> の よみかたを えらんでください。
+<u>注意する</u> の よみかたを えらんでください。
 
-1. いちど
-2. ひゃく
-3. やすい
-4. あんしん
-
-**Answer: 4**
-
-### Q3
-
-<u>休む</u> の よみかたを えらんでください。
-
-1. ひとつ
-2. ことり
-3. やすむ
-4. おこす
-
-**Answer: 3**
-
-### Q4
-
-<u>出かける</u> の よみかたを えらんでください。
-
-1. いけん
-2. にほんご
-3. でかける
-4. うしろ
-
-**Answer: 3**
-
-### Q5
-
-<u>字</u> の よみかたを えらんでください。
-
-1. じ
-2. た
-3. いち
-4. なま
+1. ちゅういする
+2. おいでになる
+3. とっきゅう
+4. おくじょう
 
 **Answer: 1**
 
+### Q3
+
+<u>着物</u> の よみかたを えらんでください。
+
+1. きもの
+2. ことり
+3. たりる
+4. だいぶ
+
+**Answer: 1**
+
+### Q4
+
+<u>心</u> の よみかたを えらんでください。
+
+1. はこぶ
+2. つき
+3. あつまる
+4. こころ
+
+**Answer: 4**
+
+### Q5
+
+<u>生</u> の よみかたを えらんでください。
+
+1. ひ
+2. とめる
+3. なま
+4. だいじ
+
+**Answer: 3**
+
 ### Q6
 
-<u>番</u> の よみかたを えらんでください。
+<u>足す</u> の よみかたを えらんでください。
 
-1. じ
-2. ばん
-3. みせる
-4. のむ
+1. やむ
+2. たす
+3. ちり
+4. はなみ
 
 **Answer: 2**
 
 ### Q7
 
-<u>先月</u> の よみかたを えらんでください。
+<u>花見</u> の よみかたを えらんでください。
 
-1. うりば
-2. なんがつ
-3. ろくがつ
-4. せんげつ
+1. きこえる
+2. ちり
+3. はなみ
+4. こにゃ
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q8
 
-<u>道</u> の よみかたを えらんでください。
+<u>足りる</u> の よみかたを えらんでください。
 
-1. いか
-2. みち
-3. みっつ
-4. ひらく
+1. たりる
+2. けんぶつ
+3. しなもの
+4. とおる
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q9
 
-<u>気</u> の よみかたを えらんでください。
+<u>意見</u> の よみかたを えらんでください。
 
-1. まん
-2. き
-3. あじ
-4. はん
-
-**Answer: 2**
-
-### Q10
-
-<u>男</u> の よみかたを えらんでください。
-
-1. あじ
-2. たべる
-3. すく
-4. おとこ
+1. なくなる
+2. おと
+3. おりる
+4. いけん
 
 **Answer: 4**
 
+### Q10
+
+<u>会話</u> の よみかたを えらんでください。
+
+1. かいわ
+2. あんしん
+3. とめる
+4. わかれる
+
+**Answer: 1**
+
 ### Q11
 
-<u>何月</u> の よみかたを えらんでください。
+<u>生まれ</u> の よみかたを えらんでください。
 
-1. きょう
-2. はんぶん
-3. こたえ
-4. なんがつ
+1. しなもの
+2. きこえる
+3. たのしみ
+4. うまれ
 
 **Answer: 4**
 
 ### Q12
 
-<u>北</u> の よみかたを えらんでください。
+<u>文学</u> の よみかたを えらんでください。
 
-1. でぐち
-2. さがる
-3. とおか
-4. きた
+1. ぶんがく
+2. こにゃ
+3. まんなか
+4. したぎ
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q13
 
-<u>この間</u> の よみかたを えらんでください。
+<u>赤ちゃん</u> の よみかたを えらんでください。
 
-1. スペインじん
-2. このあいだ
-3. おんなのこ
-4. あんしん
+1. あかちゃん
+2. せいよう
+3. しゃかい
+4. しらせる
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q14
 
-<u>何</u> の よみかたを えらんでください。
+<u>代わり</u> の よみかたを えらんでください。
 
-1. かいしゃいん
-2. こうこうせい
-3. なに / なん
-4. けいかくする
+1. とめる
+2. なくなる
+3. こたえ
+4. かわり
 
-**Answer: 3**
+**Answer: 4**
 
 ### Q15
 
-<u>一つ</u> の よみかたを えらんでください。
+<u>空く</u> の よみかたを えらんでください。
 
-1. ひとつ
-2. はは
-3. じだい
-4. たべる
+1. かえり
+2. ひるま
+3. うりば
+4. すく
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q16
 
-<u>半</u> の よみかたを えらんでください。
+<u>建てる</u> の よみかたを えらんでください。
 
-1. はん
-2. ことし
-3. むいか
-4. なま
+1. きぶん
+2. たてる
+3. しんせつ
+4. あじ
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q17
 
-<u>お店</u> の よみかたを えらんでください。
+<u>入学</u> の よみかたを えらんでください。
 
-1. おとこ
-2. はつか
-3. ふるい
-4. おみせ
+1. かいじょう
+2. とっきゅう
+3. ぶんがく
+4. にゅうがく
 
 **Answer: 4**
 
 ### Q18
 
-<u>代わり</u> の よみかたを えらんでください。
+<u>字</u> の よみかたを えらんでください。
 
-1. せいよう
-2. おんな
-3. いそぐ
-4. かわり
+1. なま
+2. き
+3. じ
+4. すく
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q19
 
-<u>用意する</u> の よみかたを えらんでください。
+<u>新聞社</u> の よみかたを えらんでください。
 
-1. くださる
-2. いちまん
-3. こうじょう
-4. よういする
+1. おくじょう
+2. けんぶつする
+3. しんぶんしゃ
+4. きゅうこうする
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q20
 
-<u>小学校</u> の よみかたを えらんでください。
+<u>社会</u> の よみかたを えらんでください。
 
-1. けんきゅうしつ
-2. し / よん
-3. けんぶつする
-4. しょうがっこう
+1. とくに
+2. ひらく
+3. とめる
+4. しゃかい
 
 **Answer: 4**
 
 ### Q21
 
-<u>電気</u> の よみかたを えらんでください。
+<u>下りる</u> の よみかたを えらんでください。
 
-1. いじょう
-2. でぐち
-3. でんき
-4. とくべつ
+1. むり
+2. たりる
+3. おりる
+4. おや
 
 **Answer: 3**
 
 ### Q22
 
-<u>気持ち</u> の よみかたを えらんでください。
+<u>今度</u> の よみかたを えらんでください。
 
-1. きもち
-2. こんげつ
-3. はなす
-4. おみせ
+1. いろんな
+2. てにん
+3. あつまる
+4. こんど
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q23
 
-<u>生じる</u> の よみかたを えらんでください。
+<u>小鳥</u> の よみかたを えらんでください。
 
-1. いちばん
-2. いけんする
-3. しょうじる
-4. せいぶつ
+1. ことり
+2. かいわ
+3. きゅう
+4. むり
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q24
 
-<u>二</u> の よみかたを えらんでください。
+<u>昼休み</u> の よみかたを えらんでください。
 
-1. よむ
-2. ばん
-3. に
-4. ごご
+1. けいかく
+2. あつめる
+3. ひるやすみ
+4. おこなう
 
 **Answer: 3**
 
 ### Q25
 
-<u>空</u> の よみかたを えらんでください。
+<u>開く</u> の よみかたを えらんでください。
 
-1. いきる
-2. えん
-3. そら
-4. はな
+1. あんしん
+2. ようい
+3. ひらく
+4. たりる
 
 **Answer: 3**
 
 ### Q26
 
-<u>月曜日</u> の よみかたを えらんでください。
+<u>運転手</u> の よみかたを えらんでください。
 
-1. ごしゅじん
-2. ちゅうごく
-3. だいたい
-4. げつようび
-
-**Answer: 4**
-
-### Q27
-
-<u>二月</u> の よみかたを えらんでください。
-
-1. とめる
-2. にがつ
-3. いけん
-4. とおる
-
-**Answer: 2**
-
-### Q28
-
-<u>音</u> の よみかたを えらんでください。
-
-1. みち
-2. おと
-3. きもち
-4. なんじ
-
-**Answer: 2**
-
-### Q29
-
-<u>六つ</u> の よみかたを えらんでください。
-
-1. あがる
-2. いじょう
-3. むっつ
-4. いつつ
+1. このあいだ
+2. だいがくせい
+3. うんてんしゅ
+4. こうちょう
 
 **Answer: 3**
 
+### Q27
+
+<u>入る</u> の よみかたを えらんでください。
+
+1. おこす
+2. やむ
+3. ひらく
+4. はいる
+
+**Answer: 4**
+
+### Q28
+
+<u>会話する</u> の よみかたを えらんでください。
+
+1. きこえる
+2. にゅうがく
+3. きゅうこう
+4. かいわする
+
+**Answer: 4**
+
+### Q29
+
+<u>色んな</u> の よみかたを えらんでください。
+
+1. おくる
+2. たのしみ
+3. こにゃ
+4. いろんな
+
+**Answer: 4**
+
 ### Q30
 
-<u>教会</u> の よみかたを えらんでください。
+<u>通る</u> の よみかたを えらんでください。
 
-1. にほんじん
-2. きょうかい
-3. ひとりで
-4. あんしん
+1. あつめる
+2. あつまる
+3. とおる
+4. たりる
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q31
 
-<u>下がる</u> の よみかたを えらんでください。
+<u>計画する</u> の よみかたを えらんでください。
 
-1. いつか
-2. さがる
-3. あがる
-4. たかい
+1. おくじょう
+2. けいかくする
+3. しょうじる
+4. じゅうぶん
 
 **Answer: 2**
 
 ### Q32
 
-<u>毎日</u> の よみかたを えらんでください。
+<u>中学校</u> の よみかたを えらんでください。
 
-1. まいにち
-2. あとで
-3. うまれ
-4. どようび
+1. にゅういんする
+2. ちゅうがっこう
+3. ちゅうがっこ
+4. おいでになる
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q33
 
-<u>人口</u> の よみかたを えらんでください。
+<u>試験する</u> の よみかたを えらんでください。
 
-1. じんこう
-2. ふたり
-3. ようい
-4. だいぶ
+1. こうじょう
+2. にゅうがく
+3. しけんする
+4. ぶんがく
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q34
 
-<u>左</u> の よみかたを えらんでください。
+<u>止める</u> の よみかたを えらんでください。
 
-1. ひだり
-2. とくに
-3. くに
-4. やすむ
+1. じんこう
+2. とめる
+3. とくべつ
+4. おこなう
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q35
 
-<u>仕方</u> の よみかたを えらんでください。
+<u>人生</u> の よみかたを えらんでください。
 
-1. おかね
-2. よっつ
-3. かいしゃ
-4. しかた
+1. なくなる
+2. じんせい
+3. いがく
+4. しょうじる
 
-**Answer: 4**
+**Answer: 2**
 
 ### Q36
 
-<u>二十日</u> の よみかたを えらんでください。
+<u>売り場</u> の よみかたを えらんでください。
 
-1. おと
-2. はつか
-3. くに
-4. せかい
+1. ちり
+2. はつおん
+3. うりば
+4. いきる
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q37
 
-<u>七つ</u> の よみかたを えらんでください。
+<u>火事</u> の よみかたを えらんでください。
 
-1. ひとり
-2. ななつ
-3. にがつ
-4. せんせい
+1. よう
+2. しかた
+3. かじ
+4. うつす
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q38
 
-<u>山</u> の よみかたを えらんでください。
+<u>安心</u> の よみかたを えらんでください。
 
-1. やま
-2. ようじ
-3. でんき
-4. とくに
+1. あんしん
+2. けんぶつ
+3. だいぶ
+4. あがる
 
 **Answer: 1**
 
 ### Q39
 
-<u>高校生</u> の よみかたを えらんでください。
+<u>以外</u> の よみかたを えらんでください。
 
-1. おいでになる
-2. こうこうせい
-3. きゅうこうする
-4. でんわする
+1. こころ
+2. くうき
+3. いがい
+4. きこえる
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q40
 
-<u>午前</u> の よみかたを えらんでください。
+<u>子</u> の よみかたを えらんでください。
 
-1. まいにち
-2. ごぜん
-3. でんわ
-4. じかん
-
-**Answer: 2**
-
-### Q41
-
-<u>花見</u> の よみかたを えらんでください。
-
-1. ちち
-2. はなみ
-3. みせる
-4. さげる
-
-**Answer: 2**
-
-### Q42
-
-<u>毎週</u> の よみかたを えらんでください。
-
-1. ちゅうごくご
-2. せいよう
-3. かいわする
-4. まいしゅう
+1. よう
+2. じ
+3. あじ
+4. こ
 
 **Answer: 4**
 
-### Q43
+### Q41
 
-<u>車</u> の よみかたを えらんでください。
+<u>終わり</u> の よみかたを えらんでください。
 
-1. くるま
-2. ふたつ
-3. むいか
-4. ここのつ
+1. おわり
+2. ひらく
+3. ちり
+4. だいぶ
 
 **Answer: 1**
 
+### Q42
+
+<u>台風</u> の よみかたを えらんでください。
+
+1. おくじょう
+2. たいふう
+3. しゃちょう
+4. かいわ
+
+**Answer: 2**
+
+### Q43
+
+<u>起こす</u> の よみかたを えらんでください。
+
+1. とおる
+2. おこす
+3. すく
+4. ひるま
+
+**Answer: 2**
+
 ### Q44
 
-<u>出る</u> の よみかたを えらんでください。
+<u>生物</u> の よみかたを えらんでください。
 
-1. おや
-2. うつす
-3. おとこ
-4. でる
+1. ぶんがく
+2. おもいだす
+3. にゅうがく
+4. せいぶつ
 
 **Answer: 4**
 
 ### Q45
 
-<u>中国語</u> の よみかたを えらんでください。
+<u>高校</u> の よみかたを えらんでください。
 
-1. ちゅうごくご
-2. きゅうこうする
-3. このあいだ
-4. がいこくご
+1. こうこう
+2. じゅうぶん
+3. いじょう
+4. せいよう
 
 **Answer: 1**
 
 ### Q46
 
-<u>新聞社</u> の よみかたを えらんでください。
+<u>楽しみ</u> の よみかたを えらんでください。
 
-1. にゅういんする
-2. なんようび
-3. こうじょう
-4. しんぶんしゃ
+1. たのしみ
+2. おもいだす
+3. とっきゅう
+4. はいる
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q47
 
-<u>スペイン人</u> の よみかたを えらんでください。
+<u>以下</u> の よみかたを えらんでください。
 
-1. けんきゅう
-2. いけんする
-3. スペインじん
-4. おとこのこ
+1. たてる
+2. かじ
+3. いか
+4. さげる
 
 **Answer: 3**
 
 ### Q48
 
-<u>工業</u> の よみかたを えらんでください。
+<u>知らせる</u> の よみかたを えらんでください。
 
-1. いろんな
-2. かようび
-3. がいこくご
-4. こうぎょう
+1. おくじょう
+2. とくに
+3. とくべつ
+4. しらせる
 
 **Answer: 4**
 
 ### Q49
 
-<u>日本語</u> の よみかたを えらんでください。
+<u>入院</u> の よみかたを えらんでください。
 
-1. にほんご
-2. うしろ
-3. せいぶつ
-4. しけんする
+1. あつまる
+2. きょうかい
+3. にゅういん
+4. だいがくせい
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q50
 
-<u>七</u> の よみかたを えらんでください。
+<u>見つかる</u> の よみかたを えらんでください。
 
-1. きゅう / く
-2. じゅうにがつ
-3. しち / なな
-4. じゅういちがつ
+1. てにん
+2. おもいだす
+3. みつかる
+4. さげる
 
 **Answer: 3**
 
 ### Q51
 
-__いちがつ__ の かんじを えらんでください。
+__つき__ の かんじを えらんでください。
 
-1. 何
-2. 昼間
-3. 天気
-4. 一月
+1. 大事
+2. 月
+3. 足す
+4. 気
 
-**Answer: 4**
+**Answer: 2**
 
 ### Q52
 
-__とっきゅう__ の かんじを えらんでください。
+__きこえる__ の かんじを えらんでください。
 
-1. 生まれ
-2. 安い
-3. 特急
-4. 二つ
+1. 聞こえる
+2. 意見する
+3. 思い出す
+4. 考える
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q53
 
-__がいこくじん__ の かんじを えらんでください。
+__き__ の かんじを えらんでください。
 
-1. 天気
-2. 急ぐ
-3. 会場
-4. 外国人
+1. 気
+2. 意見
+3. 足す
+4. 空く
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q54
 
-__よむ__ の かんじを えらんでください。
+__おと__ の かんじを えらんでください。
 
-1. 買う
-2. 気持ち
-3. 読む
-4. 父
+1. 今夜
+2. 地理
+3. 音
+4. 答え
 
 **Answer: 3**
 
 ### Q55
 
-__なんじ__ の かんじを えらんでください。
+__こうちょう__ の かんじを えらんでください。
 
-1. 四月
-2. 何時
-3. 力
-4. 見物
+1. 火事
+2. 別れる
+3. 昼休み
+4. 校長
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q56
 
-__きゅう / く__ の かんじを えらんでください。
+__さがる__ の かんじを えらんでください。
 
-1. 見る
-2. 天気
-3. 六
-4. 九
-
-**Answer: 4**
-
-### Q57
-
-__いち__ の かんじを えらんでください。
-
-1. 一
-2. 出る
-3. 話す
-4. 八日
-
-**Answer: 1**
-
-### Q58
-
-__ふつか__ の かんじを えらんでください。
-
-1. 五月
-2. 音
-3. 木
-4. 二日
-
-**Answer: 4**
-
-### Q59
-
-__した__ の かんじを えらんでください。
-
-1. お店
-2. 下
-3. 名前
-4. 三月
+1. 意見
+2. 下がる
+3. 時代
+4. 計画する
 
 **Answer: 2**
 
+### Q57
+
+__みえる__ の かんじを えらんでください。
+
+1. 下さる
+2. 高校
+3. 見える
+4. 運ぶ
+
+**Answer: 3**
+
+### Q58
+
+__ようじ__ の かんじを えらんでください。
+
+1. 計画
+2. 用事
+3. 答え
+4. 見える
+
+**Answer: 2**
+
+### Q59
+
+__しょうじる__ の かんじを えらんでください。
+
+1. 旅館
+2. 開く
+3. 生じる
+4. 時代
+
+**Answer: 3**
+
 ### Q60
 
-__こうちょう__ の かんじを えらんでください。
+__あつまる__ の かんじを えらんでください。
 
-1. 九つ
-2. 東
-3. 話
-4. 校長
+1. 急行
+2. 大学生
+3. 会話
+4. 集まる
 
 **Answer: 4**
 
 ### Q61
 
-__あつめる__ の かんじを えらんでください。
+__うごく__ の かんじを えらんでください。
 
-1. 後で
-2. 帰り
-3. 地理
-4. 集める
+1. 動く
+2. 気分
+3. 人生
+4. 用意
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q62
 
-__しんぶん__ の かんじを えらんでください。
+__しょうがっこう__ の かんじを えらんでください。
 
-1. 工場
-2. 外
-3. 新聞
-4. 下げる
+1. 気分
+2. 止む
+3. 小学校
+4. 社長
 
 **Answer: 3**
 
 ### Q63
 
-__しけん__ の かんじを えらんでください。
+__だいじ__ の かんじを えらんでください。
 
-1. 試験
-2. 何日
-3. 気分
-4. 水曜日
+1. 人生
+2. 大事
+3. 意見
+4. 売り場
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q64
 
-__にほん / にっぽん__ の かんじを えらんでください。
+__ちり__ の かんじを えらんでください。
 
-1. 金曜日
-2. 日本
-3. 色んな
-4. 聞く
+1. 世界
+2. 小鳥
+3. 地理
+4. 教会
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q65
 
-「私」と おなじ いみの ことばを えらんでください。
+「入る」と おなじ いみの ことばを えらんでください。
 
-1. oneself
-2. I, me
-3. you
-4. he, him (boyfriend - more advanced sense)
+1. to know (Group 1 exception - looks like Group 2)
+2. (respectful) to be
+3. to enter (Group 1 exception - looks like Group 2)
+4. to open
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q66
 
-「私たち」と おなじ いみの ことばを えらんでください。
+「かえる」と おなじ いみの ことばを えらんでください。
 
-1. she, her (girlfriend - more advanced sense)
-2. he, him (boyfriend - more advanced sense)
-3. we
-4. oneself
-
-**Answer: 3**
-
-### Q67
-
-「あなた」と おなじ いみの ことばを えらんでください。
-
-1. we
-2. she, her (girlfriend - more advanced sense)
-3. you
-4. I, me
-
-**Answer: 3**
-
-### Q68
-
-「かれ」と おなじ いみの ことばを えらんでください。
-
-1. oneself
-2. you
-3. he, him (boyfriend - more advanced sense)
-4. she, her (girlfriend - more advanced sense)
-
-**Answer: 3**
-
-### Q69
-
-「かのじょ」と おなじ いみの ことばを えらんでください。
-
-1. he, him (boyfriend - more advanced sense)
-2. she, her (girlfriend - more advanced sense)
-3. we
-4. I, me
-
-**Answer: 2**
-
-### Q70
-
-「かた」と おなじ いみの ことばを えらんでください。
-
-1. older sister (own)
-2. grandfather (own)
-3. person (polite)
-4. student
-
-**Answer: 3**
-
-### Q71
-
-「人」と おなじ いみの ことばを えらんでください。
-
-1. person
-2. grandfather (own)
-3. older sister (own)
-4. man
+1. to return home (Group 1 exception - looks like Group 2)
+2. to wake
+3. to copy or photograph
+4. to gather
 
 **Answer: 1**
 
+### Q67
+
+「はしる」と おなじ いみの ことばを えらんでください。
+
+1. to run (Group 1 exception - looks like Group 2)
+2. to need (Group 1 exception - looks like Group 2
+3. to get down
+4. to rise
+
+**Answer: 1**
+
+### Q68
+
+「しる」と おなじ いみの ことばを えらんでください。
+
+1. to cut (Group 1 exception - looks like Group 2
+2. to send
+3. to copy or photograph
+4. to know (Group 1 exception - looks like Group 2)
+
+**Answer: 4**
+
+### Q69
+
+「きる」と おなじ いみの ことばを えらんでください。
+
+1. to cut (Group 1 exception - looks like Group 2
+2. to add (numbers)
+3. to be found
+4. to perform
+
+**Answer: 1**
+
+### Q70
+
+「いる」と おなじ いみの ことばを えらんでください。
+
+1. to wake
+2. to need (Group 1 exception - looks like Group 2
+3. to be hungry
+4. (respectful) to be
+
+**Answer: 2**
+
+### Q71
+
+「ああ」と おなじ いみの ことばを えらんでください。
+
+1. as much as possible
+2. these days
+3. clearly
+4. ah
+
+**Answer: 4**
+
 ### Q72
 
-「みなさん」と おなじ いみの ことばを えらんでください。
+「アフリカ」と おなじ いみの ことばを えらんでください。
 
-1. boy
-2. aunt, middle-aged woman
-3. pupil, schoolchild
-4. everyone (polite)
+1. gasoline
+2. suffix for familiar female person
+3. university student
+4. Africa
 
 **Answer: 4**
 
 ### Q73
 
-「だれ」と おなじ いみの ことばを えらんでください。
+「上がる」と おなじ いみの ことばを えらんでください。
 
-1. what month
-2. what time
-3. who
-4. how many, how old
+1. to be found
+2. to need (Group 1 exception - looks like Group 2
+3. to add (numbers)
+4. to rise
 
-**Answer: 3**
+**Answer: 4**
 
 ### Q74
 
-「どなた」と おなじ いみの ことばを えらんでください。
+「味」と おなじ いみの ことばを えらんでください。
 
-1. when
-2. who (polite)
-3. what month
-4. what time
+1. baby
+2. announcer
+3. to check
+4. flavor
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q75
 
-「じぶん」と おなじ いみの ことばを えらんでください。
+「アジア」と おなじ いみの ことばを えらんでください。
 
-1. he, him (boyfriend - more advanced sense)
-2. I, me
-3. you
-4. oneself
+1. Asia
+2. rubbish
+3. energy
+4. junior high school
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q76
 
-「かぞく」と おなじ いみの ことばを えらんでください。
+「赤ちゃん」と おなじ いみの ことばを えらんでください。
 
-1. friend
-2. person
-3. family
-4. aunt, middle-aged woman
+1. baby
+2. Asia
+3. accessory
+4. energy
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q77
 
-「父」と おなじ いみの ことばを えらんでください。
+「アクセサリー」と おなじ いみの ことばを えらんでください。
 
-1. father (own)
-2. family
-3. older brother (polite)
-4. father (someone else's / address form)
+1. Asia
+2. accessory
+3. building
+4. geography
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q78
 
-「母」と おなじ いみの ことばを えらんでください。
+「アメリカ」と おなじ いみの ことばを えらんでください。
 
-1. person (polite)
-2. mother (own)
-3. grandfather (own)
-4. siblings
-
-**Answer: 2**
-
-### Q79
-
-「お父さん」と おなじ いみの ことばを えらんでください。
-
-1. father (someone else's / address form)
-2. pupil, schoolchild
-3. parents
-4. father (own)
-
-**Answer: 1**
-
-### Q80
-
-「お母さん」と おなじ いみの ことばを えらんでください。
-
-1. younger sister
-2. mother (someone else's / address form)
-3. uncle, middle-aged man
-4. parents
-
-**Answer: 2**
-
-### Q81
-
-「あに」と おなじ いみの ことばを えらんでください。
-
-1. older brother (own)
-2. everyone (polite)
-3. child (often written こども in everyday text)
-4. father (own)
-
-**Answer: 1**
-
-### Q82
-
-「あね」と おなじ いみの ことばを えらんでください。
-
-1. older sister (own)
-2. adult
-3. grandmother (own)
-4. girl
-
-**Answer: 1**
-
-### Q83
-
-「おとうと」と おなじ いみの ことばを えらんでください。
-
-1. older sister (polite)
-2. younger sister
-3. friend
-4. younger brother
-
-**Answer: 4**
-
-### Q84
-
-「いもうと」と おなじ いみの ことばを えらんでください。
-
-1. siblings
-2. friend
-3. younger sister
-4. older sister (own)
+1. your husband
+2. baby
+3. America
+4. part-time job
 
 **Answer: 3**
 
+### Q79
+
+「アナウンサー」と おなじ いみの ことばを えらんでください。
+
+1. grapes
+2. announcer
+3. gasoline
+4. Asia
+
+**Answer: 2**
+
+### Q80
+
+「あんな」と おなじ いみの ことばを えらんでください。
+
+1. that sort of
+2. (option-4)
+3. various
+4. such
+
+**Answer: 4**
+
+### Q81
+
+「安心」と おなじ いみの ことばを えらんでください。
+
+1. special
+2. important
+3. peace of mind
+4. kindness
+
+**Answer: 3**
+
+### Q82
+
+「アルバイト」と おなじ いみの ことばを えらんでください。
+
+1. suffix for familiar female person
+2. America
+3. part-time job
+4. junior high school
+
+**Answer: 3**
+
+### Q83
+
+「アルバイトする」と おなじ いみの ことばを えらんでください。
+
+1. to examination
+2. to pronunciation
+3. to part-time job
+4. to plan
+
+**Answer: 3**
+
+### Q84
+
+「アルコール」と おなじ いみの ことばを えらんでください。
+
+1. a glass
+2. alcohol
+3. petrol station
+4. suffix for familiar female person
+
+**Answer: 2**
+
 ### Q85
 
-「おにいさん」と おなじ いみの ことばを えらんでください。
+「集まる」と おなじ いみの ことばを えらんでください。
 
-1. grandfather, elderly man
-2. older brother (polite)
-3. person
-4. student
+1. to add (numbers)
+2. to gather
+3. to send
+4. to go through
 
 **Answer: 2**
 
 ### Q86
 
-「おねえさん」と おなじ いみの ことばを えらんでください。
+「集める」と おなじ いみの ことばを えらんでください。
 
-1. older brother (polite)
-2. adult
-3. older sister (polite)
-4. child (often written こども in everyday text)
+1. to lower
+2. to collect
+3. to be seen
+4. to be sufficient
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q87
 
-「きょうだい」と おなじ いみの ことばを えらんでください。
+「ベル」と おなじ いみの ことばを えらんでください。
 
-1. boy
-2. siblings
-3. pupil, schoolchild
-4. younger brother
+1. bell
+2. announcer
+3. geography
+4. junior high school
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q88
 
-「りょうしん」と おなじ いみの ことばを えらんでください。
+「びっくり」と おなじ いみの ことばを えらんでください。
 
-1. older sister (polite)
-2. parents
-3. woman
-4. girl
+1. as I thought
+2. this way
+3. rapidly
+4. to be surprised
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q89
 
-「そふ」と おなじ いみの ことばを えらんでください。
+「ビル」と おなじ いみの ことばを えらんでください。
 
-1. grandmother (own)
-2. grandfather (own)
-3. father (own)
-4. woman
+1. announcer
+2. building
+3. America
+4. bell
 
 **Answer: 2**
 
 ### Q90
 
-「そぼ」と おなじ いみの ことばを えらんでください。
+「ぶどう」と おなじ いみの ことばを えらんでください。
 
-1. uncle, middle-aged man
-2. grandmother (own)
-3. student
-4. mother (someone else's / address form)
+1. alcohol
+2. grapes
+3. accessory
+4. rubbish
 
 **Answer: 2**
 
 ### Q91
 
-「おじいさん」と おなじ いみの ことばを えらんでください。
+「文学」と おなじ いみの ことばを えらんでください。
 
-1. siblings
-2. grandfather, elderly man
-3. father (someone else's / address form)
-4. grandfather (own)
+1. escalator
+2. accessory
+3. literature
+4. America
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q92
 
-「おばあさん」と おなじ いみの ことばを えらんでください。
+「ちゃん」と おなじ いみの ことばを えらんでください。
 
-1. friend
-2. grandmother, elderly woman
-3. person
-4. pupil, schoolchild
+1. gasoline
+2. suffix for familiar female person
+3. literature
+4. alcohol
 
 **Answer: 2**
 
 ### Q93
 
-「おじさん」と おなじ いみの ことばを えらんでください。
+「チェック」と おなじ いみの ことばを えらんでください。
 
-1. uncle, middle-aged man
-2. father (own)
-3. grandmother, elderly woman
-4. father (someone else's / address form)
+1. to check
+2. a glass
+3. accessory
+4. a feast
 
 **Answer: 1**
 
 ### Q94
 
-「おばさん」と おなじ いみの ことばを えらんでください。
+「チェックする」と おなじ いみの ことばを えらんでください。
 
-1. everyone (polite)
-2. family
-3. aunt, middle-aged woman
-4. mother (someone else's / address form)
+1. to research
+2. to sightseeing
+3. to check
+4. to entry to school or university
 
 **Answer: 3**
 
 ### Q95
 
-「子ども」と おなじ いみの ことばを えらんでください。
+「力」と おなじ いみの ことばを えらんでください。
 
-1. grandmother (own)
-2. woman
-3. child (often written こども in everyday text)
-4. siblings
+1. Africa
+2. energy
+3. junior high school
+4. part-time job
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q96
 
-「男の子」と おなじ いみの ことばを えらんでください。
+「地理」と おなじ いみの ことばを えらんでください。
 
-1. boy
-2. younger brother
-3. person
-4. younger sister
+1. geography
+2. gasoline
+3. a feast
+4. grapes
 
 **Answer: 1**
 
 ### Q97
 
-「女の子」と おなじ いみの ことばを えらんでください。
+「中学校」と おなじ いみの ことばを えらんでください。
 
-1. older brother (polite)
-2. girl
-3. boy
-4. younger brother
+1. bell
+2. Africa
+3. announcer
+4. junior high school
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q98
 
-「男」と おなじ いみの ことばを えらんでください。
+「注意」と おなじ いみの ことばを えらんでください。
 
-1. grandfather (own)
-2. man
-3. student
-4. younger brother
+1. America
+2. flavor
+3. part-time job
+4. caution
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q99
 
-「女」と おなじ いみの ことばを えらんでください。
+「注意する」と おなじ いみの ことばを えらんでください。
 
-1. woman
-2. student
-3. father (someone else's / address form)
-4. grandfather, elderly man
-
-**Answer: 1**
-
-### Q100
-
-「大人」と おなじ いみの ことばを えらんでください。
-
-1. person
-2. grandfather, elderly man
-3. boy
-4. adult
-
-**Answer: 4**
-
-### Q101
-
-「ともだち」と おなじ いみの ことばを えらんでください。
-
-1. siblings
-2. everyone (polite)
-3. woman
-4. friend
-
-**Answer: 4**
-
-### Q102
-
-「学生」と おなじ いみの ことばを えらんでください。
-
-1. siblings
-2. student
-3. younger brother
-4. boy
+1. to pronunciation
+2. to caution
+3. to plan
+4. to research
 
 **Answer: 2**
 
-### Q103
+### Q100
 
-「せいと」と おなじ いみの ことばを えらんでください。
+「大分」と おなじ いみの ことばを えらんでください。
 
-1. grandfather (own)
-2. family
-3. father (someone else's / address form)
-4. pupil, schoolchild
+1. these days
+2. especially
+3. considerably
+4. rapidly
 
-**Answer: 4**
+**Answer: 3**
 
-### Q104
+### Q101
 
-「先生」と おなじ いみの ことばを えらんでください。
+「大学生」と おなじ いみの ことばを えらんでください。
 
-1. teacher, doctor
-2. friend
-3. older sister (own)
-4. girl
+1. university student
+2. baby
+3. alcohol
+4. roughly
 
 **Answer: 1**
 
+### Q102
+
+「大事」と おなじ いみの ことばを えらんでください。
+
+1. enough
+2. impossible
+3. important
+4. full
+
+**Answer: 3**
+
+### Q103
+
+「大体」と おなじ いみの ことばを えらんでください。
+
+1. roughly
+2. to check
+3. building
+4. junior high school
+
+**Answer: 1**
+
+### Q104
+
+「as much as possible」を あらわす ことばは どれですか。
+
+1. しっかり
+2. できるだけ
+3. すっかり
+4. やっぱり
+
+**Answer: 2**
+
 ### Q105
 
-「doctor」を あらわす ことばは どれですか。
+「rapidly」を あらわす ことばは どれですか。
 
-1. そぼ
-2. おばあさん
-3. 母
-4. いしゃ
+1. どんどん
+2. 特に
+3. 大分
+4. それほど
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q106
 
-「company employee」を あらわす ことばは どれですか。
+「escalator」を あらわす ことばは どれですか。
 
-1. いもうと
-2. 会社員
-3. ともだち
-4. 子ども
+1. アジア
+2. エスカレーター
+3. ごちそう
+4. 文学
 
 **Answer: 2**
 
 ### Q107
 
-「station staff」を あらわす ことばは どれですか。
+「fax」を あらわす ことばは どれですか。
 
-1. りょうしん
-2. 駅員
-3. そぼ
-4. おじいさん
-
-**Answer: 2**
-
-### Q108
-
-「shop clerk」を あらわす ことばは どれですか。
-
-1. おばあさん
-2. そふ
-3. 男の子
-4. 店員
+1. ガソリンスタンド
+2. ごちそう
+3. 花見
+4. ファックス
 
 **Answer: 4**
 
-### Q109
+### Q108
 
-「police officer」を あらわす ことばは どれですか。
+「to fax」を あらわす ことばは どれですか。
 
-1. あに
-2. けいかん
-3. ともだち
-4. おばあさん
+1. 花見する
+2. ファックスする
+3. 研究する
+4. アルバイトする
 
 **Answer: 2**
 
+### Q109
+
+「a glass」を あらわす ことばは どれですか。
+
+1. アナウンサー
+2. アフリカ
+3. 赤ちゃん
+4. ガラス
+
+**Answer: 4**
+
 ### Q110
 
-「police officer (friendly)」を あらわす ことばは どれですか。
+「gasoline」を あらわす ことばは どれですか。
 
-1. 男の子
-2. かた
-3. おねえさん
-4. おまわりさん
+1. ちゃん
+2. 大学生
+3. ビル
+4. ガソリン
 
 **Answer: 4**
 
 ### Q111
 
-「international student」を あらわす ことばは どれですか。
+「petrol station」を あらわす ことばは どれですか。
 
-1. おにいさん
-2. 父
-3. りゅうがくせい
-4. 大人
+1. ガソリンスタンド
+2. アフリカ
+3. アジア
+4. 地理
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q112
 
-「foreigner」を あらわす ことばは どれですか。
+「petrol」を あらわす ことばは どれですか。
 
-1. お父さん
-2. 外国人
-3. 学生
-4. ともだち
+1. アフリカ
+2. ガス
+3. ファックス
+4. 注意
 
 **Answer: 2**
 
 ### Q113
 
-「body」を あらわす ことばは どれですか。
+「a feast」を あらわす ことばは どれですか。
 
-1. 人
-2. 子ども
-3. りょうしん
-4. からだ
-
-**Answer: 4**
-
-### Q114
-
-「head」を あらわす ことばは どれですか。
-
-1. おねえさん
-2. 母
-3. あたま
-4. おにいさん
-
-**Answer: 3**
-
-### Q115
-
-「face」を あらわす ことばは どれですか。
-
-1. 女
-2. 父
-3. かお
-4. おにいさん
-
-**Answer: 3**
-
-### Q116
-
-「eye」を あらわす ことばは どれですか。
-
-1. お父さん
-2. かた
-3. め
-4. あに
-
-**Answer: 3**
-
-### Q117
-
-「ear」を あらわす ことばは どれですか。
-
-1. みみ
-2. おじさん
-3. おばさん
-4. かた
+1. ごちそう
+2. ごみ
+3. ファックス
+4. 中学校
 
 **Answer: 1**
 
+### Q114
+
+「to a feast」を あらわす ことばは どれですか。
+
+1. 試験する
+2. 会話する
+3. 見物する
+4. ごちそうする
+
+**Answer: 4**
+
+### Q115
+
+「rubbish」を あらわす ことばは どれですか。
+
+1. 注意
+2. アルコール
+3. 味
+4. ごみ
+
+**Answer: 4**
+
+### Q116
+
+「your husband」を あらわす ことばは どれですか。
+
+1. ご主人
+2. アルコール
+3. 花見
+4. アナウンサー
+
+**Answer: 1**
+
+### Q117
+
+「clearly」を あらわす ことばは どれですか。
+
+1. どんどん
+2. はっきり
+3. びっくり
+4. それほど
+
+**Answer: 2**
+
 ### Q118
 
-「nose」を あらわす ことばは どれですか。
+「to carry」を あらわす ことばは どれですか。
 
-1. ともだち
-2. はな
-3. きょうだい
-4. 人
+1. 上がる
+2. 運ぶ
+3. 無くなる
+4. はしる
 
 **Answer: 2**
 
 ### Q119
 
-「mouth」を あらわす ことばは どれですか。
+「cherry blossom viewing」を あらわす ことばは どれですか。
 
-1. 学生
-2. 子ども
-3. おじさん
-4. くち
+1. 花見
+2. ガス
+3. ごちそう
+4. ガラス
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q120
 
-「tooth」を あらわす ことばは どれですか。
+「to cherry blossom viewing」を あらわす ことばは どれですか。
 
-1. 母
-2. は
-3. 男
-4. おじいさん
+1. 注意する
+2. 用意する
+3. 会話する
+4. 花見する
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q121
 
-「hand」を あらわす ことばは どれですか。
+「handbag」を あらわす ことばは どれですか。
 
-1. あね
-2. かぞく
-3. て
-4. そぼ
+1. ビル
+2. ご主人
+3. 大体
+4. ハンドバッグ
 
-**Answer: 3**
+**Answer: 4**
 
 ### Q122
 
-「leg, foot」を あらわす ことばは どれですか。
+「pronunciation」を あらわす ことばは どれですか。
 
-1. お父さん
-2. あし
-3. みなさん
-4. 母
+1. アクセサリー
+2. 発音
+3. ご主人
+4. ビル
 
 **Answer: 2**
 
 ### Q123
 
-「stomach, belly」を あらわす ことばは どれですか。
+「to pronunciation」を あらわす ことばは どれですか。
 
-1. 男
-2. おにいさん
-3. おなか
-4. いもうと
+1. 用意する
+2. 注意する
+3. 発音する
+4. 会話する
 
 **Answer: 3**
 
 ### Q124
 
-「back, height」を あらわす ことばは どれですか。
+「to enter (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。
 
-1. せ
-2. お母さん
-3. 父
-4. 大人
+1. 入る
+2. 行う
+3. 上がる
+4. 空く
 
 **Answer: 1**
 
 ### Q125
 
-「I, me」を あらわす ことばは どれですか。
+「to return home (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。
 
-1. かのじょ
-2. 私たち
-3. 私
-4. かれ
+1. 行う
+2. しる
+3. かえる
+4. 思い出す
 
 **Answer: 3**
 
 ### Q126
 
-「we」を あらわす ことばは どれですか。
+「to run (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。
 
-1. かれ
-2. あなた
-3. 私たち
-4. 私
+1. はしる
+2. 集まる
+3. 無くなる
+4. 下さる
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q127
 
-「you」を あらわす ことばは どれですか。
+「to know (Group 1 exception - looks like Group 2)」を あらわす ことばは どれですか。
 
-1. じぶん
-2. 私
-3. かのじょ
-4. あなた
+1. 動く
+2. 開く
+3. 通る
+4. しる
 
 **Answer: 4**
 
 ### Q128
 
-「he, him (boyfriend - more advanced sense)」を あらわす ことばは どれですか。
+「to cut (Group 1 exception - looks like Group 2」を あらわす ことばは どれですか。
 
-1. 私たち
-2. 私
-3. かのじょ
-4. かれ
+1. 行う
+2. かえる
+3. きる
+4. しる
 
-**Answer: 4**
+**Answer: 3**
 
 ### Q129
 
-「Polite copula / polite verb ending」を あらわす ぶんぽうは どれですか。
+「MEANING-BRIEF`」(n4-001) を あらわす ぶんぽうは どれですか。
 
-1. 〜です／〜ます
-2. から～まで
-3. nominalizer in basic use
-4. possessive / noun-modifier
+1. いらっしゃる
+2. かもしれない
+3. Format: `PATTERN
+4. ではないか
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q130
 
-「Topic marker - introduces what the sentence is about (already-known information)」を あらわす ぶんぽうは どれですか。
+「while」(n4-002) を あらわす ぶんぽうは どれですか。
 
-1. か
-2. で
-3. に
-4. は
+1. かい
+2. 間（あいだ）
+3. かな
+4. 出す（だす）
 
-**Answer: 4**
+**Answer: 2**
 
 ### Q131
 
-「Subject marker - marks new information, focus, or the subject of certain stative verbs/adjectives」を あらわす ぶんぽうは どれですか。
+「while」(n4-003) を あらわす ぶんぽうは どれですか。
 
-1. が
-2. だけ
-3. と
-4. は
+1. ば
+2. 間に（あいだに）
+3. いたします
+4. がり
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q132
 
-「Direct object marker - marks the noun receiving the action of a transitive verb」を あらわす ぶんぽうは どれですか。
+「not very」(n4-004) を あらわす ぶんぽうは どれですか。
 
-1. を
-2. に
-3. や
-4. と
+1. 後で（あとで）
+2. あまり〜ない
+3. かしら
+4. かい
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q133
 
-「Multi-purpose: location of existence / specific time / direction-destination / indirect object (recipient)」を あらわす ぶんぽうは どれですか。
+「after」(n4-005) を あらわす ぶんぽうは どれですか。
 
-1. に
-2. から
-3. が
-4. まで
+1. かどうか
+2. がする
+3. 後で（あとで）
+4. かもしれない
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q134
 
-「Direction marker - toward (used with movement verbs)」を あらわす ぶんぽうは どれですか。
+「conditional form (if-then)」(n4-006) を あらわす ぶんぽうは どれですか。
 
-1. や
-2. へ
-3. が
-4. も
+1. 間（あいだ）
+2. ば
+3. いたします
+4. はずがない
 
 **Answer: 2**
 
 ### Q135
 
-「Location of action / means / instrument - where action takes place, by what means, with what tool」を あらわす ぶんぽうは どれですか。
+「in the event of」(n4-007) を あらわす ぶんぽうは どれですか。
 
-1. が
-2. で
-3. か
-4. と
+1. ひつようがある
+2. 後で（あとで）
+3. かい
+4. ばあいは
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q136
 
-「With (companion) / and (exhaustive listing) / quotation marker」を あらわす ぶんぽうは どれですか。
+「only」(n4-008) を あらわす ぶんぽうは どれですか。
 
-1. を
-2. と
-3. ね
-4. から
+1. でも
+2. まで
+3. ばかり
+4. ごろ
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q137
 
-「From (starting point in time / place) / because (reason)」を あらわす ぶんぽうは どれですか。
+「just by」(n4-009) を あらわす ぶんぽうは どれですか。
 
-1. も
-2. から
-3. で
-4. だけ
+1. だけで
+2. がる / がっている
+3. かい
+4. ば
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q138
 
-「Until / up to (a point in time or place)」を あらわす ぶんぽうは どれですか。
+「to begin to」(n4-010) を あらわす ぶんぽうは どれですか。
 
-1. から
-2. か
-3. まで
-4. が
+1. がる / がっている
+2. きっと
+3. 出す（だす）
+4. かしら
 
 **Answer: 3**
 
 ### Q139
 
-「And - non-exhaustive listing (these and others)」を あらわす ぶんぽうは どれですか。
+「to be (honorific)」(n4-011) を あらわす ぶんぽうは どれですか。
 
-1. で
-2. や
-3. よ
-4. だけ
+1. でございます
+2. 後で（あとで）
+3. かどうか
+4. 間（あいだ）
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q140
 
-「Also / too / even (with negation: 'not even / no one / nothing')」を あらわす ぶんぽうは どれですか。
+「or something」(n4-012) を あらわす ぶんぽうは どれですか。
 
-1. ね
-2. は
-3. を
-4. も
+1. や
+2. まで
+3. ばかり
+4. でも
 
 **Answer: 4**
 
 ### Q141
 
-「Pronouns: this / that-near-listener / that-far / which-one (standalone, no noun follows)」を あらわす ぶんぽうは どれですか。
+「right?」(n4-013) を あらわす ぶんぽうは どれですか。
 
-1. 〜の
-2. これ／それ／あれ／どれ
-3. しか～ない
-4. ぐらい / くらい
+1. じゃないか
+2. だけで
+3. かどうか
+4. ではないか
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q142
 
-「Adjective form: this / that / which + Noun (always followed by a noun)」を あらわす ぶんぽうは どれですか。
+「to smell」(n4-014) を あらわす ぶんぽうは どれですか。
 
-1. ここ／そこ／あそこ／どこ
-2. この／その／あの／どの ＋ N (noun)
-3. から～まで
-4. nominalizer in basic use
+1. がする
+2. 出す（だす）
+3. Format: `PATTERN
+4. 後で（あとで）
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q143
 
-「Location words: here / there-near-listener / over-there / where」を あらわす ぶんぽうは どれですか。
+「personality/tendency」(n4-015) を あらわす ぶんぽうは どれですか。
 
-1. なに／なん
-2. から～まで
-3. 〜の
-4. ここ／そこ／あそこ／どこ
+1. から作る
+2. かい
+3. かな
+4. がり
 
 **Answer: 4**
 
 ### Q144
 
-「What - pronounced なに or なん depending on what follows」を あらわす ぶんぽうは どれですか。
+「to show signs of」(n4-016) を あらわす ぶんぽうは どれですか。
 
-1. possessive / noun-modifier
-2. なに／なん
-3. いつ
-4. ぐらい / くらい
+1. がる / がっている
+2. ば
+3. がり
+4. ばあいは
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q145
 
-「Who - だれ casual」を あらわす ぶんぽうは どれですか。
+「to be」(n4-017) を あらわす ぶんぽうは どれですか。
 
-1. だれ／どなた
-2. しか～ない
-3. ここ／そこ／あそこ／どこ
-4. よね
+1. ではないか
+2. かな
+3. ございます
+4. 出す（だす）
 
-**Answer: 1**
+**Answer: 3**
 
 ### Q146
 
-「When - pairs with から / まで / ごろ for richer time questions」を あらわす ぶんぽうは どれですか。
+「to start」(n4-018) を あらわす ぶんぽうは どれですか。
 
-1. しか～ない
-2. いつ
-3. よね
-4. なに／なん
+1. がる / がっている
+2. かもしれない
+3. 始める（はじめる）
+4. はずだ
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q147
 
-「から ～ まで - from X to Y (paired range marker)」を あらわす ぶんぽうは どれですか。
+「it must be」(n4-019) を あらわす ぶんぽうは どれですか。
 
-1. から～まで
-2. いつ
-3. よね
-4. nominalizer in basic use
+1. がる / がっている
+2. かな
+3. ではないか
+4. はずだ
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q148
 
-「Sentence-final question marker」を あらわす ぶんぽうは どれですか。
+「cannot be (impossible)」(n4-020) を あらわす ぶんぽうは どれですか。
 
-1. と
-2. で
-3. か
-4. に
+1. はずがない
+2. ひつようがある
+3. かもしれない
+4. 出す（だす）
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q149
 
-「Or (between alternatives)」を あらわす ぶんぽうは どれですか。
+「need to」(n4-021) を あらわす ぶんぽうは どれですか。
 
-1. から
-2. か
-3. よ
-4. ごろ
+1. だけで
+2. 間に（あいだに）
+3. ひつようがある
+4. かどうか
 
-**Answer: 2**
+**Answer: 3**
 
 ### Q150
 
-「ね - sentence-final confirmation / agreement particle」を あらわす ぶんぽうは どれですか。
+「to be」(n4-022) を あらわす ぶんぽうは どれですか。
 
-1. だけ
-2. よ
-3. ね
-4. か
+1. かどうか
+2. だけで
+3. 間に（あいだに）
+4. いらっしゃる
 
-**Answer: 3**
+**Answer: 4**
 
 ### Q151
 
-「よ - sentence-final assertion / new-information particle」を あらわす ぶんぽうは どれですか。
+「to do (polite form)」(n4-023) を あらわす ぶんぽうは どれですか。
 
-1. まで
-2. は
-3. よ
-4. も
+1. がり
+2. いたします
+3. Format: `PATTERN
+4. いらっしゃる
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q152
 
-「よね - combined: assertion + seeking agreement ("...right?")」を あらわす ぶんぽうは どれですか。
+「right?」(n4-024) を あらわす ぶんぽうは どれですか。
 
-1. ～の
-2. よね
-3. だれ／どなた
-4. nominalizer in basic use
+1. じゃないか
+2. 間（あいだ）
+3. かもしれない
+4. がする
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q153
 
-「～の (possessive / noun-modifier)」を あらわす ぶんぽうは どれですか。
+「whether or not」(n4-025) を あらわす ぶんぽうは どれですか。
 
-1. なに／なん
-2. ここ／そこ／あそこ／どこ
-3. この／その／あの／どの ＋ N (noun)
-4. ～の
+1. かどうか
+2. いたします
+3. ばあいは
+4. ございます
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q154
 
-「Possessive / noun-modifier」を あらわす ぶんぽうは どれですか。
+「I wonder (feminine)」(n4-026) を あらわす ぶんぽうは どれですか。
 
-1. だれ／どなた
-2. ～の
-3. possessive / noun-modifier
-4. 〜の
+1. ひつようがある
+2. かしら
+3. から作る
+4. 出す（だす）
 
-**Answer: 3**
+**Answer: 2**
 
 ### Q155
 
-「～の (nominalizer - turns a verb/adj clause into a noun)」を あらわす ぶんぽうは どれですか。
+「turns sentence into yes/no question」(n4-027) を あらわす ぶんぽうは どれですか。
 
-1. 〜の
-2. よね
-3. この／その／あの／どの ＋ N (noun)
-4. nominalizer in basic use
+1. かい
+2. ではないか
+3. いらっしゃる
+4. Format: `PATTERN
 
-**Answer: 4**
+**Answer: 1**
 
 ### Q156
 
-「Sentence-final の as informal question marker (plain-form + の?)」を あらわす ぶんぽうは どれですか。
+「might」(n4-028) を あらわす ぶんぽうは どれですか。
 
-1. これ／それ／あれ／どれ
-2. 〜の
-3. だれ／どなた
-4. しか～ない
+1. かもしれない
+2. 後で（あとで）
+3. じゃないか
+4. がる / がっている
 
-**Answer: 2**
+**Answer: 1**
 
 ### Q157
 
-「だけ - only / just (limiting particle)」を あらわす ぶんぽうは どれですか。
+「I wonder」(n4-029) を あらわす ぶんぽうは どれですか。
 
-1. と
-2. だけ
-3. は
-4. よ
+1. かい
+2. ば
+3. じゃないか
+4. かな
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q158
 
-「しか〜ない - only (with negative verb)」を あらわす ぶんぽうは どれですか。
+「made from」(n4-030) を あらわす ぶんぽうは どれですか。
 
-1. から～まで
-2. ～の
-3. possessive / noun-modifier
-4. しか～ない
+1. ではないか
+2. はずだ
+3. がり
+4. から作る
 
 **Answer: 4**
 
 ### Q159
 
-「ぐらい / くらい - about, approximately (used with quantities)」を あらわす ぶんぽうは どれですか。
+「surely」(n4-031) を あらわす ぶんぽうは どれですか。
 
-1. だれ／どなた
-2. nominalizer in basic use
-3. この／その／あの／どの ＋ N (noun)
-4. ぐらい / くらい
+1. でございます
+2. いらっしゃる
+3. だけで
+4. きっと
 
 **Answer: 4**
 
 ### Q160
 
-「ごろ - around, approximately (used with time points)」を あらわす ぶんぽうは どれですか。
+「around」(n4-032) を あらわす ぶんぽうは どれですか。
 
-1. ごろ
-2. も
-3. か
-4. は
+1. ころ
+2. がり
+3. あまり〜ない
+4. はずだ
 
 **Answer: 1**
 
 ### Q161
 
-「など - etc. (and so on)」を あらわす ぶんぽうは どれですか。
+「verb nominalizer」(n4-033) を あらわす ぶんぽうは どれですか。
 
-1. から
-2. か
-3. など
-4. は
-
-**Answer: 3**
-
-### Q162
-
-「ずつ - each / per (distributive amount)」を あらわす ぶんぽうは どれですか。
-
-1. 〜です／〜ます
-2. よね
-3. possessive / noun-modifier
-4. ずつ
+1. 間に（あいだに）
+2. ひつようがある
+3. でございます
+4. こと
 
 **Answer: 4**
 
+### Q162
+
+「there are times when」(n4-034) を あらわす ぶんぽうは どれですか。
+
+1. がり
+2. ことがある
+3. Format: `PATTERN
+4. 後で（あとで）
+
+**Answer: 2**
+
 ### Q163
 
-「Pronouns: this / that / which one」を あらわす ぶんぽうは どれですか。
+「can」(n4-035) を あらわす ぶんぽうは どれですか。
 
-1. この／その／あの／どの ＋ N (noun)
-2. 〜です／〜ます
-3. これ / それ / あれ / どれ
-4. これ／それ／あれ／どれ
+1. ことができる
+2. でございます
+3. Format: `PATTERN
+4. あまり〜ない
 
-**Answer: 3**
+**Answer: 1**
 
 ### Q164
 
-「Adjectival demonstratives + noun」を あらわす ぶんぽうは どれですか。
+「it has been decided」(n4-036) を あらわす ぶんぽうは どれですか。
 
-1. この / その / あの / どの + Noun
-2. 〜の
-3. いつ
-4. だれ／どなた
+1. ことになる
+2. Format: `PATTERN
+3. がる / がっている
+4. ばあいは
 
 **Answer: 1**
 
 ### Q165
 
-「Location words」を あらわす ぶんぽうは どれですか。
+「to decide on」(n4-037) を あらわす ぶんぽうは どれですか。
 
-1. なに／なん
-2. ここ / そこ / あそこ / どこ
-3. これ／それ／あれ／どれ
-4. 〜の
+1. 始める（はじめる）
+2. ことにする
+3. あまり〜ない
+4. でございます
 
 **Answer: 2**
 
 ### Q166
 
-「こちら / そちら / あちら / どちら - polite directions / options」を あらわす ぶんぽうは どれですか。
+「to make something」(n4-038) を あらわす ぶんぽうは どれですか。
 
-1. こちら / そちら / あちら / どちら
-2. から～まで
-3. 〜です／〜ます
-4. nominalizer in basic use
+1. から作る
+2. いらっしゃる
+3. ばあいは
+4. くする
 
-**Answer: 1**
+**Answer: 4**
 
 ### Q167
 
-「こんな / そんな / あんな / どんな + Noun - 'this/that kind of'」を あらわす ぶんぽうは どれですか。
+「quickly」(n4-039) を あらわす ぶんぽうは どれですか。
 
-1. ここ／そこ／あそこ／どこ
-2. いつ
-3. よね
-4. こんな / そんな / あんな / どんな + Noun
-
-**Answer: 4**
-
-### Q168
-
-「こう / そう / ああ / どう - 'this way / that way / how'」を あらわす ぶんぽうは どれですか。
-
-1. これ／それ／あれ／どれ
-2. この／その／あの／どの ＋ N (noun)
-3. なに／なん
-4. こう / そう / ああ / どう
-
-**Answer: 4**
-
-### Q169
-
-「What」を あらわす ぶんぽうは どれですか。
-
-1. なに／なん
-2. なん / なに
-3. この／その／あの／どの ＋ N (noun)
-4. possessive / noun-modifier
+1. かもしれない
+2. 急に（きゅうに）
+3. いらっしゃる
+4. いたします
 
 **Answer: 2**
 
+### Q168
+
+「by」(n4-040) を あらわす ぶんぽうは どれですか。
+
+1. いたします
+2. かどうか
+3. までに
+4. から作る
+
+**Answer: 3**
+
+### Q169
+
+「as it is」(n4-041) を あらわす ぶんぽうは どれですか。
+
+1. まま
+2. じゃないか
+3. だけで
+4. かもしれない
+
+**Answer: 1**
+
 ### Q170
 
-「Who」を あらわす ぶんぽうは どれですか。
+「both」(n4-042) を あらわす ぶんぽうは どれですか。
 
-1. しか～ない
-2. 〜です／〜ます
-3. 〜の
-4. だれ / どなた
+1. いらっしゃる
+2. ば
+3. 間に（あいだに）
+4. または
 
 **Answer: 4**
 
 ### Q171
 
-「Where (covered by ここ-series)」を あらわす ぶんぽうは どれですか。
+「like」(n4-043) を あらわす ぶんぽうは どれですか。
 
-1. ～の
-2. どこ
-3. 〜の
-4. possessive / noun-modifier
+1. あまり〜ない
+2. みたいだ
+3. いらっしゃる
+4. ひつようがある
 
 **Answer: 2**
 
 ### Q172
 
-「どれ / どの / どちら - 'which' (selection from options)」を あらわす ぶんぽうは どれですか。
+「like, similar to」(n4-044) を あらわす ぶんぽうは どれですか。
 
-1. どれ / どの / どちら
-2. これ／それ／あれ／どれ
-3. 〜です／〜ます
-4. しか～ない
+1. がする
+2. みたいな
+3. いらっしゃる
+4. でございます
 
-**Answer: 1**
+**Answer: 2**
 
 ### Q173
 
-「どう / いかが - 'how / how about' (state, opinion, polite offer)」を あらわす ぶんぽうは どれですか。
+「like」(n4-045) を あらわす ぶんぽうは どれですか。
 
-1. 〜です／〜ます
-2. なに／なん
-3. いつ
-4. どう / いかが
-
-**Answer: 4**
-
-### Q174
-
-「どうして / なぜ - 'why'」を あらわす ぶんぽうは どれですか。
-
-1. だれ／どなた
-2. どうして / なぜ
-3. これ／それ／あれ／どれ
-4. 〜の
-
-**Answer: 2**
-
-### Q175
-
-「どうやって - 'how / by what means'」を あらわす ぶんぽうは どれですか。
-
-1. 〜です／〜ます
-2. どうやって
-3. いつ
-4. ～の
-
-**Answer: 2**
-
-### Q176
-
-「いくら - 'how much' (price)」を あらわす ぶんぽうは どれですか。
-
-1. から～まで
-2. この／その／あの／どの ＋ N (noun)
-3. いくら
-4. possessive / noun-modifier
+1. でございます
+2. から作る
+3. みたいに
+4. ひつようがある
 
 **Answer: 3**
 
+### Q174
+
+「as many as」(n4-046) を あらわす ぶんぽうは どれですか。
+
+1. も
+2. でも
+3. が
+4. ばかり
+
+**Answer: 1**
+
+### Q175
+
+「don't ~ (order somebody to not do something)」(n4-047) を あらわす ぶんぽうは どれですか。
+
+1. ではないか
+2. ば
+3. な
+4. がり
+
+**Answer: 3**
+
+### Q176
+
+「such as」(n4-048) を あらわす ぶんぽうは どれですか。
+
+1. でも
+2. まで
+3. ばかり
+4. など
+
+**Answer: 4**
+
 ### Q177
 
-「いくつ - 'how many' (general counter / age)」を あらわす ぶんぽうは どれですか。
+「while」(n4-049) を あらわす ぶんぽうは どれですか。
 
-1. これ／それ／あれ／どれ
-2. ここ／そこ／あそこ／どこ
-3. しか～ない
-4. いくつ
+1. 出す（だす）
+2. Format: `PATTERN
+3. はずだ
+4. ながら
 
 **Answer: 4**
 
 ### Q178
 
-「なんじ - 'what time'」を あらわす ぶんぽうは どれですか。
+「not easy to」(n4-050) を あらわす ぶんぽうは どれですか。
 
-1. この／その／あの／どの ＋ N (noun)
-2. なんじ
-3. しか～ない
-4. なに／なん
+1. かい
+2. Format: `PATTERN
+3. かな
+4. なかなか〜ない
 
-**Answer: 2**
+**Answer: 4**
 
 ### Q179
 
-「なんようび - 'what day of the week'」を あらわす ぶんぽうは どれですか。
+「must do something」(n4-051) を あらわす ぶんぽうは どれですか。
 
-1. なに／なん
-2. なんようび
-3. これ／それ／あれ／どれ
-4. しか～ない
-
-**Answer: 2**
-
-### Q180
-
-「なんがつ / なんにち - 'what month / what day'」を あらわす ぶんぽうは どれですか。
-
-1. なに／なん
-2. ここ／そこ／あそこ／どこ
-3. なんがつ なんにち
-4. だれ／どなた
-
-**Answer: 3**
-
-### Q181
-
-「Polite non-past affirmative verb ending」を あらわす ぶんぽうは どれですか。
-
-1. ～の
-2. Verb-ます
-3. この／その／あの／どの ＋ N (noun)
-4. これ／それ／あれ／どれ
-
-**Answer: 2**
-
-### Q182
-
-「Polite non-past negative verb ending」を あらわす ぶんぽうは どれですか。
-
-1. なに／なん
-2. よね
-3. Verb-ません
-4. nominalizer in basic use
-
-**Answer: 3**
-
-### Q183
-
-「Polite past affirmative verb ending」を あらわす ぶんぽうは どれですか。
-
-1. Verb-ました
-2. これ／それ／あれ／どれ
-3. ここ／そこ／あそこ／どこ
-4. possessive / noun-modifier
+1. なければいけない
+2. いたします
+3. かどうか
+4. かもしれない
 
 **Answer: 1**
 
-### Q184
+### Q180
 
-「Polite past negative verb ending」を あらわす ぶんぽうは どれですか。
+「must do something」(n4-052) を あらわす ぶんぽうは どれですか。
 
-1. ここ／そこ／あそこ／どこ
-2. Verb-ませんでした
-3. 〜の
-4. この／その／あの／どの ＋ N (noun)
+1. から作る
+2. なければならない
+3. ば
+4. かもしれない
 
 **Answer: 2**
 
+### Q181
+
+「if」(n4-053) を あらわす ぶんぽうは どれですか。
+
+1. かもしれない
+2. でございます
+3. なら
+4. いらっしゃる
+
+**Answer: 3**
+
+### Q182
+
+「do this (soft/firm command)」(n4-054) を あらわす ぶんぽうは どれですか。
+
+1. ございます
+2. かしら
+3. ではないか
+4. なさい
+
+**Answer: 4**
+
+### Q183
+
+「to do (honorific)」(n4-055) を あらわす ぶんぽうは どれですか。
+
+1. 間（あいだ）
+2. 後で（あとで）
+3. だけで
+4. なさる
+
+**Answer: 4**
+
+### Q184
+
+「to notice」(n4-056) を あらわす ぶんぽうは どれですか。
+
+1. から作る
+2. いらっしゃる
+3. ばあいは
+4. に気がつく（にきがつく）
+
+**Answer: 4**
+
 ### Q185
 
-「Let's / shall we (volitional / suggestion)」を あらわす ぶんぽうは どれですか。
+「to look」(n4-057) を あらわす ぶんぽうは どれですか。
 
-1. Verb-ましょう
-2. ここ／そこ／あそこ／どこ
-3. ～の
-4. 〜です／〜ます
+1. に見える（にみえる）
+2. いたします
+3. かどうか
+4. ではないか
 
 **Answer: 1**
 
 ### Q186
 
-「Verb-ましょうか - 'shall I / shall we (offer/suggestion)?'」を あらわす ぶんぽうは どれですか。
+「to make something」(n4-058) を あらわす ぶんぽうは どれですか。
 
-1. から～まで
-2. この／その／あの／どの ＋ N (noun)
-3. Verb-ましょうか
-4. ～の
-
-**Answer: 3**
-
-### Q187
-
-「Won't you...? (polite invitation)」を あらわす ぶんぽうは どれですか。
-
-1. Verb-ませんか
-2. だれ／どなた
-3. これ／それ／あれ／どれ
-4. から～まで
-
-**Answer: 1**
-
-### Q188
-
-「Plain (dictionary) form - non-past affirmative, casual / written」を あらわす ぶんぽうは どれですか。
-
-1. 〜の
-2. Verb-る / Verb-う
-3. なに／なん
-4. から～まで
+1. ひつようがある
+2. にする
+3. かどうか
+4. いたします
 
 **Answer: 2**
 
+### Q187
+
+「difficult to do」(n4-059) を あらわす ぶんぽうは どれですか。
+
+1. いたします
+2. 間に（あいだに）
+3. にくい
+4. 後で（あとで）
+
+**Answer: 3**
+
+### Q188
+
+「in」(n4-060) を あらわす ぶんぽうは どれですか。
+
+1. の中で（のなかで）
+2. あまり〜ない
+3. いたします
+4. はずがない
+
+**Answer: 1**
+
 ### Q189
 
-「Plain non-past negative」を あらわす ぶんぽうは どれですか。
+「although, in spite of, even though」(n4-061) を あらわす ぶんぽうは どれですか。
 
-1. Verb-ない
-2. だれ／どなた
-3. ～の
-4. nominalizer in basic use
+1. のに
+2. かしら
+3. いたします
+4. ば
 
 **Answer: 1**
 

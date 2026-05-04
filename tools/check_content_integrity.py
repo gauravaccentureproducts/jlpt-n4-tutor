@@ -160,9 +160,21 @@ PRAGMATIC_N5_AUGMENTATION = {
 
 
 def augmented_kanji_catalog() -> set[str]:
-    """Strict catalog ∪ pragmatic N5 set. Use this for stem / correct-answer checks
-    so audit-accepted pragmatic kanji don't trip CI."""
-    return kanji_catalog() | PRAGMATIC_N5_AUGMENTATION
+    """Stem/answer scope set: catalog ∪ N5 prereq whitelist ∪ pragmatic.
+
+    Per the 2026-05-04 'no N5 repetition' refactor, kanji_n4.md only teaches
+    the 143 N4-new glyphs, but content (stems, answers, distractors) may
+    legitimately use any kanji in the project whitelist (N5 ∪ N4 = 249).
+    This function returns the broader content-scope set."""
+    out = kanji_catalog() | PRAGMATIC_N5_AUGMENTATION
+    # Add the full project whitelist (which includes N5 prereqs).
+    try:
+        wl_path = ROOT / "data" / "n4_kanji_whitelist.json"
+        if wl_path.exists():
+            out |= set(json.loads(wl_path.read_text(encoding="utf-8")))
+    except Exception:
+        pass
+    return out
 
 
 def parse_questions(md_text: str) -> list[dict]:

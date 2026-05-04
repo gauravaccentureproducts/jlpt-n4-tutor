@@ -9,54 +9,54 @@
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "「What - pronounced なに or なん depending on what follows」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to show signs of」(n4-016) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "〜です／〜ます",
-        "なに／なん",
-        "nominalizer in basic use",
-        "～の"
+        "がる / がっている",
+        "ば",
+        "から作る",
+        "かい"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q16",
       "id": "bunpou-2.1"
     },
     {
       "type": "mcq",
-      "stem_html": "「Who - だれ casual」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to be」(n4-017) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "nominalizer in basic use",
-        "だれ／どなた",
-        "ここ／そこ／あそこ／どこ",
-        "～の"
+        "かもしれない",
+        "でございます",
+        "ございます",
+        "あまり〜ない"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q17",
       "id": "bunpou-2.2"
     },
     {
       "type": "mcq",
-      "stem_html": "「When - pairs with から / まで / ごろ for richer time questions」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to start」(n4-018) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "ぐらい / くらい",
-        "〜です／〜ます",
-        "いつ",
-        "これ／それ／あれ／どれ"
+        "始める（はじめる）",
+        "がする",
+        "かな",
+        "後で（あとで）"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q18",
       "id": "bunpou-2.3"
     },
     {
       "type": "mcq",
-      "stem_html": "「から ～ まで - from X to Y (paired range marker)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「it must be」(n4-019) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "から～まで",
-        "なに／なん",
-        "いつ",
-        "〜の"
+        "はずだ",
+        "きっと",
+        "間に（あいだに）",
+        "Format: `PATTERN"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -65,26 +65,26 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「Sentence-final question marker」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「cannot be (impossible)」(n4-020) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "で",
-        "が",
-        "だけ",
-        "か"
+        "Format: `PATTERN",
+        "はずがない",
+        "かい",
+        "はずだ"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q20",
       "id": "bunpou-2.5"
     },
     {
       "type": "mcq",
-      "stem_html": "「Or (between alternatives)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「need to」(n4-021) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "か",
-        "で",
-        "から",
-        "だけ"
+        "ひつようがある",
+        "から作る",
+        "はずがない",
+        "かしら"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -93,124 +93,124 @@
     },
     {
       "type": "mcq",
-      "stem_html": "「ね - sentence-final confirmation / agreement particle」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to be」(n4-022) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "は",
-        "ね",
-        "だけ",
-        "へ"
+        "かもしれない",
+        "Format: `PATTERN",
+        "いらっしゃる",
+        "でございます"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q22",
       "id": "bunpou-2.7"
     },
     {
       "type": "mcq",
-      "stem_html": "「よ - sentence-final assertion / new-information particle」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「to do (polite form)」(n4-023) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "よ",
-        "で",
-        "に",
-        "を"
+        "がる / がっている",
+        "きっと",
+        "いたします",
+        "かもしれない"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q23",
       "id": "bunpou-2.8"
     },
     {
       "type": "mcq",
-      "stem_html": "「よね - combined: assertion + seeking agreement (\"...right?\")」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「right?」(n4-024) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "から～まで",
-        "なに／なん",
-        "よね",
-        "しか～ない"
+        "じゃないか",
+        "あまり〜ない",
+        "がする",
+        "かな"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q24",
       "id": "bunpou-2.9"
     },
     {
       "type": "mcq",
-      "stem_html": "「～の (possessive / noun-modifier)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「whether or not」(n4-025) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "〜の",
-        "〜です／〜ます",
-        "～の",
-        "nominalizer in basic use"
+        "がる / がっている",
+        "かどうか",
+        "ひつようがある",
+        "間に（あいだに）"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q25",
       "id": "bunpou-2.10"
     },
     {
       "type": "mcq",
-      "stem_html": "「Possessive / noun-modifier」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「I wonder (feminine)」(n4-026) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "possessive / noun-modifier",
-        "なに／なん",
-        "〜です／〜ます",
-        "よね"
+        "ば",
+        "がする",
+        "かもしれない",
+        "かしら"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q26",
       "id": "bunpou-2.11"
     },
     {
       "type": "mcq",
-      "stem_html": "「～の (nominalizer - turns a verb/adj clause into a noun)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「turns sentence into yes/no question」(n4-027) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "ぐらい / くらい",
-        "だれ／どなた",
-        "ここ／そこ／あそこ／どこ",
-        "nominalizer in basic use"
+        "間（あいだ）",
+        "間に（あいだに）",
+        "かい",
+        "いらっしゃる"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q27",
       "id": "bunpou-2.12"
     },
     {
       "type": "mcq",
-      "stem_html": "「Sentence-final の as informal question marker (plain-form + の?)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「might」(n4-028) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "ぐらい / くらい",
-        "よね",
-        "〜の",
-        "しか～ない"
+        "きっと",
+        "かもしれない",
+        "あまり〜ない",
+        "がする"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q28",
       "id": "bunpou-2.13"
     },
     {
       "type": "mcq",
-      "stem_html": "「だけ - only / just (limiting particle)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「I wonder」(n4-029) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "も",
-        "まで",
-        "と",
-        "だけ"
+        "がる / がっている",
+        "かな",
+        "から作る",
+        "かい"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q29",
       "id": "bunpou-2.14"
     },
     {
       "type": "mcq",
-      "stem_html": "「しか〜ない - only (with negative verb)」を あらわす ぶんぽうは どれですか。",
+      "stem_html": "「made from」(n4-030) を あらわす ぶんぽうは どれですか。",
       "choices": [
-        "～の",
-        "しか～ない",
-        "〜です／〜ます",
-        "よね"
+        "ございます",
+        "から作る",
+        "だけで",
+        "ひつようがある"
       ],
       "correctIndex": 1,
       "rationale": "",

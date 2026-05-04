@@ -21,891 +21,891 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 ### Passage 1 (Q1-Q3)
 
-> わたしの いえの ちかくに かた が あります。まいにち 人 を します。たまに みなさん に いきます。
+> わたしの いえの ちかくに いる が あります。まいにち あ を します。たまに ああ に いきます。
 
 #### Q1
 
-問: 「かた」とは どのような いみですか。
+問: 「いる」とは どのような いみですか。
 
-1. person (polite)
-2. grandfather (own)
-3. older sister (own)
-4. who (polite)
+1. accessory
+2. to need (Group 1 exception - looks like Group 2
+3. Africa
+4. to part-time job
 
-**Answer: 1**
+**Answer: 2**
 
 #### Q2
 
-問: 「人」とは どのような いみですか。
+問: 「あ」とは どのような いみですか。
 
-1. grandmother, elderly woman
-2. I, me
-3. person
-4. grandfather, elderly man
+1. part-time job
+2. building
+3. Ah
+4. bell
 
 **Answer: 3**
 
 #### Q3
 
-問: 「みなさん」とは どのような いみですか。
+問: 「ああ」とは どのような いみですか。
 
-1. siblings
-2. parents
-3. everyone (polite)
-4. younger sister
+1. to cut (Group 1 exception - looks like Group 2
+2. ah
+3. Asia
+4. to be surprised
 
-**Answer: 3**
+**Answer: 2**
 
 ### Passage 2 (Q4-Q6)
 
-> わたしの いえの ちかくに じぶん が あります。まいにち かぞく を します。たまに 父 に いきます。
+> わたしの いえの ちかくに 味 が あります。まいにち アジア を します。たまに 赤ちゃん に いきます。
 
 #### Q4
 
-問: 「じぶん」とは どのような いみですか。
+問: 「味」とは どのような いみですか。
 
-1. oneself
-2. older brother (polite)
-3. father (someone else's / address form)
-4. parents
+1. building
+2. flavor
+3. America
+4. to rise
 
-**Answer: 1**
+**Answer: 2**
 
 #### Q5
 
-問: 「かぞく」とは どのような いみですか。
+問: 「アジア」とは どのような いみですか。
 
-1. mother (own)
-2. grandfather (own)
-3. aunt, middle-aged woman
-4. family
+1. such
+2. to be surprised
+3. Asia
+4. to run (Group 1 exception - looks like Group 2)
 
-**Answer: 4**
+**Answer: 3**
 
 #### Q6
 
-問: 「父」とは どのような いみですか。
+問: 「赤ちゃん」とは どのような いみですか。
 
-1. grandmother (own)
-2. mother (own)
-3. we
-4. father (own)
+1. America
+2. suffix for familiar female person
+3. baby
+4. to be surprised
 
-**Answer: 4**
+**Answer: 3**
 
 ### Passage 3 (Q7-Q9)
 
-> わたしの いえの ちかくに お母さん が あります。まいにち あに を します。たまに あね に いきます。
+> わたしの いえの ちかくに アナウンサー が あります。まいにち あんな を します。たまに 安心 に いきます。
 
 #### Q7
 
-問: 「お母さん」とは どのような いみですか。
+問: 「アナウンサー」とは どのような いみですか。
 
-1. mother (someone else's / address form)
-2. older sister (polite)
-3. father (someone else's / address form)
-4. she, her (girlfriend - more advanced sense)
+1. to return home (Group 1 exception - looks like Group 2)
+2. announcer
+3. to check
+4. America
 
-**Answer: 1**
+**Answer: 2**
 
 #### Q8
 
-問: 「あに」とは どのような いみですか。
+問: 「あんな」とは どのような いみですか。
 
-1. person
-2. older brother (own)
-3. mother (someone else's / address form)
-4. younger sister
+1. to run (Group 1 exception - looks like Group 2)
+2. such
+3. suffix for familiar female person
+4. grapes
 
 **Answer: 2**
 
 #### Q9
 
-問: 「あね」とは どのような いみですか。
+問: 「安心」とは どのような いみですか。
 
-1. older sister (own)
-2. you
-3. older sister (polite)
-4. older brother (polite)
+1. to return home (Group 1 exception - looks like Group 2)
+2. to need (Group 1 exception - looks like Group 2
+3. peace of mind
+4. Ah
 
-**Answer: 1**
+**Answer: 3**
 
 ### Passage 4 (Q10-Q12)
 
-> わたしの いえの ちかくに おにいさん が あります。まいにち おねえさん を します。たまに きょうだい に いきます。
+> わたしの いえの ちかくに アルコール が あります。まいにち 集まる を します。たまに 集める に いきます。
 
 #### Q10
 
-問: 「おにいさん」とは どのような いみですか。
+問: 「アルコール」とは どのような いみですか。
 
-1. siblings
-2. he, him (boyfriend - more advanced sense)
-3. younger sister
-4. older brother (polite)
+1. to collect
+2. to rise
+3. alcohol
+4. to know (Group 1 exception - looks like Group 2)
 
-**Answer: 4**
+**Answer: 3**
 
 #### Q11
 
-問: 「おねえさん」とは どのような いみですか。
+問: 「集まる」とは どのような いみですか。
 
-1. parents
-2. father (someone else's / address form)
-3. older sister (polite)
-4. mother (own)
+1. flavor
+2. ah
+3. to gather
+4. suffix for familiar female person
 
 **Answer: 3**
 
 #### Q12
 
-問: 「きょうだい」とは どのような いみですか。
+問: 「集める」とは どのような いみですか。
 
-1. grandmother, elderly woman
-2. person
-3. siblings
-4. grandfather, elderly man
+1. America
+2. to collect
+3. baby
+4. to return home (Group 1 exception - looks like Group 2)
 
-**Answer: 3**
+**Answer: 2**
 
 ### Passage 5 (Q13-Q15)
 
-> わたしの いえの ちかくに そぼ が あります。まいにち おじいさん を します。たまに おばあさん に いきます。
+> わたしの いえの ちかくに ビル が あります。まいにち ぶどう を します。たまに 文学 に いきます。
 
 #### Q13
 
-問: 「そぼ」とは どのような いみですか。
+問: 「ビル」とは どのような いみですか。
 
-1. grandmother (own)
-2. person
-3. she, her (girlfriend - more advanced sense)
-4. grandfather, elderly man
+1. to part-time job
+2. America
+3. to collect
+4. building
 
-**Answer: 1**
+**Answer: 4**
 
 #### Q14
 
-問: 「おじいさん」とは どのような いみですか。
+問: 「ぶどう」とは どのような いみですか。
 
-1. grandfather, elderly man
-2. older brother (polite)
-3. person (polite)
-4. everyone (polite)
+1. to check
+2. such
+3. bell
+4. grapes
 
-**Answer: 1**
+**Answer: 4**
 
 #### Q15
 
-問: 「おばあさん」とは どのような いみですか。
+問: 「文学」とは どのような いみですか。
 
-1. uncle, middle-aged man
-2. mother (own)
-3. grandmother, elderly woman
-4. she, her (girlfriend - more advanced sense)
+1. announcer
+2. Asia
+3. part-time job
+4. literature
 
-**Answer: 3**
+**Answer: 4**
 
 ### Passage 6 (Q16-Q18)
 
-> わたしの いえの ちかくに 子ども が あります。まいにち 男の子 を します。たまに 女の子 に いきます。
+> わたしの いえの ちかくに チェックする が あります。まいにち 力 を します。たまに 地理 に いきます。
 
 #### Q16
 
-問: 「子ども」とは どのような いみですか。
+問: 「チェックする」とは どのような いみですか。
 
-1. you
-2. family
-3. child (often written こども in everyday text)
-4. he, him (boyfriend - more advanced sense)
+1. suffix for familiar female person
+2. to collect
+3. to check
+4. to enter (Group 1 exception - looks like Group 2)
 
 **Answer: 3**
 
 #### Q17
 
-問: 「男の子」とは どのような いみですか。
+問: 「力」とは どのような いみですか。
 
-1. mother (own)
-2. boy
-3. grandfather (own)
-4. grandfather, elderly man
-
-**Answer: 2**
-
-#### Q18
-
-問: 「女の子」とは どのような いみですか。
-
-1. girl
-2. grandfather, elderly man
-3. older sister (polite)
-4. grandmother (own)
-
-**Answer: 1**
-
-### Passage 7 (Q19-Q21)
-
-> わたしの いえの ちかくに 大人 が あります。まいにち ともだち を します。たまに 学生 に いきます。
-
-#### Q19
-
-問: 「大人」とは どのような いみですか。
-
-1. younger brother
-2. grandmother (own)
-3. older brother (polite)
-4. adult
-
-**Answer: 4**
-
-#### Q20
-
-問: 「ともだち」とは どのような いみですか。
-
-1. older sister (polite)
-2. older brother (own)
-3. grandmother (own)
-4. friend
-
-**Answer: 4**
-
-#### Q21
-
-問: 「学生」とは どのような いみですか。
-
-1. student
-2. older sister (polite)
-3. we
-4. you
-
-**Answer: 1**
-
-### Passage 8 (Q22-Q24)
-
-> わたしの いえの ちかくに いしゃ が あります。まいにち 会社員 を します。たまに 駅員 に いきます。
-
-#### Q22
-
-問: 「いしゃ」とは どのような いみですか。
-
-1. aunt, middle-aged woman
-2. who (polite)
-3. doctor
-4. person
+1. grapes
+2. to collect
+3. energy
+4. to need (Group 1 exception - looks like Group 2
 
 **Answer: 3**
 
+#### Q18
+
+問: 「地理」とは どのような いみですか。
+
+1. to know (Group 1 exception - looks like Group 2)
+2. literature
+3. suffix for familiar female person
+4. geography
+
+**Answer: 4**
+
+### Passage 7 (Q19-Q21)
+
+> わたしの いえの ちかくに 注意する が あります。まいにち 大分 を します。たまに 大学生 に いきます。
+
+#### Q19
+
+問: 「注意する」とは どのような いみですか。
+
+1. to caution
+2. to need (Group 1 exception - looks like Group 2
+3. suffix for familiar female person
+4. to run (Group 1 exception - looks like Group 2)
+
+**Answer: 1**
+
+#### Q20
+
+問: 「大分」とは どのような いみですか。
+
+1. to enter (Group 1 exception - looks like Group 2)
+2. considerably
+3. building
+4. to gather
+
+**Answer: 2**
+
+#### Q21
+
+問: 「大学生」とは どのような いみですか。
+
+1. to be surprised
+2. to cut (Group 1 exception - looks like Group 2
+3. part-time job
+4. university student
+
+**Answer: 4**
+
+### Passage 8 (Q22-Q24)
+
+> わたしの いえの ちかくに できるだけ が あります。まいにち どんどん を します。たまに エスカレーター に いきます。
+
+#### Q22
+
+問: 「できるだけ」とは どのような いみですか。
+
+1. baby
+2. as much as possible
+3. suffix for familiar female person
+4. to rise
+
+**Answer: 2**
+
 #### Q23
 
-問: 「会社員」とは どのような いみですか。
+問: 「どんどん」とは どのような いみですか。
 
-1. person (polite)
-2. older sister (own)
-3. siblings
-4. company employee
+1. to run (Group 1 exception - looks like Group 2)
+2. baby
+3. Africa
+4. rapidly
 
 **Answer: 4**
 
 #### Q24
 
-問: 「駅員」とは どのような いみですか。
+問: 「エスカレーター」とは どのような いみですか。
 
-1. he, him (boyfriend - more advanced sense)
-2. grandfather, elderly man
-3. younger brother
-4. station staff
+1. bell
+2. accessory
+3. escalator
+4. to be surprised
 
-**Answer: 4**
+**Answer: 3**
 
 ### Passage 9 (Q25-Q27)
 
-> わたしの いえの ちかくに おまわりさん が あります。まいにち りゅうがくせい を します。たまに 外国人 に いきます。
+> わたしの いえの ちかくに ガラス が あります。まいにち ガソリン を します。たまに ガソリンスタンド に いきます。
 
 #### Q25
 
-問: 「おまわりさん」とは どのような いみですか。
+問: 「ガラス」とは どのような いみですか。
 
-1. police officer (friendly)
-2. older sister (own)
-3. father (own)
-4. father (someone else's / address form)
+1. baby
+2. Ah
+3. a glass
+4. to part-time job
 
-**Answer: 1**
+**Answer: 3**
 
 #### Q26
 
-問: 「りゅうがくせい」とは どのような いみですか。
+問: 「ガソリン」とは どのような いみですか。
 
-1. aunt, middle-aged woman
-2. international student
-3. younger brother
-4. everyone (polite)
-
-**Answer: 2**
-
-#### Q27
-
-問: 「外国人」とは どのような いみですか。
-
-1. uncle, middle-aged man
-2. grandmother, elderly woman
-3. younger brother
-4. foreigner
+1. Asia
+2. such
+3. to gather
+4. gasoline
 
 **Answer: 4**
 
+#### Q27
+
+問: 「ガソリンスタンド」とは どのような いみですか。
+
+1. such
+2. petrol station
+3. to run (Group 1 exception - looks like Group 2)
+4. grapes
+
+**Answer: 2**
+
 ### Passage 10 (Q28-Q30)
 
-> わたしの いえの ちかくに かお が あります。まいにち め を します。たまに みみ に いきます。
+> わたしの いえの ちかくに ごちそうする が あります。まいにち ごみ を します。たまに ご主人 に いきます。
 
 #### Q28
 
-問: 「かお」とは どのような いみですか。
+問: 「ごちそうする」とは どのような いみですか。
 
-1. I, me
-2. face
-3. family
-4. person (polite)
+1. to rise
+2. to know (Group 1 exception - looks like Group 2)
+3. to part-time job
+4. to a feast
 
-**Answer: 2**
+**Answer: 4**
 
 #### Q29
 
-問: 「め」とは どのような いみですか。
+問: 「ごみ」とは どのような いみですか。
 
-1. younger brother
-2. eye
-3. grandfather (own)
-4. I, me
+1. to cut (Group 1 exception - looks like Group 2
+2. to run (Group 1 exception - looks like Group 2)
+3. rubbish
+4. to gather
 
-**Answer: 2**
+**Answer: 3**
 
 #### Q30
 
-問: 「みみ」とは どのような いみですか。
+問: 「ご主人」とは どのような いみですか。
 
-1. ear
-2. you
-3. we
-4. uncle, middle-aged man
+1. your husband
+2. ah
+3. to part-time job
+4. literature
 
 **Answer: 1**
 
 ### Passage 11 (Q31-Q33)
 
-> わたしの いえの ちかくに は が あります。まいにち て を します。たまに あし に いきます。
+> わたしの いえの ちかくに 花見 が あります。まいにち 花見する を します。たまに ハンドバッグ に いきます。
 
 #### Q31
 
-問: 「は」とは どのような いみですか。
+問: 「花見」とは どのような いみですか。
 
-1. who (polite)
-2. aunt, middle-aged woman
-3. tooth
-4. who
+1. cherry blossom viewing
+2. accessory
+3. to cut (Group 1 exception - looks like Group 2
+4. Africa
 
-**Answer: 3**
+**Answer: 1**
 
 #### Q32
 
-問: 「て」とは どのような いみですか。
+問: 「花見する」とは どのような いみですか。
 
-1. person (polite)
-2. hand
-3. older brother (own)
-4. we
+1. to check
+2. baby
+3. alcohol
+4. to cherry blossom viewing
 
-**Answer: 2**
+**Answer: 4**
 
 #### Q33
 
-問: 「あし」とは どのような いみですか。
+問: 「ハンドバッグ」とは どのような いみですか。
 
-1. who
-2. older sister (own)
-3. leg, foot
-4. person
+1. handbag
+2. literature
+3. such
+4. alcohol
 
-**Answer: 3**
+**Answer: 1**
 
 ### Passage 12 (Q34-Q36)
 
-> わたしの いえの ちかくに これ が あります。まいにち それ を します。たまに あれ に いきます。
+> わたしの いえの ちかくに 火 が あります。まいにち 開く を します。たまに 昼間 に いきます。
 
 #### Q34
 
-問: 「これ」とは どのような いみですか。
+問: 「火」とは どのような いみですか。
 
-1. younger brother
-2. siblings
-3. I, me
-4. this (thing near speaker)
+1. fire
+2. flavor
+3. Asia
+4. to gather
 
-**Answer: 4**
+**Answer: 1**
 
 #### Q35
 
-問: 「それ」とは どのような いみですか。
+問: 「開く」とは どのような いみですか。
 
-1. grandfather (own)
-2. oneself
-3. that (thing near listener)
-4. family
+1. to open
+2. to cut (Group 1 exception - looks like Group 2
+3. suffix for familiar female person
+4. ah
 
-**Answer: 3**
+**Answer: 1**
 
 #### Q36
 
-問: 「あれ」とは どのような いみですか。
+問: 「昼間」とは どのような いみですか。
 
-1. father (someone else's / address form)
-2. uncle, middle-aged man
-3. parents
-4. that (over there)
+1. to gather
+2. to return home (Group 1 exception - looks like Group 2)
+3. daytime
+4. grapes
 
-**Answer: 4**
+**Answer: 3**
 
 ### Passage 13 (Q37-Q39)
 
-> わたしの いえの ちかくに その が あります。まいにち あの を します。たまに どの に いきます。
+> わたしの いえの ちかくに 一度 が あります。まいにち 以外 を します。たまに 医学 に いきます。
 
 #### Q37
 
-問: 「その」とは どのような いみですか。
+問: 「一度」とは どのような いみですか。
 
-1. that (modifier)
-2. you
-3. she, her (girlfriend - more advanced sense)
-4. older sister (polite)
+1. Asia
+2. bell
+3. such
+4. once
 
-**Answer: 1**
+**Answer: 4**
 
 #### Q38
 
-問: 「あの」とは どのような いみですか。
+問: 「以外」とは どのような いみですか。
 
-1. that over there (modifier)
-2. I, me
-3. he, him (boyfriend - more advanced sense)
-4. mother (someone else's / address form)
+1. accessory
+2. to enter (Group 1 exception - looks like Group 2)
+3. to run (Group 1 exception - looks like Group 2)
+4. with the exception of
 
-**Answer: 1**
+**Answer: 4**
 
 #### Q39
 
-問: 「どの」とは どのような いみですか。
+問: 「医学」とは どのような いみですか。
 
-1. who (polite)
-2. which (modifier)
-3. grandmother (own)
-4. person
+1. to gather
+2. medical science
+3. to run (Group 1 exception - looks like Group 2)
+4. accessory
 
 **Answer: 2**
 
 ### Passage 14 (Q40-Q42)
 
-> わたしの いえの ちかくに あそこ が あります。まいにち どこ を します。たまに こちら に いきます。
+> わたしの いえの ちかくに 以下 が あります。まいにち 意見 を します。たまに 意見する に いきます。
 
 #### Q40
 
-問: 「あそこ」とは どのような いみですか。
+問: 「以下」とは どのような いみですか。
 
-1. over there
-2. younger sister
-3. we
-4. person
+1. not exceeding
+2. peace of mind
+3. to return home (Group 1 exception - looks like Group 2)
+4. suffix for familiar female person
 
 **Answer: 1**
 
 #### Q41
 
-問: 「どこ」とは どのような いみですか。
+問: 「意見」とは どのような いみですか。
 
-1. older brother (polite)
-2. family
-3. where
-4. grandfather (own)
+1. alcohol
+2. opinion
+3. to rise
+4. Asia
 
-**Answer: 3**
+**Answer: 2**
 
 #### Q42
 
-問: 「こちら」とは どのような いみですか。
+問: 「意見する」とは どのような いみですか。
 
-1. this way / this person (polite)
-2. we
-3. older brother (polite)
-4. mother (someone else's / address form)
+1. Ah
+2. to opinion
+3. ah
+4. to enter (Group 1 exception - looks like Group 2)
 
-**Answer: 1**
+**Answer: 2**
 
 ## Mondai 5 - 中文 (Medium Passage)
 
 ### Passage 15 (Q43-Q45)
 
-> わたしの いえの ちかくに どちら が あります。まいにち こっち を します。たまに そっち に いきます。
+> わたしの いえの ちかくに いっぱい が あります。まいにち 色んな を します。たまに 急ぐ に いきます。
 
 #### Q43
 
-問: 「どちら」とは どのような いみですか。
+問: 「いっぱい」とは どのような いみですか。
 
-1. family
-2. who
-3. which way
-4. mother (someone else's / address form)
+1. to need (Group 1 exception - looks like Group 2
+2. full
+3. to cut (Group 1 exception - looks like Group 2
+4. building
 
-**Answer: 3**
+**Answer: 2**
 
 #### Q44
 
-問: 「こっち」とは どのような いみですか。
+問: 「色んな」とは どのような いみですか。
 
-1. grandmother, elderly woman
-2. this way (casual)
-3. older sister (own)
-4. younger brother
-
-**Answer: 2**
-
-#### Q45
-
-問: 「そっち」とは どのような いみですか。
-
-1. person
-2. uncle, middle-aged man
-3. he, him (boyfriend - more advanced sense)
-4. that way (casual)
+1. part-time job
+2. to collect
+3. ah
+4. various
 
 **Answer: 4**
 
+#### Q45
+
+問: 「急ぐ」とは どのような いみですか。
+
+1. to hurry
+2. to cut (Group 1 exception - looks like Group 2
+3. alcohol
+4. to collect
+
+**Answer: 1**
+
 ### Passage 16 (Q46-Q48)
 
-> わたしの いえの ちかくに こんな が あります。まいにち そんな を します。たまに あんな に いきます。
+> わたしの いえの ちかくに 時代 が あります。まいにち 人口 を します。たまに 人生 に いきます。
 
 #### Q46
 
-問: 「こんな」とは どのような いみですか。
+問: 「時代」とは どのような いみですか。
 
-1. who (polite)
-2. we
-3. this kind of
-4. father (someone else's / address form)
+1. to rise
+2. grapes
+3. such
+4. period
 
-**Answer: 3**
+**Answer: 4**
 
 #### Q47
 
-問: 「そんな」とは どのような いみですか。
+問: 「人口」とは どのような いみですか。
 
-1. grandfather (own)
-2. that kind of
-3. everyone (polite)
-4. person
+1. peace of mind
+2. Ah
+3. population
+4. to enter (Group 1 exception - looks like Group 2)
 
-**Answer: 2**
+**Answer: 3**
 
 #### Q48
 
-問: 「あんな」とは どのような いみですか。
+問: 「人生」とは どのような いみですか。
 
-1. father (own)
-2. that kind of (over there)
-3. grandfather, elderly man
-4. she, her (girlfriend - more advanced sense)
+1. such
+2. human life
+3. to return home (Group 1 exception - looks like Group 2)
+4. America
 
 **Answer: 2**
 
 ### Passage 17 (Q49-Q51)
 
-> わたしの いえの ちかくに そう が あります。まいにち ああ を します。たまに どう に いきます。
+> わたしの いえの ちかくに 帰り が あります。まいにち 会場 を します。たまに 会話 に いきます。
 
 #### Q49
 
-問: 「そう」とは どのような いみですか。
+問: 「帰り」とは どのような いみですか。
 
-1. I, me
-2. grandfather (own)
-3. we
-4. like that
+1. return
+2. alcohol
+3. to know (Group 1 exception - looks like Group 2)
+4. to be surprised
 
-**Answer: 4**
+**Answer: 1**
 
 #### Q50
 
-問: 「ああ」とは どのような いみですか。
+問: 「会場」とは どのような いみですか。
 
-1. father (someone else's / address form)
-2. older brother (polite)
-3. like that (over there)
-4. older sister (own)
+1. assembly hall
+2. Asia
+3. to collect
+4. literature
 
-**Answer: 3**
+**Answer: 1**
 
 #### Q51
 
-問: 「どう」とは どのような いみですか。
+問: 「会話」とは どのような いみですか。
 
-1. who
-2. younger brother
-3. aunt, middle-aged woman
-4. how
+1. ah
+2. Ah
+3. conversation
+4. Africa
 
-**Answer: 4**
+**Answer: 3**
 
 ### Passage 18 (Q52-Q54)
 
-> わたしの いえの ちかくに いくら が あります。まいにち いくつ を します。たまに 何時 に いきます。
+> わたしの いえの ちかくに 考える が あります。まいにち 代わり を します。たまに 通う に いきます。
 
 #### Q52
 
-問: 「いくら」とは どのような いみですか。
+問: 「考える」とは どのような いみですか。
 
-1. father (someone else's / address form)
-2. older sister (own)
-3. aunt, middle-aged woman
-4. how much (price)
+1. to need (Group 1 exception - looks like Group 2
+2. to think
+3. to be surprised
+4. flavor
 
-**Answer: 4**
+**Answer: 2**
 
 #### Q53
 
-問: 「いくつ」とは どのような いみですか。
+問: 「代わり」とは どのような いみですか。
 
-1. you
-2. how many, how old
-3. father (own)
-4. grandmother, elderly woman
+1. to cut (Group 1 exception - looks like Group 2
+2. instead
+3. part-time job
+4. America
 
 **Answer: 2**
 
 #### Q54
 
-問: 「何時」とは どのような いみですか。
+問: 「通う」とは どのような いみですか。
 
-1. uncle, middle-aged man
-2. younger sister
-3. what time
-4. you
+1. to cut (Group 1 exception - looks like Group 2
+2. accessory
+3. to enter (Group 1 exception - looks like Group 2)
+4. to commute
 
-**Answer: 3**
+**Answer: 4**
 
 ### Passage 19 (Q55-Q57)
 
-> わたしの いえの ちかくに 何日 が あります。まいにち なぜ を します。たまに どうして に いきます。
+> わたしの いえの ちかくに 計画する が あります。まいにち 見物 を します。たまに 見物する に いきます。
 
 #### Q55
 
-問: 「何日」とは どのような いみですか。
+問: 「計画する」とは どのような いみですか。
 
-1. father (own)
-2. younger sister
-3. what day
-4. she, her (girlfriend - more advanced sense)
+1. alcohol
+2. announcer
+3. such
+4. to plan
 
-**Answer: 3**
+**Answer: 4**
 
 #### Q56
 
-問: 「なぜ」とは どのような いみですか。
+問: 「見物」とは どのような いみですか。
 
-1. younger brother
-2. uncle, middle-aged man
-3. mother (someone else's / address form)
-4. why
+1. to cut (Group 1 exception - looks like Group 2
+2. peace of mind
+3. announcer
+4. sightseeing
 
 **Answer: 4**
 
 #### Q57
 
-問: 「どうして」とは どのような いみですか。
+問: 「見物する」とは どのような いみですか。
 
-1. person
-2. he, him (boyfriend - more advanced sense)
-3. why
-4. mother (own)
+1. baby
+2. America
+3. grapes
+4. to sightseeing
 
-**Answer: 3**
+**Answer: 4**
 
 ### Passage 20 (Q58-Q60)
 
-> わたしの いえの ちかくに 二 が あります。まいにち 三 を します。たまに 四 に いきます。
+> わたしの いえの ちかくに 研究室 が あります。まいにち 気 を します。たまに 気分 に いきます。
 
 #### Q58
 
-問: 「二」とは どのような いみですか。
+問: 「研究室」とは どのような いみですか。
 
-1. younger sister
-2. two
-3. younger brother
-4. grandfather (own)
+1. part-time job
+2. suffix for familiar female person
+3. laboratory
+4. Asia
 
-**Answer: 2**
+**Answer: 3**
 
 #### Q59
 
-問: 「三」とは どのような いみですか。
+問: 「気」とは どのような いみですか。
 
-1. who (polite)
-2. grandmother, elderly woman
-3. three
-4. person
+1. such
+2. literature
+3. spirit
+4. America
 
 **Answer: 3**
 
 #### Q60
 
-問: 「四」とは どのような いみですか。
+問: 「気分」とは どのような いみですか。
 
-1. family
-2. four
-3. you
-4. everyone (polite)
+1. flavor
+2. feeling
+3. accessory
+4. alcohol
 
 **Answer: 2**
 
 ### Passage 21 (Q61-Q63)
 
-> わたしの いえの ちかくに 七 が あります。まいにち 八 を します。たまに 九 に いきます。
+> わたしの いえの ちかくに 着物 が あります。まいにち 子 を します。たまに 心 に いきます。
 
 #### Q61
 
-問: 「七」とは どのような いみですか。
+問: 「着物」とは どのような いみですか。
 
-1. person
-2. he, him (boyfriend - more advanced sense)
-3. mother (own)
-4. seven
-
-**Answer: 4**
-
-#### Q62
-
-問: 「八」とは どのような いみですか。
-
-1. siblings
-2. father (someone else's / address form)
-3. eight
-4. he, him (boyfriend - more advanced sense)
-
-**Answer: 3**
-
-#### Q63
-
-問: 「九」とは どのような いみですか。
-
-1. he, him (boyfriend - more advanced sense)
-2. mother (own)
-3. nine
-4. father (someone else's / address form)
-
-**Answer: 3**
-
-### Passage 22 (Q64-Q66)
-
-> わたしの いえの ちかくに 二十 が あります。まいにち 百 を します。たまに 千 に いきます。
-
-#### Q64
-
-問: 「二十」とは どのような いみですか。
-
-1. we
-2. mother (own)
-3. twenty
-4. father (someone else's / address form)
-
-**Answer: 3**
-
-#### Q65
-
-問: 「百」とは どのような いみですか。
-
-1. hundred
-2. younger sister
-3. mother (own)
-4. older sister (own)
+1. kimono
+2. suffix for familiar female person
+3. flavor
+4. to run (Group 1 exception - looks like Group 2)
 
 **Answer: 1**
 
+#### Q62
+
+問: 「子」とは どのような いみですか。
+
+1. to need (Group 1 exception - looks like Group 2
+2. Ah
+3. flavor
+4. child
+
+**Answer: 4**
+
+#### Q63
+
+問: 「心」とは どのような いみですか。
+
+1. flavor
+2. heart
+3. bell
+4. to return home (Group 1 exception - looks like Group 2)
+
+**Answer: 2**
+
+### Passage 22 (Q64-Q66)
+
+> わたしの いえの ちかくに このごろ が あります。まいにち コンピュータ を します。たまに コンサート に いきます。
+
+#### Q64
+
+問: 「このごろ」とは どのような いみですか。
+
+1. bell
+2. literature
+3. Ah
+4. these days
+
+**Answer: 4**
+
+#### Q65
+
+問: 「コンピュータ」とは どのような いみですか。
+
+1. alcohol
+2. America
+3. flavor
+4. computer
+
+**Answer: 4**
+
 #### Q66
 
-問: 「千」とは どのような いみですか。
+問: 「コンサート」とは どのような いみですか。
 
-1. mother (someone else's / address form)
-2. thousand
-3. who (polite)
-4. siblings
+1. to rise
+2. concert
+3. literature
+4. to cut (Group 1 exception - looks like Group 2
 
 **Answer: 2**
 
 ### Passage 23 (Q67-Q69)
 
-> わたしの いえの ちかくに おく が あります。まいにち 一つ を します。たまに 二つ に いきます。
+> わたしの いえの ちかくに 答え が あります。まいにち 小鳥 を します。たまに こう に いきます。
 
 #### Q67
 
-問: 「おく」とは どのような いみですか。
+問: 「答え」とは どのような いみですか。
 
-1. mother (own)
-2. person
-3. older brother (own)
-4. hundred million
+1. response
+2. accessory
+3. to run (Group 1 exception - looks like Group 2)
+4. bell
 
-**Answer: 4**
+**Answer: 1**
 
 #### Q68
 
-問: 「一つ」とは どのような いみですか。
+問: 「小鳥」とは どのような いみですか。
 
-1. she, her (girlfriend - more advanced sense)
-2. younger sister
-3. older sister (own)
-4. one (thing)
-
-**Answer: 4**
-
-#### Q69
-
-問: 「二つ」とは どのような いみですか。
-
-1. oneself
-2. aunt, middle-aged woman
-3. grandfather, elderly man
-4. two
-
-**Answer: 4**
-
-### Passage 24 (Q70-Q72)
-
-> わたしの いえの ちかくに 五つ が あります。まいにち 六つ を します。たまに 七つ に いきます。
-
-#### Q70
-
-問: 「五つ」とは どのような いみですか。
-
-1. she, her (girlfriend - more advanced sense)
-2. siblings
-3. five
-4. uncle, middle-aged man
+1. baby
+2. to rise
+3. small bird
+4. ah
 
 **Answer: 3**
 
+#### Q69
+
+問: 「こう」とは どのような いみですか。
+
+1. this way
+2. Asia
+3. accessory
+4. to collect
+
+**Answer: 1**
+
+### Passage 24 (Q70-Q72)
+
+> わたしの いえの ちかくに 工場 が あります。まいにち 高校 を します。たまに 高校生 に いきます。
+
+#### Q70
+
+問: 「工場」とは どのような いみですか。
+
+1. factory
+2. alcohol
+3. to run (Group 1 exception - looks like Group 2)
+4. part-time job
+
+**Answer: 1**
+
 #### Q71
 
-問: 「六つ」とは どのような いみですか。
+問: 「高校」とは どのような いみですか。
 
-1. younger brother
-2. mother (someone else's / address form)
-3. six
-4. siblings
+1. accessory
+2. peace of mind
+3. senior high school
+4. alcohol
 
 **Answer: 3**
 
 #### Q72
 
-問: 「七つ」とは どのような いみですか。
+問: 「高校生」とは どのような いみですか。
 
-1. older brother (own)
-2. seven
-3. father (own)
-4. older sister (polite)
+1. such
+2. high school student
+3. baby
+4. to part-time job
 
 **Answer: 2**
 
@@ -913,405 +913,405 @@ For mock-test mode, the app's test engine MUST hide the `**Answer:**` line and r
 
 ### Passage 25 (Q73-Q75)
 
-> わたしの いえの ちかくに 十 が あります。まいにち いくつ を します。たまに 人 に いきます。
+> わたしの いえの ちかくに 教会 が あります。まいにち 急 を します。たまに 急行 に いきます。
 
 #### Q73
 
-問: 「十」とは どのような いみですか。
+問: 「教会」とは どのような いみですか。
 
-1. family
-2. ten
-3. aunt, middle-aged woman
-4. who
+1. ah
+2. to run (Group 1 exception - looks like Group 2)
+3. church
+4. America
 
-**Answer: 2**
+**Answer: 3**
 
 #### Q74
 
-問: 「いくつ」とは どのような いみですか。
+問: 「急」とは どのような いみですか。
 
-1. how many
-2. who (polite)
-3. younger brother
-4. everyone (polite)
+1. such
+2. sudden
+3. to check
+4. to return home (Group 1 exception - looks like Group 2)
 
-**Answer: 1**
+**Answer: 2**
 
 #### Q75
 
-問: 「人」とは どのような いみですか。
+問: 「急行」とは どのような いみですか。
 
-1. father (someone else's / address form)
-2. counter for people
-3. you
-4. younger brother
+1. peace of mind
+2. hurrying
+3. to need (Group 1 exception - looks like Group 2
+4. to gather
 
 **Answer: 2**
 
 ### Passage 26 (Q76-Q78)
 
-> わたしの いえの ちかくに まい が あります。まいにち 本 を します。たまに だい に いきます。
+> わたしの いえの ちかくに まず が あります。まいにち 見える を します。たまに 見つかる に いきます。
 
 #### Q76
 
-問: 「まい」とは どのような いみですか。
+問: 「まず」とは どのような いみですか。
 
-1. grandmother (own)
-2. person
-3. counter for flat objects
-4. mother (own)
-
-**Answer: 3**
-
-#### Q77
-
-問: 「本」とは どのような いみですか。
-
-1. counter for long thin objects
-2. younger brother
-3. family
-4. we
-
-**Answer: 1**
-
-#### Q78
-
-問: 「だい」とは どのような いみですか。
-
-1. counter for machines / vehicles
-2. uncle, middle-aged man
-3. grandmother, elderly woman
-4. grandfather, elderly man
-
-**Answer: 1**
-
-### Passage 27 (Q79-Q81)
-
-> わたしの いえの ちかくに はい が あります。まいにち こ を します。たまに かい に いきます。
-
-#### Q79
-
-問: 「はい」とは どのような いみですか。
-
-1. who (polite)
-2. counter for cups / glasses
-3. older sister (own)
-4. you
+1. literature
+2. first of all
+3. to collect
+4. to enter (Group 1 exception - looks like Group 2)
 
 **Answer: 2**
 
-#### Q80
+#### Q77
 
-問: 「こ」とは どのような いみですか。
+問: 「見える」とは どのような いみですか。
 
-1. who (polite)
-2. I, me
-3. counter for small objects
-4. older brother (own)
+1. Ah
+2. to be seen
+3. baby
+4. grapes
+
+**Answer: 2**
+
+#### Q78
+
+問: 「見つかる」とは どのような いみですか。
+
+1. to enter (Group 1 exception - looks like Group 2)
+2. bell
+3. Ah
+4. to be found
+
+**Answer: 4**
+
+### Passage 27 (Q79-Q81)
+
+> わたしの いえの ちかくに もうすぐ が あります。まいにち 無理 を します。たまに 無くなる に いきます。
+
+#### Q79
+
+問: 「もうすぐ」とは どのような いみですか。
+
+1. to enter (Group 1 exception - looks like Group 2)
+2. to gather
+3. soon
+4. suffix for familiar female person
 
 **Answer: 3**
+
+#### Q80
+
+問: 「無理」とは どのような いみですか。
+
+1. impossible
+2. Africa
+3. such
+4. Asia
+
+**Answer: 1**
 
 #### Q81
 
-問: 「かい」とは どのような いみですか。
+問: 「無くなる」とは どのような いみですか。
 
-1. floor of a building (e.g., 3-かい = 3rd floor)
-2. grandfather, elderly man
-3. older brother (polite)
-4. older brother (own)
+1. grapes
+2. peace of mind
+3. building
+4. to disappear
 
-**Answer: 1**
+**Answer: 4**
 
 ### Passage 28 (Q82-Q84)
 
-> わたしの いえの ちかくに ど が あります。まいにち とき を します。たまに 時間 に いきます。
+> わたしの いえの ちかくに 入学 が あります。まいにち 入学する を します。たまに 入院 に いきます。
 
 #### Q82
 
-問: 「ど」とは どのような いみですか。
+問: 「入学」とは どのような いみですか。
 
-1. degrees, occurrences
-2. grandmother (own)
-3. younger sister
-4. siblings
+1. to know (Group 1 exception - looks like Group 2)
+2. entry to school or university
+3. Asia
+4. to cut (Group 1 exception - looks like Group 2
 
-**Answer: 1**
+**Answer: 2**
 
 #### Q83
 
-問: 「とき」とは どのような いみですか。
+問: 「入学する」とは どのような いみですか。
 
-1. father (own)
-2. who (polite)
-3. time, when
-4. I, me
+1. peace of mind
+2. to entry to school or university
+3. building
+4. to be surprised
 
-**Answer: 3**
+**Answer: 2**
 
 #### Q84
 
-問: 「時間」とは どのような いみですか。
+問: 「入院」とは どのような いみですか。
 
-1. time, hour
-2. siblings
-3. we
-4. person
+1. part-time job
+2. baby
+3. building
+4. hospitalization
 
-**Answer: 1**
+**Answer: 4**
 
 ### Passage 29 (Q85-Q87)
 
-> わたしの いえの ちかくに 今日 が あります。まいにち あした を します。たまに きのう に いきます。
+> わたしの いえの ちかくに 行う が あります。まいにち 起こす を します。たまに 屋上 に いきます。
 
 #### Q85
 
-問: 「今日」とは どのような いみですか。
+問: 「行う」とは どのような いみですか。
 
-1. person
-2. today
-3. parents
-4. I, me
+1. literature
+2. to perform
+3. accessory
+4. Ah
 
 **Answer: 2**
 
 #### Q86
 
-問: 「あした」とは どのような いみですか。
+問: 「起こす」とは どのような いみですか。
 
-1. person
-2. I, me
-3. he, him (boyfriend - more advanced sense)
-4. tomorrow
+1. to gather
+2. to wake
+3. to know (Group 1 exception - looks like Group 2)
+4. America
 
-**Answer: 4**
+**Answer: 2**
 
 #### Q87
 
-問: 「きのう」とは どのような いみですか。
+問: 「屋上」とは どのような いみですか。
 
-1. older brother (own)
-2. older brother (polite)
-3. grandfather (own)
-4. yesterday
+1. to check
+2. rooftop
+3. to need (Group 1 exception - looks like Group 2
+4. accessory
 
-**Answer: 4**
+**Answer: 2**
 
 ### Passage 30 (Q88-Q90)
 
-> わたしの いえの ちかくに あさ が あります。まいにち ひる を します。たまに ゆうがた に いきます。
+> わたしの いえの ちかくに 思い出す が あります。まいにち オートバイ を します。たまに 下りる に いきます。
 
 #### Q88
 
-問: 「あさ」とは どのような いみですか。
+問: 「思い出す」とは どのような いみですか。
 
-1. you
-2. everyone (polite)
-3. morning
-4. grandfather, elderly man
+1. to remember
+2. to enter (Group 1 exception - looks like Group 2)
+3. ah
+4. baby
 
-**Answer: 3**
+**Answer: 1**
 
 #### Q89
 
-問: 「ひる」とは どのような いみですか。
+問: 「オートバイ」とは どのような いみですか。
 
-1. grandfather (own)
-2. person (polite)
-3. noon, daytime
-4. father (own)
+1. motorcycle
+2. bell
+3. Asia
+4. accessory
 
-**Answer: 3**
+**Answer: 1**
 
 #### Q90
 
-問: 「ゆうがた」とは どのような いみですか。
+問: 「下りる」とは どのような いみですか。
 
-1. evening
-2. we
-3. person (polite)
-4. aunt, middle-aged woman
-
-**Answer: 1**
-
-### Passage 20 (Q91)
-
-> いくつは とても how many, how oldです。
-
-#### Q91
-
-問: 「いくつ」の いみは どれですか。
-
-1. person
-2. who
-3. oneself
-4. how many, how old
+1. to check
+2. ah
+3. to enter (Group 1 exception - looks like Group 2)
+4. to get off
 
 **Answer: 4**
 
+### Passage 20 (Q91)
+
+> 代わりは とても instead; in placeです。
+
+#### Q91
+
+問: 「代わり」の いみは どれですか。
+
+1. instead
+2. accessory
+3. Ah
+4. part-time job
+
+**Answer: 1**
+
 ### Passage 21 (Q92)
 
-> 何時は とても what timeです。
+> 通うは とても to commuteです。
 
 #### Q92
 
-問: 「何時」の いみは どれですか。
+問: 「通う」の いみは どれですか。
 
-1. what time
-2. I, me
-3. person (polite)
-4. who (polite)
+1. part-time job
+2. to commute
+3. accessory
+4. to part-time job
 
-**Answer: 1**
+**Answer: 2**
 
 ## Mondai 7 - 情報検索 (Information Search)
 
 ### Passage 22 (Q93)
 
-> 何曜日は とても what day of the weekです。
+> ケーキは とても cakeです。
 
 #### Q93
 
-問: 「何曜日」の いみは どれですか。
+問: 「ケーキ」の いみは どれですか。
 
-1. everyone (polite)
-2. who (polite)
-3. what day of the week
-4. oneself
-
-**Answer: 3**
-
-### Passage 23 (Q94)
-
-> 何月は とても what monthです。
-
-#### Q94
-
-問: 「何月」の いみは どれですか。
-
-1. person (polite)
-2. what month
-3. oneself
-4. family
-
-**Answer: 2**
-
-### Passage 24 (Q95)
-
-> 何日は とても what dayです。
-
-#### Q95
-
-問: 「何日」の いみは どれですか。
-
-1. person
-2. everyone (polite)
-3. who (polite)
-4. what day
-
-**Answer: 4**
-
-### Passage 25 (Q96)
-
-> なぜは とても whyです。
-
-#### Q96
-
-問: 「なぜ」の いみは どれですか。
-
-1. why
-2. person (polite)
-3. family
-4. father (someone else's / address form)
+1. cake
+2. announcer
+3. such
+4. Ah
 
 **Answer: 1**
 
-### Passage 26 (Q97)
+### Passage 23 (Q94)
 
-> どうしては とても whyです。
+> 計画は とても to planです。
 
-#### Q97
+#### Q94
 
-問: 「どうして」の いみは どれですか。
+問: 「計画」の いみは どれですか。
 
-1. older brother (own)
-2. oneself
-3. why
-4. father (own)
+1. to plan
+2. Africa
+3. to cut (Group 1 exception - looks like Group 2
+4. part-time job
+
+**Answer: 1**
+
+### Passage 24 (Q95)
+
+> 計画するは とても to planです。
+
+#### Q95
+
+問: 「計画する」の いみは どれですか。
+
+1. to plan
+2. America
+3. to rise
+4. to know (Group 1 exception - looks like Group 2)
+
+**Answer: 1**
+
+### Passage 25 (Q96)
+
+> 見物は とても sightseeing; visitです。
+
+#### Q96
+
+問: 「見物」の いみは どれですか。
+
+1. to know (Group 1 exception - looks like Group 2)
+2. ah
+3. sightseeing
+4. to cut (Group 1 exception - looks like Group 2
 
 **Answer: 3**
 
-### Passage 27 (Q98)
+### Passage 26 (Q97)
 
-> 何では とても why, by what meansです。
+> 見物するは とても to sightseeingです。
 
-#### Q98
+#### Q97
 
-問: 「何で」の いみは どれですか。
+問: 「見物する」の いみは どれですか。
 
-1. father (own)
-2. who
-3. younger brother
-4. why, by what means
+1. Asia
+2. America
+3. baby
+4. to sightseeing
 
 **Answer: 4**
 
+### Passage 27 (Q98)
+
+> 研究は とても researchです。
+
+#### Q98
+
+問: 「研究」の いみは どれですか。
+
+1. to part-time job
+2. to rise
+3. research
+4. baby
+
+**Answer: 3**
+
 ### Passage 28 (Q99)
 
-> 一は とても oneです。
+> 研究するは とても to researchです。
 
 #### Q99
 
-問: 「一」の いみは どれですか。
+問: 「研究する」の いみは どれですか。
 
-1. one
-2. you
-3. who (polite)
-4. younger brother
+1. to research
+2. Ah
+3. such
+4. to cut (Group 1 exception - looks like Group 2
 
 **Answer: 1**
 
 ### Passage 29 (Q100)
 
-> 二は とても twoです。
+> 研究室は とても laboratoryです。
 
 #### Q100
 
-問: 「二」の いみは どれですか。
+問: 「研究室」の いみは どれですか。
 
-1. you
-2. two
-3. mother (own)
-4. mother (someone else's / address form)
-
-**Answer: 2**
-
-### Passage 30 (Q101)
-
-> 三は とても threeです。
-
-#### Q101
-
-問: 「三」の いみは どれですか。
-
-1. father (someone else's / address form)
-2. everyone (polite)
-3. younger sister
-4. three
+1. to know (Group 1 exception - looks like Group 2)
+2. to rise
+3. to return home (Group 1 exception - looks like Group 2)
+4. laboratory
 
 **Answer: 4**
 
+### Passage 30 (Q101)
+
+> 気は とても spiritです。
+
+#### Q101
+
+問: 「気」の いみは どれですか。
+
+1. spirit
+2. to enter (Group 1 exception - looks like Group 2)
+3. to rise
+4. to know (Group 1 exception - looks like Group 2)
+
+**Answer: 1**
+
 ### Passage 31 (Q102)
 
-> 四は とても fourです。
+> 気分は とても feeling; moodです。
 
 #### Q102
 
-問: 「四」の いみは どれですか。
+問: 「気分」の いみは どれですか。
 
-1. mother (own)
-2. younger brother
-3. four
-4. he, him (boyfriend - more advanced sense)
+1. to know (Group 1 exception - looks like Group 2)
+2. America
+3. feeling
+4. Africa
 
 **Answer: 3**
 

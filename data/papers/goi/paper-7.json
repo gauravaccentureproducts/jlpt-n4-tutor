@@ -4,147 +4,147 @@
   "paperNumber": 7,
   "name": "Goi Paper 7",
   "source_file": "KnowledgeBank/goi_questions_n4.md",
-  "source_question_range": "Q91-Q100",
+  "source_question_range": "Q93-Q102",
   "questionCount": 10,
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "「いくら」と もっとも ちかい いみは どれですか。",
+      "stem_html": "「考える」と もっとも ちかい いみは どれですか。",
       "choices": [
-        "how much (price)",
-        "what",
-        "what day",
-        "why, by what means"
+        "to live",
+        "to think",
+        "to produce",
+        "to collect"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "rationale": "",
-      "kbSourceId": "Q91",
+      "kbSourceId": "Q93",
       "id": "goi-7.1"
     },
     {
       "type": "mcq",
-      "stem_html": "「いくつ」と もっとも ちかい いみは どれですか。",
+      "stem_html": "「代わり」と もっとも ちかい いみは どれですか。",
       "choices": [
-        "what month",
-        "what",
-        "what day of the week",
-        "how many, how old"
+        "instead",
+        "university student",
+        "junior high school",
+        "your husband"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "rationale": "",
-      "kbSourceId": "Q92",
+      "kbSourceId": "Q94",
       "id": "goi-7.2"
     },
     {
       "type": "mcq",
-      "stem_html": "「何時」と もっとも ちかい いみは どれですか。",
+      "stem_html": "「通う」と もっとも ちかい いみは どれですか。",
       "choices": [
-        "what time",
-        "what month",
-        "who (polite)",
-        "why, by what means"
+        "to return home (Group 1 exception - looks like Group 2)",
+        "to cut (Group 1 exception - looks like Group 2",
+        "to commute",
+        "to know (Group 1 exception - looks like Group 2)"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "rationale": "",
-      "kbSourceId": "Q93",
+      "kbSourceId": "Q95",
       "id": "goi-7.3"
     },
     {
       "type": "mcq",
-      "stem_html": "「何曜日」と もっとも ちかい いみは どれですか。",
+      "stem_html": "「ケーキ」と もっとも ちかい いみは どれですか。",
       "choices": [
-        "what month",
-        "why, by what means",
-        "what day of the week",
-        "when"
+        "bell",
+        "cake",
+        "university student",
+        "building"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "rationale": "",
-      "kbSourceId": "Q94",
+      "kbSourceId": "Q96",
       "id": "goi-7.4"
     },
     {
       "type": "mcq",
-      "stem_html": "「何月」と もっとも ちかい いみは どれですか。",
+      "stem_html": "「計画」と もっとも ちかい いみは どれですか。",
       "choices": [
-        "what month",
-        "why",
-        "what time",
-        "why, by what means"
-      ],
-      "correctIndex": 0,
-      "rationale": "",
-      "kbSourceId": "Q95",
-      "id": "goi-7.5"
-    },
-    {
-      "type": "mcq",
-      "stem_html": "「何日」と もっとも ちかい いみは どれですか。",
-      "choices": [
-        "what time",
-        "who",
-        "who (polite)",
-        "what day"
-      ],
-      "correctIndex": 3,
-      "rationale": "",
-      "kbSourceId": "Q96",
-      "id": "goi-7.6"
-    },
-    {
-      "type": "mcq",
-      "stem_html": "「なぜ」と もっとも ちかい いみは どれですか。",
-      "choices": [
-        "who",
-        "what",
-        "why",
-        "when"
+        "university student",
+        "gasoline",
+        "to plan",
+        "Africa"
       ],
       "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q97",
+      "id": "goi-7.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「計画する」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "to part-time job",
+        "to plan",
+        "to sightseeing",
+        "to cherry blossom viewing"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q98",
+      "id": "goi-7.6"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「見物」と もっとも ちかい いみは どれですか。",
+      "choices": [
+        "petrol station",
+        "petrol",
+        "sightseeing",
+        "a glass"
+      ],
+      "correctIndex": 2,
+      "rationale": "",
+      "kbSourceId": "Q99",
       "id": "goi-7.7"
     },
     {
       "type": "mcq",
-      "stem_html": "「どうして」と もっとも ちかい いみは どれですか。",
+      "stem_html": "「見物する」と もっとも ちかい いみは どれですか。",
       "choices": [
-        "why",
-        "who (polite)",
-        "how many, how old",
-        "who"
+        "to sightseeing",
+        "to plan",
+        "to part-time job",
+        "to hospitalization"
       ],
       "correctIndex": 0,
       "rationale": "",
-      "kbSourceId": "Q98",
+      "kbSourceId": "Q100",
       "id": "goi-7.8"
     },
     {
       "type": "mcq",
-      "stem_html": "「何で」と もっとも ちかい いみは どれですか。",
+      "stem_html": "「研究」と もっとも ちかい いみは どれですか。",
       "choices": [
-        "why, by what means",
-        "who (polite)",
-        "how many, how old",
-        "what time"
+        "Asia",
+        "research",
+        "accessory",
+        "fax"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "rationale": "",
-      "kbSourceId": "Q99",
+      "kbSourceId": "Q101",
       "id": "goi-7.9"
     },
     {
       "type": "mcq",
-      "stem_html": "「一」と もっとも ちかい いみは どれですか。",
+      "stem_html": "「研究する」と もっとも ちかい いみは どれですか。",
       "choices": [
-        "eight",
-        "six",
-        "one",
-        "twenty"
+        "to examination",
+        "to fax",
+        "to research",
+        "to sightseeing"
       ],
       "correctIndex": 2,
       "rationale": "",
-      "kbSourceId": "Q100",
+      "kbSourceId": "Q102",
       "id": "goi-7.10"
     }
   ]

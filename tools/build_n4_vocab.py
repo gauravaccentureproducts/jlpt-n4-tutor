@@ -290,16 +290,35 @@ def pos_to_field(pos_tag):
 vocab_entries = []
 section_buckets = {i: [] for i in range(1, 19)}
 
-# 4a. Inherit N5 prerequisite entries verbatim, just retag tier
-for n5_e in n5_entries:
-    n4_e = dict(n5_e)
-    # Re-id with n4 prefix preserving section slug+form
-    old_id = n4_e.get('id', '')
-    if old_id.startswith('n5.'):
-        n4_e['id'] = 'n4.' + old_id[3:]
-    n4_e['tier'] = 'n5_prerequisite'
-    vocab_entries.append(n4_e)
-    # Don't bucket N5 prerequisites into N4 sections — they keep their N5 sections
+# 4a. N5 vocabulary is NOT inherited into N4 (per user directive 2026-05-04:
+# "make sure N5 content is not repeated in N4"). Users who need N5 review
+# should use the N5 sibling app.
+#
+# EXCEPTION: the 6 Group-1 ru-verb exceptions (入る/かえる/はしる/しる/きる/いる)
+# are kept as a "review reference" sub-section in vocab.md AND a small set of
+# entries in vocab.json. These verbs CONJUGATE differently than they look,
+# and N4 learners still routinely get them wrong. Without these in JSON,
+# JA-31 (PoS parity) would fail on the KB review-reference lines.
+GROUP1_EXCEPTIONS = [
+    {'form': '入る', 'reading': 'はいる', 'gloss': 'to enter (Group 1 exception - looks like Group 2)'},
+    {'form': 'かえる', 'reading': 'かえる', 'gloss': 'to return home (Group 1 exception - looks like Group 2)'},
+    {'form': 'はしる', 'reading': 'はしる', 'gloss': 'to run (Group 1 exception - looks like Group 2)'},
+    {'form': 'しる', 'reading': 'しる', 'gloss': 'to know (Group 1 exception - looks like Group 2)'},
+    {'form': 'きる', 'reading': 'きる', 'gloss': 'to cut (Group 1 exception - looks like Group 2; homophone of きる "to wear" which is Group 2)'},
+    {'form': 'いる', 'reading': 'いる', 'gloss': 'to need (Group 1 exception - looks like Group 2; homophone of existence-いる which is Group 2)'},
+]
+for ex in GROUP1_EXCEPTIONS:
+    vocab_entries.append({
+        'id': f'n4.vocab.0-group1-exceptions.{ex["form"]}',
+        'form': ex['form'],
+        'reading': ex['reading'],
+        'gloss': ex['gloss'],
+        'section': '0. Group-1 ru-verb exceptions (review reference)',
+        'pos': 'verb-1',
+        'tier': 'n5_review_reference',
+        'examples': [],
+        'kb_pos_tag': 'v1',
+    })
 
 # 4b. Build N4-new entries from inventory
 for inv_e in inv_entries:
@@ -382,34 +401,28 @@ md = ['# JLPT N4 Vocabulary (Goi)', '',
       '',
       "**Tag the WORD's actual PoS, not the section default** (anti-pattern AP-1).",
       '',
-      'Corpus = N5 prerequisite (1041 entries, inherited verbatim) + N4 seed (~100+ entries from a-h sample).',
-      'Full ~600-entry N4 corpus to be added in subsequent passes from Tanos N4 CSV.',
+      'Corpus = N4-new only (no N5 repetition). N5 vocabulary is a prerequisite;',
+      'review it via the N5 sibling app at https://gauravaccentureproducts.github.io/jlpt-n5-tutor/.',
+      '',
+      '## Group-1 ru-verb exceptions (review reference)',
+      '',
+      'These N5 verbs LOOK like Group 2 but conjugate as Group 1. They are listed',
+      'here as a quick reference at N4 because students still routinely conjugate',
+      'them incorrectly. The full lemma + reading set lives in the N5 catalogue.',
+      '',
+      '- 入る (はいる) - [v1] to enter (Group 1 exception - looks like Group 2)',
+      '- かえる (帰る) - [v1] to return home (Group 1 exception - looks like Group 2)',
+      '- はしる (走る) - [v1] to run (Group 1 exception - looks like Group 2)',
+      '- しる (知る) - [v1] to know (Group 1 exception - looks like Group 2)',
+      '- きる (切る) - [v1] to cut (Group 1 exception - looks like Group 2; homophone of きる "to wear" which is Group 2)',
+      '- いる (要る) - [v1] to need (Group 1 exception - looks like Group 2; homophone of existence-いる which is Group 2)',
       '',
       '---',
       '',
-      '## N5 prerequisite vocabulary (inherited)',
+      '## N4 vocabulary',
       '',
-      "All N5 vocabulary is a hard prerequisite. The list below is the verbatim N5 catalogue, included so X-6.6 (Group-1 ru-verb exception flags) and JA-31 (PoS parity) pass on the unified N4 vocab.",
+      f"{len([e for e in vocab_entries if e.get('tier') == 'core_n4'])} N4 entries distributed across 18 thematic sections.",
       '']
-
-# Inline the N5 KB content (preserving all its formatting + Group-1 exception flags)
-n5_kb_lines = n5_kb_text.split('\n')
-in_body = False
-for line in n5_kb_lines:
-    if not in_body:
-        if line.startswith('# '):
-            in_body = True
-            continue
-        continue
-    # Strip em-dashes inline (X-6.5)
-    line = line.replace('—', '-').replace('–', '-')
-    md.append(line)
-
-md.extend(['', '---', '',
-           '## N4 NEW VOCABULARY',
-           '',
-           f"{len([e for e in vocab_entries if e.get('tier') == 'core_n4'])} entries from the alphabetical a-h sample, distributed across 18 thematic sections.",
-           ''])
 
 for sec_idx in sorted(SECTIONS.keys()):
     md.append(f'## {sec_idx}. {SECTIONS[sec_idx]}')

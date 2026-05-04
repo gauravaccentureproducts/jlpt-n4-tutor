@@ -11,10 +11,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "分",
-        "大事",
-        "読む",
-        "写す"
+        "注意する",
+        "下げる",
+        "屋上",
+        "今度"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -25,10 +25,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "空く",
-        "買う",
-        "八つ",
-        "分"
+        "店員",
+        "生き物",
+        "人口",
+        "通る"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -39,12 +39,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "動く",
-        "飲む",
-        "九日",
-        "工場"
+        "通う",
+        "今度",
+        "生じる",
+        "工業"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q63",
       "id": "moji-5.3"
@@ -53,12 +53,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "花",
-        "会社",
-        "女",
-        "言う"
+        "工業",
+        "世界",
+        "人口",
+        "小学校"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q64",
       "id": "moji-5.4"
@@ -67,12 +67,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "三日",
-        "昼間",
-        "電話する",
-        "私たち"
+        "知らせる",
+        "入院する",
+        "生きる",
+        "下げる"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q65",
       "id": "moji-5.5"
@@ -81,10 +81,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "色んな",
-        "三月",
-        "医学",
-        "電話"
+        "無理",
+        "特に",
+        "ご主人",
+        "集める"
       ],
       "correctIndex": 1,
       "rationale": "",
@@ -95,10 +95,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "会社員",
-        "気持ち",
-        "分",
-        "九月"
+        "品物",
+        "小鳥",
+        "意見",
+        "楽しみ"
       ],
       "correctIndex": 3,
       "rationale": "",
@@ -109,12 +109,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "止める",
-        "急行する",
-        "知らせる",
-        "計画する"
+        "以下",
+        "屋上",
+        "高校生",
+        "運転手"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q68",
       "id": "moji-5.8"
@@ -123,10 +123,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "お店",
-        "川",
-        "会社",
-        "一日"
+        "見物",
+        "意見する",
+        "下りる",
+        "急行"
       ],
       "correctIndex": 2,
       "rationale": "",
@@ -137,12 +137,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "六月",
-        "空気",
-        "大学生",
-        "天ぷら"
+        "新聞社",
+        "発音",
+        "字",
+        "地理"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "rationale": "",
       "kbSourceId": "Q70",
       "id": "moji-5.10"
@@ -151,12 +151,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "今月",
-        "高校生",
-        "考える",
-        "四月"
+        "気",
+        "大分",
+        "地理",
+        "入院"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q71",
       "id": "moji-5.11"
@@ -165,12 +165,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "急",
-        "人口",
-        "今月",
-        "十分"
+        "下げる",
+        "知らせる",
+        "生き物",
+        "注意する"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q72",
       "id": "moji-5.12"
@@ -179,12 +179,12 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "発音する",
-        "二十日",
-        "中国語",
-        "私たち"
+        "以下",
+        "考える",
+        "工業",
+        "写す"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q73",
       "id": "moji-5.13"
@@ -193,10 +193,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "六月",
-        "女",
-        "急ぐ",
-        "外国"
+        "生物",
+        "会場",
+        "大事",
+        "試験"
       ],
       "correctIndex": 0,
       "rationale": "",
@@ -207,10 +207,10 @@
       "type": "mcq",
       "stem_html": "",
       "choices": [
-        "行く",
-        "計画",
-        "力",
-        "五日"
+        "高校生",
+        "西洋",
+        "火事",
+        "用事"
       ],
       "correctIndex": 2,
       "rationale": "",

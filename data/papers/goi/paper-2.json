@@ -4,217 +4,217 @@
   "paperNumber": 2,
   "name": "Goi Paper 2",
   "source_file": "KnowledgeBank/goi_questions_n4.md",
-  "source_question_range": "Q16-Q30",
+  "source_question_range": "Q17-Q31",
   "questionCount": 15,
   "questions": [
     {
       "type": "mcq",
-      "stem_html": "「お母さん」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「あんな」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "grandfather (own)",
-        "mother (someone else's / address form)",
-        "older sister (polite)",
-        "grandfather, elderly man"
+        "(option-4)",
+        "such",
+        "various",
+        "that sort of"
       ],
       "correctIndex": 1,
       "rationale": "",
-      "kbSourceId": "Q16",
+      "kbSourceId": "Q17",
       "id": "goi-2.1"
     },
     {
       "type": "mcq",
-      "stem_html": "「あに」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「安心」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "older brother (own)",
-        "parents",
-        "student",
-        "pupil, schoolchild"
+        "sudden",
+        "important",
+        "looking forward to",
+        "peace of mind"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
-      "kbSourceId": "Q17",
+      "kbSourceId": "Q18",
       "id": "goi-2.2"
     },
     {
       "type": "mcq",
-      "stem_html": "「あね」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「アルバイト」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "friend",
-        "older sister (own)",
-        "family",
-        "boy"
+        "your husband",
+        "part-time job",
+        "junior high school",
+        "accessory"
       ],
       "correctIndex": 1,
       "rationale": "",
-      "kbSourceId": "Q18",
+      "kbSourceId": "Q19",
       "id": "goi-2.3"
     },
     {
       "type": "mcq",
-      "stem_html": "「おとうと」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「アルバイトする」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "younger brother",
-        "child (often written こども in everyday text)",
-        "younger sister",
-        "uncle, middle-aged man"
+        "to part-time job",
+        "to research",
+        "to examination",
+        "to hurrying"
       ],
       "correctIndex": 0,
       "rationale": "",
-      "kbSourceId": "Q19",
+      "kbSourceId": "Q20",
       "id": "goi-2.4"
     },
     {
       "type": "mcq",
-      "stem_html": "「いもうと」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「アルコール」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "woman",
-        "friend",
-        "everyone (polite)",
-        "younger sister"
-      ],
-      "correctIndex": 3,
-      "rationale": "",
-      "kbSourceId": "Q20",
-      "id": "goi-2.5"
-    },
-    {
-      "type": "mcq",
-      "stem_html": "「おにいさん」と おなじ いみの ことばを えらんでください。",
-      "choices": [
-        "older brother (polite)",
-        "father (someone else's / address form)",
-        "father (own)",
-        "older brother (own)"
+        "alcohol",
+        "university student",
+        "caution",
+        "building"
       ],
       "correctIndex": 0,
       "rationale": "",
       "kbSourceId": "Q21",
+      "id": "goi-2.5"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「集まる」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "to gather",
+        "to return home (Group 1 exception - looks like Group 2)",
+        "to hurry",
+        "to carry"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q22",
       "id": "goi-2.6"
     },
     {
       "type": "mcq",
-      "stem_html": "「おねえさん」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「集める」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "older brother (polite)",
-        "older sister (polite)",
-        "grandmother (own)",
-        "woman"
-      ],
-      "correctIndex": 1,
-      "rationale": "",
-      "kbSourceId": "Q22",
-      "id": "goi-2.7"
-    },
-    {
-      "type": "mcq",
-      "stem_html": "「きょうだい」と おなじ いみの ことばを えらんでください。",
-      "choices": [
-        "aunt, middle-aged woman",
-        "older sister (polite)",
-        "siblings",
-        "older brother (polite)"
+        "to stop something",
+        "to produce",
+        "to collect",
+        "to notify"
       ],
       "correctIndex": 2,
       "rationale": "",
       "kbSourceId": "Q23",
+      "id": "goi-2.7"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「ベル」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "bell",
+        "baby",
+        "junior high school",
+        "announcer"
+      ],
+      "correctIndex": 0,
+      "rationale": "",
+      "kbSourceId": "Q24",
       "id": "goi-2.8"
     },
     {
       "type": "mcq",
-      "stem_html": "「りょうしん」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「びっくり」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "grandmother, elderly woman",
-        "grandfather, elderly man",
-        "parents",
-        "person"
+        "to be surprised",
+        "soon",
+        "ah",
+        "now I understand"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "rationale": "",
-      "kbSourceId": "Q24",
+      "kbSourceId": "Q25",
       "id": "goi-2.9"
     },
     {
       "type": "mcq",
-      "stem_html": "「そふ」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「ビル」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "mother (own)",
-        "younger brother",
-        "grandfather (own)",
-        "person (polite)"
+        "petrol",
+        "literature",
+        "building",
+        "roughly"
       ],
       "correctIndex": 2,
       "rationale": "",
-      "kbSourceId": "Q25",
+      "kbSourceId": "Q26",
       "id": "goi-2.10"
     },
     {
       "type": "mcq",
-      "stem_html": "「そぼ」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「ぶどう」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "grandmother (own)",
-        "everyone (polite)",
-        "grandfather (own)",
-        "person"
+        "petrol",
+        "escalator",
+        "accessory",
+        "grapes"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "rationale": "",
-      "kbSourceId": "Q26",
+      "kbSourceId": "Q27",
       "id": "goi-2.11"
     },
     {
       "type": "mcq",
-      "stem_html": "「おじいさん」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「文学」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "grandmother (own)",
-        "student",
-        "grandfather, elderly man",
-        "man"
+        "to check",
+        "cherry blossom viewing",
+        "literature",
+        "university student"
       ],
       "correctIndex": 2,
       "rationale": "",
-      "kbSourceId": "Q27",
+      "kbSourceId": "Q28",
       "id": "goi-2.12"
     },
     {
       "type": "mcq",
-      "stem_html": "「おばあさん」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「ちゃん」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "father (own)",
-        "grandmother, elderly woman",
-        "family",
-        "older sister (polite)"
+        "escalator",
+        "suffix for familiar female person",
+        "announcer",
+        "baby"
       ],
       "correctIndex": 1,
       "rationale": "",
-      "kbSourceId": "Q28",
+      "kbSourceId": "Q29",
       "id": "goi-2.13"
     },
     {
       "type": "mcq",
-      "stem_html": "「おじさん」と おなじ いみの ことばを えらんでください。",
+      "stem_html": "「チェック」と おなじ いみの ことばを えらんでください。",
       "choices": [
-        "father (someone else's / address form)",
-        "adult",
-        "person",
-        "uncle, middle-aged man"
-      ],
-      "correctIndex": 3,
-      "rationale": "",
-      "kbSourceId": "Q29",
-      "id": "goi-2.14"
-    },
-    {
-      "type": "mcq",
-      "stem_html": "「おばさん」と おなじ いみの ことばを えらんでください。",
-      "choices": [
-        "mother (own)",
-        "older brother (polite)",
-        "grandfather (own)",
-        "aunt, middle-aged woman"
+        "Asia",
+        "flavor",
+        "petrol station",
+        "to check"
       ],
       "correctIndex": 3,
       "rationale": "",
       "kbSourceId": "Q30",
+      "id": "goi-2.14"
+    },
+    {
+      "type": "mcq",
+      "stem_html": "「チェックする」と おなじ いみの ことばを えらんでください。",
+      "choices": [
+        "to fax",
+        "to check",
+        "to research",
+        "to cherry blossom viewing"
+      ],
+      "correctIndex": 1,
+      "rationale": "",
+      "kbSourceId": "Q31",
       "id": "goi-2.15"
     }
   ]
